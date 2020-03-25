@@ -6,7 +6,6 @@ pip-selfcheck.json
 .idea
 
 # Environments
-ds-dev
 .env
 .venv
 env/
