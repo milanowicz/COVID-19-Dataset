@@ -7,26 +7,30 @@ import pandas as pd
 import shutil
 import zipfile
 
+print('\nDownload COVID-19 dataset from Robert-Koch-Institut')
 csv_url = 'https://raw.githubusercontent.com/Milanowicz/COVID-19-RKI/master/csv/rki_data.csv'
 csv = 'data/rki/time_series_confirmed_and_death.csv'
 urllib.request.urlretrieve(csv_url, csv)
-print('Create file ' + csv)
+print('Create file ' + csv + '\n')
 
+print('Download COVID-19 daily dataset from The COVID Tracking Project')
 csv_url = 'https://covidtracking.com/api/us/daily.csv'
 csv = 'data/us/time_series_us_daily.csv'
 urllib.request.urlretrieve(csv_url, csv)
-print('Create file ' + csv)
+print('Create file ' + csv + '\n')
 
+print('Download COVID-19 states daily dataset from The COVID Tracking Project')
 csv_url = 'http://covidtracking.com/api/states/daily.csv'
 csv = 'data/us/time_series_states_daily.csv'
 urllib.request.urlretrieve(csv_url, csv)
-print('Create file ' + csv)
+print('Create file ' + csv + '\n')
 
 # csv_url = 'https://raw.githubusercontent.com/beoutbreakprepared/nCoV2019/master/latest_data/latestdata.csv'
 # csv = 'data/COVID19_2020_open_line_list.csv'
 # urllib.request.urlretrieve(csv_url, csv)
 # print('Create file ' + csv)
 
+print('Download COVID-19 Dataset from Johns Hopkins University (JHU)')
 csv_url = 'https://github.com/CSSEGISandData/COVID-19/archive/master.zip'
 zip = 'data/jhu/data.zip'
 urllib.request.urlretrieve(csv_url, zip)
@@ -46,6 +50,7 @@ columns = [
 df_1 = pd.DataFrame(columns=columns[0].split(','))
 df_2 = pd.DataFrame(columns=columns[1].split(','))
 df_3 = pd.DataFrame(columns=columns[2].split(','))
+print('Parse CSV files from JHU into a Pandas DataFrame')
 for dirname, _, filenames in os.walk('data/jhu/data/COVID-19-master/csse_covid_19_data/csse_covid_19_daily_reports'):
     for filename in filenames:
         if filename != '.gitignore' and filename != 'README.md':
@@ -137,6 +142,6 @@ df['Province_State'].fillna('', inplace=True)
 df['Combined_Key'].fillna('', inplace=True)
 csv = 'data/jhu/time_series_confirmed_deaths_recovered.csv'
 df.to_csv(csv)
-print('Create file ' + csv)
+print('Create file ' + csv + '\n')
 
 shutil.rmtree('data/jhu/data')

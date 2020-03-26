@@ -1,10 +1,10 @@
 # COVID-19 Dataset
 
-* case numbers Germany from Robert-Koch-Institut from Germany
+* case numbers Germany from Robert Koch-Institut (RKI) from Germany
 
 [COVID-19-RKI](https://github.com/Milanowicz/COVID-19-RKI)
 
-* case numbers from Johns Hopkins University for World
+* case numbers from Johns Hopkins University (JHU) for World
 
 [COVID-19-JHU](https://github.com/CSSEGISandData/COVID-19)
 
