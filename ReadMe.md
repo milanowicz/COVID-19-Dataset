@@ -21,6 +21,6 @@ Create environment and install Python libs for a GNU/Linux operation system:
     $ pip3 install pandas urllib shutil zipfile
    
 
-## Download datasets
+## Update Dataset
 
     $ python get_data.py
