@@ -2,29 +2,29 @@
 
 ## Case numbers Germany from Robert Koch-Institut (RKI) from Germany
 
-Descriptopn of coloumns:
+Description of columns:
 
-* Bundesland - Germany province state
-* date
-* confirmed
-* deaths
+* State - Bundesland
+* Update
+* Confirmed
+* Deaths
 
 [COVID-19-RKI](https://github.com/Milanowicz/COVID-19-RKI)
 
 
 ## Case numbers from Johns Hopkins University (JHU) for World
 
-* Combined_Key - from City and so on set by JHU
+Description of columns:
+
 * City - Since 2X.march city is given
-* Province_State
-* Country_Region
-* Last_Update
+* State
+* Country
+* Update
 * Latitude
 * Longitude
 * Confirmed
 * Deaths
 * Recovered
-* Active
 
 [COVID-19-JHU](https://github.com/CSSEGISandData/COVID-19)
 
