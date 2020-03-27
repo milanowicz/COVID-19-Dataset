@@ -62,7 +62,9 @@ Population CSV files
 The dataset contains population data of different countries/regions from 1960 to 2018.
 There are condensed and region-wise data in the population dataset.
 
-https://data.worldbank.org/indicator/SP.POP.TOTL
+Origin: https://data.worldbank.org/indicator/SP.POP.TOTL
+
+[Kaggle Competion](https://www.kaggle.com/imdevskp/world-population-19602018)
 
 
 ## Install Python environment
