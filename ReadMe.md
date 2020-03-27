@@ -55,6 +55,16 @@ Future use to analyze it.....
 [The COVID Tracking Project](https://covidtracking.com/api/)
 
 
+## Common data description
+
+Population CSV files
+
+The dataset contains population data of different countries/regions from 1960 to 2018.
+There are condensed and region-wise data in the population dataset.
+
+https://data.worldbank.org/indicator/SP.POP.TOTL
+
+
 ## Install Python environment
 
 Create environment and install Python libs for a GNU/Linux operation system:
