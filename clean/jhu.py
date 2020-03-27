@@ -4,7 +4,7 @@ import pandas as pd
 
 class jhu:
     @staticmethod
-    def get_data():
+    def clean_data():
         # Collecting data from Johns Hopkins University and create a big data frame
         # CSV files have different columns, this is the task here
         df_data = pd.DataFrame()
@@ -67,7 +67,7 @@ class jhu:
         df_1['Confirmed'].fillna(0, inplace=True)
         df_1['Deaths'].fillna(0, inplace=True)
         df_1['Recovered'].fillna(0, inplace=True)
-        df_1['Province'] = df_1['Province/State']
+        df_1['State'] = df_1['Province/State']
         del df_1['Province/State']
         df_1['Country'] = df_1['Country/Region']
         del df_1['Country/Region']
@@ -90,6 +90,10 @@ class jhu:
         df_3['Latitude'] = df_3['Lat']
         del df_3['Lat']
         df_3['Longitude'] = df_3['Long_']
+        df_3['Country'] = df_3['Country_Region']
+        del df_3['Country_Region']
+        df_3['State'] = df_3['Province_State']
+        del df_3['Province_State']
         df_3['Update'] = df_3['Last_Update']
         del df_3['Last_Update']
         del df_3['Long_']
@@ -100,8 +104,7 @@ class jhu:
         del df_3['Active']
 
         # Merge Dataframes into one Big to write it to a CSV file
-        columns = ['City', 'State', 'Country', 'Update', 'Latitude', 'Longitude',
-                   'Confirmed', 'Deaths', 'Recovered']
+        columns = ['City', 'State', 'Country', 'Update', 'Latitude', 'Longitude', 'Confirmed', 'Deaths', 'Recovered']
         frames = [df_1, df_2, df_3]
         df = pd.DataFrame(pd.concat(frames), columns=columns)
         df.reset_index(inplace=True, drop=True)

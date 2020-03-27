@@ -38,6 +38,6 @@ with zipfile.ZipFile(zip, 'r') as zip_ref:
     zip_ref.extractall('data/jhu/data')
 os.remove(zip)
 
-jhu.get_data()
+jhu.clean_data()
 
 shutil.rmtree('data/jhu/data')
