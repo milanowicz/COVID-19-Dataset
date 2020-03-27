@@ -29,7 +29,7 @@ Description of columns:
 
 <table>
 <tr>
-<th>City</th><th>State</th><th>Country</th><th>Update</th><th>Latitude</th><th>Longitude</th><th>Confirmed</th><th>Deaths</th><th>Recovered</th>
+<th>City</th><th>State</th><th>Country</th><th>Update</th><th>Latitude</th><th>Longitude</th><th>Confirmed</th><th>Deaths</th><th>Recovered</th><th>Active</th>
 </tr>
 <tr>
 <td>Name from City</td>
@@ -41,6 +41,7 @@ Description of columns:
 <td>Numbers of confirmed cases</td>
 <td>Numbers of deaths</td>
 <td>Numbers of recovered</td>
+<td>Active = Confirmed - Deaths - Recovered</td>
 </tr>
 </table>
 
@@ -59,7 +60,7 @@ Future use to analyze it.....
 Create environment and install Python libs for a GNU/Linux operation system:
 
     $ . env.sh
-    $ pip3 install pandas urllib shutil zipfile
+    $ pip3 install pandas urllib shutil wget
 
 
 ## Update Dataset
