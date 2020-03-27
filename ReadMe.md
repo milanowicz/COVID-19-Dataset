@@ -77,7 +77,13 @@ Create environment and install Python libs for a GNU/Linux operation system:
 
 ## Update Dataset
 
+Update data only
+
     $ . update.sh
+
+Update, commit and push data 
+
+    $ . aupdate.sh
 
 or manually
 
