@@ -27,6 +27,7 @@ Baden-Württemberg,2020-03-24,5348,30.0
 Baden-Württemberg,2020-03-25,6069,37.0
 Baden-Württemberg,2020-03-26,7283,56.0
 Baden-Württemberg,2020-03-27,8161,70.0
+Baden-Württemberg,2020-03-28,9781,101.0
 Bayern,2020-02-29,15,0.0
 Bayern,2020-03-01,23,0.0
 Bayern,2020-03-02,25,0.0
@@ -55,6 +56,7 @@ Bayern,2020-03-24,5754,30.0
 Bayern,2020-03-25,6558,37.0
 Bayern,2020-03-26,7993,47.0
 Bayern,2020-03-27,9481,55.0
+Bayern,2020-03-28,11150,77.0
 Berlin,2020-03-02,1,0.0
 Berlin,2020-03-03,3,0.0
 Berlin,2020-03-04,7,0.0
@@ -81,6 +83,7 @@ Berlin,2020-03-24,1220,1.0
 Berlin,2020-03-25,1428,2.0
 Berlin,2020-03-26,1656,4.0
 Berlin,2020-03-27,1955,8.0
+Berlin,2020-03-28,2161,8.0
 Brandenburg,2020-03-03,1,0.0
 Brandenburg,2020-03-04,1,0.0
 Brandenburg,2020-03-05,1,0.0
@@ -106,6 +109,7 @@ Brandenburg,2020-03-24,343,0.0
 Brandenburg,2020-03-25,429,1.0
 Brandenburg,2020-03-26,477,1.0
 Brandenburg,2020-03-27,537,1.0
+Brandenburg,2020-03-28,645,1.0
 Bremen,2020-03-01,1,0.0
 Bremen,2020-03-02,1,0.0
 Bremen,2020-03-03,2,0.0
@@ -133,6 +137,7 @@ Bremen,2020-03-24,183,0.0
 Bremen,2020-03-25,200,0.0
 Bremen,2020-03-26,211,1.0
 Bremen,2020-03-27,241,1.0
+Bremen,2020-03-28,260,2.0
 Hamburg,2020-03-01,1,0.0
 Hamburg,2020-03-02,1,0.0
 Hamburg,2020-03-03,2,0.0
@@ -160,6 +165,7 @@ Hamburg,2020-03-24,1043,0.0
 Hamburg,2020-03-25,1262,0.0
 Hamburg,2020-03-26,1265,0.0
 Hamburg,2020-03-27,1693,2.0
+Hamburg,2020-03-28,1765,2.0
 Hessen,2020-02-29,3,0.0
 Hessen,2020-03-01,8,0.0
 Hessen,2020-03-02,10,0.0
@@ -188,6 +194,7 @@ Hessen,2020-03-24,1620,4.0
 Hessen,2020-03-25,1754,4.0
 Hessen,2020-03-26,2157,6.0
 Hessen,2020-03-27,2323,7.0
+Hessen,2020-03-28,2604,9.0
 Mecklenburg-Vorpommern,2020-03-04,4,0.0
 Mecklenburg-Vorpommern,2020-03-05,4,0.0
 Mecklenburg-Vorpommern,2020-03-06,5,0.0
@@ -212,6 +219,7 @@ Mecklenburg-Vorpommern,2020-03-24,199,0.0
 Mecklenburg-Vorpommern,2020-03-25,218,0.0
 Mecklenburg-Vorpommern,2020-03-26,244,0.0
 Mecklenburg-Vorpommern,2020-03-27,259,0.0
+Mecklenburg-Vorpommern,2020-03-28,308,0.0
 Niedersachsen,2020-03-01,1,0.0
 Niedersachsen,2020-03-02,1,0.0
 Niedersachsen,2020-03-03,2,0.0
@@ -239,6 +247,7 @@ Niedersachsen,2020-03-24,1764,6.0
 Niedersachsen,2020-03-25,2140,7.0
 Niedersachsen,2020-03-26,2347,8.0
 Niedersachsen,2020-03-27,2810,10.0
+Niedersachsen,2020-03-28,3150,12.0
 Nordrhein-Westfalen,2020-02-29,30,0.0
 Nordrhein-Westfalen,2020-03-01,74,0.0
 Nordrhein-Westfalen,2020-03-02,86,0.0
@@ -267,6 +276,7 @@ Nordrhein-Westfalen,2020-03-24,6318,33.0
 Nordrhein-Westfalen,2020-03-25,7197,43.0
 Nordrhein-Westfalen,2020-03-26,7924,53.0
 Nordrhein-Westfalen,2020-03-27,9235,72.0
+Nordrhein-Westfalen,2020-03-28,10607,80.0
 Repatriierte,2020-02-29,2,0.0
 Repatriierte,2020-03-01,2,0.0
 Repatriierte,2020-03-02,2,0.0
@@ -298,6 +308,7 @@ Rheinland-Pfalz,2020-03-24,1370,5.0
 Rheinland-Pfalz,2020-03-25,1591,5.0
 Rheinland-Pfalz,2020-03-26,1816,6.0
 Rheinland-Pfalz,2020-03-27,1971,8.0
+Rheinland-Pfalz,2020-03-28,2212,11.0
 Saarland,2020-03-04,1,0.0
 Saarland,2020-03-05,1,0.0
 Saarland,2020-03-06,2,0.0
@@ -322,6 +333,7 @@ Saarland,2020-03-24,337,1.0
 Saarland,2020-03-25,403,2.0
 Saarland,2020-03-26,433,2.0
 Saarland,2020-03-27,505,2.0
+Saarland,2020-03-28,550,2.0
 Sachsen,2020-03-03,1,0.0
 Sachsen,2020-03-04,1,0.0
 Sachsen,2020-03-05,1,0.0
@@ -347,6 +359,7 @@ Sachsen,2020-03-24,811,1.0
 Sachsen,2020-03-25,959,6.0
 Sachsen,2020-03-26,1141,7.0
 Sachsen,2020-03-27,1305,7.0
+Sachsen,2020-03-28,1432,9.0
 Sachsen-Anhalt,2020-03-10,7,0.0
 Sachsen-Anhalt,2020-03-11,15,0.0
 Sachsen-Anhalt,2020-03-12,27,0.0
@@ -365,6 +378,7 @@ Sachsen-Anhalt,2020-03-24,321,0.0
 Sachsen-Anhalt,2020-03-25,375,1.0
 Sachsen-Anhalt,2020-03-26,418,1.0
 Sachsen-Anhalt,2020-03-27,458,2.0
+Sachsen-Anhalt,2020-03-28,458,2.0
 Schleswig-Holstein,2020-02-29,1,0.0
 Schleswig-Holstein,2020-03-01,2,0.0
 Schleswig-Holstein,2020-03-02,2,0.0
@@ -393,6 +407,7 @@ Schleswig-Holstein,2020-03-24,478,2.0
 Schleswig-Holstein,2020-03-25,577,3.0
 Schleswig-Holstein,2020-03-26,675,3.0
 Schleswig-Holstein,2020-03-27,812,4.0
+Schleswig-Holstein,2020-03-28,915,4.0
 Thüringen,2020-03-03,1,0.0
 Thüringen,2020-03-04,1,0.0
 Thüringen,2020-03-05,1,0.0
@@ -418,3 +433,4 @@ Thüringen,2020-03-24,327,1.0
 Thüringen,2020-03-25,394,1.0
 Thüringen,2020-03-26,468,3.0
 Thüringen,2020-03-27,542,4.0
+Thüringen,2020-03-28,584,5.0

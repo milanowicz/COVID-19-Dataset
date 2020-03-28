@@ -10,7 +10,7 @@ Description of columns:
 
 <table>
 <tr>
-<th>State</th><th>Update</th><th>Confirmed</th><th>Deaths</th>
+<th>State</th><th>Date</th><th>Confirmed</th><th>Deaths</th>
 </tr>
 <tr>
 <td>Name of federal state (German Bundesland)</td>
@@ -29,7 +29,7 @@ Description of columns:
 
 <table>
 <tr>
-<th>City</th><th>State</th><th>Country</th><th>Update</th><th>Latitude</th><th>Longitude</th><th>Confirmed</th><th>Deaths</th><th>Recovered</th><th>Active</th>
+<th>City</th><th>State</th><th>Country</th><th>Date</th><th>Latitude</th><th>Longitude</th><th>Confirmed</th><th>Deaths</th><th>Recovered</th><th>Active</th>
 </tr>
 <tr>
 <td>Name from City</td>
