@@ -11,6 +11,7 @@ class jhu:
             os.mkdir(path)
         except OSError:
             shutil.rmtree(path)
+            os.mkdir(path)
         urls = [
             'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',
             'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv',
@@ -43,6 +44,9 @@ class jhu:
 
         # replacing Mainland china with just China
         full_table['Country'] = full_table['Country'].replace('Mainland China', 'China')
+        # Clean case columns to zero when is na
+        cases = ['Confirmed', 'Deaths', 'Recovered']
+        full_table[cases] = full_table[cases].fillna(0)
         # Active Case = confirmed - deaths - recovered
         full_table['Active'] = full_table['Confirmed'] - full_table['Deaths'] - full_table['Recovered']
         # Fill all numbers with zeros
