@@ -43,6 +43,31 @@ class jhu:
         full_table = pd.merge(left=full_table, right=recv_df_long, how='left',
                               on=['Province/State', 'Country/Region', 'Date', 'Lat', 'Long'])
 
+        # Denmark Islands
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Faroe Islands', 'Faroe Islands (DK)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Greenland', 'Greenland (DK)', inplace=True)
+        # French Islands
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'French Guiana', 'French Guiana', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'French Polynesia', 'French Polynesia', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Guadeloupe', 'Guadeloupe (FR)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Mayotte', 'Mayotte (FR)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Reunion', 'Reunion (FR)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Martinique', 'Martinique (FR)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Saint Pierre and Miquelon', 'Saint Pierre and Miquelon (FR)', inplace=True)
+        # Netherlands Islands
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Aruba', 'Aruba (NL)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Curacao', 'Curacao (NL)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Sint Maarten', 'Sint Maarten (NL)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Bonaire, Sint Eustatius and Saba', 'Bonaire, Sint Eustatius and Saba (NL)', inplace=True)
+        # U.K. Islands
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Cayman Islands', 'Cayman Islands (UK)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Gibraltar', 'Gibraltar (UK)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Montserrat', 'Montserrat (UK)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Anguilla', 'Anguilla (UK)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Turks and Caicos Islands', 'Turks and Caicos Islands (UK)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'British Virgin Islands', 'British Virgin Islands (UK)', inplace=True)
+        full_table['Country/Region'].mask(full_table['Province/State'] == 'Falkland Islands (Malvinas)', 'Falkland Islands (Malvinas) (UK)', inplace=True)
+
         full_table[full_table['Recovered'].isna()]['Country/Region'].value_counts()
         full_table[full_table['Recovered'].isna()]['Date'].value_counts()
         full_table['Recovered'] = full_table['Recovered'].fillna(0)
@@ -62,11 +87,12 @@ class jhu:
         change_val('2/12/20', 'Province/State', 'Confirmed', feb_12_conf)
 
         # Rename columns
-        full_table['Country/Region'] = full_table['Country/Region'].replace('Korea, South', 'South Korea')
         full_table.rename(columns={'Country/Region': 'Country', 'Province/State': 'State'}, inplace=True)
         full_table.rename(columns={'Lat': 'Latitude', 'Long': 'Longitude'}, inplace=True)
 
-        # replacing Mainland china with just China
+        # Changing Korea, South to South Korea
+        full_table['Country'] = full_table['Country'].replace('Korea, South', 'South Korea')
+        # Replacing Mainland china with just China
         full_table['Country'] = full_table['Country'].replace('Mainland China', 'China')
         # Clean case columns to zero when is na
         cases = ['Confirmed', 'Deaths', 'Recovered']
