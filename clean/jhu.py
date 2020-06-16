@@ -179,7 +179,7 @@ class jhu:
         day_wise['Deaths / 100 Recovered'] = round((day_wise['Deaths'] / day_wise['Recovered']) * 100, 2)
 
         # no. of countries
-        day_wise['No. of countries'] = full_grouped[full_grouped['Confirmed'] != 0] \
+        day_wise['Country Number'] = full_grouped[full_grouped['Confirmed'] != 0] \
             .groupby('Date')['Country'] \
             .unique() \
             .apply(len) \
@@ -203,9 +203,8 @@ class jhu:
 
 
         # group by country
-        country_wise = country_wise.groupby('Country')['Confirmed', 'Deaths',
-                                                              'Recovered', 'Active',
-                                                              'New cases', 'New deaths', 'New recovered'].sum().reset_index()
+        country_wise = country_wise.groupby('Country')['Confirmed', 'Deaths', 'Recovered', 'Active', 'New cases',
+                                                       'New deaths', 'New recovered'].sum().reset_index()
 
         # per 100 cases
         country_wise['Deaths / 100 Cases'] = round((country_wise['Deaths'] / country_wise['Confirmed']) * 100, 2)

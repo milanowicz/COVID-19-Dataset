@@ -1,4 +1,4 @@
-Date,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovered,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,No. of countries
+Date,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovered,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,Country Number
 1/22/20,555,17,28,510,0,0,0,3.06,5.05,60.71,6
 1/23/20,654,18,30,606,99,1,2,2.75,4.59,60.0,8
 1/24/20,941,26,36,879,287,8,6,2.76,3.83,72.22,9
