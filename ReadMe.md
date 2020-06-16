@@ -76,6 +76,47 @@ Description of columns:
 </tr>
 </table>
 
+### Grouped by all Countries together
+
+    Data: data/jhu/time_series_covid19_grouped_by_countries.csv
+    
+    Columns:
+
+        Country
+        Confirmed
+        Deaths
+        Recovered
+        Active
+        New cases
+        New deaths
+        New recovered
+        Deaths / 100 Cases
+        Recovered / 100 Cases
+        Deaths / 100 Recovered
+        Confirmed last week
+        1 week change
+        1 week % increase
+        WHO Region
+
+### Grouped by all Days together
+
+    Data: data/jhu/time_series_covid19_grouped_by_days.csv
+
+    Columns:
+
+        Date
+        Confirmed
+        Deaths
+        Recovered
+        Active
+        New cases
+        New deaths
+        New recovered
+        Deaths / 100 Cases
+        Recovered / 100 Cases
+        Deaths / 100 Recovered
+        Country Number
+
 
 ## Case numbers from USA collecting by The COVID Tracking Project
 
