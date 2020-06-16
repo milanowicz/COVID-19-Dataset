@@ -1,3 +1,4 @@
+from datetime import timedelta
 import os
 import numpy as np
 import pandas as pd
@@ -167,6 +168,77 @@ class jhu:
         full_grouped['WHO Region'] = full_grouped['Country'].map(jhu.get_who_regions())
         csv = 'data/jhu/time_series_covid19_grouped_day_country.csv'
         full_grouped.to_csv(csv, index=False)
+
+        # table
+        day_wise = full_grouped.groupby('Date')['Confirmed', 'Deaths', 'Recovered',
+                                                'Active', 'New cases', 'New deaths', 'New recovered'].sum().reset_index()
+
+        # number cases per 100 cases
+        day_wise['Deaths / 100 Cases'] = round((day_wise['Deaths'] / day_wise['Confirmed']) * 100, 2)
+        day_wise['Recovered / 100 Cases'] = round((day_wise['Recovered'] / day_wise['Confirmed']) * 100, 2)
+        day_wise['Deaths / 100 Recovered'] = round((day_wise['Deaths'] / day_wise['Recovered']) * 100, 2)
+
+        # no. of countries
+        day_wise['No. of countries'] = full_grouped[full_grouped['Confirmed'] != 0] \
+            .groupby('Date')['Country'] \
+            .unique() \
+            .apply(len) \
+            .values
+
+        # fillna by 0
+        cols = ['Deaths / 100 Cases', 'Recovered / 100 Cases', 'Deaths / 100 Recovered']
+        day_wise[cols] = day_wise[cols].fillna(0)
+        csv = 'data/jhu/time_series_covid19_grouped_by_days.csv'
+        day_wise.to_csv(csv, index=False)
+
+        # Country wise
+        # ============
+
+        full_grouped['Date'] = pd.to_datetime(full_grouped['Date'])
+
+        # getting latest values
+        country_wise = full_grouped[full_grouped['Date'] == max(full_grouped['Date'])] \
+            .reset_index(drop=True) \
+            .drop('Date', axis=1)
+
+
+        # group by country
+        country_wise = country_wise.groupby('Country')['Confirmed', 'Deaths',
+                                                              'Recovered', 'Active',
+                                                              'New cases', 'New deaths', 'New recovered'].sum().reset_index()
+
+        # per 100 cases
+        country_wise['Deaths / 100 Cases'] = round((country_wise['Deaths'] / country_wise['Confirmed']) * 100, 2)
+        country_wise['Recovered / 100 Cases'] = round((country_wise['Recovered'] / country_wise['Confirmed']) * 100, 2)
+        country_wise['Deaths / 100 Recovered'] = round((country_wise['Deaths'] / country_wise['Recovered']) * 100, 2)
+
+        cols = ['Deaths / 100 Cases', 'Recovered / 100 Cases', 'Deaths / 100 Recovered']
+        country_wise[cols] = country_wise[cols].fillna(0)
+
+        # 1 week increase and % change
+        # ============================
+
+        today = full_grouped[full_grouped['Date'] == max(full_grouped['Date'])] \
+            .reset_index(drop=True) \
+            .drop('Date', axis=1)[['Country', 'Confirmed']]
+
+        last_week = full_grouped[full_grouped['Date'] == max(full_grouped['Date']) - timedelta(days=7)] \
+            .reset_index(drop=True) \
+            .drop('Date', axis=1)[['Country', 'Confirmed']]
+
+        temp = pd.merge(today, last_week, on='Country', suffixes=(' today', ' last week'))
+        temp['1 week change'] = temp['Confirmed today'] - temp['Confirmed last week']
+        temp = temp[['Country', 'Confirmed last week', '1 week change']]
+
+        country_wise = pd.merge(country_wise, temp, on='Country')
+        country_wise['1 week % increase'] = round(
+            country_wise['1 week change'] / country_wise['Confirmed last week'] * 100, 2)
+        country_wise.head()
+
+        country_wise['WHO Region'] = country_wise['Country'].map(jhu.get_who_regions())
+        country_wise[country_wise['WHO Region'].isna()]['Country'].unique()
+        csv = 'data/jhu/time_series_covid19_grouped_by_countries.csv'
+        country_wise.to_csv(csv, index=False)
 
     @staticmethod
     def get_who_regions():
