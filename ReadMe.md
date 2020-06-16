@@ -25,11 +25,18 @@ Description of columns:
 
 ## Case numbers from Johns Hopkins University (JHU) for the World
 
+[COVID-19-JHU](https://github.com/CSSEGISandData/COVID-19)
+
+
+### Data by day
+
 Description of columns:
+
+    Data: data/jhu/time_series_covid19_confirmed_deaths_recovered.csv
 
 <table>
 <tr>
-<th>City</th><th>State</th><th>Country</th><th>Date</th><th>Latitude</th><th>Longitude</th><th>Confirmed</th><th>Deaths</th><th>Recovered</th><th>Active</th>
+<th>City</th><th>State</th><th>Country</th><th>Date</th><th>Latitude</th><th>Longitude</th><th>Confirmed</th><th>Deaths</th><th>Recovered</th><th>Active</th><th>WHO Region</th>
 </tr>
 <tr>
 <td>Name from City</td>
@@ -42,10 +49,32 @@ Description of columns:
 <td>Numbers of deaths</td>
 <td>Numbers of recovered</td>
 <td>Active = Confirmed - Deaths - Recovered</td>
+<td>WHO Region</td>
 </tr>
 </table>
 
-[COVID-19-JHU](https://github.com/CSSEGISandData/COVID-19)
+
+### Grouped by Day and Country
+
+    Data: data/jhu/time_series_covid19_grouped_day_country.csv
+
+<table>
+<tr>
+<th>Date</th><th>Country</th><th>Confirmed</th><th>Deaths</th><th>Recovered</th><th>Active</th><th>New cases</th><th>New deaths</th><th>New recovered</th><th>WHO Region</th>
+</tr>
+<tr>
+<td>Date in %Y-%m-%d format</td>
+<td>Name from Country</td>
+<td>Numbers of confirmed cases</td>
+<td>Numbers of deaths</td>
+<td>Numbers of recovered</td>
+<td>Active = Confirmed - Deaths - Recovered</td>
+<td>New cases / Day</td>
+<td>New deaths / Day</td>
+<td>New recovered / Day</td>
+<td>WHO Region</td>
+</tr>
+</table>
 
 
 ## Case numbers from USA collecting by The COVID Tracking Project
