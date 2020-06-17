@@ -28289,211 +28289,416 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 6/15/20,Yemen,844,208,79,557,116,44,26,Eastern Mediterranean
 6/15/20,Zambia,1382,11,1142,229,24,0,20,Africa
 6/15/20,Zimbabwe,387,4,54,329,4,0,0,Africa
-6/2/20,Afghanistan,16509,270,1450,14789,0,-208,-3714,Eastern Mediterranean
-6/2/20,Albania,1164,33,891,240,0,-3,-164,Europe
-6/2/20,Algeria,9626,667,6067,2892,0,-110,-1668,Africa
-6/2/20,Andorra,844,51,733,60,0,0,-56,Europe
+6/16/20,Afghanistan,26310,491,5508,20311,783,13,344,Eastern Mediterranean
+6/16/20,Albania,1672,37,1064,571,82,1,9,Europe
+6/16/20,Algeria,11147,788,7842,2517,116,11,107,Africa
+6/16/20,Andorra,854,52,789,13,1,1,0,Europe
+6/16/20,Angola,148,6,64,78,6,0,0,Africa
+6/16/20,Anguilla (UK),3,0,3,0,0,0,0,Americas
+6/16/20,Antigua and Barbuda,26,3,22,1,0,0,2,Americas
+6/16/20,Argentina,34159,878,10174,23107,1374,24,283,Americas
+6/16/20,Armenia,17489,293,6571,10625,425,8,295,Europe
+6/16/20,Aruba (NL),101,3,98,0,0,0,0,Americas
+6/16/20,Australia,7370,102,6861,407,23,0,5,Western Pacific
+6/16/20,Austria,17189,681,16089,419,54,3,23,Europe
+6/16/20,Azerbaijan,10662,126,5948,4588,338,4,209,Europe
+6/16/20,Bahamas,104,11,72,21,1,0,4,Americas
+6/16/20,Bahrain,19553,47,13866,5640,540,1,599,Eastern Mediterranean
+6/16/20,Bangladesh,94481,1262,36264,56955,3862,53,17533,South-East Asia
+6/16/20,Barbados,97,7,83,7,0,0,0,Americas
+6/16/20,Belarus,55369,318,31273,23778,689,6,853,Europe
+6/16/20,Belgium,60155,9663,16625,33867,55,2,15,Europe
+6/16/20,Belize,22,2,16,4,1,0,0,Americas
+6/16/20,Benin,532,9,236,287,49,0,4,Africa
+6/16/20,Bhutan,67,0,24,43,0,0,2,South-East Asia
+6/16/20,Bolivia,19883,659,3752,15472,810,27,322,Americas
+6/16/20,Bosnia and Herzegovina,3085,168,2178,739,45,3,16,Europe
+6/16/20,Botswana,60,1,24,35,0,0,0,Africa
+6/16/20,Brazil,923189,45241,490005,387943,34918,1282,12296,Americas
+6/16/20,British Virgin Islands (UK),8,1,7,0,0,0,0,Americas
+6/16/20,Brunei,141,3,138,0,0,1,0,Western Pacific
+6/16/20,Bulgaria,3453,181,1817,1455,112,5,33,Europe
+6/16/20,Burkina Faso,895,53,807,35,1,0,3,Africa
+6/16/20,Burma,262,6,179,77,0,0,4,South-East Asia
+6/16/20,Burundi,104,1,75,28,19,0,30,Africa
+6/16/20,Cabo Verde,781,7,354,420,21,0,14,Africa
+6/16/20,Cambodia,128,0,126,2,0,0,1,Western Pacific
+6/16/20,Cameroon,9864,276,5570,4018,0,0,0,Africa
+6/16/20,Canada,101074,8270,0,92804,324,43,0,Americas
+6/16/20,Cayman Islands (UK),193,1,123,69,6,0,8,Americas
+6/16/20,Central African Republic,2410,14,396,2000,188,7,27,Africa
+6/16/20,Chad,853,74,720,59,3,1,0,Africa
+6/16/20,Chile,184449,3383,156232,24834,5013,21,7440,Americas
+6/16/20,China,84422,4638,79493,291,44,0,4,Western Pacific
+6/16/20,Colombia,53211,1808,19986,31417,43,0,1,Americas
+6/16/20,Comoros,197,3,127,67,21,1,13,Africa
+6/16/20,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
+6/16/20,Congo (Kinshasa),4974,112,628,4234,137,0,15,Africa
+6/16/20,Costa Rica,1796,12,794,990,52,0,23,Americas
+6/16/20,Cote d'Ivoire,5679,46,2637,2996,240,0,47,Africa
+6/16/20,Croatia,2255,107,2140,8,1,0,0,Europe
+6/16/20,Cuba,2273,84,1994,195,11,0,29,Americas
+6/16/20,Curacao (NL),23,1,19,3,1,0,0,Americas
+6/16/20,Cyprus,985,18,816,151,0,0,9,Europe
+6/16/20,Czechia,10111,331,7358,2422,47,1,62,Europe
+6/16/20,Denmark,12250,598,11125,527,33,0,35,Europe
+6/16/20,Djibouti,4539,43,3324,1172,38,0,141,Eastern Mediterranean
+6/16/20,Dominica,18,0,16,2,0,0,0,Americas
+6/16/20,Dominican Republic,23686,615,14133,8938,415,10,108,Americas
+6/16/20,Ecuador,47943,3970,23684,20289,621,41,335,Americas
+6/16/20,Egypt,47856,1766,12730,33360,1567,94,401,Eastern Mediterranean
+6/16/20,El Salvador,3941,76,2041,1824,115,2,115,Americas
+6/16/20,Equatorial Guinea,1664,32,515,1117,358,20,315,Africa
+6/16/20,Eritrea,121,0,39,82,12,0,0,Africa
+6/16/20,Estonia,1975,69,1728,178,1,0,11,Europe
+6/16/20,Eswatini,520,4,259,257,14,0,10,Africa
+6/16/20,Ethiopia,3630,61,738,2831,109,1,118,Africa
+6/16/20,Falkland Islands (Malvinas) (UK),13,0,13,0,0,0,0,Africa
+6/16/20,Faroe Islands (DK),187,0,187,0,0,0,0,
+6/16/20,Fiji,18,0,18,0,0,0,0,Western Pacific
+6/16/20,Finland,7112,326,6200,586,4,0,0,Europe
+6/16/20,France,189664,29487,70006,90171,0,109,224,Europe
+6/16/20,French Guiana,1421,5,619,797,95,2,67,Americas
+6/16/20,French Polynesia,60,0,60,0,0,0,0,Western Pacific
+6/16/20,Gabon,4114,29,1432,2653,81,2,98,Africa
+6/16/20,Gambia,34,1,24,9,4,0,0,Africa
+6/16/20,Georgia,879,14,724,141,0,0,20,Europe
+6/16/20,Germany,188252,8820,172842,6590,570,13,150,Europe
+6/16/20,Ghana,12193,58,4326,7809,229,4,68,Africa
+6/16/20,Gibraltar (UK),176,0,174,2,0,0,0,Europe
+6/16/20,Greece,3148,185,1374,1589,14,1,0,Europe
+6/16/20,Greenland (DK),13,0,13,0,0,0,0,Europe
+6/16/20,Grenada,23,0,22,1,0,0,0,Americas
+6/16/20,Guadeloupe (FR),171,14,157,0,0,0,0,Americas
+6/16/20,Guatemala,10706,418,2096,8192,434,19,130,Americas
+6/16/20,Guinea,4639,26,3327,1286,67,0,68,Africa
+6/16/20,Guinea-Bissau,1492,15,153,1324,0,0,0,Africa
+6/16/20,Guyana,171,12,99,60,12,0,0,Americas
+6/16/20,Haiti,4547,80,24,4443,106,4,0,Americas
+6/16/20,Holy See,12,0,12,0,0,0,0,Europe
+6/16/20,Honduras,9656,330,1075,8251,478,8,50,Americas
+6/16/20,Hungary,4077,565,2516,996,1,2,31,Europe
+6/16/20,Iceland,1812,10,1796,6,2,0,0,Europe
+6/16/20,India,354065,11903,186935,155227,10974,2003,6922,South-East Asia
+6/16/20,Indonesia,40400,2231,15703,22466,1106,33,580,South-East Asia
+6/16/20,Iran,192439,9065,152675,30699,2563,115,2085,Eastern Mediterranean
+6/16/20,Iraq,22700,712,9862,12126,1385,60,591,Eastern Mediterranean
+6/16/20,Ireland,25334,1709,22698,927,13,3,0,Europe
+6/16/20,Israel,19495,302,15449,3744,258,0,34,Europe
+6/16/20,Italy,237500,34405,178526,24569,210,34,1516,Europe
+6/16/20,Jamaica,621,10,449,162,0,0,19,Americas
+6/16/20,Japan,17484,934,15652,898,45,5,85,Western Pacific
+6/16/20,Jordan,981,9,693,279,2,0,1,Eastern Mediterranean
+6/16/20,Kazakhstan,15542,88,9647,5807,350,7,259,Europe
+6/16/20,Kenya,3860,105,1328,2427,133,1,42,Africa
+6/16/20,Kosovo,1486,33,953,500,0,0,0,Europe
+6/16/20,Kuwait,36958,303,28206,8449,527,5,675,Eastern Mediterranean
+6/16/20,Kyrgyzstan,2562,30,1902,630,90,2,55,Europe
+6/16/20,Laos,19,0,19,0,0,0,0,Western Pacific
+6/16/20,Latvia,1098,28,875,195,1,0,30,Europe
+6/16/20,Lebanon,1473,32,889,552,9,0,14,Eastern Mediterranean
+6/16/20,Lesotho,4,0,2,2,0,0,0,Africa
+6/16/20,Liberia,509,33,222,254,11,0,1,Africa
+6/16/20,Libya,484,10,76,398,17,0,6,Eastern Mediterranean
+6/16/20,Liechtenstein,82,1,55,26,0,0,0,Europe
+6/16/20,Lithuania,1776,76,1441,259,3,0,12,Europe
+6/16/20,Luxembourg,4075,110,3933,32,3,0,2,Europe
+6/16/20,Madagascar,1317,12,417,888,27,2,33,Africa
+6/16/20,Malawi,564,6,73,485,9,0,4,Africa
+6/16/20,Malaysia,8505,121,7733,651,11,0,333,Western Pacific
+6/16/20,Maldives,2094,8,1670,416,29,0,130,South-East Asia
+6/16/20,Mali,1885,104,1145,636,25,0,20,Africa
+6/16/20,Malta,656,9,608,39,6,0,5,Europe
+6/16/20,Martinique (FR),202,14,98,90,0,0,0,Americas
+6/16/20,Mauritania,2057,93,373,1591,170,2,13,Africa
+6/16/20,Mauritius,337,10,325,2,0,0,0,Africa
+6/16/20,Mayotte (FR),2333,29,2058,246,23,0,0,Africa
+6/16/20,Mexico,154863,18310,115394,21159,4599,730,3102,Americas
+6/16/20,Moldova,12254,423,6901,4930,375,12,107,Europe
+6/16/20,Monaco,99,4,94,1,0,0,1,Europe
+6/16/20,Mongolia,197,0,111,86,0,0,2,Western Pacific
+6/16/20,Montenegro,326,9,315,2,0,0,0,Europe
+6/16/20,Montserrat (UK),11,1,10,0,0,0,0,Americas
+6/16/20,Morocco,8931,212,7937,782,46,0,109,Eastern Mediterranean
+6/16/20,Mozambique,638,4,0,634,29,1,0,Africa
+6/16/20,Namibia,34,0,18,16,2,0,1,Africa
+6/16/20,Nepal,6591,19,1158,5414,380,0,117,South-East Asia
+6/16/20,Netherlands,49087,6070,0,43017,139,5,0,Europe
+6/16/20,New Zealand,1506,22,1482,2,0,0,0,Western Pacific
+6/16/20,Nicaragua,1823,64,1238,521,359,9,285,Americas
+6/16/20,Niger,1016,66,885,65,36,0,0,Africa
+6/16/20,Nigeria,17148,455,5623,11070,490,31,274,Africa
+6/16/20,North Macedonia,4299,201,1757,2341,142,8,34,Europe
+6/16/20,Norway,8660,242,8138,280,13,0,0,Europe
+6/16/20,Oman,25269,114,11089,14066,745,6,1556,Eastern Mediterranean
+6/16/20,Pakistan,154760,2975,58437,93348,5839,136,2047,Eastern Mediterranean
+6/16/20,Panama,21962,457,13774,7731,540,9,8,Americas
+6/16/20,Papua New Guinea,8,0,8,0,0,0,0,Western Pacific
+6/16/20,Paraguay,1303,13,699,591,7,1,26,Americas
+6/16/20,Peru,237156,7056,125205,104895,4164,196,5796,Americas
+6/16/20,Philippines,26781,1103,6552,19126,361,5,300,Western Pacific
+6/16/20,Poland,30195,1272,14654,14269,407,16,271,Europe
+6/16/20,Portugal,37336,1522,23212,12602,300,2,360,Europe
+6/16/20,Qatar,82077,80,60461,21536,1201,4,1780,Eastern Mediterranean
+6/16/20,Reunion (FR),495,1,460,34,0,0,0,Africa
+6/16/20,Romania,22415,1437,16071,4907,250,10,254,Europe
+6/16/20,Russia,544725,7274,293780,243671,8241,193,9759,Europe
+6/16/20,Rwanda,636,2,338,296,24,0,0,Africa
+6/16/20,Saint Kitts and Nevis,15,0,15,0,0,0,0,Americas
+6/16/20,Saint Lucia,19,0,18,1,0,0,0,Americas
+6/16/20,Saint Pierre and Miquelon (FR),1,0,1,0,0,0,0,Americas
+6/16/20,Saint Vincent and the Grenadines,29,0,25,4,2,0,0,Americas
+6/16/20,San Marino,694,42,590,62,0,0,15,Europe
+6/16/20,Sao Tome and Principe,671,12,182,477,9,0,5,Africa
+6/16/20,Saudi Arabia,136315,1052,89540,45723,4267,41,1650,Eastern Mediterranean
+6/16/20,Senegal,5247,70,3525,1652,74,6,101,Africa
+6/16/20,Serbia,12426,256,11624,546,59,1,63,Europe
+6/16/20,Seychelles,11,0,11,0,0,0,0,Africa
+6/16/20,Sierra Leone,1225,51,686,488,49,0,3,Africa
+6/16/20,Singapore,40969,26,31163,9780,151,0,797,Western Pacific
+6/16/20,Sint Maarten (NL),77,15,62,0,0,0,0,Americas
+6/16/20,Slovakia,1552,28,1426,98,0,0,16,Europe
+6/16/20,Slovenia,1499,109,1359,31,3,0,0,Europe
+6/16/20,Somalia,2658,88,649,1921,16,0,27,Eastern Mediterranean
+6/16/20,South Africa,76334,1625,42063,32646,2801,57,2196,Africa
+6/16/20,South Korea,12198,279,10774,1145,43,1,14,Western Pacific
+6/16/20,South Sudan,1776,30,58,1688,83,3,9,Africa
+6/16/20,Spain,244328,27136,150376,66816,219,0,0,Europe
+6/16/20,Sri Lanka,1915,11,1371,533,10,0,29,South-East Asia
+6/16/20,Sudan,7740,477,2820,4443,305,9,100,Eastern Mediterranean
+6/16/20,Suriname,236,6,48,182,7,1,0,Americas
+6/16/20,Sweden,53323,4939,0,48384,940,48,0,Europe
+6/16/20,Switzerland,31154,1954,28900,300,23,15,0,Europe
+6/16/20,Syria,177,6,0,171,0,0,0,Eastern Mediterranean
+6/16/20,Taiwan*,445,7,433,5,0,0,0,Western Pacific
+6/16/20,Tajikistan,5160,50,3624,1486,63,0,121,Europe
+6/16/20,Tanzania,509,21,183,305,0,0,0,Africa
+6/16/20,Thailand,3135,58,2993,84,0,0,6,South-East Asia
+6/16/20,Timor-Leste,24,0,0,24,0,0,0,South-East Asia
+6/16/20,Togo,537,13,344,180,6,0,45,Africa
+6/16/20,Trinidad and Tobago,123,8,109,6,0,0,0,Americas
+6/16/20,Tunisia,1125,49,1002,74,15,0,3,Eastern Mediterranean
+6/16/20,Turkey,181298,4842,153379,23077,1467,17,1015,Europe
+6/16/20,Turks and Caicos Islands (UK),12,1,11,0,0,0,0,Americas
+6/16/20,US,2137731,116963,583503,1437265,23705,836,7169,Americas
+6/16/20,Uganda,724,0,351,373,19,0,52,Africa
+6/16/20,Ukraine,33209,922,15054,17233,673,11,283,Europe
+6/16/20,United Arab Emirates,42982,293,28861,13828,346,2,732,Eastern Mediterranean
+6/16/20,United Kingdom,299184,42050,952,256182,1279,233,1,Europe
+6/16/20,Uruguay,849,24,801,24,1,1,9,Americas
+6/16/20,Uzbekistan,5493,19,4096,1378,230,0,77,Europe
+6/16/20,Venezuela,3150,27,835,2288,88,1,0,Americas
+6/16/20,Vietnam,334,0,325,9,0,0,2,Western Pacific
+6/16/20,West Bank and Gaza,514,3,415,96,9,0,0,Eastern Mediterranean
+6/16/20,Western Sahara,9,1,8,0,0,0,0,Africa
+6/16/20,Yemen,885,214,91,580,41,6,12,Eastern Mediterranean
+6/16/20,Zambia,1405,11,1142,252,23,0,0,Africa
+6/16/20,Zimbabwe,391,4,62,325,4,0,8,Africa
+6/2/20,Afghanistan,16509,270,1450,14789,0,-221,-4058,Eastern Mediterranean
+6/2/20,Albania,1164,33,891,240,0,-4,-173,Europe
+6/2/20,Algeria,9626,667,6067,2892,0,-121,-1775,Africa
+6/2/20,Andorra,844,51,733,60,0,-1,-56,Europe
 6/2/20,Angola,86,4,18,64,0,-2,-46,Africa
 6/2/20,Anguilla (UK),3,0,3,0,0,0,0,Americas
-6/2/20,Antigua and Barbuda,26,3,20,3,0,0,0,Americas
-6/2/20,Argentina,18319,569,5709,12041,0,-285,-4182,Americas
-6/2/20,Armenia,10009,158,3427,6424,0,-127,-2849,Europe
+6/2/20,Antigua and Barbuda,26,3,20,3,0,0,-2,Americas
+6/2/20,Argentina,18319,569,5709,12041,0,-309,-4465,Americas
+6/2/20,Armenia,10009,158,3427,6424,0,-135,-3144,Europe
 6/2/20,Aruba (NL),101,3,98,0,0,0,0,Americas
-6/2/20,Australia,7229,102,6636,491,0,0,-220,Western Pacific
-6/2/20,Austria,16759,669,15629,461,0,-9,-437,Europe
-6/2/20,Azerbaijan,5935,71,3564,2300,0,-51,-2175,Europe
-6/2/20,Bahamas,102,11,49,42,0,0,-19,Americas
-6/2/20,Bahrain,12311,19,7407,4885,0,-27,-5860,Eastern Mediterranean
-6/2/20,Bangladesh,52445,709,11120,40616,0,-500,-7611,South-East Asia
+6/2/20,Australia,7229,102,6636,491,0,0,-225,Western Pacific
+6/2/20,Austria,16759,669,15629,461,0,-12,-460,Europe
+6/2/20,Azerbaijan,5935,71,3564,2300,0,-55,-2384,Europe
+6/2/20,Bahamas,102,11,49,42,0,0,-23,Americas
+6/2/20,Bahrain,12311,19,7407,4885,0,-28,-6459,Eastern Mediterranean
+6/2/20,Bangladesh,52445,709,11120,40616,0,-553,-25144,South-East Asia
 6/2/20,Barbados,92,7,76,9,0,0,-7,Americas
-6/2/20,Belarus,44255,243,19195,24817,0,-69,-11225,Europe
-6/2/20,Belgium,58615,9505,15934,33176,0,-156,-676,Europe
+6/2/20,Belarus,44255,243,19195,24817,0,-75,-12078,Europe
+6/2/20,Belgium,58615,9505,15934,33176,0,-158,-691,Europe
 6/2/20,Belize,18,2,16,0,0,0,0,Americas
-6/2/20,Benin,244,3,148,93,0,-6,-84,Africa
-6/2/20,Bhutan,47,0,9,38,0,0,-13,South-East Asia
-6/2/20,Bolivia,10991,376,1298,9317,0,-256,-2132,Americas
-6/2/20,Bosnia and Herzegovina,2535,157,1910,468,0,-8,-252,Europe
+6/2/20,Benin,244,3,148,93,0,-6,-88,Africa
+6/2/20,Bhutan,47,0,9,38,0,0,-15,South-East Asia
+6/2/20,Bolivia,10991,376,1298,9317,0,-283,-2454,Americas
+6/2/20,Bosnia and Herzegovina,2535,157,1910,468,0,-11,-268,Europe
 6/2/20,Botswana,40,1,23,16,0,0,-1,Africa
-6/2/20,Brazil,555383,31199,223638,300546,0,-12760,-254071,Americas
+6/2/20,Brazil,555383,31199,223638,300546,0,-14042,-266367,Americas
 6/2/20,British Virgin Islands (UK),8,1,7,0,0,0,0,Americas
-6/2/20,Brunei,141,2,138,1,0,0,0,Western Pacific
-6/2/20,Bulgaria,2538,144,1123,1271,0,-32,-661,Europe
-6/2/20,Burkina Faso,881,53,720,108,0,0,-84,Africa
-6/2/20,Burma,232,6,143,83,0,0,-32,South-East Asia
-6/2/20,Burundi,63,1,33,29,0,0,-12,Africa
-6/2/20,Cabo Verde,466,5,237,224,0,-2,-103,Africa
-6/2/20,Cambodia,125,0,123,2,0,0,-2,Western Pacific
+6/2/20,Brunei,141,2,138,1,0,-1,0,Western Pacific
+6/2/20,Bulgaria,2538,144,1123,1271,0,-37,-694,Europe
+6/2/20,Burkina Faso,881,53,720,108,0,0,-87,Africa
+6/2/20,Burma,232,6,143,83,0,0,-36,South-East Asia
+6/2/20,Burundi,63,1,33,29,0,0,-42,Africa
+6/2/20,Cabo Verde,466,5,237,224,0,-2,-117,Africa
+6/2/20,Cambodia,125,0,123,2,0,0,-3,Western Pacific
 6/2/20,Cameroon,6585,200,3676,2709,0,-76,-1894,Africa
-6/2/20,Canada,93947,7477,0,86470,0,-750,0,Americas
-6/2/20,Cayman Islands (UK),151,1,77,73,0,0,-38,Americas
-6/2/20,Central African Republic,1069,4,23,1042,0,-3,-346,Africa
-6/2/20,Chad,803,66,562,175,0,-7,-158,Africa
-6/2/20,Chile,108686,1188,86173,21325,0,-2174,-62619,Americas
-6/2/20,China,84161,4638,79400,123,0,0,-89,Western Pacific
-6/2/20,Colombia,30593,1014,9689,19890,0,-794,-10296,Americas
-6/2/20,Comoros,132,2,27,103,0,0,-87,Africa
+6/2/20,Canada,93947,7477,0,86470,0,-793,0,Americas
+6/2/20,Cayman Islands (UK),151,1,77,73,0,0,-46,Americas
+6/2/20,Central African Republic,1069,4,23,1042,0,-10,-373,Africa
+6/2/20,Chad,803,66,562,175,0,-8,-158,Africa
+6/2/20,Chile,108686,1188,86173,21325,0,-2195,-70059,Americas
+6/2/20,China,84161,4638,79400,123,0,0,-93,Western Pacific
+6/2/20,Colombia,30593,1014,9689,19890,0,-794,-10297,Americas
+6/2/20,Comoros,132,2,27,103,0,-1,-100,Africa
 6/2/20,Congo (Brazzaville),611,20,179,412,0,-7,-212,Africa
-6/2/20,Congo (Kinshasa),3326,72,482,2772,0,-40,-131,Africa
-6/2/20,Costa Rica,1105,10,682,413,0,-2,-89,Americas
-6/2/20,Cote d'Ivoire,3024,33,1501,1490,0,-13,-1089,Africa
+6/2/20,Congo (Kinshasa),3326,72,482,2772,0,-40,-146,Africa
+6/2/20,Costa Rica,1105,10,682,413,0,-2,-112,Americas
+6/2/20,Cote d'Ivoire,3024,33,1501,1490,0,-13,-1136,Africa
 6/2/20,Croatia,2246,103,2088,55,0,-4,-52,Europe
-6/2/20,Cuba,2092,83,1827,182,0,-1,-138,Americas
+6/2/20,Cuba,2092,83,1827,182,0,-1,-167,Americas
 6/2/20,Curacao (NL),20,1,15,4,0,0,-4,Americas
-6/2/20,Cyprus,952,17,790,145,0,-1,-17,Europe
-6/2/20,Czechia,9364,323,6686,2355,0,-7,-610,Europe
-6/2/20,Denmark,11734,580,10489,665,0,-18,-601,Europe
-6/2/20,Djibouti,3779,25,1607,2147,0,-18,-1576,Eastern Mediterranean
+6/2/20,Cyprus,952,17,790,145,0,-1,-26,Europe
+6/2/20,Czechia,9364,323,6686,2355,0,-8,-672,Europe
+6/2/20,Denmark,11734,580,10489,665,0,-18,-636,Europe
+6/2/20,Djibouti,3779,25,1607,2147,0,-18,-1717,Eastern Mediterranean
 6/2/20,Dominica,18,0,16,2,0,0,0,Americas
-6/2/20,Dominican Republic,17752,515,11075,6162,0,-90,-2950,Americas
-6/2/20,Ecuador,40414,3438,20019,16957,0,-491,-3330,Americas
-6/2/20,Egypt,27536,1052,6827,19657,0,-620,-5502,Eastern Mediterranean
-6/2/20,El Salvador,2653,49,1160,1444,0,-25,-766,Americas
-6/2/20,Equatorial Guinea,1306,12,200,1094,0,0,0,Africa
+6/2/20,Dominican Republic,17752,515,11075,6162,0,-100,-3058,Americas
+6/2/20,Ecuador,40414,3438,20019,16957,0,-532,-3665,Americas
+6/2/20,Egypt,27536,1052,6827,19657,0,-714,-5903,Eastern Mediterranean
+6/2/20,El Salvador,2653,49,1160,1444,0,-27,-881,Americas
+6/2/20,Equatorial Guinea,1306,12,200,1094,0,-20,-315,Africa
 6/2/20,Eritrea,39,0,39,0,0,0,0,Africa
-6/2/20,Estonia,1870,68,1632,170,0,-1,-85,Europe
-6/2/20,Eswatini,294,3,198,93,0,-1,-51,Africa
-6/2/20,Ethiopia,1344,14,231,1099,0,-46,-389,Africa
+6/2/20,Estonia,1870,68,1632,170,0,-1,-96,Europe
+6/2/20,Eswatini,294,3,198,93,0,-1,-61,Africa
+6/2/20,Ethiopia,1344,14,231,1099,0,-47,-507,Africa
 6/2/20,Falkland Islands (Malvinas) (UK),13,0,13,0,0,0,0,Africa
 6/2/20,Faroe Islands (DK),187,0,187,0,0,0,0,
 6/2/20,Fiji,18,0,15,3,0,0,-3,Western Pacific
 6/2/20,Finland,6887,320,5500,1067,0,-6,-700,Europe
-6/2/20,France,185047,28889,66542,89616,0,-489,-3240,Europe
-6/2/20,French Guiana,517,1,207,309,0,-2,-345,Americas
+6/2/20,France,185047,28889,66542,89616,0,-598,-3464,Europe
+6/2/20,French Guiana,517,1,207,309,0,-4,-412,Americas
 6/2/20,French Polynesia,60,0,60,0,0,0,0,Western Pacific
-6/2/20,Gabon,2803,20,779,2004,0,-7,-555,Africa
+6/2/20,Gabon,2803,20,779,2004,0,-9,-653,Africa
 6/2/20,Gambia,25,1,20,4,0,0,-4,Africa
-6/2/20,Georgia,796,13,634,149,0,-1,-70,Europe
-6/2/20,Germany,183879,8563,166609,8707,0,-244,-6083,Europe
-6/2/20,Ghana,8297,38,2986,5273,0,-16,-1272,Africa
+6/2/20,Georgia,796,13,634,149,0,-1,-90,Europe
+6/2/20,Germany,183879,8563,166609,8707,0,-257,-6233,Europe
+6/2/20,Ghana,8297,38,2986,5273,0,-20,-1340,Africa
 6/2/20,Gibraltar (UK),172,0,151,21,0,0,-23,Europe
-6/2/20,Greece,2937,179,1374,1384,0,-5,0,Europe
+6/2/20,Greece,2937,179,1374,1384,0,-6,0,Europe
 6/2/20,Greenland (DK),13,0,11,2,0,0,-2,Europe
 6/2/20,Grenada,23,0,18,5,0,0,-4,Americas
 6/2/20,Guadeloupe (FR),162,14,138,10,0,0,-19,Americas
-6/2/20,Guatemala,5586,123,824,4639,0,-276,-1142,Americas
-6/2/20,Guinea,3886,23,2267,1596,0,-3,-992,Africa
+6/2/20,Guatemala,5586,123,824,4639,0,-295,-1272,Americas
+6/2/20,Guinea,3886,23,2267,1596,0,-3,-1060,Africa
 6/2/20,Guinea-Bissau,1339,8,53,1278,0,-7,-100,Africa
 6/2/20,Guyana,153,12,70,71,0,0,-29,Americas
-6/2/20,Haiti,2226,45,24,2157,0,-31,0,Americas
+6/2/20,Haiti,2226,45,24,2157,0,-35,0,Americas
 6/2/20,Holy See,12,0,2,10,0,0,-10,Europe
-6/2/20,Honduras,5527,225,563,4739,0,-97,-462,Americas
-6/2/20,Hungary,3921,532,2160,1229,0,-31,-325,Europe
+6/2/20,Honduras,5527,225,563,4739,0,-105,-512,Americas
+6/2/20,Hungary,3921,532,2160,1229,0,-33,-356,Europe
 6/2/20,Iceland,1806,10,1794,2,0,0,-2,Europe
-6/2/20,India,207191,5829,100285,101077,0,-4071,-79728,South-East Asia
-6/2/20,Indonesia,27549,1663,7935,17951,0,-535,-7188,South-East Asia
-6/2/20,Iran,157562,7942,123077,26543,0,-1008,-27513,Eastern Mediterranean
-6/2/20,Iraq,7387,235,3508,3644,0,-417,-5763,Eastern Mediterranean
-6/2/20,Ireland,25066,1658,22089,1319,0,-48,-609,Europe
-6/2/20,Israel,17285,290,14940,2055,0,-12,-475,Europe
-6/2/20,Italy,233515,33530,160092,39893,0,-841,-16918,Europe
-6/2/20,Jamaica,590,9,356,225,0,-1,-74,Americas
-6/2/20,Japan,16837,902,14585,1350,0,-27,-982,Western Pacific
-6/2/20,Jordan,755,9,549,197,0,0,-143,Eastern Mediterranean
-6/2/20,Kazakhstan,11571,44,5941,5586,0,-37,-3447,Europe
-6/2/20,Kenya,2093,71,499,1523,0,-33,-787,Africa
+6/2/20,India,207191,5829,100285,101077,0,-6074,-86650,South-East Asia
+6/2/20,Indonesia,27549,1663,7935,17951,0,-568,-7768,South-East Asia
+6/2/20,Iran,157562,7942,123077,26543,0,-1123,-29598,Eastern Mediterranean
+6/2/20,Iraq,7387,235,3508,3644,0,-477,-6354,Eastern Mediterranean
+6/2/20,Ireland,25066,1658,22089,1319,0,-51,-609,Europe
+6/2/20,Israel,17285,290,14940,2055,0,-12,-509,Europe
+6/2/20,Italy,233515,33530,160092,39893,0,-875,-18434,Europe
+6/2/20,Jamaica,590,9,356,225,0,-1,-93,Americas
+6/2/20,Japan,16837,902,14585,1350,0,-32,-1067,Western Pacific
+6/2/20,Jordan,755,9,549,197,0,0,-144,Eastern Mediterranean
+6/2/20,Kazakhstan,11571,44,5941,5586,0,-44,-3706,Europe
+6/2/20,Kenya,2093,71,499,1523,0,-34,-829,Africa
 6/2/20,Kosovo,1064,30,829,205,0,-3,-124,Europe
-6/2/20,Kuwait,28649,226,14281,14142,0,-72,-13250,Eastern Mediterranean
-6/2/20,Kyrgyzstan,1845,17,1219,609,0,-11,-628,Europe
+6/2/20,Kuwait,28649,226,14281,14142,0,-77,-13925,Eastern Mediterranean
+6/2/20,Kyrgyzstan,1845,17,1219,609,0,-13,-683,Europe
 6/2/20,Laos,19,0,16,3,0,0,-3,Western Pacific
-6/2/20,Latvia,1071,24,760,287,0,-4,-85,Europe
-6/2/20,Lebanon,1242,27,719,496,0,-5,-156,Eastern Mediterranean
+6/2/20,Latvia,1071,24,760,287,0,-4,-115,Europe
+6/2/20,Lebanon,1242,27,719,496,0,-5,-170,Eastern Mediterranean
 6/2/20,Lesotho,2,0,1,1,0,0,-1,Africa
-6/2/20,Liberia,311,28,167,116,0,-5,-54,Africa
-6/2/20,Libya,182,5,52,125,0,-5,-18,Eastern Mediterranean
+6/2/20,Liberia,311,28,167,116,0,-5,-55,Africa
+6/2/20,Libya,182,5,52,125,0,-5,-24,Eastern Mediterranean
 6/2/20,Liechtenstein,82,1,55,26,0,0,0,Europe
-6/2/20,Lithuania,1682,71,1249,362,0,-5,-180,Europe
-6/2/20,Luxembourg,4020,110,3848,62,0,0,-83,Europe
-6/2/20,Madagascar,845,6,185,654,0,-4,-199,Africa
-6/2/20,Malawi,358,4,42,312,0,-2,-27,Africa
-6/2/20,Malaysia,7877,115,6470,1292,0,-6,-930,Western Pacific
-6/2/20,Maldives,1841,7,608,1226,0,-1,-932,South-East Asia
-6/2/20,Mali,1351,78,769,504,0,-26,-356,Africa
-6/2/20,Malta,620,9,554,57,0,0,-49,Europe
+6/2/20,Lithuania,1682,71,1249,362,0,-5,-192,Europe
+6/2/20,Luxembourg,4020,110,3848,62,0,0,-85,Europe
+6/2/20,Madagascar,845,6,185,654,0,-6,-232,Africa
+6/2/20,Malawi,358,4,42,312,0,-2,-31,Africa
+6/2/20,Malaysia,7877,115,6470,1292,0,-6,-1263,Western Pacific
+6/2/20,Maldives,1841,7,608,1226,0,-1,-1062,South-East Asia
+6/2/20,Mali,1351,78,769,504,0,-26,-376,Africa
+6/2/20,Malta,620,9,554,57,0,0,-54,Europe
 6/2/20,Martinique (FR),200,14,98,88,0,0,0,Americas
-6/2/20,Mauritania,668,31,55,582,0,-60,-305,Africa
+6/2/20,Mauritania,668,31,55,582,0,-62,-318,Africa
 6/2/20,Mauritius,335,10,322,3,0,0,-3,Africa
 6/2/20,Mayotte (FR),1986,24,1473,489,0,-5,-585,Africa
-6/2/20,Mexico,97326,10637,69749,16940,0,-6943,-42543,Americas
-6/2/20,Moldova,8548,307,4738,3503,0,-104,-2056,Europe
-6/2/20,Monaco,99,4,90,5,0,0,-3,Europe
-6/2/20,Mongolia,185,0,44,141,0,0,-65,Western Pacific
+6/2/20,Mexico,97326,10637,69749,16940,0,-7673,-45645,Americas
+6/2/20,Moldova,8548,307,4738,3503,0,-116,-2163,Europe
+6/2/20,Monaco,99,4,90,5,0,0,-4,Europe
+6/2/20,Mongolia,185,0,44,141,0,0,-67,Western Pacific
 6/2/20,Montenegro,324,9,315,0,0,0,0,Europe
 6/2/20,Montserrat (UK),11,1,10,0,0,0,0,Americas
-6/2/20,Morocco,7866,206,6410,1250,0,-6,-1418,Eastern Mediterranean
-6/2/20,Mozambique,307,2,0,305,0,-1,0,Africa
-6/2/20,Namibia,25,0,16,9,0,0,-1,Africa
-6/2/20,Nepal,2099,8,266,1825,0,-11,-775,South-East Asia
-6/2/20,Netherlands,46647,5967,0,40680,0,-98,0,Europe
+6/2/20,Morocco,7866,206,6410,1250,0,-6,-1527,Eastern Mediterranean
+6/2/20,Mozambique,307,2,0,305,0,-2,0,Africa
+6/2/20,Namibia,25,0,16,9,0,0,-2,Africa
+6/2/20,Nepal,2099,8,266,1825,0,-11,-892,South-East Asia
+6/2/20,Netherlands,46647,5967,0,40680,0,-103,0,Europe
 6/2/20,New Zealand,1504,22,1481,1,0,0,-1,Western Pacific
-6/2/20,Nicaragua,1118,46,370,702,0,-9,-583,Americas
+6/2/20,Nicaragua,1118,46,370,702,0,-18,-868,Americas
 6/2/20,Niger,960,65,848,47,0,-1,-37,Africa
-6/2/20,Nigeria,10819,314,3240,7265,0,-110,-2109,Africa
-6/2/20,North Macedonia,2391,141,1595,655,0,-52,-128,Europe
+6/2/20,Nigeria,10819,314,3240,7265,0,-141,-2383,Africa
+6/2/20,North Macedonia,2391,141,1595,655,0,-60,-162,Europe
 6/2/20,Norway,8455,237,7727,491,0,-5,-411,Europe
-6/2/20,Oman,12799,59,2812,9928,0,-49,-6721,Eastern Mediterranean
-6/2/20,Pakistan,80463,1688,28923,49852,0,-1151,-27467,Eastern Mediterranean
-6/2/20,Panama,14095,352,9514,4229,0,-96,-4252,Americas
+6/2/20,Oman,12799,59,2812,9928,0,-55,-8277,Eastern Mediterranean
+6/2/20,Pakistan,80463,1688,28923,49852,0,-1287,-29514,Eastern Mediterranean
+6/2/20,Panama,14095,352,9514,4229,0,-105,-4260,Americas
 6/2/20,Papua New Guinea,8,0,8,0,0,0,0,Western Pacific
-6/2/20,Paraguay,1013,11,498,504,0,-1,-175,Americas
-6/2/20,Peru,170039,4634,69257,96148,0,-2226,-50152,Americas
-6/2/20,Philippines,18997,966,4063,13968,0,-132,-2189,Western Pacific
-6/2/20,Poland,24395,1092,11726,11577,0,-164,-2657,Europe
-6/2/20,Portugal,32895,1436,19869,11590,0,-84,-2983,Europe
-6/2/20,Qatar,60259,43,36036,24180,0,-33,-22645,Eastern Mediterranean
+6/2/20,Paraguay,1013,11,498,504,0,-2,-201,Americas
+6/2/20,Peru,170039,4634,69257,96148,0,-2422,-55948,Americas
+6/2/20,Philippines,18997,966,4063,13968,0,-137,-2489,Western Pacific
+6/2/20,Poland,24395,1092,11726,11577,0,-180,-2928,Europe
+6/2/20,Portugal,32895,1436,19869,11590,0,-86,-3343,Europe
+6/2/20,Qatar,60259,43,36036,24180,0,-37,-24425,Eastern Mediterranean
 6/2/20,Reunion (FR),477,1,411,65,0,0,-49,Africa
-6/2/20,Romania,19517,1288,13526,4703,0,-139,-2291,Europe
-6/2/20,Russia,423186,5031,186602,231553,0,-2050,-97419,Europe
+6/2/20,Romania,19517,1288,13526,4703,0,-149,-2545,Europe
+6/2/20,Russia,423186,5031,186602,231553,0,-2243,-107178,Europe
 6/2/20,Rwanda,384,2,269,113,0,0,-69,Africa
 6/2/20,Saint Kitts and Nevis,15,0,15,0,0,0,0,Americas
 6/2/20,Saint Lucia,18,0,18,0,0,0,0,Americas
 6/2/20,Saint Pierre and Miquelon (FR),1,0,1,0,0,0,0,Americas
 6/2/20,Saint Vincent and the Grenadines,26,0,15,11,0,0,-10,Americas
-6/2/20,San Marino,672,42,384,246,0,0,-191,Europe
-6/2/20,Sao Tome and Principe,484,12,68,404,0,0,-109,Africa
-6/2/20,Saudi Arabia,89011,549,65790,22672,0,-462,-22100,Eastern Mediterranean
-6/2/20,Senegal,3836,43,1954,1839,0,-21,-1470,Africa
-6/2/20,Serbia,11454,245,6766,4443,0,-10,-4795,Europe
+6/2/20,San Marino,672,42,384,246,0,0,-206,Europe
+6/2/20,Sao Tome and Principe,484,12,68,404,0,0,-114,Africa
+6/2/20,Saudi Arabia,89011,549,65790,22672,0,-503,-23750,Eastern Mediterranean
+6/2/20,Senegal,3836,43,1954,1839,0,-27,-1571,Africa
+6/2/20,Serbia,11454,245,6766,4443,0,-11,-4858,Europe
 6/2/20,Seychelles,11,0,11,0,0,0,0,Africa
-6/2/20,Sierra Leone,896,46,480,370,0,-5,-203,Africa
-6/2/20,Singapore,35836,24,23175,12637,0,-2,-7191,Western Pacific
+6/2/20,Sierra Leone,896,46,480,370,0,-5,-206,Africa
+6/2/20,Singapore,35836,24,23175,12637,0,-2,-7988,Western Pacific
 6/2/20,Sint Maarten (NL),77,15,60,2,0,0,-2,Americas
-6/2/20,Slovakia,1522,28,1372,122,0,0,-38,Europe
+6/2/20,Slovakia,1522,28,1372,122,0,0,-54,Europe
 6/2/20,Slovenia,1475,109,1358,8,0,0,-1,Europe
-6/2/20,Somalia,2089,79,361,1649,0,-9,-261,Eastern Mediterranean
-6/2/20,South Africa,35812,755,18313,16744,0,-813,-21554,Africa
-6/2/20,South Korea,11590,273,10467,850,0,-5,-293,Western Pacific
-6/2/20,South Sudan,994,10,6,978,0,-17,-43,Africa
+6/2/20,Somalia,2089,79,361,1649,0,-9,-288,Eastern Mediterranean
+6/2/20,South Africa,35812,755,18313,16744,0,-870,-23750,Africa
+6/2/20,South Korea,11590,273,10467,850,0,-6,-307,Western Pacific
+6/2/20,South Sudan,994,10,6,978,0,-20,-52,Africa
 6/2/20,Spain,239932,27127,150376,62429,0,-9,0,Europe
-6/2/20,Sri Lanka,1683,11,823,849,0,0,-519,South-East Asia
-6/2/20,Sudan,5310,307,1625,3378,0,-161,-1095,Eastern Mediterranean
-6/2/20,Suriname,54,1,9,44,0,-4,-39,Americas
-6/2/20,Sweden,38589,4468,0,34121,0,-423,0,Europe
-6/2/20,Switzerland,30874,1920,28500,454,0,-19,-400,Europe
+6/2/20,Sri Lanka,1683,11,823,849,0,0,-548,South-East Asia
+6/2/20,Sudan,5310,307,1625,3378,0,-170,-1195,Eastern Mediterranean
+6/2/20,Suriname,54,1,9,44,0,-5,-39,Americas
+6/2/20,Sweden,38589,4468,0,34121,0,-471,0,Europe
+6/2/20,Switzerland,30874,1920,28500,454,0,-34,-400,Europe
 6/2/20,Syria,123,6,0,117,0,0,0,Eastern Mediterranean
 6/2/20,Taiwan*,443,7,427,9,0,0,-6,Western Pacific
-6/2/20,Tajikistan,4100,47,2217,1836,0,-3,-1286,Europe
+6/2/20,Tajikistan,4100,47,2217,1836,0,-3,-1407,Europe
 6/2/20,Tanzania,509,21,183,305,0,0,0,Africa
-6/2/20,Thailand,3083,58,2966,59,0,0,-21,South-East Asia
+6/2/20,Thailand,3083,58,2966,59,0,0,-27,South-East Asia
 6/2/20,Timor-Leste,24,0,0,24,0,0,0,South-East Asia
-6/2/20,Togo,445,13,230,202,0,0,-69,Africa
+6/2/20,Togo,445,13,230,202,0,0,-114,Africa
 6/2/20,Trinidad and Tobago,117,8,108,1,0,0,-1,Americas
-6/2/20,Tunisia,1086,48,965,73,0,-1,-34,Eastern Mediterranean
-6/2/20,Turkey,165555,4585,129921,31049,0,-240,-22443,Europe
+6/2/20,Tunisia,1086,48,965,73,0,-1,-37,Eastern Mediterranean
+6/2/20,Turkey,165555,4585,129921,31049,0,-257,-23458,Europe
 6/2/20,Turks and Caicos Islands (UK),12,1,11,0,0,0,0,Americas
-6/2/20,US,1837367,106461,463868,1267038,0,-9666,-112466,Americas
-6/2/20,Uganda,489,0,82,407,0,0,-217,Africa
-6/2/20,Ukraine,24895,733,10461,13701,0,-178,-4310,Europe
-6/2/20,United Arab Emirates,35788,269,18726,16793,0,-22,-9403,Eastern Mediterranean
-6/2/20,United Kingdom,279022,39448,952,238622,0,-2369,1,Europe
-6/2/20,Uruguay,826,23,691,112,0,0,-101,Americas
-6/2/20,Uzbekistan,3760,15,2908,837,0,-4,-1111,Europe
-6/2/20,Venezuela,1819,18,334,1467,0,-8,-501,Americas
-6/2/20,Vietnam,328,0,298,30,0,0,-25,Western Pacific
+6/2/20,US,1837367,106461,463868,1267038,0,-10502,-119635,Americas
+6/2/20,Uganda,489,0,82,407,0,0,-269,Africa
+6/2/20,Ukraine,24895,733,10461,13701,0,-189,-4593,Europe
+6/2/20,United Arab Emirates,35788,269,18726,16793,0,-24,-10135,Eastern Mediterranean
+6/2/20,United Kingdom,279022,39448,952,238622,0,-2602,0,Europe
+6/2/20,Uruguay,826,23,691,112,0,-1,-110,Americas
+6/2/20,Uzbekistan,3760,15,2908,837,0,-4,-1188,Europe
+6/2/20,Venezuela,1819,18,334,1467,0,-9,-501,Americas
+6/2/20,Vietnam,328,0,298,30,0,0,-27,Western Pacific
 6/2/20,West Bank and Gaza,451,3,372,76,0,0,-43,Eastern Mediterranean
 6/2/20,Western Sahara,9,1,6,2,0,0,-2,Africa
-6/2/20,Yemen,399,87,15,297,0,-121,-64,Eastern Mediterranean
+6/2/20,Yemen,399,87,15,297,0,-127,-76,Eastern Mediterranean
 6/2/20,Zambia,1089,7,912,170,0,-4,-230,Africa
-6/2/20,Zimbabwe,206,4,29,173,0,0,-25,Africa
+6/2/20,Zimbabwe,206,4,29,173,0,0,-33,Africa
 6/3/20,Afghanistan,17267,294,1522,15451,758,24,72,Eastern Mediterranean
 6/3/20,Albania,1184,33,898,253,20,0,7,Europe
 6/3/20,Algeria,9733,673,6218,2842,107,6,151,Africa
