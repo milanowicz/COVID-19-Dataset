@@ -88,6 +88,7 @@ class jhu:
 
         # full_table = pd.concat([conf_df_long, deaths_df_long['Deaths'], recv_df_long['Recovered']], axis=1, sort=False)
         full_table = full_table[full_table['Province/State'].str.contains(',') != True]
+        full_table['Date'] = pd.to_datetime(full_table['Date'])
 
         # Fixing off data from WHO data
         feb_12_conf = {'Hubei': 34874}
@@ -128,12 +129,8 @@ class jhu:
 
         full_table['WHO Region'] = full_table['Country'].map(jhu.get_who_regions())
 
-        # find missing values
-        print(full_table[full_table['WHO Region'].isna()]['Country'].unique())
-
         csv = 'data/jhu/time_series_covid19_confirmed_deaths_recovered.csv'
         full_table.to_csv(csv, index=False)
-        shutil.rmtree(path)
         print('Create file ' + csv + '\n')
 
         # Grouped by day, country
@@ -168,10 +165,13 @@ class jhu:
         full_grouped['WHO Region'] = full_grouped['Country'].map(jhu.get_who_regions())
         csv = 'data/jhu/time_series_covid19_grouped_day_country.csv'
         full_grouped.to_csv(csv, index=False)
+        print('Create file ' + csv + '\n')
 
-        # table
+        # Grouped by Day
+        full_grouped['Date'] = pd.to_datetime(full_grouped['Date'])
         day_wise = full_grouped.groupby('Date')['Confirmed', 'Deaths', 'Recovered',
-                                                'Active', 'New cases', 'New deaths', 'New recovered'].sum().reset_index()
+                                                'Active', 'New cases', 'New deaths',
+                                                'New recovered'].sum().reset_index()
 
         # number cases per 100 cases
         day_wise['Deaths / 100 Cases'] = round((day_wise['Deaths'] / day_wise['Confirmed']) * 100, 2)
@@ -190,6 +190,7 @@ class jhu:
         day_wise[cols] = day_wise[cols].fillna(0)
         csv = 'data/jhu/time_series_covid19_grouped_by_days.csv'
         day_wise.to_csv(csv, index=False)
+        print('Create file ' + csv + '\n')
 
         # Country wise
         # ============
@@ -238,6 +239,13 @@ class jhu:
         country_wise[country_wise['WHO Region'].isna()]['Country'].unique()
         csv = 'data/jhu/time_series_covid19_grouped_by_countries.csv'
         country_wise.to_csv(csv, index=False)
+        print('Create file ' + csv + '\n')
+
+        # find missing values
+        print('Find missing values for WHO Region')
+        print(full_table[full_table['WHO Region'].isna()]['Country'].unique())
+        # Delete csv files
+        shutil.rmtree(path)
 
     @staticmethod
     def get_who_regions():
@@ -278,7 +286,7 @@ class jhu:
         # European Region EURO
         euro = 'Albania, Andorra, Greenland (DK), Kosovo, Holy See, Liechtenstein, Armenia, Czechia, Austria, ' \
                'Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, ' \
-               'Denmark, ' \
+               'Denmark, Faroe Islands (DK), ' \
                'Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, ' \
                'Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, ' \
                'North Macedonia, Norway, Poland, Portugal, Moldova, Romania, Russia, San Marino, Serbia, Slovakia, ' \
