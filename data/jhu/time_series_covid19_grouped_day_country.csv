@@ -30722,7 +30722,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,Sri Lanka,1950,11,1446,493,3,0,25,South-East Asia
 2020-06-19,Sudan,8316,506,3086,4724,296,19,120,Eastern Mediterranean
 2020-06-19,Suriname,293,8,74,211,16,1,0,Americas
-2020-06-19,Sweden,56043,5053,0,50990,0,0,0,Europe
+2020-06-19,Sweden,58076,5105,0,52971,2033,52,0,Europe
 2020-06-19,Switzerland,31235,1956,28900,379,35,0,0,Europe
 2020-06-19,Syria,187,7,0,180,0,0,0,Eastern Mediterranean
 2020-06-19,Taiwan*,446,7,434,5,0,0,0,Western Pacific
@@ -30774,7 +30774,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Bolivia,23512,740,5086,17686,1036,25,416,Americas
 2020-06-20,Bosnia and Herzegovina,3273,169,2241,863,0,0,0,Europe
 2020-06-20,Botswana,89,1,25,63,0,0,0,Africa
-2020-06-20,Brazil,1032913,49976,576779,406158,0,1022,25148,Americas
+2020-06-20,Brazil,1067579,49976,576779,440824,34666,1022,25148,Americas
 2020-06-20,British Virgin Islands (UK),8,1,7,0,0,0,0,Americas
 2020-06-20,Brunei,141,3,138,0,0,0,0,Western Pacific
 2020-06-20,Bulgaria,3872,199,2027,1646,117,6,19,Europe
@@ -30927,7 +30927,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Sri Lanka,1950,11,1472,467,0,0,26,South-East Asia
 2020-06-20,Sudan,8580,521,3325,4734,264,15,239,Eastern Mediterranean
 2020-06-20,Suriname,303,8,74,221,10,0,0,Americas
-2020-06-20,Sweden,56043,5053,0,50990,0,0,0,Europe
+2020-06-20,Sweden,58591,5109,0,53482,515,4,0,Europe
 2020-06-20,Switzerland,31243,1956,28900,387,8,0,0,Europe
 2020-06-20,Syria,198,7,0,191,11,0,0,Eastern Mediterranean
 2020-06-20,Taiwan*,446,7,434,5,0,0,0,Western Pacific
@@ -30979,7 +30979,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Bolivia,24388,773,5454,18161,876,33,368,Americas
 2020-06-21,Bosnia and Herzegovina,3273,169,2241,863,0,0,0,Europe
 2020-06-21,Botswana,89,1,25,63,0,0,0,Africa
-2020-06-21,Brazil,1083341,50591,588118,444632,50428,615,11339,Americas
+2020-06-21,Brazil,1083341,50591,588118,444632,15762,615,11339,Americas
 2020-06-21,British Virgin Islands (UK),8,1,7,0,0,0,0,Americas
 2020-06-21,Brunei,141,3,138,0,0,0,0,Western Pacific
 2020-06-21,Bulgaria,3905,199,2074,1632,33,0,47,Europe
@@ -31132,7 +31132,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Sri Lanka,1950,11,1498,441,0,0,26,South-East Asia
 2020-06-21,Sudan,8580,521,3325,4734,0,0,0,Eastern Mediterranean
 2020-06-21,Suriname,314,8,106,200,11,0,32,Americas
-2020-06-21,Sweden,56043,5053,0,50990,0,0,0,Europe
+2020-06-21,Sweden,58848,5111,0,53737,257,2,0,Europe
 2020-06-21,Switzerland,31292,1956,29000,336,49,0,100,Europe
 2020-06-21,Syria,204,7,0,197,6,0,0,Eastern Mediterranean
 2020-06-21,Taiwan*,446,7,434,5,0,0,0,Western Pacific
