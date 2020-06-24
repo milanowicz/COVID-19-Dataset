@@ -30690,7 +30690,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,Panama,24274,485,14359,9430,923,10,577,Americas
 2020-06-19,Papua New Guinea,8,0,8,0,0,0,0,Western Pacific
 2020-06-19,Paraguay,1336,13,741,582,6,0,24,Americas
-2020-06-19,Peru,244388,7461,131190,105737,0,0,0,Americas
+2020-06-19,Peru,247925,7660,135520,104745,3537,199,4330,Americas
 2020-06-19,Philippines,28459,1130,7378,19951,660,14,288,Western Pacific
 2020-06-19,Poland,31316,1334,15698,14284,301,18,381,Europe
 2020-06-19,Portugal,38464,1527,24477,12460,375,3,467,Europe
@@ -30895,7 +30895,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Panama,25222,493,14359,10370,948,8,0,Americas
 2020-06-20,Papua New Guinea,8,0,8,0,0,0,0,Western Pacific
 2020-06-20,Paraguay,1362,13,791,558,26,0,50,Americas
-2020-06-20,Peru,251338,7861,143017,100460,6950,400,11827,Americas
+2020-06-20,Peru,251338,7861,143017,100460,3413,201,7497,Americas
 2020-06-20,Philippines,29400,1150,7650,20600,941,20,272,Western Pacific
 2020-06-20,Poland,31620,1346,16181,14093,304,12,483,Europe
 2020-06-20,Portugal,38841,1528,24906,12407,377,1,429,Europe
@@ -31100,7 +31100,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Panama,26030,501,14359,11170,808,8,0,Americas
 2020-06-21,Papua New Guinea,8,0,8,0,0,0,0,Western Pacific
 2020-06-21,Paraguay,1379,13,871,495,17,0,80,Americas
-2020-06-21,Peru,251338,7861,141967,101510,0,0,-1050,Americas
+2020-06-21,Peru,254936,8045,141967,104924,3598,184,-1050,Americas
 2020-06-21,Philippines,30052,1169,7893,20990,652,19,243,Western Pacific
 2020-06-21,Poland,31931,1356,16683,13892,311,10,502,Europe
 2020-06-21,Portugal,39133,1530,25376,12227,292,2,470,Europe
@@ -31305,7 +31305,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-22,Panama,26752,521,14664,11567,722,20,305,Americas
 2020-06-22,Papua New Guinea,9,0,8,1,1,0,0,Western Pacific
 2020-06-22,Paraguay,1392,13,903,476,13,0,32,Americas
-2020-06-22,Peru,257447,8223,145320,103904,6109,362,3353,Americas
+2020-06-22,Peru,257447,8223,145320,103904,2511,178,3353,Americas
 2020-06-22,Philippines,30682,1177,8143,21362,630,8,250,Western Pacific
 2020-06-22,Poland,32227,1359,17076,13792,296,3,393,Europe
 2020-06-22,Portugal,39392,1534,25548,12310,259,4,172,Europe
