@@ -31774,3 +31774,208 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-24,Yemen,1015,274,379,362,23,13,23,Eastern Mediterranean
 2020-06-24,Zambia,1489,18,1223,248,12,0,10,Africa
 2020-06-24,Zimbabwe,530,6,123,401,5,0,59,Africa
+2020-06-25,Afghanistan,30175,675,10174,19326,535,36,305,Eastern Mediterranean
+2020-06-25,Albania,2192,49,1250,893,78,2,33,Europe
+2020-06-25,Algeria,12445,878,8920,2647,197,9,128,Africa
+2020-06-25,Andorra,855,52,797,6,0,0,0,Europe
+2020-06-25,Angola,212,10,81,121,15,0,4,Africa
+2020-06-25,Anguilla (UK),3,0,3,0,0,0,0,Americas
+2020-06-25,Antigua and Barbuda,65,3,22,40,39,0,0,Americas
+2020-06-25,Argentina,52457,1150,14788,36519,2606,34,972,Americas
+2020-06-25,Armenia,22488,397,11335,10756,771,11,538,Europe
+2020-06-25,Aruba (NL),101,3,98,0,0,0,0,Americas
+2020-06-25,Australia,7595,104,6958,533,37,0,27,Western Pacific
+2020-06-25,Austria,17477,698,16320,459,28,5,38,Europe
+2020-06-25,Azerbaijan,14852,180,8059,6613,547,6,291,Europe
+2020-06-25,Bahamas,104,11,84,9,0,0,1,Americas
+2020-06-25,Bahrain,24081,71,18501,5509,511,2,524,Eastern Mediterranean
+2020-06-25,Bangladesh,126606,1621,51495,73490,3946,39,1829,South-East Asia
+2020-06-25,Barbados,97,7,85,5,0,0,0,Americas
+2020-06-25,Belarus,60382,367,41448,18567,437,5,1312,Europe
+2020-06-25,Belgium,61007,9726,16890,34391,109,4,119,Europe
+2020-06-25,Belize,23,2,17,4,0,0,0,Americas
+2020-06-25,Benin,1017,14,288,715,115,1,11,Africa
+2020-06-25,Bhutan,70,0,34,36,0,0,0,South-East Asia
+2020-06-25,Bolivia,28503,913,7338,20252,1016,37,543,Americas
+2020-06-25,Bosnia and Herzegovina,3796,175,2322,1299,120,2,25,Europe
+2020-06-25,Botswana,92,1,25,66,0,0,0,Africa
+2020-06-25,Brazil,1228114,54971,679524,493619,39483,1141,19055,Americas
+2020-06-25,British Virgin Islands (UK),8,1,7,0,0,0,0,Americas
+2020-06-25,Brunei,141,3,138,0,0,0,0,Western Pacific
+2020-06-25,Bulgaria,4408,211,2370,1827,166,2,107,Europe
+2020-06-25,Burkina Faso,934,53,826,55,15,0,1,Africa
+2020-06-25,Burma,293,6,211,76,0,0,3,South-East Asia
+2020-06-25,Burundi,144,1,93,50,0,0,0,Africa
+2020-06-25,Cabo Verde,1003,8,562,433,4,0,83,Africa
+2020-06-25,Cambodia,130,0,127,3,0,0,0,Western Pacific
+2020-06-25,Cameroon,12592,313,10100,2179,0,0,0,Africa
+2020-06-25,Canada,104450,8566,0,95884,376,23,0,Americas
+2020-06-25,Cayman Islands (UK),196,1,184,11,0,0,15,Americas
+2020-06-25,Central African Republic,3244,40,607,2597,145,2,35,Africa
+2020-06-25,Chad,863,74,774,15,3,0,4,Africa
+2020-06-25,Chile,259064,4903,219327,34834,4648,172,4234,Americas
+2020-06-25,China,84701,4641,79572,488,28,1,10,Western Pacific
+2020-06-25,Colombia,77313,2611,31729,42973,3553,87,1212,Americas
+2020-06-25,Comoros,272,7,161,104,7,0,2,Africa
+2020-06-25,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
+2020-06-25,Congo (Kinshasa),6411,142,885,5384,198,0,15,Africa
+2020-06-25,Costa Rica,2684,12,1227,1445,169,0,17,Americas
+2020-06-25,Cote d'Ivoire,8334,60,3487,4787,170,2,68,Africa
+2020-06-25,Croatia,2483,107,2149,227,95,0,4,Europe
+2020-06-25,Cuba,2321,85,2171,65,2,0,41,Americas
+2020-06-25,Curacao (NL),23,1,19,3,0,0,0,Americas
+2020-06-25,Cyprus,992,19,824,149,1,0,0,Europe
+2020-06-25,Czechia,10870,345,7649,2876,93,2,61,Europe
+2020-06-25,Denmark,12636,603,11460,573,21,0,38,Europe
+2020-06-25,Djibouti,4635,52,4269,314,5,0,87,Eastern Mediterranean
+2020-06-25,Dominica,18,0,18,0,0,0,0,Americas
+2020-06-25,Dominican Republic,29141,698,16223,12220,510,7,217,Americas
+2020-06-25,Ecuador,53156,4343,26097,22716,1513,69,1106,Americas
+2020-06-25,Egypt,61130,2533,16338,42259,1569,83,403,Eastern Mediterranean
+2020-06-25,El Salvador,5336,126,3116,2094,186,7,192,Americas
+2020-06-25,Equatorial Guinea,2001,32,515,1454,337,0,0,Africa
+2020-06-25,Eritrea,144,0,39,105,0,0,0,Africa
+2020-06-25,Estonia,1984,69,1790,125,1,0,7,Europe
+2020-06-25,Eswatini,706,8,347,351,16,1,16,Africa
+2020-06-25,Ethiopia,5175,81,1544,3550,141,3,58,Africa
+2020-06-25,Falkland Islands (Malvinas) (UK),13,0,13,0,0,0,0,Africa
+2020-06-25,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
+2020-06-25,Fiji,18,0,18,0,0,0,0,Western Pacific
+2020-06-25,Finland,7172,327,6600,245,5,0,0,Europe
+2020-06-25,France,191357,29683,71385,90289,0,19,184,Europe
+2020-06-25,French Guiana,3033,10,1096,1927,206,1,40,Americas
+2020-06-25,French Polynesia,60,0,60,0,0,0,0,Western Pacific
+2020-06-25,Gabon,5087,40,2270,2777,131,1,93,Africa
+2020-06-25,Gambia,43,2,26,15,1,0,0,Africa
+2020-06-25,Georgia,917,14,776,127,3,0,5,Europe
+2020-06-25,Germany,193371,8940,176764,7667,500,12,342,Europe
+2020-06-25,Ghana,15473,95,11431,3947,460,0,353,Africa
+2020-06-25,Gibraltar (UK),176,0,176,0,0,0,0,Europe
+2020-06-25,Greece,3321,191,1374,1756,11,1,0,Europe
+2020-06-25,Greenland (DK),13,0,13,0,0,0,0,Europe
+2020-06-25,Grenada,23,0,23,0,0,0,0,Americas
+2020-06-25,Guadeloupe (FR),174,14,157,3,0,0,0,Americas
+2020-06-25,Guatemala,15619,623,2949,12047,800,22,19,Americas
+2020-06-25,Guinea,5174,29,3861,1284,0,0,0,Africa
+2020-06-25,Guinea-Bissau,1556,19,191,1346,0,0,0,Africa
+2020-06-25,Guyana,215,12,108,95,6,0,1,Americas
+2020-06-25,Haiti,5543,96,512,4935,114,4,0,Americas
+2020-06-25,Holy See,12,0,12,0,0,0,0,Europe
+2020-06-25,Honduras,15366,426,1600,13340,795,9,54,Americas
+2020-06-25,Hungary,4123,577,2640,906,9,1,22,Europe
+2020-06-25,Iceland,1830,10,1811,9,6,0,5,Europe
+2020-06-25,India,490401,15301,285637,189463,17296,407,13940,South-East Asia
+2020-06-25,Indonesia,50187,2620,20449,27118,1178,47,791,South-East Asia
+2020-06-25,Iran,215096,10130,175103,29863,2595,134,3007,Eastern Mediterranean
+2020-06-25,Iraq,39139,1437,18051,19651,2437,107,1237,Eastern Mediterranean
+2020-06-25,Ireland,25405,1727,23364,314,9,1,0,Europe
+2020-06-25,Israel,22400,309,16007,6084,356,1,67,Europe
+2020-06-25,Italy,239706,34678,186725,18303,296,34,614,Europe
+2020-06-25,Jamaica,684,10,526,148,6,0,5,Americas
+2020-06-25,Japan,18055,971,16142,942,92,4,41,Western Pacific
+2020-06-25,Jordan,1086,9,797,280,15,0,15,Eastern Mediterranean
+2020-06-25,Kazakhstan,19750,140,12220,7390,465,4,338,Europe
+2020-06-25,Kenya,5384,132,1857,3395,178,2,34,Africa
+2020-06-25,Kosovo,2169,37,1047,1085,0,0,0,Europe
+2020-06-25,Kuwait,42788,339,33367,9082,909,2,558,Eastern Mediterranean
+2020-06-25,Kyrgyzstan,4204,43,2162,1999,250,0,50,Europe
+2020-06-25,Laos,19,0,19,0,0,0,0,Western Pacific
+2020-06-25,Latvia,1111,30,903,178,0,0,0,Europe
+2020-06-25,Lebanon,1662,33,1144,485,18,0,41,Eastern Mediterranean
+2020-06-25,Lesotho,17,0,2,15,0,0,0,Africa
+2020-06-25,Liberia,681,34,278,369,19,0,8,Africa
+2020-06-25,Libya,698,18,140,540,28,0,2,Eastern Mediterranean
+2020-06-25,Liechtenstein,82,1,81,0,0,0,0,Europe
+2020-06-25,Lithuania,1806,78,1494,234,2,0,10,Europe
+2020-06-25,Luxembourg,4151,110,3968,73,11,0,3,Europe
+2020-06-25,Madagascar,1829,16,823,990,42,0,44,Africa
+2020-06-25,Malawi,960,12,260,688,19,1,1,Africa
+2020-06-25,Malaysia,8600,121,8271,208,4,0,40,Western Pacific
+2020-06-25,Maldives,2277,8,1848,421,16,0,9,South-East Asia
+2020-06-25,Mali,2039,113,1383,543,34,1,29,Africa
+2020-06-25,Malta,668,9,627,32,3,0,3,Europe
+2020-06-25,Martinique (FR),236,14,98,124,0,0,0,Americas
+2020-06-25,Mauritania,3739,119,1225,2395,220,3,151,Africa
+2020-06-25,Mauritius,341,10,326,5,0,0,0,Africa
+2020-06-25,Mayotte (FR),2508,32,2218,258,41,0,0,Africa
+2020-06-25,Mexico,202951,25060,152362,25529,6104,736,3875,Americas
+2020-06-25,Moldova,15453,502,8599,6352,375,7,199,Europe
+2020-06-25,Monaco,102,4,95,3,0,0,0,Europe
+2020-06-25,Mongolia,219,0,170,49,3,0,1,Western Pacific
+2020-06-25,Montenegro,414,9,315,90,25,0,0,Europe
+2020-06-25,Montserrat (UK),11,1,10,0,0,0,0,Americas
+2020-06-25,Morocco,11338,217,8500,2621,431,1,32,Eastern Mediterranean
+2020-06-25,Mozambique,788,5,0,783,26,0,0,Africa
+2020-06-25,Namibia,102,0,21,81,26,0,0,Africa
+2020-06-25,Nepal,11162,26,2650,8486,434,2,312,South-East Asia
+2020-06-25,Netherlands,49914,6100,0,43814,110,3,0,Europe
+2020-06-25,New Zealand,1520,22,1484,14,1,0,0,Western Pacific
+2020-06-25,Nicaragua,2170,74,1238,858,0,0,0,Americas
+2020-06-25,Niger,1056,67,917,72,5,0,4,Africa
+2020-06-25,Nigeria,22614,549,7822,14243,594,7,209,Africa
+2020-06-25,North Macedonia,5595,265,2166,3164,150,6,75,Europe
+2020-06-25,Norway,8788,249,8138,401,0,0,0,Europe
+2020-06-25,Oman,34902,144,18520,16238,1366,2,548,Eastern Mediterranean
+2020-06-25,Pakistan,195745,3962,84168,107615,2775,59,2861,Eastern Mediterranean
+2020-06-25,Panama,29037,564,14800,13673,1007,17,6,Americas
+2020-06-25,Papua New Guinea,10,0,8,2,0,0,0,Western Pacific
+2020-06-25,Paraguay,1569,13,976,580,41,0,32,Americas
+2020-06-25,Peru,268602,8761,151225,108616,3913,175,-364,Americas
+2020-06-25,Philippines,33069,1212,8910,22947,774,8,254,Western Pacific
+2020-06-25,Poland,33119,1412,18654,13053,298,16,520,Europe
+2020-06-25,Portugal,40415,1549,26382,12484,311,6,299,Europe
+2020-06-25,Qatar,91838,106,74544,17188,1060,2,1461,Eastern Mediterranean
+2020-06-25,Reunion (FR),516,2,460,54,8,1,0,Africa
+2020-06-25,Romania,25286,1565,17906,5815,460,10,515,Europe
+2020-06-25,Russia,613148,8594,374557,229997,7105,91,6335,Europe
+2020-06-25,Rwanda,850,2,385,463,20,0,9,Africa
+2020-06-25,Saint Kitts and Nevis,15,0,15,0,0,0,0,Americas
+2020-06-25,Saint Lucia,19,0,19,0,0,0,0,Americas
+2020-06-25,Saint Pierre and Miquelon (FR),1,0,1,0,0,0,0,Americas
+2020-06-25,Saint Vincent and the Grenadines,29,0,29,0,0,0,2,Americas
+2020-06-25,San Marino,698,42,653,3,0,0,6,Europe
+2020-06-25,Sao Tome and Principe,711,13,214,484,1,0,3,Africa
+2020-06-25,Saudi Arabia,170639,1428,117882,51329,3372,41,5085,Eastern Mediterranean
+2020-06-25,Senegal,6233,94,4162,1977,104,1,90,Africa
+2020-06-25,Serbia,13372,264,12154,954,137,1,43,Europe
+2020-06-25,Seychelles,11,0,11,0,0,0,0,Africa
+2020-06-25,Sierra Leone,1354,56,869,429,0,1,0,Africa
+2020-06-25,Singapore,42736,26,36604,6106,113,0,305,Western Pacific
+2020-06-25,Sint Maarten (NL),77,15,62,0,0,0,0,Americas
+2020-06-25,Slovakia,1630,28,1452,150,23,0,4,Europe
+2020-06-25,Slovenia,1547,109,1376,62,6,0,0,Europe
+2020-06-25,Somalia,2878,90,868,1920,43,0,39,Eastern Mediterranean
+2020-06-25,South Africa,118375,2292,59974,56109,6579,87,3100,Africa
+2020-06-25,South Korea,12602,282,11172,1148,39,0,198,Western Pacific
+2020-06-25,South Sudan,1942,36,224,1682,0,0,0,Africa
+2020-06-25,Spain,247486,28330,150376,68780,400,3,0,Europe
+2020-06-25,Sri Lanka,2010,11,1602,397,9,0,40,South-East Asia
+2020-06-25,Sudan,8984,556,3806,4622,95,8,107,Eastern Mediterranean
+2020-06-25,Suriname,373,10,176,187,16,0,22,Americas
+2020-06-25,Sweden,63890,5230,0,58660,1566,21,0,Europe
+2020-06-25,Switzerland,31428,1958,29000,470,52,0,0,Europe
+2020-06-25,Syria,242,7,0,235,11,0,0,Eastern Mediterranean
+2020-06-25,Taiwan*,447,7,435,5,1,0,0,Western Pacific
+2020-06-25,Tajikistan,5691,52,4267,1372,61,0,73,Europe
+2020-06-25,Tanzania,509,21,183,305,0,0,0,Africa
+2020-06-25,Thailand,3158,58,3038,62,0,0,0,South-East Asia
+2020-06-25,Timor-Leste,24,0,0,24,0,0,0,South-East Asia
+2020-06-25,Togo,588,14,394,180,5,0,2,Africa
+2020-06-25,Trinidad and Tobago,123,8,109,6,0,0,0,Americas
+2020-06-25,Tunisia,1162,50,1023,89,2,0,0,Eastern Mediterranean
+2020-06-25,Turkey,193115,5046,165706,22363,1458,21,1472,Europe
+2020-06-25,Turks and Caicos Islands (UK),15,1,11,3,0,0,0,Americas
+2020-06-25,US,2422299,124410,663562,1634327,39972,2425,7401,Americas
+2020-06-25,Uganda,821,0,731,90,16,0,14,Africa
+2020-06-25,Ukraine,40854,1078,18365,21411,1002,17,356,Europe
+2020-06-25,United Arab Emirates,46563,308,35165,11090,430,1,760,Eastern Mediterranean
+2020-06-25,United Kingdom,309033,43310,957,264766,1118,149,1,Europe
+2020-06-25,Uruguay,907,26,818,63,5,0,3,Americas
+2020-06-25,Uzbekistan,7177,20,4877,2280,187,1,192,Europe
+2020-06-25,Venezuela,4563,39,1327,3197,197,1,0,Americas
+2020-06-25,Vietnam,352,0,329,23,0,0,0,Western Pacific
+2020-06-25,West Bank and Gaza,1382,3,446,933,54,0,4,Eastern Mediterranean
+2020-06-25,Western Sahara,10,1,8,1,0,0,0,Africa
+2020-06-25,Yemen,1076,288,386,402,61,14,7,Eastern Mediterranean
+2020-06-25,Zambia,1497,18,1223,256,8,0,0,Africa
+2020-06-25,Zimbabwe,551,6,128,417,21,0,5,Africa
