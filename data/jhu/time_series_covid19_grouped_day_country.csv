@@ -27127,7 +27127,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-02,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-02,Fiji,18,0,15,3,0,0,0,Western Pacific
 2020-06-02,Finland,6887,320,5500,1067,2,2,0,Europe
-2020-06-02,France,185047,28889,66542,89616,0,107,365,Europe
+2020-06-02,France,185179,28889,66542,89748,0,107,365,Europe
 2020-06-02,French Guiana,517,1,207,309,18,0,7,Americas
 2020-06-02,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-02,Gabon,2803,20,779,2004,148,3,57,Africa
@@ -27332,7 +27332,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-03,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-03,Fiji,18,0,15,3,0,0,0,Western Pacific
 2020-06-03,Finland,6911,321,5500,1090,24,1,0,Europe
-2020-06-03,France,188903,28970,67088,92845,3856,81,546,Europe
+2020-06-03,France,185507,28970,67088,89449,328,81,546,Europe
 2020-06-03,French Guiana,533,1,254,278,16,0,47,Americas
 2020-06-03,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-03,Gabon,2902,20,801,2081,99,0,22,Africa
@@ -27537,7 +27537,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-04,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-04,Fiji,18,0,18,0,0,0,3,Western Pacific
 2020-06-04,Finland,6911,322,5800,789,0,1,300,Europe
-2020-06-04,France,186053,29013,67567,89473,0,43,479,Europe
+2020-06-04,France,186185,29013,67567,89605,678,43,479,Europe
 2020-06-04,French Guiana,556,1,296,259,23,0,42,Americas
 2020-06-04,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-04,Gabon,2955,21,818,2116,53,1,17,Africa
@@ -27742,7 +27742,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-05,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-05,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-05,Finland,6941,322,5800,819,30,0,0,Europe
-2020-06-05,France,186605,29059,68064,89482,552,46,497,Europe
+2020-06-05,France,186737,29059,68064,89614,552,46,497,Europe
 2020-06-05,French Guiana,589,1,321,267,33,0,25,Americas
 2020-06-05,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-05,Gabon,3101,21,833,2247,146,0,15,Africa
@@ -27947,7 +27947,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-06,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-06,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-06,Finland,6964,322,5800,842,23,0,0,Europe
-2020-06-06,France,187134,29090,68339,89705,529,31,275,Europe
+2020-06-06,France,187266,29090,68339,89837,529,31,275,Europe
 2020-06-06,French Guiana,639,1,348,290,50,0,27,Americas
 2020-06-06,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-06,Gabon,3101,21,833,2247,0,0,0,Africa
@@ -28152,7 +28152,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-07,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-07,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-07,Finland,6981,323,5800,858,17,1,0,Europe
-2020-06-07,France,187427,29103,68341,89983,293,13,2,Europe
+2020-06-07,France,187559,29103,68341,90115,293,13,2,Europe
 2020-06-07,French Guiana,689,1,383,305,50,0,35,Americas
 2020-06-07,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-07,Gabon,3101,21,833,2247,0,0,0,Africa
@@ -28357,7 +28357,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-08,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-08,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-08,Finland,7001,323,5800,878,20,0,0,Europe
-2020-06-08,France,187525,29156,68378,89991,98,53,37,Europe
+2020-06-08,France,187657,29156,68378,90123,98,53,37,Europe
 2020-06-08,French Guiana,729,2,400,327,40,1,17,Americas
 2020-06-08,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-08,Gabon,3101,21,833,2247,0,0,0,Africa
@@ -28562,7 +28562,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-09,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-09,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-09,Finland,7025,324,5800,901,24,1,0,Europe
-2020-06-09,France,187667,29240,68795,89632,142,84,417,Europe
+2020-06-09,France,187993,29240,68795,89958,336,84,417,Europe
 2020-06-09,French Guiana,773,2,427,344,44,0,27,Americas
 2020-06-09,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-09,Gabon,3247,21,938,2288,146,0,105,Africa
@@ -28767,7 +28767,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-10,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-10,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-10,Finland,7040,324,5800,916,15,0,0,Europe
-2020-06-10,France,188064,29263,69091,89710,397,23,296,Europe
+2020-06-10,France,188390,29263,69091,90036,397,23,296,Europe
 2020-06-10,French Guiana,865,2,457,406,92,0,30,Americas
 2020-06-10,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-10,Gabon,3375,22,978,2375,128,1,40,Africa
@@ -28972,7 +28972,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-11,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-11,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-11,Finland,7064,325,6200,539,24,1,400,Europe
-2020-06-11,France,188422,29290,69403,89729,358,27,312,Europe
+2020-06-11,France,188748,29290,69403,90055,358,27,312,Europe
 2020-06-11,French Guiana,917,2,462,453,52,0,5,Americas
 2020-06-11,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-11,Gabon,3463,23,1024,2416,88,1,46,Africa
@@ -29177,7 +29177,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-12,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-12,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-12,Finland,7073,325,6200,548,9,0,0,Europe
-2020-06-12,France,188987,29318,69640,90029,565,28,237,Europe
+2020-06-12,France,189313,29318,69640,90355,565,28,237,Europe
 2020-06-12,French Guiana,1043,2,489,552,126,0,27,Americas
 2020-06-12,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-12,Gabon,3463,23,1024,2416,0,0,0,Africa
@@ -29382,7 +29382,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-13,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-13,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-13,Finland,7087,325,6200,562,14,0,0,Europe
-2020-06-13,France,189380,29342,69845,90193,393,24,205,Europe
+2020-06-13,France,189706,29342,69845,90519,393,24,205,Europe
 2020-06-13,French Guiana,1161,2,520,639,118,0,31,Americas
 2020-06-13,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-13,Gabon,3463,23,1024,2416,0,0,0,Africa
@@ -29587,7 +29587,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-14,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-14,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-14,Finland,7104,326,6200,578,17,1,0,Europe
-2020-06-14,France,189671,29349,69882,90440,291,7,37,Europe
+2020-06-14,France,189997,29349,69882,90766,291,7,37,Europe
 2020-06-14,French Guiana,1255,3,534,718,94,1,14,Americas
 2020-06-14,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-14,Gabon,3463,23,1024,2416,0,0,0,Africa
@@ -29792,7 +29792,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-15,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-15,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-15,Finland,7108,326,6200,582,4,0,0,Europe
-2020-06-15,France,189739,29378,69782,90579,68,29,-100,Europe
+2020-06-15,France,190065,29378,69782,90905,68,29,-100,Europe
 2020-06-15,French Guiana,1326,3,552,771,71,0,18,Americas
 2020-06-15,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-15,Gabon,4033,27,1334,2672,570,4,310,Africa
@@ -29997,7 +29997,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-16,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-16,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-16,Finland,7112,326,6200,586,4,0,0,Europe
-2020-06-16,France,189664,29487,70006,90171,0,109,224,Europe
+2020-06-16,France,190292,29487,70006,90799,227,109,224,Europe
 2020-06-16,French Guiana,1421,5,619,797,95,2,67,Americas
 2020-06-16,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-16,Gabon,4114,29,1432,2653,81,2,98,Africa
@@ -30202,7 +30202,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-17,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-17,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-17,Finland,7117,326,6200,591,5,0,0,Europe
-2020-06-17,France,189975,29515,70286,90174,311,28,280,Europe
+2020-06-17,France,190603,29515,70286,90802,311,28,280,Europe
 2020-06-17,French Guiana,1554,5,663,886,133,0,44,Americas
 2020-06-17,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-17,Gabon,4229,30,1505,2694,115,1,73,Africa
@@ -30407,7 +30407,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-18,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-18,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-18,Finland,7119,326,6200,593,2,0,0,Europe
-2020-06-18,France,190176,29543,70385,90248,201,28,99,Europe
+2020-06-18,France,190804,29543,70385,90876,201,28,99,Europe
 2020-06-18,French Guiana,1758,5,784,969,204,0,121,Americas
 2020-06-18,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-18,Gabon,4340,32,1657,2651,111,2,152,Africa
@@ -30612,7 +30612,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-19,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-19,Finland,7133,326,6200,607,14,0,0,Europe
-2020-06-19,France,190745,29557,70559,90629,569,14,174,Europe
+2020-06-19,France,191373,29557,70559,91257,569,14,174,Europe
 2020-06-19,French Guiana,1969,5,840,1124,211,0,56,Americas
 2020-06-19,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-19,Gabon,4428,34,1750,2644,88,2,93,Africa
@@ -30817,7 +30817,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-20,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-20,Finland,7142,326,6200,616,9,0,0,Europe
-2020-06-20,France,191181,29571,70704,90906,436,14,145,Europe
+2020-06-20,France,191809,29571,70704,91534,436,14,145,Europe
 2020-06-20,French Guiana,2163,5,890,1268,194,0,50,Americas
 2020-06-20,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-20,Gabon,4428,34,1750,2644,0,0,0,Africa
@@ -31022,7 +31022,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-21,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-21,Finland,7143,326,6200,617,1,0,0,Europe
-2020-06-21,France,191186,29577,70724,90885,5,6,20,Europe
+2020-06-21,France,191814,29577,70724,91513,5,6,20,Europe
 2020-06-21,French Guiana,2441,6,930,1505,278,1,40,Americas
 2020-06-21,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-21,Gabon,4428,34,1750,2644,0,0,0,Africa
@@ -31227,7 +31227,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-22,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-22,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-22,Finland,7144,327,6400,417,1,1,200,Europe
-2020-06-22,France,191511,29598,70800,91113,325,21,76,Europe
+2020-06-22,France,192139,29598,70800,91741,325,21,76,Europe
 2020-06-22,French Guiana,2458,8,972,1478,17,2,42,Americas
 2020-06-22,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-22,Gabon,4739,39,2002,2698,311,5,252,Africa
@@ -31432,7 +31432,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-23,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-23,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-23,Finland,7155,327,6400,428,11,0,0,Europe
-2020-06-23,France,191799,29655,71015,91129,288,57,215,Europe
+2020-06-23,France,192521,29655,71015,91851,382,57,215,Europe
 2020-06-23,French Guiana,2593,8,1016,1569,135,0,44,Americas
 2020-06-23,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-23,Gabon,4849,39,2107,2703,110,0,105,Africa
@@ -31637,7 +31637,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-24,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-24,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-24,Finland,7167,327,6600,240,12,0,200,Europe
-2020-06-24,France,191612,29664,71201,90747,0,9,186,Europe
+2020-06-24,France,192334,29664,71201,91469,0,9,186,Europe
 2020-06-24,French Guiana,2827,9,1056,1762,234,1,40,Americas
 2020-06-24,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-24,Gabon,4956,39,2177,2740,107,0,70,Africa
@@ -31842,7 +31842,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-25,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-25,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-25,Finland,7172,327,6600,245,5,0,0,Europe
-2020-06-25,France,191357,29683,71385,90289,0,19,184,Europe
+2020-06-25,France,192079,29683,71385,91011,0,19,184,Europe
 2020-06-25,French Guiana,3033,10,1096,1927,206,1,40,Americas
 2020-06-25,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-25,Gabon,5087,40,2270,2777,131,1,93,Africa
@@ -32047,7 +32047,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-26,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-26,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-26,Finland,7191,328,6600,263,19,1,0,Europe
-2020-06-26,France,192693,29708,71613,91372,1336,25,228,Europe
+2020-06-26,France,193415,29708,71613,92094,1336,25,228,Europe
 2020-06-26,French Guiana,3270,11,1166,2093,237,1,70,Americas
 2020-06-26,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-26,Gabon,5209,40,2327,2842,122,0,57,Africa
@@ -32252,7 +32252,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-27,Faroe Islands (DK),187,0,187,0,0,0,0,Europe
 2020-06-27,Fiji,18,0,18,0,0,0,0,Western Pacific
 2020-06-27,Finland,7198,328,6600,270,7,0,0,Europe
-2020-06-27,France,192499,29707,71518,91274,0,-1,-95,Europe
+2020-06-27,France,193221,29707,71518,91996,0,-1,-95,Europe
 2020-06-27,French Guiana,3461,12,1249,2200,191,1,83,Americas
 2020-06-27,French Polynesia,60,0,60,0,0,0,0,Western Pacific
 2020-06-27,Gabon,5209,40,2327,2842,0,0,0,Africa
