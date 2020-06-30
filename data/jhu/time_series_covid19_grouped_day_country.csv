@@ -32692,7 +32692,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-29,Israel,24441,319,17218,6904,686,1,144,Europe
 2020-06-29,Italy,240436,34744,189196,16496,126,6,305,Europe
 2020-06-29,Jamaica,698,10,553,135,2,0,1,Americas
-2020-06-29,Japan,18477,972,16392,1113,111,0,65,Western Pacific
+2020-06-29,Japan,18476,972,16388,1116,110,0,61,Western Pacific
 2020-06-29,Jordan,1128,9,867,252,7,0,7,Eastern Mediterranean
 2020-06-29,Kazakhstan,21819,188,13008,8623,492,10,75,Europe
 2020-06-29,Kenya,6190,144,2013,4033,120,1,42,Africa
@@ -32778,20 +32778,20 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-29,Taiwan*,447,7,435,5,0,0,0,Western Pacific
 2020-06-29,Tajikistan,5900,52,4506,1342,51,0,58,Europe
 2020-06-29,Tanzania,509,21,183,305,0,0,0,Africa
-2020-06-29,Thailand,3171,58,3056,57,9,0,3,South-East Asia
+2020-06-29,Thailand,3169,58,3053,58,7,0,0,South-East Asia
 2020-06-29,Timor-Leste,24,0,0,24,0,0,0,South-East Asia
 2020-06-29,Togo,643,14,401,228,1,0,0,Africa
 2020-06-29,Trinidad and Tobago,126,8,109,9,0,0,0,Americas
 2020-06-29,Tunisia,1172,50,1029,93,3,0,0,Eastern Mediterranean
 2020-06-29,Turkey,198613,5115,171809,21689,1374,18,1214,Europe
 2020-06-29,Turks and Caicos Islands (UK),41,1,11,29,13,0,0,Americas
-2020-06-29,US,2590582,126141,705203,1759238,41586,338,20039,Americas
+2020-06-29,US,2590552,126140,705203,1759209,41556,337,20039,Americas
 2020-06-29,Uganda,870,0,808,62,11,0,14,Africa
-2020-06-29,Ukraine,45244,1173,19767,24304,1388,31,182,Europe
+2020-06-29,Ukraine,44538,1161,19679,23698,682,19,94,Europe
 2020-06-29,United Arab Emirates,48246,314,37076,10856,449,1,665,Eastern Mediterranean
 2020-06-29,United Kingdom,313018,43655,959,268404,814,25,1,Europe
 2020-06-29,Uruguay,932,27,822,83,3,0,4,Americas
-2020-06-29,Uzbekistan,8298,23,5496,2779,350,1,167,Europe
+2020-06-29,Uzbekistan,8222,23,5496,2703,274,1,167,Europe
 2020-06-29,Venezuela,5530,48,1649,3833,233,4,0,Americas
 2020-06-29,Vietnam,355,0,335,20,0,0,5,Western Pacific
 2020-06-29,West Bank and Gaza,2185,5,447,1733,195,1,0,Eastern Mediterranean
