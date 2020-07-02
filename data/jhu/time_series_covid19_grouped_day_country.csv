@@ -29505,7 +29505,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-13,Tunisia,1094,49.0,995,50.0,1,0,0,Eastern Mediterranean
 2020-06-13,Turkey,176677,4792.0,150087,21798.0,1459,14,985,Europe
 2020-06-13,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-13,US,2074542,116082.0,556606,1401854.0,25556,748,9220,Americas
+2020-06-13,US,2074542,116084.0,556606,1401852.0,25556,750,9220,Americas
 2020-06-13,Uganda,694,0.0,219,475.0,8,0,58,Africa
 2020-06-13,Ukraine,31177,890.0,14489,15798.0,762,10,414,Europe
 2020-06-13,United Arab Emirates,41990,288.0,26761,14941.0,491,1,815,Eastern Mediterranean
@@ -29710,7 +29710,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-14,Tunisia,1096,49.0,998,49.0,2,0,3,Eastern Mediterranean
 2020-06-14,Turkey,178239,4807.0,151417,22015.0,1562,15,1330,Europe
 2020-06-14,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-14,US,2094366,116378.0,561816,1416172.0,19824,296,5210,Americas
+2020-06-14,US,2094366,116382.0,561816,1416168.0,19824,298,5210,Americas
 2020-06-14,Uganda,696,0.0,240,456.0,2,0,21,Africa
 2020-06-14,Ukraine,31851,899.0,14596,16356.0,674,9,107,Europe
 2020-06-14,United Arab Emirates,42294,289.0,27462,14543.0,304,1,701,Eastern Mediterranean
@@ -29915,7 +29915,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-15,Tunisia,1110,49.0,999,62.0,14,0,1,Eastern Mediterranean
 2020-06-15,Turkey,179831,4825.0,152364,22642.0,1592,18,947,Europe
 2020-06-15,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-15,US,2114026,116769.0,576334,1420923.0,19660,391,14518,Americas
+2020-06-15,US,2114026,116773.0,576334,1420919.0,19660,391,14518,Americas
 2020-06-15,Uganda,705,0.0,299,406.0,9,0,59,Africa
 2020-06-15,Ukraine,32536,911.0,14771,16854.0,685,12,175,Europe
 2020-06-15,United Arab Emirates,42636,291.0,28129,14216.0,342,2,667,Eastern Mediterranean
@@ -30120,7 +30120,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-16,Tunisia,1125,49.0,1002,74.0,15,0,3,Eastern Mediterranean
 2020-06-16,Turkey,181298,4842.0,153379,23077.0,1467,17,1015,Europe
 2020-06-16,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-16,US,2137731,117607.0,583503,1436621.0,23705,838,7169,Americas
+2020-06-16,US,2137731,117612.0,583503,1436616.0,23705,839,7169,Americas
 2020-06-16,Uganda,724,0.0,351,373.0,19,0,52,Africa
 2020-06-16,Ukraine,33209,922.0,15054,17233.0,673,11,283,Europe
 2020-06-16,United Arab Emirates,42982,293.0,28861,13828.0,346,2,732,Eastern Mediterranean
@@ -30325,7 +30325,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-17,Tunisia,1128,50.0,1004,74.0,3,1,2,Eastern Mediterranean
 2020-06-17,Turkey,182727,4861.0,154640,23226.0,1429,19,1261,Europe
 2020-06-17,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-17,US,2163290,118357.0,592191,1452742.0,25559,750,8688,Americas
+2020-06-17,US,2163290,118363.0,592191,1452736.0,25559,751,8688,Americas
 2020-06-17,Uganda,732,0.0,420,312.0,8,0,69,Africa
 2020-06-17,Ukraine,33986,953.0,15485,17548.0,777,31,431,Europe
 2020-06-17,United Arab Emirates,43364,295.0,29537,13532.0,382,2,676,Eastern Mediterranean
@@ -30530,7 +30530,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-18,Tunisia,1132,50.0,1006,76.0,4,0,2,Eastern Mediterranean
 2020-06-18,Turkey,184031,4882.0,156022,23127.0,1304,21,1382,Europe
 2020-06-18,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-18,US,2191099,119061.0,599115,1472923.0,27809,704,6924,Americas
+2020-06-18,US,2191099,119067.0,599115,1472917.0,27809,704,6924,Americas
 2020-06-18,Uganda,741,0.0,486,255.0,9,0,66,Africa
 2020-06-18,Ukraine,34833,976.0,16001,17856.0,847,23,516,Europe
 2020-06-18,United Arab Emirates,43752,298.0,30241,13213.0,388,3,704,Eastern Mediterranean
@@ -30735,7 +30735,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,Tunisia,1146,50.0,1014,82.0,14,0,8,Eastern Mediterranean
 2020-06-19,Turkey,185245,4905.0,157516,22824.0,1214,23,1494,Europe
 2020-06-19,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-19,US,2222579,119733.0,606715,1496131.0,31480,672,7600,Americas
+2020-06-19,US,2222579,119739.0,606715,1496125.0,31480,672,7600,Americas
 2020-06-19,Uganda,755,0.0,492,263.0,14,0,6,Africa
 2020-06-19,Ukraine,35755,995.0,16588,18172.0,922,19,587,Europe
 2020-06-19,United Arab Emirates,44145,300.0,30996,12849.0,393,2,755,Eastern Mediterranean
@@ -30940,7 +30940,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Tunisia,1156,50.0,1017,89.0,10,0,3,Eastern Mediterranean
 2020-06-20,Turkey,186493,4927.0,158828,22738.0,1248,22,1312,Europe
 2020-06-20,Turks and Caicos Islands (UK),12,0.0,11,1.0,0,0,0,Americas
-2020-06-20,US,2255327,120340.0,617460,1517527.0,32748,607,10745,Americas
+2020-06-20,US,2255327,120349.0,617460,1517518.0,32748,610,10745,Americas
 2020-06-20,Uganda,763,0.0,492,271.0,8,0,0,Africa
 2020-06-20,Ukraine,36615,1004.0,16974,18637.0,860,9,386,Europe
 2020-06-20,United Arab Emirates,44533,301.0,31754,12478.0,388,1,758,Eastern Mediterranean
@@ -31145,7 +31145,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Tunisia,1157,50.0,1020,87.0,1,0,3,Eastern Mediterranean
 2020-06-21,Turkey,187685,4950.0,160240,22495.0,1192,23,1412,Europe
 2020-06-21,Turks and Caicos Islands (UK),14,0.0,11,3.0,2,0,0,Americas
-2020-06-21,US,2281766,120593.0,622133,1539040.0,26439,253,4673,Americas
+2020-06-21,US,2281766,120604.0,622133,1539029.0,26439,255,4673,Americas
 2020-06-21,Uganda,770,0.0,578,192.0,7,0,86,Africa
 2020-06-21,Ukraine,37361,1012.0,17078,19271.0,746,8,104,Europe
 2020-06-21,United Arab Emirates,44925,302.0,32415,12208.0,392,1,661,Eastern Mediterranean
@@ -31350,7 +31350,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-22,Tunisia,1159,50.0,1020,89.0,2,0,0,Eastern Mediterranean
 2020-06-22,Turkey,188897,4974.0,161533,22390.0,1212,24,1293,Europe
 2020-06-22,Turks and Caicos Islands (UK),14,0.0,11,3.0,0,0,0,Americas
-2020-06-22,US,2312302,120999.0,640198,1551105.0,30536,406,18065,Americas
+2020-06-22,US,2312302,121010.0,640198,1551094.0,30536,406,18065,Americas
 2020-06-22,Uganda,774,0.0,631,143.0,4,0,53,Africa
 2020-06-22,Ukraine,38056,1022.0,17211,19823.0,695,10,133,Europe
 2020-06-22,United Arab Emirates,45303,303.0,33046,11954.0,378,1,631,Eastern Mediterranean
@@ -31555,7 +31555,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-23,Tunisia,1159,50.0,1023,86.0,0,0,3,Eastern Mediterranean
 2020-06-23,Turkey,190165,5001.0,162848,22316.0,1268,27,1315,Europe
 2020-06-23,Turks and Caicos Islands (UK),14,0.0,11,3.0,0,0,0,Americas
-2020-06-23,US,2347491,121834.0,647548,1578109.0,35189,835,7350,Americas
+2020-06-23,US,2347491,121847.0,647548,1578096.0,35189,837,7350,Americas
 2020-06-23,Uganda,797,0.0,699,98.0,23,0,68,Africa
 2020-06-23,Ukraine,38901,1045.0,17538,20318.0,845,23,327,Europe
 2020-06-23,United Arab Emirates,45683,305.0,33703,11675.0,380,2,657,Eastern Mediterranean
@@ -31760,7 +31760,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-24,Tunisia,1160,50.0,1023,87.0,1,0,0,Eastern Mediterranean
 2020-06-24,Turkey,191657,5025.0,164234,22398.0,1492,24,1386,Europe
 2020-06-24,Turks and Caicos Islands (UK),15,0.0,11,4.0,1,0,0,Americas
-2020-06-24,US,2382426,122590.0,656161,1603675.0,34935,756,8613,Americas
+2020-06-24,US,2382426,122604.0,656161,1603661.0,34935,757,8613,Americas
 2020-06-24,Uganda,805,0.0,717,88.0,8,0,18,Africa
 2020-06-24,Ukraine,39852,1061.0,18009,20782.0,951,16,471,Europe
 2020-06-24,United Arab Emirates,46133,307.0,34405,11421.0,450,2,702,Eastern Mediterranean
@@ -31965,7 +31965,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-25,Tunisia,1162,50.0,1023,89.0,2,0,0,Eastern Mediterranean
 2020-06-25,Turkey,193115,5046.0,165706,22363.0,1458,21,1472,Europe
 2020-06-25,Turks and Caicos Islands (UK),15,0.0,11,4.0,0,0,0,Americas
-2020-06-25,US,2422299,125012.0,663562,1633725.0,39873,2422,7401,Americas
+2020-06-25,US,2422299,125026.0,663562,1633711.0,39873,2422,7401,Americas
 2020-06-25,Uganda,821,0.0,731,90.0,16,0,14,Africa
 2020-06-25,Ukraine,40854,1078.0,18365,21411.0,1002,17,356,Europe
 2020-06-25,United Arab Emirates,46563,308.0,35165,11090.0,430,1,760,Eastern Mediterranean
@@ -32170,7 +32170,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-26,Tunisia,1164,50.0,1023,91.0,2,0,0,Eastern Mediterranean
 2020-06-26,Turkey,194511,5065.0,167198,22248.0,1396,19,1492,Europe
 2020-06-26,Turks and Caicos Islands (UK),16,0.0,11,5.0,1,0,0,Americas
-2020-06-26,US,2467554,125618.0,670809,1671127.0,45255,606,7247,Americas
+2020-06-26,US,2467554,125631.0,670809,1671114.0,45255,605,7247,Americas
 2020-06-26,Uganda,833,0.0,761,72.0,12,0,30,Africa
 2020-06-26,Ukraine,41975,1097.0,18927,21951.0,1121,19,562,Europe
 2020-06-26,United Arab Emirates,46973,310.0,35469,11194.0,410,2,304,Eastern Mediterranean
@@ -32375,7 +32375,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-27,Tunisia,1168,50.0,1025,93.0,4,0,2,Eastern Mediterranean
 2020-06-27,Turkey,195883,5082.0,169182,21619.0,1372,17,1984,Europe
 2020-06-27,Turks and Caicos Islands (UK),16,0.0,11,5.0,0,0,0,Americas
-2020-06-27,US,2510259,126109.0,679308,1704842.0,42705,491,8499,Americas
+2020-06-27,US,2510259,126120.0,679308,1704831.0,42705,489,8499,Americas
 2020-06-27,Uganda,848,0.0,761,87.0,15,0,0,Africa
 2020-06-27,Ukraine,42932,1121.0,19350,22461.0,957,24,423,Europe
 2020-06-27,United Arab Emirates,47360,311.0,35834,11215.0,387,1,365,Eastern Mediterranean
@@ -32580,7 +32580,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-28,Tunisia,1169,50.0,1029,90.0,1,0,4,Eastern Mediterranean
 2020-06-28,Turkey,197239,5097.0,170595,21547.0,1356,15,1413,Europe
 2020-06-28,Turks and Caicos Islands (UK),28,0.0,11,17.0,12,0,0,Americas
-2020-06-28,US,2549187,126349.0,685164,1737674.0,38928,240,5856,Americas
+2020-06-28,US,2549294,126360.0,685164,1737770.0,39035,240,5856,Americas
 2020-06-28,Uganda,859,0.0,794,65.0,11,0,33,Africa
 2020-06-28,Ukraine,43856,1142.0,19585,23129.0,924,21,235,Europe
 2020-06-28,United Arab Emirates,47797,313.0,36411,11073.0,437,2,577,Eastern Mediterranean
@@ -32785,7 +32785,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-29,Tunisia,1172,50.0,1029,93.0,3,0,0,Eastern Mediterranean
 2020-06-29,Turkey,198613,5115.0,171809,21689.0,1374,18,1214,Europe
 2020-06-29,Turks and Caicos Islands (UK),41,0.0,11,30.0,13,0,0,Americas
-2020-06-29,US,2590178,126698.0,705203,1758277.0,40991,349,20039,Americas
+2020-06-29,US,2590668,126711.0,705203,1758754.0,41374,351,20039,Americas
 2020-06-29,Uganda,870,0.0,808,62.0,11,0,14,Africa
 2020-06-29,Ukraine,44538,1161.0,19679,23698.0,682,19,94,Europe
 2020-06-29,United Arab Emirates,48246,314.0,37076,10856.0,449,1,665,Eastern Mediterranean
@@ -32990,7 +32990,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-30,Tunisia,1174,50.0,1031,93.0,2,0,2,Eastern Mediterranean
 2020-06-30,Turkey,199906,5131.0,173111,21664.0,1293,16,1302,Europe
 2020-06-30,Turks and Caicos Islands (UK),41,0.0,11,30.0,0,0,0,Americas
-2020-06-30,US,2635603,127417.0,720631,1787555.0,45425,719,15428,Americas
+2020-06-30,US,2636414,127432.0,720631,1788351.0,45746,721,15428,Americas
 2020-06-30,Uganda,889,0.0,819,70.0,19,0,11,Africa
 2020-06-30,Ukraine,45254,1173.0,19792,24289.0,716,12,113,Europe
 2020-06-30,United Arab Emirates,48667,315.0,37566,10786.0,421,1,490,Eastern Mediterranean
@@ -33195,7 +33195,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-01,Tunisia,1175,50.0,1038,87.0,1,0,7,Eastern Mediterranean
 2020-07-01,Turkey,201098,5150.0,175422,20526.0,1192,19,2311,Europe
 2020-07-01,Turks and Caicos Islands (UK),42,0.0,11,31.0,1,0,0,Americas
-2020-07-01,US,2686258,128062.0,729994,1828202.0,50655,645,9363,Americas
+2020-07-01,US,2687588,128105.0,729994,1829489.0,51174,673,9363,Americas
 2020-07-01,Uganda,893,0.0,837,56.0,4,0,18,Africa
 2020-07-01,Ukraine,45924,1188.0,20244,24492.0,670,15,452,Europe
 2020-07-01,United Arab Emirates,49069,316.0,38160,10593.0,402,1,594,Eastern Mediterranean
