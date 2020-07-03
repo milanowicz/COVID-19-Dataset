@@ -33104,7 +33104,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-01,Jamaica,707,10,555,142,5,0,2,Americas
 2020-07-01,Japan,18838,976,16563,1299,223,4,105,Western Pacific
 2020-07-01,Jordan,1133,9,886,238,1,0,4,Eastern Mediterranean
-2020-07-01,Kazakhstan,42574,188,14059,28327,20266,0,501,Europe
+2020-07-01,Kazakhstan,41065,188,14059,26818,18757,0,501,Europe
 2020-07-01,Kenya,6673,149,2089,4435,307,1,50,Africa
 2020-07-01,Kosovo,2991,54,1644,1293,113,3,67,Europe
 2020-07-01,Kuwait,46940,358,37715,8867,745,4,685,Eastern Mediterranean
@@ -33309,7 +33309,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-02,Jamaica,715,10,560,145,8,0,5,Americas
 2020-07-02,Japan,19055,977,16615,1463,217,1,52,Western Pacific
 2020-07-02,Jordan,1136,9,889,238,3,0,3,Eastern Mediterranean
-2020-07-02,Kazakhstan,42574,188,14777,27609,0,0,718,Europe
+2020-07-02,Kazakhstan,42574,188,14777,27609,1509,0,718,Europe
 2020-07-02,Kenya,6941,152,2109,4680,268,3,20,Africa
 2020-07-02,Kosovo,3064,55,1707,1302,73,1,63,Europe
 2020-07-02,Kuwait,47859,359,38390,9110,919,1,675,Eastern Mediterranean
