@@ -19870,7 +19870,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-27,Tunisia,967,39,279,649,18,1,63,Eastern Mediterranean
 2020-04-27,Turkey,112261,2900,33791,75570,2131,95,4651,Europe
 2020-04-27,Turks and Caicos Islands (UK),12,1,5,6,1,0,1,Americas
-2020-04-27,US,990999,57233,111424,822342,22481,1423,4436,Americas
+2020-04-27,US,990892,57233,111424,822235,22374,1423,4436,Americas
 2020-04-27,Uganda,79,0,47,32,0,0,1,Africa
 2020-04-27,Ukraine,9009,220,864,7925,392,11,24,Europe
 2020-04-27,United Arab Emirates,10839,82,2090,8667,490,6,112,Eastern Mediterranean
@@ -20075,7 +20075,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-28,Tunisia,975,40,279,656,8,1,0,Eastern Mediterranean
 2020-04-28,Turkey,114653,2992,38809,72852,2392,92,5018,Europe
 2020-04-28,Turks and Caicos Islands (UK),12,1,5,6,0,0,0,Americas
-2020-04-28,US,1015518,59454,115936,840128,24519,2221,4512,Americas
+2020-04-28,US,1015518,59454,115936,840128,24626,2221,4512,Americas
 2020-04-28,Uganda,79,0,52,27,0,0,5,Africa
 2020-04-28,Ukraine,9410,239,992,8179,401,19,128,Europe
 2020-04-28,United Arab Emirates,11380,89,2181,9110,541,7,91,Eastern Mediterranean
@@ -33138,7 +33138,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-01,Mozambique,903,6,0,897,14,0,0,Africa
 2020-07-01,Namibia,285,0,24,261,80,0,0,Africa
 2020-07-01,Nepal,14046,30,4656,9360,482,1,1462,South-East Asia
-2020-07-01,Netherlands,50273,6113,0,44160,0,0,0,Europe
+2020-07-01,Netherlands,50335,6115,0,44220,62,2,0,Europe
 2020-07-01,New Zealand,1530,22,1490,18,2,0,6,Western Pacific
 2020-07-01,Nicaragua,2519,83,1238,1198,0,0,0,Americas
 2020-07-01,Niger,1075,67,943,65,0,0,0,Africa
@@ -33343,7 +33343,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-02,Mozambique,918,6,0,912,15,0,0,Africa
 2020-07-02,Namibia,293,0,24,269,8,0,0,Africa
 2020-07-02,Nepal,14519,31,5320,9168,473,1,664,South-East Asia
-2020-07-02,Netherlands,50335,6113,0,44222,62,0,0,Europe
+2020-07-02,Netherlands,50412,6118,0,44294,77,3,0,Europe
 2020-07-02,New Zealand,1530,22,1490,18,0,0,0,Western Pacific
 2020-07-02,Nicaragua,2519,83,1238,1198,0,0,0,Americas
 2020-07-02,Niger,1081,68,959,54,6,1,16,Africa
@@ -33548,7 +33548,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-03,Mozambique,939,6,0,933,21,0,0,Africa
 2020-07-03,Namibia,350,0,25,325,57,0,1,Africa
 2020-07-03,Nepal,15259,32,6143,9084,740,1,823,South-East Asia
-2020-07-03,Netherlands,50335,6113,0,44222,0,0,0,Europe
+2020-07-03,Netherlands,50487,6120,0,44367,75,2,0,Europe
 2020-07-03,New Zealand,1530,22,1490,18,0,0,0,Western Pacific
 2020-07-03,Nicaragua,2519,83,1238,1198,0,0,0,Americas
 2020-07-03,Niger,1082,68,963,51,1,0,4,Africa
@@ -33753,7 +33753,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-04,Mozambique,969,7,0,962,30,1,0,Africa
 2020-07-04,Namibia,375,0,25,350,25,0,0,Africa
 2020-07-04,Nepal,15491,34,6415,9042,232,2,272,South-East Asia
-2020-07-04,Netherlands,50335,6113,0,44222,0,0,0,Europe
+2020-07-04,Netherlands,50548,6126,0,44422,61,6,0,Europe
 2020-07-04,New Zealand,1533,22,1490,21,3,0,0,Western Pacific
 2020-07-04,Nicaragua,2519,83,1238,1198,0,0,0,Americas
 2020-07-04,Niger,1082,68,963,51,0,0,0,Africa
@@ -33958,7 +33958,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-05,Mozambique,987,8,0,979,18,1,0,Africa
 2020-07-05,Namibia,412,0,25,387,37,0,0,Africa
 2020-07-05,Nepal,15784,34,6547,9203,293,0,132,South-East Asia
-2020-07-05,Netherlands,50621,6127,0,44494,286,14,0,Europe
+2020-07-05,Netherlands,50621,6127,0,44494,73,1,0,Europe
 2020-07-05,New Zealand,1534,22,1490,22,1,0,0,Western Pacific
 2020-07-05,Nicaragua,2519,83,1238,1198,0,0,0,Americas
 2020-07-05,Niger,1088,68,965,55,6,0,2,Africa
