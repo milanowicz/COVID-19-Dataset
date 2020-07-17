@@ -11110,7 +11110,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-16,Chad,0,0,0,0,0,0,0,Africa
 2020-03-16,Chile,155,0,0,155,81,0,0,Americas
 2020-03-16,China,81033,3217,66178,11638,30,14,893,Western Pacific
-2020-03-16,Colombia,54,0,0,54,20,0,0,Americas
+2020-03-16,Colombia,57,0,0,57,23,0,0,Americas
 2020-03-16,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-16,Congo (Brazzaville),1,0,0,1,0,0,0,Africa
 2020-03-16,Congo (Kinshasa),2,0,0,2,0,0,0,Africa
@@ -11315,7 +11315,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-17,Chad,0,0,0,0,0,0,0,Africa
 2020-03-17,Chile,201,0,0,201,46,0,0,Americas
 2020-03-17,China,81058,3230,67066,10762,25,13,888,Western Pacific
-2020-03-17,Colombia,65,0,1,64,11,0,1,Americas
+2020-03-17,Colombia,75,0,1,74,18,0,1,Americas
 2020-03-17,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-17,Congo (Brazzaville),1,0,0,1,0,0,0,Africa
 2020-03-17,Congo (Kinshasa),3,0,0,3,1,0,0,Africa
@@ -11520,7 +11520,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-18,Chad,0,0,0,0,0,0,0,Africa
 2020-03-18,Chile,238,0,0,238,37,0,0,Americas
 2020-03-18,China,81102,3241,68023,9838,44,11,957,Western Pacific
-2020-03-18,Colombia,93,0,1,92,28,0,0,Americas
+2020-03-18,Colombia,102,0,1,101,27,0,0,Americas
 2020-03-18,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-18,Congo (Brazzaville),1,0,0,1,0,0,0,Africa
 2020-03-18,Congo (Kinshasa),4,0,0,4,1,0,0,Africa
@@ -11725,7 +11725,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-19,Chad,1,0,0,1,1,0,0,Africa
 2020-03-19,Chile,238,0,0,238,0,0,0,Americas
 2020-03-19,China,81156,3249,68803,9104,54,8,780,Western Pacific
-2020-03-19,Colombia,102,0,1,101,9,0,0,Americas
+2020-03-19,Colombia,108,0,1,107,6,0,0,Americas
 2020-03-19,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-19,Congo (Brazzaville),3,0,0,3,2,0,0,Africa
 2020-03-19,Congo (Kinshasa),14,0,0,14,10,0,0,Africa
@@ -11930,7 +11930,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-20,Chad,1,0,0,1,0,0,0,Africa
 2020-03-20,Chile,434,0,6,428,196,0,6,Americas
 2020-03-20,China,81250,3253,69534,8463,94,4,731,Western Pacific
-2020-03-20,Colombia,128,0,1,127,26,0,0,Americas
+2020-03-20,Colombia,158,0,1,157,50,0,0,Americas
 2020-03-20,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-20,Congo (Brazzaville),3,0,0,3,0,0,0,Africa
 2020-03-20,Congo (Kinshasa),18,0,0,18,4,0,0,Africa
@@ -12135,7 +12135,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-21,Chad,1,0,0,1,0,0,0,Africa
 2020-03-21,Chile,537,0,6,531,103,0,0,Americas
 2020-03-21,China,81305,3259,70125,7921,55,6,591,Western Pacific
-2020-03-21,Colombia,196,0,1,195,68,0,0,Americas
+2020-03-21,Colombia,196,0,1,195,38,0,0,Americas
 2020-03-21,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-21,Congo (Brazzaville),3,0,0,3,0,0,0,Africa
 2020-03-21,Congo (Kinshasa),23,1,0,22,5,1,0,Africa
@@ -17875,7 +17875,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-18,Chad,33,0,8,25,6,0,3,Africa
 2020-04-18,Chile,9730,126,4035,5569,478,10,414,Americas
 2020-04-18,China,83787,4636,75867,3284,27,0,62,Western Pacific
-2020-04-18,Colombia,3439,153,634,2652,0,0,0,Americas
+2020-04-18,Colombia,3621,166,634,2821,182,13,0,Americas
 2020-04-18,Comoros,0,0,0,0,0,0,0,Africa
 2020-04-18,Congo (Brazzaville),143,6,11,126,0,0,0,Africa
 2020-04-18,Congo (Kinshasa),307,25,26,256,20,2,1,Africa
@@ -18080,7 +18080,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-19,Chad,33,0,8,25,0,0,0,Africa
 2020-04-19,Chile,10088,133,4338,5617,358,7,303,Americas
 2020-04-19,China,83805,4636,75942,3227,18,0,75,Western Pacific
-2020-04-19,Colombia,3792,179,711,2902,353,26,77,Americas
+2020-04-19,Colombia,3792,179,711,2902,171,13,77,Americas
 2020-04-19,Comoros,0,0,0,0,0,0,0,Africa
 2020-04-19,Congo (Brazzaville),143,6,11,126,0,0,0,Africa
 2020-04-19,Congo (Kinshasa),327,25,26,276,20,0,0,Africa
@@ -26075,7 +26075,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-28,Chad,726,65,413,248,11,1,54,Africa
 2020-05-28,Chile,86943,890,36115,49938,4654,49,2575,Americas
 2020-05-28,China,84106,4638,77612,1856,0,0,4,Western Pacific
-2020-05-28,Colombia,24141,833,6132,17176,37,30,21,Americas
+2020-05-28,Colombia,25366,822,6132,18412,1262,19,21,Americas
 2020-05-28,Comoros,87,2,24,61,0,0,0,Africa
 2020-05-28,Congo (Brazzaville),571,19,161,391,0,0,0,Africa
 2020-05-28,Congo (Kinshasa),2660,69,381,2210,114,1,16,Africa
@@ -26280,7 +26280,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-29,Chad,759,65,444,250,33,0,31,Africa
 2020-05-29,Chile,90638,944,38598,51096,3695,54,2483,Americas
 2020-05-29,China,84123,4638,77623,1862,17,0,11,Western Pacific
-2020-05-29,Colombia,25406,855,6687,17864,1265,22,555,Americas
+2020-05-29,Colombia,26688,853,6687,19148,1322,31,555,Americas
 2020-05-29,Comoros,87,2,24,61,0,0,0,Africa
 2020-05-29,Congo (Brazzaville),571,19,161,391,0,0,0,Africa
 2020-05-29,Congo (Kinshasa),2833,69,400,2364,173,0,19,Africa
@@ -26485,7 +26485,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-30,Chad,759,65,470,224,0,0,26,Africa
 2020-05-30,Chile,94858,997,40431,53430,4220,53,1833,Americas
 2020-05-30,China,84128,4638,77627,1863,5,0,4,Western Pacific
-2020-05-30,Colombia,26734,891,6935,18908,1328,36,248,Americas
+2020-05-30,Colombia,28236,890,6935,20411,1548,37,248,Americas
 2020-05-30,Comoros,106,2,26,78,19,0,2,Africa
 2020-05-30,Congo (Brazzaville),571,19,161,391,0,0,0,Africa
 2020-05-30,Congo (Kinshasa),2966,69,428,2469,133,0,28,Africa
@@ -26690,7 +26690,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-31,Chad,778,65,491,222,19,0,21,Africa
 2020-05-31,Chile,99688,1054,42727,55907,4830,57,2296,Americas
 2020-05-31,China,84146,4638,77630,1878,18,0,3,Western Pacific
-2020-05-31,Colombia,27219,916,7032,19271,485,25,97,Americas
+2020-05-31,Colombia,29383,939,7032,21412,1147,49,97,Americas
 2020-05-31,Comoros,106,2,26,78,0,0,0,Africa
 2020-05-31,Congo (Brazzaville),611,20,179,412,40,1,18,Africa
 2020-05-31,Congo (Kinshasa),3070,72,448,2550,104,3,20,Africa
@@ -26895,7 +26895,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-01,Chad,790,66,539,185,12,1,48,Africa
 2020-06-01,Chile,105158,1113,44946,59099,5470,59,2219,Americas
 2020-06-01,China,84154,4638,77639,1877,8,0,9,Western Pacific
-2020-06-01,Colombia,29384,963,8384,20037,2165,47,1352,Americas
+2020-06-01,Colombia,30493,969,8384,21140,1110,30,1352,Americas
 2020-06-01,Comoros,106,2,26,78,0,0,0,Africa
 2020-06-01,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-01,Congo (Kinshasa),3195,72,454,2669,125,0,6,Africa
@@ -27100,7 +27100,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-02,Chad,803,66,562,175,13,0,23,Africa
 2020-06-02,Chile,108686,1188,86173,21325,3528,75,41227,Americas
 2020-06-02,China,84161,4638,77641,1882,7,0,2,Western Pacific
-2020-06-02,Colombia,30593,1014,9689,19890,1209,51,1305,Americas
+2020-06-02,Colombia,31833,1009,9689,21135,1340,40,1305,Americas
 2020-06-02,Comoros,132,2,27,103,26,0,1,Africa
 2020-06-02,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-02,Congo (Kinshasa),3326,72,482,2772,131,0,28,Africa
@@ -27305,7 +27305,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-03,Chad,820,66,590,164,17,0,28,Africa
 2020-06-03,Chile,113628,1275,90748,21605,4942,87,4575,Americas
 2020-06-03,China,84160,4638,77645,1877,0,0,4,Western Pacific
-2020-06-03,Colombia,31935,1057,11171,19707,1342,43,1482,Americas
+2020-06-03,Colombia,33354,1045,11171,21138,1521,36,1482,Americas
 2020-06-03,Comoros,132,2,27,103,0,0,0,Africa
 2020-06-03,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-03,Congo (Kinshasa),3495,75,492,2928,169,3,10,Africa
@@ -27510,7 +27510,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-04,Chad,828,66,633,129,8,0,43,Africa
 2020-06-04,Chile,118292,1356,95631,21305,4664,81,4883,Americas
 2020-06-04,China,84171,4638,77656,1877,11,0,11,Western Pacific
-2020-06-04,Colombia,33466,1099,12319,20048,1531,42,1148,Americas
+2020-06-04,Colombia,35120,1087,12319,21714,1766,42,1148,Americas
 2020-06-04,Comoros,132,2,55,75,0,0,28,Africa
 2020-06-04,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-04,Congo (Kinshasa),3644,78,495,3071,149,3,3,Africa
@@ -27715,7 +27715,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-05,Chad,836,68,657,111,8,2,24,Africa
 2020-06-05,Chile,122499,1448,99358,21693,4207,92,3727,Americas
 2020-06-05,China,84177,4638,77661,1878,6,0,5,Western Pacific
-2020-06-05,Colombia,36759,1204,13670,21885,3293,105,1351,Americas
+2020-06-05,Colombia,36635,1145,13670,21820,1515,58,1351,Americas
 2020-06-05,Comoros,132,2,55,75,0,0,0,Africa
 2020-06-05,Congo (Brazzaville),635,20,182,433,24,0,3,Africa
 2020-06-05,Congo (Kinshasa),3764,81,512,3171,120,3,17,Africa
@@ -27920,7 +27920,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-06,Chad,836,69,672,95,0,1,15,Africa
 2020-06-06,Chile,127745,1541,103817,22387,5246,93,4459,Americas
 2020-06-06,China,84186,4638,77665,1883,9,0,4,Western Pacific
-2020-06-06,Colombia,36759,1204,13670,21885,0,0,0,Americas
+2020-06-06,Colombia,38027,1205,13670,23152,1392,60,0,Americas
 2020-06-06,Comoros,141,2,67,72,9,0,12,Africa
 2020-06-06,Congo (Brazzaville),683,22,210,451,48,2,28,Africa
 2020-06-06,Congo (Kinshasa),3878,82,537,3259,114,1,25,Africa
@@ -28125,7 +28125,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-07,Chad,837,69,672,96,1,0,0,Africa
 2020-06-07,Chile,134150,1637,108150,24363,6405,96,4333,Americas
 2020-06-07,China,84191,4638,77675,1878,5,0,10,Western Pacific
-2020-06-07,Colombia,38149,1265,14414,22470,1390,61,744,Americas
+2020-06-07,Colombia,39236,1259,14414,23563,1209,54,744,Americas
 2020-06-07,Comoros,141,2,67,72,0,0,0,Africa
 2020-06-07,Congo (Brazzaville),683,22,210,451,0,0,0,Africa
 2020-06-07,Congo (Kinshasa),4016,85,537,3394,138,3,0,Africa
@@ -28330,7 +28330,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-08,Chad,839,70,685,84,2,1,13,Africa
 2020-06-08,Chile,138846,2264,112248,24334,4696,627,4098,Americas
 2020-06-08,China,84195,4638,77685,1872,4,0,10,Western Pacific
-2020-06-08,Colombia,40847,1373,16459,23015,2698,108,2045,Americas
+2020-06-08,Colombia,40719,1308,16459,22952,1483,49,2045,Americas
 2020-06-08,Comoros,141,2,67,72,0,0,0,Africa
 2020-06-08,Congo (Brazzaville),683,22,210,451,0,0,0,Africa
 2020-06-08,Congo (Kinshasa),4106,88,537,3481,90,3,0,Africa
@@ -28535,7 +28535,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-09,Chad,844,71,706,67,5,1,21,Africa
 2020-06-09,Chile,142759,2283,117361,23115,3913,19,5113,Americas
 2020-06-09,China,84198,4638,77692,1868,3,0,7,Western Pacific
-2020-06-09,Colombia,40847,1373,16459,23015,0,0,0,Americas
+2020-06-09,Colombia,42078,1372,16459,24247,1359,64,0,Americas
 2020-06-09,Comoros,141,2,67,72,0,0,0,Africa
 2020-06-09,Congo (Brazzaville),728,24,221,483,45,2,11,Africa
 2020-06-09,Congo (Kinshasa),4259,90,539,3630,153,2,2,Africa
@@ -28740,7 +28740,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-10,Chad,846,72,706,68,2,1,0,Africa
 2020-06-10,Chile,148456,2475,121780,24201,5697,192,4419,Americas
 2020-06-10,China,84209,4638,77697,1874,11,0,5,Western Pacific
-2020-06-10,Colombia,42206,1439,16566,24201,1359,66,107,Americas
+2020-06-10,Colombia,43682,1433,16566,25683,1604,61,107,Americas
 2020-06-10,Comoros,162,2,97,63,21,0,30,Africa
 2020-06-10,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-10,Congo (Kinshasa),4390,96,565,3729,131,6,26,Africa
@@ -28945,7 +28945,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-11,Chad,848,72,706,70,2,0,0,Africa
 2020-06-11,Chile,154092,2648,126444,25000,5636,173,4664,Americas
 2020-06-11,China,84216,4638,77705,1873,7,0,8,Western Pacific
-2020-06-11,Colombia,43810,1505,17366,24939,1604,66,800,Americas
+2020-06-11,Colombia,45212,1488,17366,26358,1530,55,800,Americas
 2020-06-11,Comoros,162,2,97,63,0,0,0,Africa
 2020-06-11,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-11,Congo (Kinshasa),4515,98,567,3850,125,2,2,Africa
@@ -29150,7 +29150,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-12,Chad,848,72,711,65,0,0,5,Africa
 2020-06-12,Chile,160846,2870,131358,26618,6754,222,4914,Americas
 2020-06-12,China,84228,4638,77713,1877,12,0,8,Western Pacific
-2020-06-12,Colombia,45344,1562,17823,25959,1534,57,457,Americas
+2020-06-12,Colombia,46858,1545,17823,27490,1646,57,457,Americas
 2020-06-12,Comoros,163,2,97,64,1,0,0,Africa
 2020-06-12,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-12,Congo (Kinshasa),4637,101,580,3956,122,3,13,Africa
@@ -29355,7 +29355,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-13,Chad,848,72,718,58,0,0,7,Africa
 2020-06-13,Chile,167355,3101,137296,26958,6509,231,5938,Americas
 2020-06-13,China,84286,4638,77716,1932,58,0,3,Western Pacific
-2020-06-13,Colombia,46994,1623,18749,26622,1650,61,926,Americas
+2020-06-13,Colombia,48746,1592,18749,28405,1888,47,926,Americas
 2020-06-13,Comoros,176,2,114,60,13,0,17,Africa
 2020-06-13,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-13,Congo (Kinshasa),4724,106,595,4023,87,5,15,Africa
@@ -29560,7 +29560,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-14,Chad,850,73,720,57,2,1,2,Africa
 2020-06-14,Chile,174293,3323,143704,27266,6938,222,6408,Americas
 2020-06-14,China,84335,4638,77723,1974,49,0,7,Western Pacific
-2020-06-14,Colombia,48896,1670,19460,27766,1902,47,711,Americas
+2020-06-14,Colombia,50939,1667,19460,29812,2193,75,711,Americas
 2020-06-14,Comoros,176,2,114,60,0,0,0,Africa
 2020-06-14,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-14,Congo (Kinshasa),4778,107,600,4071,54,1,5,Africa
@@ -29765,7 +29765,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-15,Chad,850,73,720,57,0,0,0,Africa
 2020-06-15,Chile,179436,3362,148792,27282,5143,39,5088,Americas
 2020-06-15,China,84378,4638,77730,2010,43,0,7,Western Pacific
-2020-06-15,Colombia,53168,1808,19985,31375,4272,138,525,Americas
+2020-06-15,Colombia,53063,1726,19985,31352,2124,59,525,Americas
 2020-06-15,Comoros,176,2,114,60,0,0,0,Africa
 2020-06-15,Congo (Brazzaville),883,27,391,465,155,3,170,Africa
 2020-06-15,Congo (Kinshasa),4837,112,613,4112,59,5,13,Africa
@@ -29970,7 +29970,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-16,Chad,853,74,720,59,3,1,0,Africa
 2020-06-16,Chile,184449,3383,156232,24834,5013,21,7440,Americas
 2020-06-16,China,84422,4638,77734,2050,44,0,4,Western Pacific
-2020-06-16,Colombia,53211,1808,19986,31417,43,0,1,Americas
+2020-06-16,Colombia,54931,1801,19986,33144,1868,75,1,Americas
 2020-06-16,Comoros,197,3,127,67,21,1,13,Africa
 2020-06-16,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-16,Congo (Kinshasa),4974,112,628,4234,137,0,15,Africa
@@ -30175,7 +30175,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-17,Chad,854,74,721,59,1,0,1,Africa
 2020-06-17,Chile,220628,3615,181931,35082,36179,232,25699,Americas
 2020-06-17,China,84458,4638,77751,2069,36,0,17,Western Pacific
-2020-06-17,Colombia,55083,1887,20400,32796,1872,79,414,Americas
+2020-06-17,Colombia,57046,1864,20400,34782,2115,63,414,Americas
 2020-06-17,Comoros,197,3,127,67,0,0,0,Africa
 2020-06-17,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-17,Congo (Kinshasa),5100,115,640,4345,126,3,12,Africa
@@ -30380,7 +30380,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-18,Chad,854,74,733,47,0,0,12,Africa
 2020-06-18,Chile,225103,3841,186441,34821,4475,226,4510,Americas
 2020-06-18,China,84494,4638,77756,2100,36,0,5,Western Pacific
-2020-06-18,Colombia,57202,1955,21361,33886,2119,68,961,Americas
+2020-06-18,Colombia,60217,1950,21361,36906,3171,86,961,Americas
 2020-06-18,Comoros,210,5,129,76,13,2,2,Africa
 2020-06-18,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-18,Congo (Kinshasa),5283,117,685,4481,183,2,45,Africa
@@ -30585,7 +30585,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,Chad,858,74,742,42,4,0,9,Africa
 2020-06-19,Chile,231393,4093,191491,35809,6290,252,5050,Americas
 2020-06-19,China,84494,4638,77756,2100,0,0,0,Western Pacific
-2020-06-19,Colombia,60387,2046,22726,35615,3185,91,1365,Americas
+2020-06-19,Colombia,63276,2045,22726,38505,3059,95,1365,Americas
 2020-06-19,Comoros,210,5,129,76,0,0,0,Africa
 2020-06-19,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-19,Congo (Kinshasa),5477,122,719,4636,194,5,34,Africa
@@ -30790,7 +30790,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Chad,858,74,746,38,0,0,4,Africa
 2020-06-20,Chile,236748,4295,196609,35844,5355,202,5118,Americas
 2020-06-20,China,84553,4639,77775,2139,59,1,19,Western Pacific
-2020-06-20,Colombia,63454,2148,24035,37271,3067,102,1309,Americas
+2020-06-20,Colombia,65633,2126,24035,39472,2357,81,1309,Americas
 2020-06-20,Comoros,247,5,159,83,37,0,30,Africa
 2020-06-20,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-20,Congo (Kinshasa),5672,125,807,4740,195,3,88,Africa
@@ -30995,7 +30995,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Chad,858,74,752,32,0,0,6,Africa
 2020-06-21,Chile,242355,4479,200569,37307,5607,184,3960,Americas
 2020-06-21,China,84572,4639,77776,2157,19,0,1,Western Pacific
-2020-06-21,Colombia,68836,2353,27412,39071,5382,205,3377,Americas
+2020-06-21,Colombia,68652,2237,27412,39003,3019,111,3377,Americas
 2020-06-21,Comoros,247,5,159,83,0,0,0,Africa
 2020-06-21,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-21,Congo (Kinshasa),5826,130,841,4855,154,5,34,Africa
@@ -31200,7 +31200,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-22,Chad,858,74,755,29,0,0,3,Africa
 2020-06-22,Chile,246963,4502,205397,37064,4608,23,4828,Americas
 2020-06-22,China,84624,4639,77787,2198,52,0,11,Western Pacific
-2020-06-22,Colombia,71367,2426,29024,39917,2531,73,1612,Americas
+2020-06-22,Colombia,71183,2310,29024,39849,2531,73,1612,Americas
 2020-06-22,Comoros,247,5,159,83,0,0,0,Africa
 2020-06-22,Congo (Brazzaville),1087,37,456,594,204,10,65,Africa
 2020-06-22,Congo (Kinshasa),5924,135,856,4933,98,5,15,Africa
@@ -31405,7 +31405,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-23,Chad,860,74,757,29,2,0,2,Africa
 2020-06-23,Chile,250767,4505,210570,35692,3804,3,5173,Americas
 2020-06-23,China,84653,4640,77795,2218,29,1,8,Western Pacific
-2020-06-23,Colombia,73760,2524,30517,40719,2393,98,1493,Americas
+2020-06-23,Colombia,73572,2404,30517,40651,2389,94,1493,Americas
 2020-06-23,Comoros,265,7,159,99,18,2,0,Africa
 2020-06-23,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-23,Congo (Kinshasa),6027,135,861,5031,103,0,5,Africa
@@ -31610,7 +31610,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-24,Chad,860,74,770,16,0,0,13,Africa
 2020-06-24,Chile,254416,4731,215093,34592,3649,226,4523,Americas
 2020-06-24,China,84673,4640,77802,2231,20,0,7,Western Pacific
-2020-06-24,Colombia,73760,2524,30517,40719,0,0,0,Americas
+2020-06-24,Colombia,77113,2491,30517,44105,3541,87,0,Americas
 2020-06-24,Comoros,265,7,159,99,0,0,0,Africa
 2020-06-24,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-24,Congo (Kinshasa),6213,142,870,5201,186,7,9,Africa
@@ -31815,7 +31815,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-25,Chad,863,74,774,15,3,0,4,Africa
 2020-06-25,Chile,259064,4903,219327,34834,4648,172,4234,Americas
 2020-06-25,China,84701,4641,77811,2249,28,1,9,Western Pacific
-2020-06-25,Colombia,77313,2611,31729,42973,3553,87,1212,Americas
+2020-06-25,Colombia,80599,2654,31729,46216,3486,163,1212,Americas
 2020-06-25,Comoros,272,7,161,104,7,0,2,Africa
 2020-06-25,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-25,Congo (Kinshasa),6411,142,885,5384,198,0,15,Africa
@@ -32020,7 +32020,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-26,Chad,865,74,778,13,2,0,4,Africa
 2020-06-26,Chile,263360,5068,223431,34861,4296,165,4104,Americas
 2020-06-26,China,84725,4641,77817,2267,24,0,6,Western Pacific
-2020-06-26,Colombia,80811,2786,33410,44615,3498,175,1681,Americas
+2020-06-26,Colombia,84442,2811,33410,48221,3843,157,1681,Americas
 2020-06-26,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-26,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-26,Congo (Kinshasa),6552,149,900,5503,141,7,15,Africa
@@ -32225,7 +32225,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-27,Chad,865,74,778,13,0,0,0,Africa
 2020-06-27,Chile,267766,5347,228055,34364,4406,279,4624,Americas
 2020-06-27,China,84743,4641,77823,2279,18,0,6,Western Pacific
-2020-06-27,Colombia,84660,2946,34999,46715,3849,160,1589,Americas
+2020-06-27,Colombia,88591,2939,34999,50653,4149,128,1589,Americas
 2020-06-27,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-27,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-27,Congo (Kinshasa),6690,153,937,5600,138,4,37,Africa
@@ -32430,7 +32430,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-28,Chad,866,74,780,12,1,0,2,Africa
 2020-06-28,Chile,271982,5509,232210,34263,4216,162,4155,Americas
 2020-06-28,China,84757,4641,77839,2277,14,0,16,Western Pacific
-2020-06-28,Colombia,91995,3256,38345,50394,7335,310,3346,Americas
+2020-06-28,Colombia,91769,3178,38345,50246,3178,239,3346,Americas
 2020-06-28,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-28,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-28,Congo (Kinshasa),6827,157,985,5685,137,4,48,Africa
@@ -32635,7 +32635,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-29,Chad,866,74,781,11,0,0,1,Africa
 2020-06-29,Chile,275999,5575,236154,34270,4017,66,3944,Americas
 2020-06-29,China,84780,4641,77848,2291,23,0,9,Western Pacific
-2020-06-29,Colombia,91995,3256,38345,50394,0,0,0,Americas
+2020-06-29,Colombia,95043,3274,38345,53424,3274,96,0,Americas
 2020-06-29,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-29,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-29,Congo (Kinshasa),6939,167,1050,5722,112,10,65,Africa
@@ -32840,7 +32840,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-30,Chad,866,74,781,11,0,0,0,Africa
 2020-06-30,Chile,279393,5688,241229,32476,3394,113,5075,Americas
 2020-06-30,China,84785,4641,77861,2283,5,0,13,Western Pacific
-2020-06-30,Colombia,95269,3376,40021,51872,3274,120,1676,Americas
+2020-06-30,Colombia,97846,3334,40021,54491,2803,60,1676,Americas
 2020-06-30,Comoros,303,7,200,96,31,0,39,Africa
 2020-06-30,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-30,Congo (Kinshasa),7039,170,1426,5443,100,3,376,Africa
@@ -33045,7 +33045,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-01,Chad,866,74,785,7,0,0,4,Africa
 2020-07-01,Chile,282043,5753,245443,30847,2650,65,4214,Americas
 2020-07-01,China,84816,4641,77879,2296,31,0,18,Western Pacific
-2020-07-01,Colombia,98090,3488,42143,52459,2821,112,2122,Americas
+2020-07-01,Colombia,102009,3470,42143,56396,4163,136,2122,Americas
 2020-07-01,Comoros,303,7,200,96,0,0,0,Africa
 2020-07-01,Congo (Brazzaville),1382,41,486,855,295,4,30,Africa
 2020-07-01,Congo (Kinshasa),7122,175,1785,5162,83,5,359,Africa
@@ -33250,7 +33250,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-02,Chad,868,74,785,9,2,0,0,Africa
 2020-07-02,Chile,284541,5920,249247,29374,2498,167,3804,Americas
 2020-07-02,China,84830,4641,77894,2295,14,0,15,Western Pacific
-2020-07-02,Colombia,102261,3650,43481,55130,4171,162,1338,Americas
+2020-07-02,Colombia,106110,3641,43481,58988,4101,171,1338,Americas
 2020-07-02,Comoros,303,7,200,96,0,0,0,Africa
 2020-07-02,Congo (Brazzaville),1382,41,486,855,0,0,0,Africa
 2020-07-02,Congo (Kinshasa),7189,176,2317,4696,67,1,532,Africa
@@ -33455,7 +33455,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-03,Chad,871,74,786,11,3,0,1,Africa
 2020-07-03,Chile,288089,6051,253343,28695,3548,131,4096,Americas
 2020-07-03,China,84838,4641,77907,2290,8,0,13,Western Pacific
-2020-07-03,Colombia,106392,3851,44606,57935,4131,201,1125,Americas
+2020-07-03,Colombia,109505,3777,44606,61122,3395,136,1125,Americas
 2020-07-03,Comoros,309,7,241,61,6,0,41,Africa
 2020-07-03,Congo (Brazzaville),1557,44,501,1012,175,3,15,Africa
 2020-07-03,Congo (Kinshasa),7311,179,2684,4448,122,3,367,Africa
@@ -33660,7 +33660,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-04,Chad,871,74,787,10,0,0,1,Africa
 2020-07-04,Chile,291847,6192,257451,28204,3758,141,4108,Americas
 2020-07-04,China,84857,4641,77932,2284,19,0,25,Western Pacific
-2020-07-04,Colombia,109793,4001,45409,60383,3401,150,803,Americas
+2020-07-04,Colombia,113389,3942,45409,64038,3884,165,803,Americas
 2020-07-04,Comoros,309,7,241,61,0,0,0,Africa
 2020-07-04,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-04,Congo (Kinshasa),7379,182,2961,4236,68,3,277,Africa
@@ -33865,7 +33865,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-05,Chad,872,74,787,11,1,0,0,Africa
 2020-07-05,Chile,295532,6308,261039,28185,3685,116,3588,Americas
 2020-07-05,China,84871,4641,77944,2286,14,0,12,Western Pacific
-2020-07-05,Colombia,113685,4178,46643,62864,3892,177,1234,Americas
+2020-07-05,Colombia,117110,4064,46643,66403,3721,122,1234,Americas
 2020-07-05,Comoros,311,7,266,38,2,0,25,Africa
 2020-07-05,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-05,Congo (Kinshasa),7411,182,3184,4045,32,0,223,Africa
@@ -34070,7 +34070,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-06,Chad,872,74,787,11,0,0,0,Africa
 2020-07-06,Chile,298557,6384,264378,27795,3025,76,3339,Americas
 2020-07-06,China,84889,4641,77951,2297,18,0,7,Western Pacific
-2020-07-06,Colombia,117412,4305,47961,65146,3727,127,1318,Americas
+2020-07-06,Colombia,120281,4210,47961,68110,3171,146,1318,Americas
 2020-07-06,Comoros,311,7,266,38,0,0,0,Africa
 2020-07-06,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-06,Congo (Kinshasa),7432,182,3226,4024,21,0,42,Africa
@@ -34275,7 +34275,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-07,Chad,873,74,788,11,1,0,1,Africa
 2020-07-07,Chile,301019,6434,268251,26334,2462,50,3873,Americas
 2020-07-07,China,84917,4641,77980,2296,28,0,29,Western Pacific
-2020-07-07,Colombia,120281,4452,50370,65459,2869,147,2409,Americas
+2020-07-07,Colombia,124494,4359,50370,69765,4213,149,2409,Americas
 2020-07-07,Comoros,311,7,266,38,0,0,0,Africa
 2020-07-07,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-07,Congo (Kinshasa),7432,182,3226,4024,0,0,0,Africa
@@ -34480,7 +34480,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-08,Chad,873,74,788,11,0,0,0,Africa
 2020-07-08,Chile,303083,6573,271741,24769,2064,139,3490,Americas
 2020-07-08,China,84950,4641,78026,2283,33,0,46,Western Pacific
-2020-07-08,Colombia,124494,4606,51861,68027,4213,154,1491,Americas
+2020-07-08,Colombia,128638,4527,51861,72250,4144,168,1491,Americas
 2020-07-08,Comoros,313,7,272,34,2,0,6,Africa
 2020-07-08,Congo (Brazzaville),1821,47,525,1249,264,3,24,Africa
 2020-07-08,Congo (Kinshasa),7432,182,3226,4024,0,0,0,Africa
@@ -34685,7 +34685,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-09,Chad,873,74,788,11,0,0,0,Africa
 2020-07-09,Chile,306216,6682,274922,24612,3133,109,3181,Americas
 2020-07-09,China,84992,4641,78026,2325,42,0,0,Western Pacific
-2020-07-09,Colombia,128638,4791,53634,70213,4144,185,1773,Americas
+2020-07-09,Colombia,133973,4714,53634,75625,5335,187,1773,Americas
 2020-07-09,Comoros,314,7,272,35,1,0,0,Africa
 2020-07-09,Congo (Brazzaville),1821,47,525,1249,0,0,0,Africa
 2020-07-09,Congo (Kinshasa),7846,189,3513,4144,414,7,287,Africa
@@ -34890,7 +34890,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-10,Chad,874,74,789,11,1,0,1,Africa
 2020-07-10,Chile,309274,6781,278053,24440,3058,99,3131,Americas
 2020-07-10,China,84992,4641,78026,2325,0,0,0,Western Pacific
-2020-07-10,Colombia,133973,4985,56272,72716,5335,194,2638,Americas
+2020-07-10,Colombia,140776,4925,56272,79579,6803,211,2638,Americas
 2020-07-10,Comoros,314,7,272,35,0,0,0,Africa
 2020-07-10,Congo (Brazzaville),2028,47,589,1392,207,0,64,Africa
 2020-07-10,Congo (Kinshasa),7905,189,3513,4203,59,0,0,Africa
@@ -35095,7 +35095,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-11,Chad,874,74,790,10,0,0,1,Africa
 2020-07-11,Chile,312029,6881,281114,24034,2755,100,3061,Americas
 2020-07-11,China,85071,4641,78100,2330,79,0,74,Western Pacific
-2020-07-11,Colombia,140776,5202,58800,76774,6803,217,2528,Americas
+2020-07-11,Colombia,145632,5119,58800,81713,4856,194,2528,Americas
 2020-07-11,Comoros,317,7,296,14,3,0,24,Africa
 2020-07-11,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-11,Congo (Kinshasa),7971,189,3615,4167,66,0,102,Africa
@@ -35300,7 +35300,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-12,Chad,880,75,790,15,6,1,0,Africa
 2020-07-12,Chile,315041,6979,283902,24160,3012,98,2788,Americas
 2020-07-12,China,85117,4641,78131,2345,46,0,31,Western Pacific
-2020-07-12,Colombia,145362,5426,61186,78750,4586,224,2386,Americas
+2020-07-12,Colombia,150445,5307,61186,83952,4813,188,2386,Americas
 2020-07-12,Comoros,317,7,296,14,0,0,0,Africa
 2020-07-12,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-12,Congo (Kinshasa),8033,189,3615,4229,62,0,0,Africa
@@ -35505,7 +35505,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-13,Chad,880,75,792,13,0,0,2,Africa
 2020-07-13,Chile,317657,7024,286556,24077,2616,45,2654,Americas
 2020-07-13,China,85117,4641,78131,2345,0,0,0,Western Pacific
-2020-07-13,Colombia,150445,5634,63451,81360,5083,208,2265,Americas
+2020-07-13,Colombia,154277,5455,63451,85371,3832,148,2265,Americas
 2020-07-13,Comoros,317,7,296,14,0,0,0,Africa
 2020-07-13,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-13,Congo (Kinshasa),8075,190,3620,4265,42,1,5,Africa
@@ -35710,7 +35710,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-14,Chad,884,75,798,11,4,0,6,Africa
 2020-07-14,Chile,319493,7069,289220,23204,1836,45,2664,Americas
 2020-07-14,China,85226,4642,78190,2394,109,1,59,Western Pacific
-2020-07-14,Colombia,154277,5787,65809,82681,3832,153,2358,Americas
+2020-07-14,Colombia,159898,5625,65809,88464,5621,170,2358,Americas
 2020-07-14,Comoros,321,7,302,12,4,0,6,Africa
 2020-07-14,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-14,Congo (Kinshasa),8135,190,3948,3997,60,0,328,Africa
@@ -35915,7 +35915,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-15,Chad,885,75,799,11,1,0,1,Africa
 2020-07-15,Chile,321205,7186,292085,21934,1712,117,2865,Americas
 2020-07-15,China,85246,4644,78228,2374,20,2,38,Western Pacific
-2020-07-15,Colombia,159898,5969,68806,85123,5621,182,2997,Americas
+2020-07-15,Colombia,165169,5814,68806,90549,5271,189,2997,Americas
 2020-07-15,Comoros,321,7,302,12,0,0,0,Africa
 2020-07-15,Congo (Brazzaville),2222,47,589,1586,194,0,0,Africa
 2020-07-15,Congo (Kinshasa),8163,192,3983,3988,28,2,35,Africa
@@ -36120,7 +36120,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-16,Chad,886,75,799,12,1,0,0,Africa
 2020-07-16,Chile,323698,7290,295301,21107,2493,104,3216,Americas
 2020-07-16,China,85314,4644,78241,2429,68,0,13,Western Pacific
-2020-07-16,Colombia,165169,6164,71736,87269,5271,195,2930,Americas
+2020-07-16,Colombia,173206,6029,71736,95441,8037,215,2930,Americas
 2020-07-16,Comoros,328,7,311,10,7,0,9,Africa
 2020-07-16,Congo (Brazzaville),2358,48,589,1721,136,1,0,Africa
 2020-07-16,Congo (Kinshasa),8199,193,4248,3758,36,1,265,Africa
