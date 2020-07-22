@@ -10360,7 +10360,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-12,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-12,Liberia,0,0,0,0,0,0,0,Africa
 2020-03-12,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-12,Liechtenstein,1,0,0,1,0,0,0,Europe
+2020-03-12,Liechtenstein,1,0,1,0,0,0,1,Europe
 2020-03-12,Lithuania,3,0,0,3,0,0,0,Europe
 2020-03-12,Luxembourg,19,0,0,19,12,0,0,Europe
 2020-03-12,Madagascar,0,0,0,0,0,0,0,Africa
@@ -10565,7 +10565,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-13,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-13,Liberia,0,0,0,0,0,0,0,Africa
 2020-03-13,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-13,Liechtenstein,1,0,0,1,0,0,0,Europe
+2020-03-13,Liechtenstein,1,0,1,0,0,0,0,Europe
 2020-03-13,Lithuania,6,0,0,6,3,0,0,Europe
 2020-03-13,Luxembourg,34,0,0,34,15,0,0,Europe
 2020-03-13,Madagascar,0,0,0,0,0,0,0,Africa
@@ -10770,7 +10770,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-14,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-14,Liberia,0,0,0,0,0,0,0,Africa
 2020-03-14,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-14,Liechtenstein,4,0,0,4,3,0,0,Europe
+2020-03-14,Liechtenstein,4,0,1,3,3,0,0,Europe
 2020-03-14,Lithuania,8,0,0,8,2,0,0,Europe
 2020-03-14,Luxembourg,51,1,0,50,17,1,0,Europe
 2020-03-14,Madagascar,0,0,0,0,0,0,0,Africa
@@ -10975,7 +10975,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-15,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-15,Liberia,0,0,0,0,0,0,0,Africa
 2020-03-15,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-15,Liechtenstein,4,0,0,4,0,0,0,Europe
+2020-03-15,Liechtenstein,4,0,1,3,0,0,0,Europe
 2020-03-15,Lithuania,12,0,1,11,4,0,1,Europe
 2020-03-15,Luxembourg,59,1,0,58,8,0,0,Europe
 2020-03-15,Madagascar,0,0,0,0,0,0,0,Africa
@@ -11180,7 +11180,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-16,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-16,Liberia,1,0,0,1,1,0,0,Africa
 2020-03-16,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-16,Liechtenstein,4,0,0,4,0,0,0,Europe
+2020-03-16,Liechtenstein,4,0,1,3,0,0,0,Europe
 2020-03-16,Lithuania,17,0,1,16,5,0,0,Europe
 2020-03-16,Luxembourg,77,1,0,76,18,0,0,Europe
 2020-03-16,Madagascar,0,0,0,0,0,0,0,Africa
@@ -11385,7 +11385,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-17,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-17,Liberia,1,0,0,1,0,0,0,Africa
 2020-03-17,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-17,Liechtenstein,7,0,0,7,3,0,0,Europe
+2020-03-17,Liechtenstein,7,0,1,6,3,0,0,Europe
 2020-03-17,Lithuania,25,0,1,24,8,0,0,Europe
 2020-03-17,Luxembourg,140,1,0,139,63,0,0,Europe
 2020-03-17,Madagascar,0,0,0,0,0,0,0,Africa
@@ -11590,7 +11590,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-18,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-18,Liberia,2,0,0,2,1,0,0,Africa
 2020-03-18,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-18,Liechtenstein,28,0,0,28,21,0,0,Europe
+2020-03-18,Liechtenstein,28,0,1,27,21,0,0,Europe
 2020-03-18,Lithuania,27,0,1,26,2,0,0,Europe
 2020-03-18,Luxembourg,203,2,0,201,63,1,0,Europe
 2020-03-18,Madagascar,0,0,0,0,0,0,0,Africa
@@ -11795,7 +11795,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-19,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-19,Liberia,2,0,0,2,0,0,0,Africa
 2020-03-19,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-19,Liechtenstein,28,0,0,28,0,0,0,Europe
+2020-03-19,Liechtenstein,28,0,1,27,0,0,0,Europe
 2020-03-19,Lithuania,36,0,1,35,9,0,0,Europe
 2020-03-19,Luxembourg,335,4,0,331,132,2,0,Europe
 2020-03-19,Madagascar,0,0,0,0,0,0,0,Africa
@@ -12000,7 +12000,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-20,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-20,Liberia,2,0,0,2,0,0,0,Africa
 2020-03-20,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-20,Liechtenstein,28,0,0,28,0,0,0,Europe
+2020-03-20,Liechtenstein,28,0,1,27,0,0,0,Europe
 2020-03-20,Lithuania,49,0,1,48,13,0,0,Europe
 2020-03-20,Luxembourg,484,4,0,480,149,0,0,Europe
 2020-03-20,Madagascar,3,0,0,3,3,0,0,Africa
@@ -12205,7 +12205,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-21,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-21,Liberia,3,0,0,3,1,0,0,Africa
 2020-03-21,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-21,Liechtenstein,37,0,0,37,9,0,0,Europe
+2020-03-21,Liechtenstein,37,0,4,33,9,0,3,Europe
 2020-03-21,Lithuania,83,1,1,81,34,1,0,Europe
 2020-03-21,Luxembourg,670,8,0,662,186,4,0,Europe
 2020-03-21,Madagascar,3,0,0,3,0,0,0,Africa
@@ -12410,7 +12410,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-22,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-22,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-22,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-22,Liechtenstein,37,0,0,37,0,0,0,Europe
+2020-03-22,Liechtenstein,37,0,4,33,0,0,0,Europe
 2020-03-22,Lithuania,143,1,1,141,60,0,0,Europe
 2020-03-22,Luxembourg,798,8,6,784,128,0,6,Europe
 2020-03-22,Madagascar,3,0,0,3,0,0,0,Africa
@@ -12615,7 +12615,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-23,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-23,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-23,Libya,0,0,0,0,0,0,0,Eastern Mediterranean
-2020-03-23,Liechtenstein,51,0,0,51,14,0,0,Europe
+2020-03-23,Liechtenstein,51,0,5,46,14,0,1,Europe
 2020-03-23,Lithuania,179,1,1,177,36,0,0,Europe
 2020-03-23,Luxembourg,875,8,6,861,77,0,0,Europe
 2020-03-23,Madagascar,12,0,0,12,9,0,0,Africa
@@ -12820,7 +12820,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-24,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-24,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-24,Libya,1,0,0,1,1,0,0,Eastern Mediterranean
-2020-03-24,Liechtenstein,51,0,0,51,0,0,0,Europe
+2020-03-24,Liechtenstein,51,0,7,44,0,0,2,Europe
 2020-03-24,Lithuania,209,2,1,206,30,1,0,Europe
 2020-03-24,Luxembourg,1099,8,6,1085,224,0,0,Europe
 2020-03-24,Madagascar,17,0,0,17,5,0,0,Africa
@@ -13025,7 +13025,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-25,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-25,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-25,Libya,1,0,0,1,0,0,0,Eastern Mediterranean
-2020-03-25,Liechtenstein,51,0,0,51,0,0,0,Europe
+2020-03-25,Liechtenstein,51,0,7,44,0,0,0,Europe
 2020-03-25,Lithuania,274,4,1,269,65,2,0,Europe
 2020-03-25,Luxembourg,1333,8,6,1319,234,0,0,Europe
 2020-03-25,Madagascar,19,0,0,19,2,0,0,Africa
@@ -13230,7 +13230,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-26,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-26,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-26,Libya,1,0,0,1,0,0,0,Eastern Mediterranean
-2020-03-26,Liechtenstein,56,0,0,56,5,0,0,Europe
+2020-03-26,Liechtenstein,56,0,12,44,5,0,5,Europe
 2020-03-26,Lithuania,299,4,1,294,25,0,0,Europe
 2020-03-26,Luxembourg,1453,9,6,1438,120,1,0,Europe
 2020-03-26,Madagascar,23,0,0,23,4,0,0,Africa
@@ -13435,7 +13435,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-27,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-27,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-27,Libya,1,0,0,1,0,0,0,Eastern Mediterranean
-2020-03-27,Liechtenstein,56,0,0,56,0,0,0,Europe
+2020-03-27,Liechtenstein,56,0,19,37,0,0,7,Europe
 2020-03-27,Lithuania,358,5,1,352,59,1,0,Europe
 2020-03-27,Luxembourg,1605,15,40,1550,152,6,34,Europe
 2020-03-27,Madagascar,26,0,0,26,3,0,0,Africa
@@ -13640,7 +13640,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-28,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-28,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-28,Libya,3,0,0,3,2,0,0,Eastern Mediterranean
-2020-03-28,Liechtenstein,56,0,0,56,0,0,0,Europe
+2020-03-28,Liechtenstein,56,0,28,28,0,0,9,Europe
 2020-03-28,Lithuania,394,7,1,386,36,2,0,Europe
 2020-03-28,Luxembourg,1831,18,40,1773,226,3,0,Europe
 2020-03-28,Madagascar,26,0,0,26,0,0,0,Africa
@@ -13845,7 +13845,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-29,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-29,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-29,Libya,8,0,0,8,5,0,0,Eastern Mediterranean
-2020-03-29,Liechtenstein,56,0,0,56,0,0,0,Europe
+2020-03-29,Liechtenstein,56,0,28,28,0,0,0,Europe
 2020-03-29,Lithuania,460,7,1,452,66,0,0,Europe
 2020-03-29,Luxembourg,1950,21,40,1889,119,3,0,Europe
 2020-03-29,Madagascar,39,0,0,39,13,0,0,Africa
@@ -14050,7 +14050,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-30,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-30,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-30,Libya,8,0,0,8,0,0,0,Eastern Mediterranean
-2020-03-30,Liechtenstein,62,0,0,62,6,0,0,Europe
+2020-03-30,Liechtenstein,62,0,37,25,6,0,9,Europe
 2020-03-30,Lithuania,491,7,7,477,31,0,6,Europe
 2020-03-30,Luxembourg,1988,22,40,1926,38,1,0,Europe
 2020-03-30,Madagascar,43,0,0,43,4,0,0,Africa
@@ -14255,7 +14255,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-31,Lesotho,0,0,0,0,0,0,0,Africa
 2020-03-31,Liberia,3,0,0,3,0,0,0,Africa
 2020-03-31,Libya,10,0,1,9,2,0,1,Eastern Mediterranean
-2020-03-31,Liechtenstein,68,0,0,68,6,0,0,Europe
+2020-03-31,Liechtenstein,68,0,44,24,6,0,7,Europe
 2020-03-31,Lithuania,537,8,7,522,46,1,0,Europe
 2020-03-31,Luxembourg,2178,23,80,2075,190,1,40,Europe
 2020-03-31,Madagascar,57,0,0,57,14,0,0,Africa
@@ -14460,7 +14460,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-01,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-01,Liberia,6,0,0,6,3,0,0,Africa
 2020-04-01,Libya,10,0,0,10,0,0,-1,Eastern Mediterranean
-2020-04-01,Liechtenstein,68,0,0,68,0,0,0,Europe
+2020-04-01,Liechtenstein,68,0,46,22,0,0,2,Europe
 2020-04-01,Lithuania,581,8,7,566,44,0,0,Europe
 2020-04-01,Luxembourg,2319,29,80,2210,141,6,0,Europe
 2020-04-01,Madagascar,57,0,0,57,0,0,0,Africa
@@ -14665,7 +14665,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-02,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-02,Liberia,6,0,0,6,0,0,0,Africa
 2020-04-02,Libya,11,1,0,10,1,1,0,Eastern Mediterranean
-2020-04-02,Liechtenstein,75,0,0,75,7,0,0,Europe
+2020-04-02,Liechtenstein,75,0,50,25,7,0,4,Europe
 2020-04-02,Lithuania,649,9,7,633,68,1,0,Europe
 2020-04-02,Luxembourg,2487,30,80,2377,168,1,0,Europe
 2020-04-02,Madagascar,59,0,0,59,2,0,0,Africa
@@ -14870,7 +14870,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-03,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-03,Liberia,7,0,0,7,1,0,0,Africa
 2020-04-03,Libya,11,1,0,10,0,0,0,Eastern Mediterranean
-2020-04-03,Liechtenstein,75,0,0,75,0,0,0,Europe
+2020-04-03,Liechtenstein,76,0,51,25,1,0,1,Europe
 2020-04-03,Lithuania,696,9,7,680,47,0,0,Europe
 2020-04-03,Luxembourg,2612,31,500,2081,125,1,420,Europe
 2020-04-03,Madagascar,70,0,0,70,11,0,0,Africa
@@ -15075,7 +15075,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-04,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-04,Liberia,10,1,3,6,3,1,3,Africa
 2020-04-04,Libya,18,1,0,17,7,0,0,Eastern Mediterranean
-2020-04-04,Liechtenstein,77,1,0,76,2,1,0,Europe
+2020-04-04,Liechtenstein,77,1,55,21,1,1,4,Europe
 2020-04-04,Lithuania,771,11,7,753,75,2,0,Europe
 2020-04-04,Luxembourg,2729,31,500,2198,117,0,0,Europe
 2020-04-04,Madagascar,70,0,0,70,0,0,0,Africa
@@ -15280,7 +15280,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-05,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-05,Liberia,13,3,3,7,3,2,0,Africa
 2020-04-05,Libya,18,1,0,17,0,0,0,Eastern Mediterranean
-2020-04-05,Liechtenstein,77,1,0,76,0,0,0,Europe
+2020-04-05,Liechtenstein,77,1,56,20,0,0,1,Europe
 2020-04-05,Lithuania,811,13,7,791,40,2,0,Europe
 2020-04-05,Luxembourg,2804,36,500,2268,75,5,0,Europe
 2020-04-05,Madagascar,72,0,2,70,2,0,2,Africa
@@ -15485,7 +15485,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-06,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-06,Liberia,14,3,3,8,1,0,0,Africa
 2020-04-06,Libya,19,1,1,17,1,0,1,Eastern Mediterranean
-2020-04-06,Liechtenstein,77,1,55,21,0,0,55,Europe
+2020-04-06,Liechtenstein,77,1,58,18,0,0,2,Europe
 2020-04-06,Lithuania,843,15,8,820,32,2,1,Europe
 2020-04-06,Luxembourg,2843,41,500,2302,39,5,0,Europe
 2020-04-06,Madagascar,82,0,2,80,10,0,0,Africa
@@ -15690,7 +15690,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-07,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-07,Liberia,14,3,3,8,0,0,0,Africa
 2020-04-07,Libya,20,1,1,18,1,0,0,Eastern Mediterranean
-2020-04-07,Liechtenstein,78,1,55,22,1,0,0,Europe
+2020-04-07,Liechtenstein,78,1,61,16,1,0,3,Europe
 2020-04-07,Lithuania,880,15,8,857,37,0,0,Europe
 2020-04-07,Luxembourg,2970,44,500,2426,127,3,0,Europe
 2020-04-07,Madagascar,88,0,7,81,6,0,5,Africa
@@ -15895,7 +15895,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-08,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-08,Liberia,31,4,3,24,17,1,0,Africa
 2020-04-08,Libya,21,1,8,12,1,0,7,Eastern Mediterranean
-2020-04-08,Liechtenstein,78,1,55,22,0,0,0,Europe
+2020-04-08,Liechtenstein,78,1,61,16,0,0,0,Europe
 2020-04-08,Lithuania,912,15,8,889,32,0,0,Europe
 2020-04-08,Luxembourg,3034,46,500,2488,64,2,0,Europe
 2020-04-08,Madagascar,93,0,11,82,5,0,4,Africa
@@ -16100,7 +16100,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-09,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-09,Liberia,31,4,3,24,0,0,0,Africa
 2020-04-09,Libya,24,1,8,15,3,0,0,Eastern Mediterranean
-2020-04-09,Liechtenstein,78,1,55,22,0,0,0,Europe
+2020-04-09,Liechtenstein,78,1,66,11,0,0,5,Europe
 2020-04-09,Lithuania,955,16,8,931,43,1,0,Europe
 2020-04-09,Luxembourg,3115,52,500,2563,81,6,0,Europe
 2020-04-09,Madagascar,93,0,11,82,0,0,0,Africa
@@ -16305,7 +16305,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-10,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-10,Liberia,37,5,3,29,6,1,0,Africa
 2020-04-10,Libya,24,1,8,15,0,0,0,Eastern Mediterranean
-2020-04-10,Liechtenstein,79,1,55,23,1,0,0,Europe
+2020-04-10,Liechtenstein,79,1,70,8,1,0,4,Europe
 2020-04-10,Lithuania,999,22,54,923,44,6,46,Europe
 2020-04-10,Luxembourg,3223,54,500,2669,108,2,0,Europe
 2020-04-10,Madagascar,93,0,11,82,0,0,0,Africa
@@ -16510,7 +16510,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-11,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-11,Liberia,48,5,3,40,11,0,0,Africa
 2020-04-11,Libya,24,1,8,15,0,0,0,Eastern Mediterranean
-2020-04-11,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-11,Liechtenstein,79,1,72,6,0,0,2,Europe
 2020-04-11,Lithuania,1026,23,54,949,27,1,0,Europe
 2020-04-11,Luxembourg,3270,62,500,2708,47,8,0,Europe
 2020-04-11,Madagascar,102,0,11,91,9,0,0,Africa
@@ -16715,7 +16715,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-12,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-12,Liberia,50,5,3,42,2,0,0,Africa
 2020-04-12,Libya,25,1,9,15,1,0,1,Eastern Mediterranean
-2020-04-12,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-12,Liechtenstein,79,1,77,1,0,0,5,Europe
 2020-04-12,Lithuania,1053,23,97,933,27,0,43,Europe
 2020-04-12,Luxembourg,3281,66,500,2715,11,4,0,Europe
 2020-04-12,Madagascar,106,0,20,86,4,0,9,Africa
@@ -16920,7 +16920,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-13,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-13,Liberia,59,6,4,49,9,1,1,Africa
 2020-04-13,Libya,26,1,9,16,1,0,0,Eastern Mediterranean
-2020-04-13,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-13,Liechtenstein,79,1,77,1,0,0,0,Europe
 2020-04-13,Lithuania,1062,24,101,937,9,1,4,Europe
 2020-04-13,Luxembourg,3292,69,500,2723,11,3,0,Europe
 2020-04-13,Madagascar,106,0,21,85,0,0,1,Africa
@@ -17125,7 +17125,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-14,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-14,Liberia,59,6,4,49,0,0,0,Africa
 2020-04-14,Libya,35,1,9,25,9,0,0,Eastern Mediterranean
-2020-04-14,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-14,Liechtenstein,79,1,77,1,0,0,0,Europe
 2020-04-14,Lithuania,1070,29,101,940,8,5,0,Europe
 2020-04-14,Luxembourg,3307,67,500,2740,15,-2,0,Europe
 2020-04-14,Madagascar,108,0,23,85,2,0,2,Africa
@@ -17330,7 +17330,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-15,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-15,Liberia,59,6,4,49,0,0,0,Africa
 2020-04-15,Libya,48,1,9,38,13,0,0,Eastern Mediterranean
-2020-04-15,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-15,Liechtenstein,79,1,77,1,0,0,0,Europe
 2020-04-15,Lithuania,1091,30,138,923,21,1,37,Europe
 2020-04-15,Luxembourg,3373,69,526,2778,66,2,26,Europe
 2020-04-15,Madagascar,110,0,29,81,2,0,6,Africa
@@ -17535,7 +17535,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-16,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-16,Liberia,59,6,4,49,0,0,0,Africa
 2020-04-16,Libya,49,1,11,37,1,0,2,Eastern Mediterranean
-2020-04-16,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-16,Liechtenstein,79,1,77,1,0,0,0,Europe
 2020-04-16,Lithuania,1128,32,178,918,37,2,40,Europe
 2020-04-16,Luxembourg,3444,69,552,2823,71,0,26,Europe
 2020-04-16,Madagascar,111,0,33,78,1,0,4,Africa
@@ -17740,7 +17740,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-17,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-17,Liberia,76,7,7,62,17,1,3,Africa
 2020-04-17,Libya,49,1,11,37,0,0,0,Eastern Mediterranean
-2020-04-17,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-17,Liechtenstein,79,1,77,1,0,0,0,Europe
 2020-04-17,Lithuania,1149,33,210,906,21,1,32,Europe
 2020-04-17,Luxembourg,3480,72,579,2829,36,3,27,Europe
 2020-04-17,Madagascar,117,0,33,84,6,0,0,Africa
@@ -17945,7 +17945,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-18,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-18,Liberia,76,7,7,62,0,0,0,Africa
 2020-04-18,Libya,49,1,11,37,0,0,0,Eastern Mediterranean
-2020-04-18,Liechtenstein,79,1,55,23,0,0,0,Europe
+2020-04-18,Liechtenstein,79,1,77,1,0,0,0,Europe
 2020-04-18,Lithuania,1239,33,228,978,90,0,18,Europe
 2020-04-18,Luxembourg,3537,72,601,2864,57,0,22,Europe
 2020-04-18,Madagascar,120,0,35,85,3,0,2,Africa
@@ -18150,7 +18150,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-19,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-19,Liberia,91,8,7,76,15,1,0,Africa
 2020-04-19,Libya,51,1,11,39,2,0,0,Eastern Mediterranean
-2020-04-19,Liechtenstein,81,1,55,25,2,0,0,Europe
+2020-04-19,Liechtenstein,81,1,78,2,2,0,1,Europe
 2020-04-19,Lithuania,1298,35,242,1021,59,2,14,Europe
 2020-04-19,Luxembourg,3550,73,627,2850,13,1,26,Europe
 2020-04-19,Madagascar,121,0,39,82,1,0,4,Africa
@@ -18355,7 +18355,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-20,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-20,Liberia,99,8,7,84,8,0,0,Africa
 2020-04-20,Libya,51,1,15,35,0,0,4,Eastern Mediterranean
-2020-04-20,Liechtenstein,81,1,55,25,0,0,0,Europe
+2020-04-20,Liechtenstein,81,1,78,2,0,0,0,Europe
 2020-04-20,Lithuania,1326,37,242,1047,28,2,0,Europe
 2020-04-20,Luxembourg,3558,75,637,2846,8,2,10,Europe
 2020-04-20,Madagascar,121,0,41,80,0,0,2,Africa
@@ -18560,7 +18560,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-21,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-21,Liberia,101,8,7,86,2,0,0,Africa
 2020-04-21,Libya,51,1,15,35,0,0,0,Eastern Mediterranean
-2020-04-21,Liechtenstein,81,1,55,25,0,0,0,Europe
+2020-04-21,Liechtenstein,81,1,78,2,0,0,0,Europe
 2020-04-21,Lithuania,1350,38,298,1014,24,1,56,Europe
 2020-04-21,Luxembourg,3618,78,670,2870,60,3,33,Europe
 2020-04-21,Madagascar,121,0,44,77,0,0,3,Africa
@@ -18765,7 +18765,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-22,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-22,Liberia,101,8,20,73,0,0,13,Africa
 2020-04-22,Libya,59,1,15,43,8,0,0,Eastern Mediterranean
-2020-04-22,Liechtenstein,81,1,55,25,0,0,0,Europe
+2020-04-22,Liechtenstein,81,1,79,1,0,0,1,Europe
 2020-04-22,Lithuania,1370,38,357,975,20,0,59,Europe
 2020-04-22,Luxembourg,3654,80,711,2863,36,2,41,Europe
 2020-04-22,Madagascar,121,0,52,69,0,0,8,Africa
@@ -18970,7 +18970,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-23,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-23,Liberia,101,8,20,73,0,0,0,Africa
 2020-04-23,Libya,60,2,15,43,1,1,0,Eastern Mediterranean
-2020-04-23,Liechtenstein,81,1,55,25,0,0,0,Europe
+2020-04-23,Liechtenstein,81,1,79,1,0,0,0,Europe
 2020-04-23,Lithuania,1398,40,399,959,28,2,42,Europe
 2020-04-23,Luxembourg,3665,83,728,2854,11,3,17,Europe
 2020-04-23,Madagascar,121,0,58,63,0,0,6,Africa
@@ -19175,7 +19175,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-24,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-24,Liberia,117,8,25,84,16,0,5,Africa
 2020-04-24,Libya,61,2,18,41,1,0,3,Eastern Mediterranean
-2020-04-24,Liechtenstein,81,1,55,25,0,0,0,Europe
+2020-04-24,Liechtenstein,81,1,79,1,0,0,0,Europe
 2020-04-24,Lithuania,1410,40,430,940,12,0,31,Europe
 2020-04-24,Luxembourg,3695,85,3007,603,30,2,2279,Europe
 2020-04-24,Madagascar,122,0,61,61,1,0,3,Africa
@@ -19380,7 +19380,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-25,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-25,Liberia,120,11,25,84,3,3,0,Africa
 2020-04-25,Libya,61,2,18,41,0,0,0,Eastern Mediterranean
-2020-04-25,Liechtenstein,81,1,55,25,0,0,0,Europe
+2020-04-25,Liechtenstein,81,1,79,1,0,0,0,Europe
 2020-04-25,Lithuania,1426,41,460,925,16,1,30,Europe
 2020-04-25,Luxembourg,3711,85,3088,538,16,0,81,Europe
 2020-04-25,Madagascar,123,0,62,61,1,0,1,Africa
@@ -19585,7 +19585,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-26,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-26,Liberia,124,12,25,87,4,1,0,Africa
 2020-04-26,Libya,61,2,18,41,0,0,0,Eastern Mediterranean
-2020-04-26,Liechtenstein,82,1,55,26,1,0,0,Europe
+2020-04-26,Liechtenstein,82,1,79,2,1,0,0,Europe
 2020-04-26,Lithuania,1438,41,467,930,12,0,7,Europe
 2020-04-26,Luxembourg,3723,88,3104,531,12,3,16,Europe
 2020-04-26,Madagascar,124,0,71,53,1,0,9,Africa
@@ -19790,7 +19790,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-27,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-27,Liberia,124,12,25,87,0,0,0,Africa
 2020-04-27,Libya,61,2,18,41,0,0,0,Eastern Mediterranean
-2020-04-27,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-04-27,Liechtenstein,82,1,79,2,0,0,0,Europe
 2020-04-27,Lithuania,1449,41,474,934,11,0,7,Europe
 2020-04-27,Luxembourg,3729,88,3123,518,6,0,19,Europe
 2020-04-27,Madagascar,128,0,75,53,4,0,4,Africa
@@ -19995,7 +19995,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-28,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-28,Liberia,141,16,45,80,17,4,20,Africa
 2020-04-28,Libya,61,2,18,41,0,0,0,Eastern Mediterranean
-2020-04-28,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-04-28,Liechtenstein,82,1,80,1,0,0,1,Europe
 2020-04-28,Lithuania,1344,44,536,764,0,3,62,Europe
 2020-04-28,Luxembourg,3741,89,3123,529,12,1,0,Europe
 2020-04-28,Madagascar,128,0,82,46,0,0,7,Africa
@@ -20200,7 +20200,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-29,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-29,Liberia,141,16,45,80,0,0,0,Africa
 2020-04-29,Libya,61,2,18,41,0,0,0,Eastern Mediterranean
-2020-04-29,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-04-29,Liechtenstein,82,1,80,1,0,0,0,Europe
 2020-04-29,Lithuania,1375,45,563,767,31,1,27,Europe
 2020-04-29,Luxembourg,3769,89,3134,546,28,0,11,Europe
 2020-04-29,Madagascar,128,0,90,38,0,0,8,Africa
@@ -20405,7 +20405,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-30,Lesotho,0,0,0,0,0,0,0,Africa
 2020-04-30,Liberia,141,16,45,80,0,0,0,Africa
 2020-04-30,Libya,61,3,18,40,0,1,0,Eastern Mediterranean
-2020-04-30,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-04-30,Liechtenstein,82,1,80,1,0,0,0,Europe
 2020-04-30,Lithuania,1385,45,589,751,10,0,26,Europe
 2020-04-30,Luxembourg,3784,90,3213,481,15,1,79,Europe
 2020-04-30,Madagascar,128,0,92,36,0,0,2,Africa
@@ -20610,7 +20610,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-01,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-01,Liberia,152,18,45,89,11,2,0,Africa
 2020-05-01,Libya,63,3,18,42,2,0,0,Eastern Mediterranean
-2020-05-01,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-01,Liechtenstein,82,1,80,1,0,0,0,Europe
 2020-05-01,Lithuania,1399,45,594,760,14,0,5,Europe
 2020-05-01,Luxembourg,3802,92,3213,497,18,2,0,Europe
 2020-05-01,Madagascar,132,0,94,38,4,0,2,Africa
@@ -20815,7 +20815,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-02,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-02,Liberia,154,18,48,88,2,0,3,Africa
 2020-05-02,Libya,63,3,22,38,0,0,4,Eastern Mediterranean
-2020-05-02,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-02,Liechtenstein,82,1,80,1,0,0,0,Europe
 2020-05-02,Lithuania,1406,46,632,728,7,1,38,Europe
 2020-05-02,Luxembourg,3812,92,3318,402,10,0,105,Europe
 2020-05-02,Madagascar,135,0,97,38,3,0,3,Africa
@@ -21020,7 +21020,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-03,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-03,Liberia,158,18,58,82,4,0,10,Africa
 2020-05-03,Libya,63,3,22,38,0,0,0,Eastern Mediterranean
-2020-05-03,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-03,Liechtenstein,82,1,80,1,0,0,0,Europe
 2020-05-03,Lithuania,1410,46,635,729,4,0,3,Europe
 2020-05-03,Luxembourg,3824,96,3379,349,12,4,61,Europe
 2020-05-03,Madagascar,149,0,98,51,14,0,1,Africa
@@ -21225,7 +21225,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-04,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-04,Liberia,166,18,58,90,8,0,0,Africa
 2020-05-04,Libya,63,3,23,37,0,0,1,Eastern Mediterranean
-2020-05-04,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-04,Liechtenstein,82,1,80,1,0,0,0,Europe
 2020-05-04,Lithuania,1419,46,638,735,9,0,3,Europe
 2020-05-04,Luxembourg,3828,96,3405,327,4,0,26,Europe
 2020-05-04,Madagascar,149,0,99,50,0,0,1,Africa
@@ -21430,7 +21430,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-05,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-05,Liberia,170,20,58,92,4,2,0,Africa
 2020-05-05,Libya,63,3,23,37,0,0,0,Eastern Mediterranean
-2020-05-05,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-05,Liechtenstein,82,1,80,1,0,0,0,Europe
 2020-05-05,Lithuania,1423,46,678,699,4,0,40,Europe
 2020-05-05,Luxembourg,3840,96,3412,332,12,0,7,Europe
 2020-05-05,Madagascar,151,0,101,50,2,0,2,Africa
@@ -21635,7 +21635,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-06,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-06,Liberia,178,20,75,83,8,0,17,Africa
 2020-05-06,Libya,64,3,24,37,1,0,1,Eastern Mediterranean
-2020-05-06,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-06,Liechtenstein,82,1,81,0,0,0,1,Europe
 2020-05-06,Lithuania,1428,48,718,662,5,2,40,Europe
 2020-05-06,Luxembourg,3851,98,3452,301,11,2,40,Europe
 2020-05-06,Madagascar,158,0,101,57,7,0,0,Africa
@@ -21840,7 +21840,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-07,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-07,Liberia,189,20,79,90,11,0,4,Africa
 2020-05-07,Libya,64,3,24,37,0,0,0,Eastern Mediterranean
-2020-05-07,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-07,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-07,Lithuania,1433,49,739,645,5,1,21,Europe
 2020-05-07,Luxembourg,3859,100,3505,254,8,2,53,Europe
 2020-05-07,Madagascar,193,0,101,92,35,0,0,Africa
@@ -22045,7 +22045,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-08,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-08,Liberia,199,20,79,100,10,0,0,Africa
 2020-05-08,Libya,64,3,24,37,0,0,0,Eastern Mediterranean
-2020-05-08,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-08,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-08,Lithuania,1436,49,765,622,3,0,26,Europe
 2020-05-08,Luxembourg,3871,100,3526,245,12,0,21,Europe
 2020-05-08,Madagascar,193,0,101,92,0,0,0,Africa
@@ -22250,7 +22250,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-09,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-09,Liberia,199,20,79,100,0,0,0,Africa
 2020-05-09,Libya,64,3,24,37,0,0,0,Eastern Mediterranean
-2020-05-09,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-09,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-09,Lithuania,1444,49,828,567,8,0,63,Europe
 2020-05-09,Luxembourg,3877,101,3550,226,6,1,24,Europe
 2020-05-09,Madagascar,193,0,101,92,0,0,0,Africa
@@ -22455,7 +22455,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-10,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-10,Liberia,199,20,79,100,0,0,0,Africa
 2020-05-10,Libya,64,3,24,37,0,0,0,Eastern Mediterranean
-2020-05-10,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-10,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-10,Lithuania,1479,50,828,601,35,1,0,Europe
 2020-05-10,Luxembourg,3886,101,3586,199,9,0,36,Europe
 2020-05-10,Madagascar,193,0,101,92,0,0,0,Africa
@@ -22660,7 +22660,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-11,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-11,Liberia,211,20,85,106,12,0,6,Africa
 2020-05-11,Libya,64,3,28,33,0,0,4,Eastern Mediterranean
-2020-05-11,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-11,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-11,Lithuania,1485,50,833,602,6,0,5,Europe
 2020-05-11,Luxembourg,3888,101,3602,185,2,0,16,Europe
 2020-05-11,Madagascar,186,0,101,85,0,0,0,Africa
@@ -22865,7 +22865,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-12,Lesotho,0,0,0,0,0,0,0,Africa
 2020-05-12,Liberia,211,20,85,106,0,0,0,Africa
 2020-05-12,Libya,64,3,28,33,0,0,0,Eastern Mediterranean
-2020-05-12,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-12,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-12,Lithuania,1491,50,850,591,6,0,17,Europe
 2020-05-12,Luxembourg,3894,102,3610,182,6,1,8,Europe
 2020-05-12,Madagascar,186,0,101,85,0,0,0,Africa
@@ -23070,7 +23070,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-13,Lesotho,1,0,0,1,1,0,0,Africa
 2020-05-13,Liberia,213,20,101,92,2,0,16,Africa
 2020-05-13,Libya,64,3,28,33,0,0,0,Eastern Mediterranean
-2020-05-13,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-13,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-13,Lithuania,1505,54,908,543,14,4,58,Europe
 2020-05-13,Luxembourg,3904,103,3629,172,10,1,19,Europe
 2020-05-13,Madagascar,212,0,107,105,26,0,6,Africa
@@ -23275,7 +23275,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-14,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-14,Liberia,215,20,105,90,2,0,4,Africa
 2020-05-14,Libya,64,3,28,33,0,0,0,Eastern Mediterranean
-2020-05-14,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-14,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-14,Lithuania,1511,54,934,523,6,0,26,Europe
 2020-05-14,Luxembourg,3915,103,3665,147,11,0,36,Europe
 2020-05-14,Madagascar,230,0,108,122,18,0,1,Africa
@@ -23480,7 +23480,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-15,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-15,Liberia,219,20,108,91,4,0,3,Africa
 2020-05-15,Libya,64,3,28,33,0,0,0,Eastern Mediterranean
-2020-05-15,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-15,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-15,Lithuania,1523,54,965,504,12,0,31,Europe
 2020-05-15,Luxembourg,3923,104,3682,137,8,1,17,Europe
 2020-05-15,Madagascar,238,0,112,126,8,0,4,Africa
@@ -23685,7 +23685,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-16,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-16,Liberia,223,20,116,87,4,0,8,Africa
 2020-05-16,Libya,65,3,28,34,1,0,0,Eastern Mediterranean
-2020-05-16,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-16,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-16,Lithuania,1534,55,988,491,11,1,23,Europe
 2020-05-16,Luxembourg,3930,104,3699,127,7,0,17,Europe
 2020-05-16,Madagascar,283,0,114,169,45,0,2,Africa
@@ -23890,7 +23890,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-17,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-17,Liberia,226,21,120,85,3,1,4,Africa
 2020-05-17,Libya,65,3,35,27,0,0,7,Eastern Mediterranean
-2020-05-17,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-17,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-17,Lithuania,1541,56,997,488,7,1,9,Europe
 2020-05-17,Luxembourg,3945,107,3702,136,15,3,3,Europe
 2020-05-17,Madagascar,304,1,114,189,21,1,0,Africa
@@ -24095,7 +24095,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-18,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-18,Liberia,229,22,123,84,3,1,3,Africa
 2020-05-18,Libya,65,3,35,27,0,0,0,Eastern Mediterranean
-2020-05-18,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-18,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-18,Lithuania,1547,59,997,491,6,3,0,Europe
 2020-05-18,Luxembourg,3947,107,3715,125,2,0,13,Europe
 2020-05-18,Madagascar,322,1,119,202,18,0,5,Africa
@@ -24300,7 +24300,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-19,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-19,Liberia,233,23,125,85,4,1,2,Africa
 2020-05-19,Libya,68,3,35,30,3,0,0,Eastern Mediterranean
-2020-05-19,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-19,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-19,Lithuania,1562,60,1025,477,15,1,28,Europe
 2020-05-19,Luxembourg,3958,109,3718,131,11,2,3,Europe
 2020-05-19,Madagascar,326,2,119,205,4,1,0,Africa
@@ -24505,7 +24505,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-20,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-20,Liberia,238,23,128,87,5,0,3,Africa
 2020-05-20,Libya,69,3,35,31,1,0,0,Eastern Mediterranean
-2020-05-20,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-20,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-20,Lithuania,1577,60,1049,468,15,0,24,Europe
 2020-05-20,Luxembourg,3971,109,3728,134,13,0,10,Europe
 2020-05-20,Madagascar,371,2,131,238,45,0,12,Africa
@@ -24710,7 +24710,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-21,Lesotho,1,0,0,1,0,0,0,Africa
 2020-05-21,Liberia,240,23,131,86,2,0,3,Africa
 2020-05-21,Libya,71,3,35,33,2,0,0,Eastern Mediterranean
-2020-05-21,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-21,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-21,Lithuania,1593,61,1049,483,16,1,0,Europe
 2020-05-21,Luxembourg,3980,109,3741,130,9,0,13,Europe
 2020-05-21,Madagascar,405,2,131,272,34,0,0,Africa
@@ -24915,7 +24915,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-22,Lesotho,2,0,0,2,1,0,0,Africa
 2020-05-22,Liberia,249,24,136,89,9,1,5,Africa
 2020-05-22,Libya,72,3,38,31,1,0,3,Eastern Mediterranean
-2020-05-22,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-22,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-22,Lithuania,1604,61,1111,432,11,0,62,Europe
 2020-05-22,Luxembourg,3981,109,3748,124,1,0,7,Europe
 2020-05-22,Madagascar,448,2,135,311,43,0,4,Africa
@@ -25120,7 +25120,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-23,Lesotho,2,0,0,2,0,0,0,Africa
 2020-05-23,Liberia,255,26,136,93,6,2,0,Africa
 2020-05-23,Libya,75,3,39,33,3,0,1,Eastern Mediterranean
-2020-05-23,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-23,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-23,Lithuania,1616,63,1135,418,12,2,24,Europe
 2020-05-23,Luxembourg,3990,109,3758,123,9,0,10,Europe
 2020-05-23,Madagascar,488,2,138,348,40,0,3,Africa
@@ -25325,7 +25325,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-24,Lesotho,2,0,0,2,0,0,0,Africa
 2020-05-24,Liberia,265,26,139,100,10,0,3,Africa
 2020-05-24,Libya,75,3,39,33,0,0,0,Eastern Mediterranean
-2020-05-24,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-24,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-24,Lithuania,1623,63,1138,422,7,0,3,Europe
 2020-05-24,Luxembourg,3992,110,3767,115,2,1,9,Europe
 2020-05-24,Madagascar,527,2,142,383,39,0,4,Africa
@@ -25530,7 +25530,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-25,Lesotho,2,0,0,2,0,0,0,Africa
 2020-05-25,Liberia,265,26,141,98,0,0,2,Africa
 2020-05-25,Libya,75,3,40,32,0,0,1,Eastern Mediterranean
-2020-05-25,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-25,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-25,Lithuania,1635,63,1138,434,12,0,0,Europe
 2020-05-25,Luxembourg,3993,110,3781,102,1,0,14,Europe
 2020-05-25,Madagascar,542,2,147,393,15,0,5,Africa
@@ -25735,7 +25735,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-26,Lesotho,2,0,0,2,0,0,0,Africa
 2020-05-26,Liberia,266,26,144,96,1,0,3,Africa
 2020-05-26,Libya,77,3,40,34,2,0,0,Eastern Mediterranean
-2020-05-26,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-26,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-26,Lithuania,1639,65,1165,409,4,2,27,Europe
 2020-05-26,Luxembourg,3995,110,3783,102,2,0,2,Europe
 2020-05-26,Madagascar,586,2,147,437,44,0,0,Africa
@@ -25940,7 +25940,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-27,Lesotho,2,0,0,2,0,0,0,Africa
 2020-05-27,Liberia,266,27,144,95,0,1,0,Africa
 2020-05-27,Libya,99,4,40,55,22,1,0,Eastern Mediterranean
-2020-05-27,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-27,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-27,Lithuania,1647,66,1184,397,8,1,19,Europe
 2020-05-27,Luxembourg,4001,110,3791,100,6,0,8,Europe
 2020-05-27,Madagascar,612,2,151,459,26,0,4,Africa
@@ -26145,7 +26145,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-28,Lesotho,2,0,1,1,0,0,1,Africa
 2020-05-28,Liberia,269,27,144,98,3,0,0,Africa
 2020-05-28,Libya,105,5,41,59,6,1,1,Eastern Mediterranean
-2020-05-28,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-28,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-28,Lithuania,1656,68,1193,395,9,2,9,Europe
 2020-05-28,Luxembourg,4008,110,3803,95,7,0,12,Europe
 2020-05-28,Madagascar,656,2,154,500,44,0,3,Africa
@@ -26350,7 +26350,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-29,Lesotho,2,0,1,1,0,0,0,Africa
 2020-05-29,Liberia,273,27,146,100,4,0,2,Africa
 2020-05-29,Libya,118,5,41,72,13,0,0,Eastern Mediterranean
-2020-05-29,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-29,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-29,Lithuania,1662,68,1216,378,6,0,23,Europe
 2020-05-29,Luxembourg,4012,110,3815,87,4,0,12,Europe
 2020-05-29,Madagascar,698,5,164,529,42,3,10,Africa
@@ -26555,7 +26555,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-30,Lesotho,2,0,1,1,0,0,0,Africa
 2020-05-30,Liberia,280,27,148,105,7,0,2,Africa
 2020-05-30,Libya,130,5,50,75,12,0,9,Eastern Mediterranean
-2020-05-30,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-30,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-30,Lithuania,1670,70,1229,371,8,2,13,Europe
 2020-05-30,Luxembourg,4016,110,3815,91,4,0,0,Europe
 2020-05-30,Madagascar,758,6,165,587,60,1,1,Africa
@@ -26760,7 +26760,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-31,Lesotho,2,0,1,1,0,0,0,Africa
 2020-05-31,Liberia,288,27,157,104,8,0,9,Africa
 2020-05-31,Libya,156,5,52,99,26,0,2,Eastern Mediterranean
-2020-05-31,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-05-31,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-05-31,Lithuania,1675,70,1236,369,5,0,7,Europe
 2020-05-31,Luxembourg,4018,110,3833,75,2,0,18,Europe
 2020-05-31,Madagascar,771,6,168,597,13,0,3,Africa
@@ -26965,7 +26965,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-01,Lesotho,2,0,1,1,0,0,0,Africa
 2020-06-01,Liberia,296,27,159,110,8,0,2,Africa
 2020-06-01,Libya,168,5,52,111,12,0,0,Eastern Mediterranean
-2020-06-01,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-01,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-01,Lithuania,1678,70,1236,372,3,0,0,Europe
 2020-06-01,Luxembourg,4019,110,3845,64,1,0,12,Europe
 2020-06-01,Madagascar,826,6,174,646,55,0,6,Africa
@@ -27170,7 +27170,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-02,Lesotho,2,0,1,1,0,0,0,Africa
 2020-06-02,Liberia,311,28,167,116,15,1,8,Africa
 2020-06-02,Libya,182,5,52,125,14,0,0,Eastern Mediterranean
-2020-06-02,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-02,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-02,Lithuania,1682,71,1249,362,4,1,13,Europe
 2020-06-02,Luxembourg,4020,110,3848,62,1,0,3,Europe
 2020-06-02,Madagascar,845,6,185,654,19,0,11,Africa
@@ -27375,7 +27375,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-03,Lesotho,4,0,2,2,2,0,1,Africa
 2020-06-03,Liberia,316,28,169,119,5,0,2,Africa
 2020-06-03,Libya,196,5,52,139,14,0,0,Eastern Mediterranean
-2020-06-03,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-03,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-03,Lithuania,1684,71,1260,353,2,0,11,Europe
 2020-06-03,Luxembourg,4024,110,3861,53,4,0,13,Europe
 2020-06-03,Madagascar,908,6,195,707,63,0,10,Africa
@@ -27580,7 +27580,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-04,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-04,Liberia,321,28,175,118,5,0,6,Africa
 2020-06-04,Libya,209,5,52,152,13,0,0,Eastern Mediterranean
-2020-06-04,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-04,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-04,Lithuania,1687,71,1273,343,3,0,13,Europe
 2020-06-04,Luxembourg,4027,110,3874,43,3,0,13,Europe
 2020-06-04,Madagascar,957,7,200,750,49,1,5,Africa
@@ -27785,7 +27785,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-05,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-05,Liberia,334,30,176,128,13,2,1,Africa
 2020-06-05,Libya,239,5,52,182,30,0,0,Eastern Mediterranean
-2020-06-05,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-05,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-05,Lithuania,1694,71,1302,321,7,0,29,Europe
 2020-06-05,Luxembourg,4032,110,3885,37,5,0,11,Europe
 2020-06-05,Madagascar,975,7,201,767,18,0,1,Africa
@@ -27990,7 +27990,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-06,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-06,Liberia,345,30,185,130,11,0,9,Africa
 2020-06-06,Libya,256,5,52,199,17,0,0,Eastern Mediterranean
-2020-06-06,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-06,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-06,Lithuania,1705,71,1321,313,11,0,19,Europe
 2020-06-06,Luxembourg,4035,110,3888,37,3,0,3,Europe
 2020-06-06,Madagascar,1026,8,212,806,51,1,11,Africa
@@ -28195,7 +28195,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-07,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-07,Liberia,359,30,194,135,14,0,9,Africa
 2020-06-07,Libya,256,5,52,199,0,0,0,Eastern Mediterranean
-2020-06-07,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-07,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-07,Lithuania,1714,71,1328,315,9,0,7,Europe
 2020-06-07,Luxembourg,4039,110,3899,30,4,0,11,Europe
 2020-06-07,Madagascar,1052,9,233,810,26,1,21,Africa
@@ -28400,7 +28400,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-08,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-08,Liberia,370,30,195,145,11,0,1,Africa
 2020-06-08,Libya,332,5,57,270,76,0,5,Eastern Mediterranean
-2020-06-08,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-08,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-08,Lithuania,1720,71,1331,318,6,0,3,Europe
 2020-06-08,Luxembourg,4040,110,3901,29,1,0,2,Europe
 2020-06-08,Madagascar,1094,9,254,831,42,0,21,Africa
@@ -28605,7 +28605,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-09,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-09,Liberia,383,31,199,153,13,1,4,Africa
 2020-06-09,Libya,359,5,58,296,27,0,1,Eastern Mediterranean
-2020-06-09,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-09,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-09,Lithuania,1727,72,1338,317,7,1,7,Europe
 2020-06-09,Luxembourg,4046,110,3902,34,6,0,1,Europe
 2020-06-09,Madagascar,1138,9,274,855,44,0,20,Africa
@@ -28810,7 +28810,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-10,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-10,Liberia,397,31,200,166,14,0,1,Africa
 2020-06-10,Libya,378,5,59,314,19,0,1,Eastern Mediterranean
-2020-06-10,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-10,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-10,Lithuania,1733,74,1369,290,6,2,31,Europe
 2020-06-10,Luxembourg,4049,110,3904,35,3,0,2,Europe
 2020-06-10,Madagascar,1162,10,296,856,24,1,22,Africa
@@ -29015,7 +29015,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-11,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-11,Liberia,410,31,206,173,13,0,6,Africa
 2020-06-11,Libya,393,5,59,329,15,0,0,Eastern Mediterranean
-2020-06-11,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-11,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-11,Lithuania,1752,74,1372,306,19,0,3,Europe
 2020-06-11,Luxembourg,4052,110,3910,32,3,0,6,Europe
 2020-06-11,Madagascar,1203,10,312,881,41,0,16,Africa
@@ -29220,7 +29220,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-12,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-12,Liberia,421,32,210,179,11,1,4,Africa
 2020-06-12,Libya,409,6,59,344,16,1,0,Eastern Mediterranean
-2020-06-12,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-12,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-12,Lithuania,1756,74,1400,282,4,0,28,Europe
 2020-06-12,Luxembourg,4055,110,3918,27,3,0,8,Europe
 2020-06-12,Madagascar,1240,10,344,886,37,0,32,Africa
@@ -29425,7 +29425,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-13,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-13,Liberia,446,32,214,200,25,0,4,Africa
 2020-06-13,Libya,418,8,62,348,9,2,3,Eastern Mediterranean
-2020-06-13,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-13,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-13,Lithuania,1763,75,1416,272,7,1,16,Europe
 2020-06-13,Luxembourg,4063,110,3922,31,8,0,4,Europe
 2020-06-13,Madagascar,1252,10,362,880,12,0,18,Africa
@@ -29630,7 +29630,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-14,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-14,Liberia,458,32,219,207,12,0,5,Africa
 2020-06-14,Libya,454,10,63,381,36,2,1,Eastern Mediterranean
-2020-06-14,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-14,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-14,Lithuania,1768,75,1427,266,5,0,11,Europe
 2020-06-14,Luxembourg,4070,110,3929,31,7,0,7,Europe
 2020-06-14,Madagascar,1272,10,367,895,20,0,5,Africa
@@ -29835,7 +29835,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-15,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-15,Liberia,498,33,221,244,40,1,2,Africa
 2020-06-15,Libya,467,10,70,387,13,0,7,Eastern Mediterranean
-2020-06-15,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-15,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-15,Lithuania,1773,76,1429,268,5,1,2,Europe
 2020-06-15,Luxembourg,4072,110,3931,31,2,0,2,Europe
 2020-06-15,Madagascar,1290,10,384,896,18,0,17,Africa
@@ -30040,7 +30040,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-16,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-16,Liberia,509,33,222,254,11,0,1,Africa
 2020-06-16,Libya,484,10,76,398,17,0,6,Eastern Mediterranean
-2020-06-16,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-16,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-16,Lithuania,1776,76,1441,259,3,0,12,Europe
 2020-06-16,Luxembourg,4075,110,3933,32,3,0,2,Europe
 2020-06-16,Madagascar,1317,12,417,888,27,2,33,Africa
@@ -30245,7 +30245,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-17,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-17,Liberia,516,33,240,243,7,0,18,Africa
 2020-06-17,Libya,500,10,78,412,16,0,2,Eastern Mediterranean
-2020-06-17,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-17,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-17,Lithuania,1778,76,1447,255,2,0,6,Europe
 2020-06-17,Luxembourg,4085,110,3935,40,10,0,2,Europe
 2020-06-17,Madagascar,1378,12,450,916,61,0,33,Africa
@@ -30450,7 +30450,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-18,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-18,Liberia,542,33,250,259,26,0,10,Africa
 2020-06-18,Libya,510,10,81,419,10,0,3,Eastern Mediterranean
-2020-06-18,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-18,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-18,Lithuania,1784,76,1449,259,6,0,2,Europe
 2020-06-18,Luxembourg,4091,110,3940,41,6,0,5,Europe
 2020-06-18,Madagascar,1403,13,463,927,25,1,13,Africa
@@ -30655,7 +30655,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-19,Liberia,581,33,250,298,39,0,0,Africa
 2020-06-19,Libya,520,10,83,427,10,0,2,Eastern Mediterranean
-2020-06-19,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-19,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-19,Lithuania,1792,76,1462,254,8,0,13,Europe
 2020-06-19,Luxembourg,4099,110,3944,45,8,0,4,Europe
 2020-06-19,Madagascar,1443,13,498,932,40,0,35,Africa
@@ -30860,7 +30860,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-20,Liberia,601,33,254,314,20,0,4,Africa
 2020-06-20,Libya,544,10,98,436,24,0,15,Eastern Mediterranean
-2020-06-20,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-20,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-20,Lithuania,1795,76,1470,249,3,0,8,Europe
 2020-06-20,Luxembourg,4105,110,3951,44,6,0,7,Europe
 2020-06-20,Madagascar,1503,13,618,872,60,0,120,Africa
@@ -31065,7 +31065,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Lesotho,4,0,2,2,0,0,0,Africa
 2020-06-21,Liberia,626,34,254,338,25,1,0,Africa
 2020-06-21,Libya,571,10,103,458,27,0,5,Eastern Mediterranean
-2020-06-21,Liechtenstein,82,1,55,26,0,0,0,Europe
+2020-06-21,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-21,Lithuania,1798,76,1475,247,3,0,5,Europe
 2020-06-21,Luxembourg,4120,110,3956,54,15,0,5,Europe
 2020-06-21,Madagascar,1596,14,655,927,93,1,37,Africa
@@ -31270,7 +31270,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-22,Lesotho,12,0,2,10,8,0,0,Africa
 2020-06-22,Liberia,650,34,260,356,24,0,6,Africa
 2020-06-22,Libya,595,10,116,469,24,0,13,Eastern Mediterranean
-2020-06-22,Liechtenstein,83,1,69,13,1,0,14,Europe
+2020-06-22,Liechtenstein,82,1,81,0,0,0,0,Europe
 2020-06-22,Lithuania,1801,76,1475,250,3,0,0,Europe
 2020-06-22,Luxembourg,4121,110,3959,52,1,0,3,Europe
 2020-06-22,Madagascar,1640,15,692,933,44,1,37,Africa
@@ -31475,7 +31475,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-23,Lesotho,17,0,2,15,5,0,0,Africa
 2020-06-23,Liberia,652,34,270,348,2,0,10,Africa
 2020-06-23,Libya,639,17,132,490,44,7,16,Eastern Mediterranean
-2020-06-23,Liechtenstein,86,2,72,12,3,1,3,Europe
+2020-06-23,Liechtenstein,82,2,81,-1,0,1,0,Europe
 2020-06-23,Lithuania,1803,77,1483,243,2,1,8,Europe
 2020-06-23,Luxembourg,4133,110,3959,64,12,0,0,Europe
 2020-06-23,Madagascar,1724,15,732,977,84,0,40,Africa
@@ -31680,7 +31680,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-24,Lesotho,17,0,2,15,0,0,0,Africa
 2020-06-24,Liberia,662,34,270,358,10,0,0,Africa
 2020-06-24,Libya,670,18,138,514,31,1,6,Eastern Mediterranean
-2020-06-24,Liechtenstein,82,1,81,0,0,-1,9,Europe
+2020-06-24,Liechtenstein,82,1,81,0,0,-1,0,Europe
 2020-06-24,Lithuania,1804,78,1484,242,1,1,1,Europe
 2020-06-24,Luxembourg,4140,110,3965,65,7,0,6,Europe
 2020-06-24,Madagascar,1787,16,779,992,63,1,47,Africa
@@ -35370,7 +35370,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-12,Lesotho,233,2,32,199,49,1,6,Africa
 2020-07-12,Liberia,1010,51,423,536,12,4,3,Africa
 2020-07-12,Libya,1433,39,341,1053,44,1,1,Eastern Mediterranean
-2020-07-12,Liechtenstein,84,1,81,2,0,0,0,Europe
+2020-07-12,Liechtenstein,84,1,82,1,0,0,1,Europe
 2020-07-12,Lithuania,1869,79,1571,219,4,0,-8,Europe
 2020-07-12,Luxembourg,4925,111,4086,728,83,1,0,Europe
 2020-07-12,Madagascar,4867,35,2378,2454,289,1,91,Africa
@@ -35575,7 +35575,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-13,Lesotho,245,3,33,209,12,1,1,Africa
 2020-07-13,Liberia,1024,51,439,534,14,0,16,Africa
 2020-07-13,Libya,1512,40,367,1105,79,1,26,Eastern Mediterranean
-2020-07-13,Liechtenstein,84,1,81,2,0,0,0,Europe
+2020-07-13,Liechtenstein,84,1,82,1,0,0,0,Europe
 2020-07-13,Lithuania,1874,79,1571,224,5,0,0,Europe
 2020-07-13,Luxembourg,4956,111,4183,662,31,0,97,Europe
 2020-07-13,Madagascar,5080,37,2494,2549,213,2,116,Africa
@@ -35780,7 +35780,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-14,Lesotho,256,3,48,205,11,0,15,Africa
 2020-07-14,Liberia,1024,51,439,534,0,0,0,Africa
 2020-07-14,Libya,1563,42,370,1151,51,2,3,Eastern Mediterranean
-2020-07-14,Liechtenstein,84,1,81,2,0,0,0,Europe
+2020-07-14,Liechtenstein,84,1,82,1,0,0,0,Europe
 2020-07-14,Lithuania,1875,79,1571,225,1,0,0,Europe
 2020-07-14,Luxembourg,5056,111,4195,750,100,0,12,Europe
 2020-07-14,Madagascar,5343,39,2646,2658,263,2,152,Africa
@@ -35985,7 +35985,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-15,Lesotho,256,3,48,205,0,0,0,Africa
 2020-07-15,Liberia,1056,51,447,558,32,0,8,Africa
 2020-07-15,Libya,1589,43,373,1173,26,1,3,Eastern Mediterranean
-2020-07-15,Liechtenstein,84,1,81,2,0,0,0,Europe
+2020-07-15,Liechtenstein,84,1,83,0,0,0,1,Europe
 2020-07-15,Lithuania,1882,79,1582,221,7,0,11,Europe
 2020-07-15,Luxembourg,5122,111,4247,764,66,0,52,Europe
 2020-07-15,Madagascar,5605,43,2811,2751,262,4,165,Africa
@@ -36190,7 +36190,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-16,Lesotho,256,3,48,205,0,0,0,Africa
 2020-07-16,Liberia,1070,68,486,516,14,17,39,Africa
 2020-07-16,Libya,1652,46,379,1227,63,3,6,Eastern Mediterranean
-2020-07-16,Liechtenstein,84,1,81,2,0,0,0,Europe
+2020-07-16,Liechtenstein,84,1,83,0,0,0,0,Europe
 2020-07-16,Lithuania,1902,79,1593,230,20,0,11,Europe
 2020-07-16,Luxembourg,5285,111,4275,899,163,0,28,Europe
 2020-07-16,Madagascar,6089,53,2951,3085,484,10,140,Africa
@@ -36395,7 +36395,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-17,Lesotho,311,6,69,236,55,3,21,Africa
 2020-07-17,Liberia,1085,69,496,520,15,1,10,Africa
 2020-07-17,Libya,1704,47,380,1277,52,1,1,Eastern Mediterranean
-2020-07-17,Liechtenstein,85,1,81,3,1,0,0,Europe
+2020-07-17,Liechtenstein,85,1,83,1,1,0,0,Europe
 2020-07-17,Lithuania,1908,79,1595,234,6,0,2,Europe
 2020-07-17,Luxembourg,5409,111,4333,965,124,0,58,Europe
 2020-07-17,Madagascar,6467,54,3108,3305,378,1,157,Africa
@@ -36600,7 +36600,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-18,Lesotho,359,6,69,284,48,0,0,Africa
 2020-07-18,Liberia,1088,70,519,499,3,1,23,Africa
 2020-07-18,Libya,1791,48,385,1358,87,1,5,Eastern Mediterranean
-2020-07-18,Liechtenstein,86,1,81,4,1,0,0,Europe
+2020-07-18,Liechtenstein,86,1,83,2,1,0,0,Europe
 2020-07-18,Lithuania,1915,80,1600,235,7,1,5,Europe
 2020-07-18,Luxembourg,5483,111,4333,1039,74,0,0,Europe
 2020-07-18,Madagascar,6849,55,3339,3455,382,1,231,Africa
@@ -36805,7 +36805,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-19,Lesotho,359,6,69,284,0,0,0,Africa
 2020-07-19,Liberia,1091,70,534,487,3,0,15,Africa
 2020-07-19,Libya,1866,48,418,1400,75,0,33,Eastern Mediterranean
-2020-07-19,Liechtenstein,86,1,81,4,0,0,0,Europe
+2020-07-19,Liechtenstein,86,1,83,2,0,0,0,Europe
 2020-07-19,Lithuania,1932,80,1600,252,17,0,0,Europe
 2020-07-19,Luxembourg,5605,111,4333,1161,122,0,0,Europe
 2020-07-19,Madagascar,7049,59,3498,3492,200,4,159,Africa
@@ -37010,7 +37010,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-20,Lesotho,359,6,69,284,0,0,0,Africa
 2020-07-20,Liberia,1107,70,547,490,16,0,13,Africa
 2020-07-20,Libya,1980,49,441,1490,114,1,23,Eastern Mediterranean
-2020-07-20,Liechtenstein,86,1,81,4,0,0,0,Europe
+2020-07-20,Liechtenstein,86,1,83,2,0,0,0,Europe
 2020-07-20,Lithuania,1947,80,1601,266,15,0,1,Europe
 2020-07-20,Luxembourg,5639,111,4464,1064,34,0,131,Europe
 2020-07-20,Madagascar,7153,62,3788,3303,104,3,290,Africa
@@ -37215,7 +37215,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-21,Lesotho,359,6,69,284,0,0,0,Africa
 2020-07-21,Liberia,1108,70,575,463,1,0,28,Africa
 2020-07-21,Libya,2088,50,479,1559,108,1,38,Eastern Mediterranean
-2020-07-21,Liechtenstein,86,1,81,4,0,0,0,Europe
+2020-07-21,Liechtenstein,86,1,83,2,0,0,0,Europe
 2020-07-21,Lithuania,1949,80,1601,268,2,0,0,Europe
 2020-07-21,Luxembourg,5725,111,4479,1135,86,0,15,Europe
 2020-07-21,Madagascar,7548,65,4286,3197,395,3,498,Africa
