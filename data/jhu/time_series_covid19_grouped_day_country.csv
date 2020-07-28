@@ -38263,7 +38263,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-26,Mozambique,1669,11,0,1658,53,0,0,Africa
 2020-07-26,Namibia,1775,8,75,1692,88,1,3,Africa
 2020-07-26,Nepal,18613,45,13128,5440,130,0,75,South-East Asia
-2020-07-26,Netherlands,52732,6140,0,46592,0,0,0,Europe
+2020-07-26,Netherlands,53005,6159,0,46846,273,19,0,Europe
 2020-07-26,New Zealand,1556,22,1513,21,0,0,0,Western Pacific
 2020-07-26,Nicaragua,3439,108,2492,839,0,0,0,Americas
 2020-07-26,Niger,1136,69,1027,40,12,0,2,Africa
@@ -38468,7 +38468,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-27,Mozambique,1701,11,0,1690,32,0,0,Africa
 2020-07-27,Namibia,1843,8,101,1734,68,0,26,Africa
 2020-07-27,Nepal,18752,48,13754,4950,139,3,626,South-East Asia
-2020-07-27,Netherlands,53151,6141,0,47010,419,1,0,Europe
+2020-07-27,Netherlands,53151,6141,0,47010,146,-18,0,Europe
 2020-07-27,New Zealand,1557,22,1514,21,1,0,1,Western Pacific
 2020-07-27,Nicaragua,3439,108,2492,839,0,0,0,Americas
 2020-07-27,Niger,1132,69,1027,36,0,0,0,Africa
