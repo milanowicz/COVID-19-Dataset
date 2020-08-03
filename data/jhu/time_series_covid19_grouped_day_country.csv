@@ -39096,7 +39096,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-30,Papua New Guinea,63,2,11,50,0,1,0,Western Pacific
 2020-07-30,Paraguay,5207,47,3250,1910,341,1,81,Americas
 2020-07-30,Peru,400683,18816,283915,97952,0,0,3871,Americas
-2020-07-30,Philippines,85486,1962,26996,56528,0,0,0,Western Pacific
+2020-07-30,Philippines,89374,1983,65064,22327,3888,21,38068,Western Pacific
 2020-07-30,Poland,45031,1709,33643,9679,615,15,453,Europe
 2020-07-30,Portugal,50868,1727,36140,13001,255,2,265,Europe
 2020-07-30,Qatar,110460,171,107135,3154,307,2,286,Eastern Mediterranean
@@ -39301,7 +39301,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-31,Papua New Guinea,72,2,11,59,9,0,0,Western Pacific
 2020-07-31,Paraguay,5338,49,3548,1741,131,2,298,Americas
 2020-07-31,Peru,407492,19021,283915,104556,6809,205,0,Americas
-2020-07-31,Philippines,85486,1962,26996,56528,0,0,0,Western Pacific
+2020-07-31,Philippines,93354,2023,65178,26153,3980,40,114,Western Pacific
 2020-07-31,Poland,45688,1716,33987,9985,657,7,344,Europe
 2020-07-31,Portugal,51072,1735,36483,12854,204,8,343,Europe
 2020-07-31,Qatar,110695,174,107377,3144,235,3,242,Eastern Mediterranean
@@ -39369,7 +39369,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-01,Argentina,196543,3596,86499,106448,5241,53,2719,Americas
 2020-08-01,Armenia,38841,749,29557,8535,291,11,560,Europe
 2020-08-01,Aruba (NL),121,3,105,13,0,0,0,Americas
-2020-08-01,Australia,17269,201,10204,6864,0,0,221,Western Pacific
+2020-08-01,Australia,17895,208,10204,7483,615,7,221,Western Pacific
 2020-08-01,Austria,21212,718,18911,1583,82,0,153,Europe
 2020-08-01,Azerbaijan,32157,454,26474,5229,279,6,592,Europe
 2020-08-01,Bahamas,599,14,91,494,25,0,0,Americas
@@ -39506,7 +39506,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-01,Papua New Guinea,91,2,34,55,19,0,23,Western Pacific
 2020-08-01,Paraguay,5485,52,3786,1647,147,3,238,Americas
 2020-08-01,Peru,407492,19021,287127,101344,0,0,3212,Americas
-2020-08-01,Philippines,98232,2039,65265,30928,12746,77,38269,Western Pacific
+2020-08-01,Philippines,98232,2039,65265,30928,4878,16,87,Western Pacific
 2020-08-01,Poland,46346,1721,34374,10251,658,5,387,Europe
 2020-08-01,Portugal,51310,1737,36783,12790,238,2,300,Europe
 2020-08-01,Qatar,110911,174,107578,3159,216,0,201,Eastern Mediterranean
