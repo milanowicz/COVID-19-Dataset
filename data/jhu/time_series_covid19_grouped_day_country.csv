@@ -38170,7 +38170,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-26,Chad,915,75,810,30,0,0,0,Africa
 2020-07-26,Chile,345790,9112,318095,18583,2198,92,1926,Americas
 2020-07-26,China,86570,4652,78862,3056,189,0,49,Western Pacific
-2020-07-26,Colombia,240795,8269,119667,112859,0,0,0,Americas
+2020-07-26,Colombia,248976,8525,125037,115414,8181,256,5370,Americas
 2020-07-26,Comoros,354,7,328,19,14,0,4,Africa
 2020-07-26,Congo (Brazzaville),3038,51,756,2231,0,0,0,Africa
 2020-07-26,Congo (Kinshasa),8831,204,5510,3117,30,0,205,Africa
@@ -38375,7 +38375,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-27,Chad,922,75,810,37,7,0,0,Africa
 2020-07-27,Chile,347923,9187,319954,18782,2133,75,1859,Americas
 2020-07-27,China,86783,4656,78869,3258,213,4,7,Western Pacific
-2020-07-27,Colombia,257101,8777,131161,117163,16306,508,11494,Americas
+2020-07-27,Colombia,257101,8777,131161,117163,8125,252,6124,Americas
 2020-07-27,Comoros,354,7,328,19,0,0,0,Africa
 2020-07-27,Congo (Brazzaville),3200,54,829,2317,162,3,73,Africa
 2020-07-27,Congo (Kinshasa),8844,208,5700,2936,13,4,190,Africa
@@ -39574,7 +39574,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-02,Argentina,201919,3648,89026,109245,5376,52,2527,Americas
 2020-08-02,Armenia,39050,754,29750,8546,209,5,193,Europe
 2020-08-02,Aruba (NL),122,3,111,8,1,0,6,Americas
-2020-08-02,Australia,17938,208,10426,7304,43,0,222,Western Pacific
+2020-08-02,Australia,18318,221,10622,7475,423,13,418,Western Pacific
 2020-08-02,Austria,21304,718,18984,1602,92,0,73,Europe
 2020-08-02,Azerbaijan,32443,462,27113,4868,286,8,639,Europe
 2020-08-02,Bahamas,648,14,91,543,49,0,0,Americas
