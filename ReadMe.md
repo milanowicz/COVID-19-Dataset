@@ -118,13 +118,6 @@ Description of columns:
         Country Number
 
 
-## Case numbers from USA collecting by The COVID Tracking Project
-
-Future use to analyze it.....
-
-[The COVID Tracking Project](https://covidtracking.com/api/)
-
-
 ## Common data description
 
 Population CSV files
