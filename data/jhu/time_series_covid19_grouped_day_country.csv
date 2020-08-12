@@ -41449,7 +41449,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-11,Central African Republic,4645,61,1723,2861,4,1,2,Africa
 2020-08-11,Chad,946,76,859,11,1,0,16,Africa
 2020-08-11,Chile,376616,10178,349541,16897,1572,39,2199,Americas
-2020-08-11,China,88956,4691,80841,3424,50,2,191,Western Pacific
+2020-08-11,China,88958,4693,80843,3422,52,4,193,Western Pacific
 2020-08-11,Colombia,410453,13475,230427,166551,12830,321,8943,Americas
 2020-08-11,Comoros,399,7,379,13,0,0,10,Africa
 2020-08-11,Congo (Brazzaville),3745,60,1625,2060,81,2,36,Africa
@@ -41543,7 +41543,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-11,Mozambique,2481,17,0,2464,70,1,0,Africa
 2020-08-11,Namibia,3229,19,715,2495,128,0,0,Africa
 2020-08-11,Nepal,23948,83,16664,7201,638,4,171,South-East Asia
-2020-08-11,Netherlands,59423,6140,-1,53284,229,-17,-1,Europe
+2020-08-11,Netherlands,59424,6141,0,53283,230,-16,0,Europe
 2020-08-11,New Zealand,1570,22,1526,22,0,0,0,Western Pacific
 2020-08-11,Nicaragua,4115,128,2913,1074,213,5,0,Americas
 2020-08-11,Niger,1158,69,1065,24,0,0,3,Africa
