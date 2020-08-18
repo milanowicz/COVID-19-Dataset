@@ -10854,7 +10854,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-14,Uganda,0,0,0,0,0,0,0,Africa
 2020-03-14,Ukraine,3,1,0,2,0,0,0,Europe
 2020-03-14,United Arab Emirates,85,0,17,68,0,0,0,Eastern Mediterranean
-2020-03-14,United Kingdom,2632,28,18,2586,364,18,0,Europe
+2020-03-14,United Kingdom,2632,29,18,2585,364,19,0,Europe
 2020-03-14,Uruguay,6,0,0,6,2,0,0,Americas
 2020-03-14,Uzbekistan,0,0,0,0,0,0,0,Europe
 2020-03-14,Venezuela,2,0,0,2,2,0,0,Americas
@@ -11059,7 +11059,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-15,Uganda,0,0,0,0,0,0,0,Africa
 2020-03-15,Ukraine,3,1,0,2,0,0,0,Europe
 2020-03-15,United Arab Emirates,98,0,23,75,13,0,6,Eastern Mediterranean
-2020-03-15,United Kingdom,3075,43,18,3014,443,15,0,Europe
+2020-03-15,United Kingdom,3075,43,18,3014,443,14,0,Europe
 2020-03-15,Uruguay,8,0,0,8,2,0,0,Americas
 2020-03-15,Uzbekistan,1,0,0,1,1,0,0,Europe
 2020-03-15,Venezuela,10,0,0,10,8,0,0,Americas
@@ -11469,7 +11469,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-17,Uganda,0,0,0,0,0,0,0,Africa
 2020-03-17,Ukraine,14,2,0,12,7,1,0,Europe
 2020-03-17,United Arab Emirates,98,0,23,75,0,0,0,Eastern Mediterranean
-2020-03-17,United Kingdom,4458,81,52,4325,768,16,32,Europe
+2020-03-17,United Kingdom,4458,82,52,4324,768,17,32,Europe
 2020-03-17,Uruguay,50,0,0,50,21,0,0,Americas
 2020-03-17,Uzbekistan,10,0,0,10,4,0,0,Europe
 2020-03-17,Venezuela,33,0,0,33,16,0,0,Americas
@@ -11674,7 +11674,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-18,Uganda,0,0,0,0,0,0,0,Africa
 2020-03-18,Ukraine,14,2,0,12,0,0,0,Europe
 2020-03-18,United Arab Emirates,113,0,26,87,15,0,3,Eastern Mediterranean
-2020-03-18,United Kingdom,5457,115,65,5277,999,34,13,Europe
+2020-03-18,United Kingdom,5457,116,65,5276,999,34,13,Europe
 2020-03-18,Uruguay,79,0,0,79,29,0,0,Americas
 2020-03-18,Uzbekistan,15,0,0,15,5,0,0,Europe
 2020-03-18,Venezuela,36,0,0,36,3,0,0,Americas
@@ -11879,7 +11879,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-19,Uganda,0,0,0,0,0,0,0,Africa
 2020-03-19,Ukraine,16,2,0,14,2,0,0,Europe
 2020-03-19,United Arab Emirates,140,0,31,109,27,0,5,Eastern Mediterranean
-2020-03-19,United Kingdom,6519,158,65,6296,1062,43,0,Europe
+2020-03-19,United Kingdom,6519,162,65,6292,1062,46,0,Europe
 2020-03-19,Uruguay,94,0,0,94,15,0,0,Americas
 2020-03-19,Uzbekistan,23,0,0,23,8,0,0,Europe
 2020-03-19,Venezuela,42,0,0,42,6,0,0,Americas
@@ -12084,7 +12084,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-20,Uganda,0,0,0,0,0,0,0,Africa
 2020-03-20,Ukraine,29,3,0,26,13,1,0,Europe
 2020-03-20,United Arab Emirates,140,2,31,107,0,2,0,Eastern Mediterranean
-2020-03-20,United Kingdom,7777,194,65,7518,1258,36,0,Europe
+2020-03-20,United Kingdom,7777,194,65,7518,1258,32,0,Europe
 2020-03-20,Uruguay,110,0,0,110,16,0,0,Americas
 2020-03-20,Uzbekistan,33,0,0,33,10,0,0,Europe
 2020-03-20,Venezuela,42,0,0,42,0,0,0,Americas
@@ -12289,7 +12289,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-21,Uganda,1,0,0,1,1,0,0,Africa
 2020-03-21,Ukraine,47,3,1,43,18,0,1,Europe
 2020-03-21,United Arab Emirates,153,2,38,113,13,0,7,Eastern Mediterranean
-2020-03-21,United Kingdom,8992,250,65,8677,1215,56,0,Europe
+2020-03-21,United Kingdom,8992,252,65,8675,1215,58,0,Europe
 2020-03-21,Uruguay,135,0,0,135,25,0,0,Americas
 2020-03-21,Uzbekistan,43,0,0,43,10,0,0,Europe
 2020-03-21,Venezuela,70,0,0,70,28,0,0,Americas
@@ -12494,7 +12494,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-22,Uganda,1,0,0,1,0,0,0,Africa
 2020-03-22,Ukraine,73,3,1,69,26,0,0,Europe
 2020-03-22,United Arab Emirates,153,2,38,113,0,0,0,Eastern Mediterranean
-2020-03-22,United Kingdom,10376,285,65,10026,1384,35,0,Europe
+2020-03-22,United Kingdom,10376,288,65,10023,1384,36,0,Europe
 2020-03-22,Uruguay,158,0,0,158,23,0,0,Americas
 2020-03-22,Uzbekistan,43,0,0,43,0,0,0,Europe
 2020-03-22,Venezuela,70,0,15,55,0,0,15,Americas
@@ -12699,7 +12699,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-23,Uganda,9,0,0,9,8,0,0,Africa
 2020-03-23,Ukraine,73,3,1,69,0,0,0,Europe
 2020-03-23,United Arab Emirates,198,2,38,158,45,0,0,Eastern Mediterranean
-2020-03-23,United Kingdom,12723,359,65,12299,2347,74,0,Europe
+2020-03-23,United Kingdom,12723,364,65,12294,2347,76,0,Europe
 2020-03-23,Uruguay,162,0,0,162,4,0,0,Americas
 2020-03-23,Uzbekistan,46,0,0,46,3,0,0,Europe
 2020-03-23,Venezuela,77,0,15,62,7,0,0,Americas
@@ -12904,7 +12904,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-24,Uganda,9,0,0,9,0,0,0,Africa
 2020-03-24,Ukraine,97,3,1,93,24,0,0,Europe
 2020-03-24,United Arab Emirates,248,2,45,201,50,0,7,Eastern Mediterranean
-2020-03-24,United Kingdom,15104,508,135,14461,2381,149,70,Europe
+2020-03-24,United Kingdom,15104,512,135,14457,2381,148,70,Europe
 2020-03-24,Uruguay,189,0,0,189,27,0,0,Americas
 2020-03-24,Uzbekistan,50,0,0,50,4,0,0,Europe
 2020-03-24,Venezuela,84,0,15,69,7,0,0,Americas
@@ -13109,7 +13109,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-25,Uganda,14,0,0,14,5,0,0,Africa
 2020-03-25,Ukraine,145,5,1,139,48,2,0,Europe
 2020-03-25,United Arab Emirates,333,2,52,279,85,0,7,Eastern Mediterranean
-2020-03-25,United Kingdom,17808,695,135,16978,2704,187,0,Europe
+2020-03-25,United Kingdom,17808,703,135,16970,2704,191,0,Europe
 2020-03-25,Uruguay,217,0,0,217,28,0,0,Americas
 2020-03-25,Uzbekistan,60,0,0,60,10,0,0,Europe
 2020-03-25,Venezuela,91,0,15,76,7,0,0,Americas
@@ -13314,7 +13314,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-26,Uganda,14,0,0,14,0,0,0,Africa
 2020-03-26,Ukraine,196,5,1,190,51,0,0,Europe
 2020-03-26,United Arab Emirates,333,2,52,279,0,0,0,Eastern Mediterranean
-2020-03-26,United Kingdom,20922,879,137,19906,3114,184,2,Europe
+2020-03-26,United Kingdom,20922,885,137,19900,3114,182,2,Europe
 2020-03-26,Uruguay,238,0,0,238,21,0,0,Americas
 2020-03-26,Uzbekistan,75,0,0,75,15,0,0,Europe
 2020-03-26,Venezuela,107,0,15,92,16,0,0,Americas
@@ -13519,7 +13519,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-27,Uganda,23,0,0,23,9,0,0,Africa
 2020-03-27,Ukraine,310,5,5,300,114,0,4,Europe
 2020-03-27,United Arab Emirates,405,2,52,351,72,0,0,Eastern Mediterranean
-2020-03-27,United Kingdom,24151,1163,137,22851,3229,284,0,Europe
+2020-03-27,United Kingdom,24151,1173,137,22841,3229,288,0,Europe
 2020-03-27,Uruguay,274,0,0,274,36,0,0,Americas
 2020-03-27,Uzbekistan,88,1,5,82,13,1,5,Europe
 2020-03-27,Venezuela,107,1,31,75,0,1,16,Americas
@@ -13724,7 +13724,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-28,Uganda,30,0,0,30,7,0,0,Africa
 2020-03-28,Ukraine,356,9,5,342,46,4,0,Europe
 2020-03-28,United Arab Emirates,468,2,52,414,63,0,0,Eastern Mediterranean
-2020-03-28,United Kingdom,26985,1457,137,25391,2834,294,0,Europe
+2020-03-28,United Kingdom,26985,1465,137,25383,2834,292,0,Europe
 2020-03-28,Uruguay,303,1,0,302,29,1,0,Americas
 2020-03-28,Uzbekistan,104,2,5,97,16,1,0,Europe
 2020-03-28,Venezuela,119,2,39,78,12,1,8,Americas
@@ -13929,7 +13929,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-29,Uganda,33,0,0,33,3,0,0,Africa
 2020-03-29,Ukraine,475,10,6,459,119,1,1,Europe
 2020-03-29,United Arab Emirates,570,3,58,509,102,1,6,Eastern Mediterranean
-2020-03-29,United Kingdom,29868,1672,137,28059,2883,215,0,Europe
+2020-03-29,United Kingdom,29868,1678,137,28053,2883,213,0,Europe
 2020-03-29,Uruguay,309,1,0,308,6,0,0,Americas
 2020-03-29,Uzbekistan,144,2,7,135,40,0,2,Europe
 2020-03-29,Venezuela,119,2,39,78,0,0,0,Americas
@@ -14134,7 +14134,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-30,Uganda,33,0,0,33,0,0,0,Africa
 2020-03-30,Ukraine,548,13,8,527,73,3,2,Europe
 2020-03-30,United Arab Emirates,611,5,61,545,41,2,3,Eastern Mediterranean
-2020-03-30,United Kingdom,34186,2046,137,32003,4318,374,0,Europe
+2020-03-30,United Kingdom,34186,2052,137,31997,4318,374,0,Europe
 2020-03-30,Uruguay,320,1,0,319,11,0,0,Americas
 2020-03-30,Uzbekistan,149,2,7,140,5,0,0,Europe
 2020-03-30,Venezuela,135,3,39,93,16,1,0,Americas
@@ -14339,7 +14339,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-31,Uganda,44,0,0,44,11,0,0,Africa
 2020-03-31,Ukraine,645,17,10,618,97,4,2,Europe
 2020-03-31,United Arab Emirates,664,6,61,597,53,1,0,Eastern Mediterranean
-2020-03-31,United Kingdom,38717,2429,145,36143,4531,383,8,Europe
+2020-03-31,United Kingdom,38717,2456,145,36116,4531,404,8,Europe
 2020-03-31,Uruguay,338,1,41,296,18,0,41,Americas
 2020-03-31,Uzbekistan,172,2,7,163,23,0,0,Europe
 2020-03-31,Venezuela,135,3,39,93,0,0,0,Americas
@@ -14544,7 +14544,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-01,Uganda,44,0,0,44,0,0,0,Africa
 2020-04-01,Ukraine,794,20,13,761,149,3,3,Europe
 2020-04-01,United Arab Emirates,814,8,61,745,150,2,0,Eastern Mediterranean
-2020-04-01,United Kingdom,43670,3100,145,40425,4953,671,0,Europe
+2020-04-01,United Kingdom,43670,3129,145,40396,4953,673,0,Europe
 2020-04-01,Uruguay,350,2,62,286,12,1,21,Americas
 2020-04-01,Uzbekistan,181,2,12,167,9,0,5,Europe
 2020-04-01,Venezuela,143,3,41,99,8,0,2,Americas
@@ -14749,7 +14749,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-02,Uganda,45,0,0,45,1,0,0,Africa
 2020-04-02,Ukraine,897,22,19,856,103,2,6,Europe
 2020-04-02,United Arab Emirates,1024,8,96,920,210,0,35,Eastern Mediterranean
-2020-04-02,United Kingdom,48586,3752,146,44688,4916,652,1,Europe
+2020-04-02,United Kingdom,48586,3786,146,44654,4916,657,1,Europe
 2020-04-02,Uruguay,369,4,68,297,19,2,6,Americas
 2020-04-02,Uzbekistan,205,2,25,178,24,0,13,Europe
 2020-04-02,Venezuela,146,5,43,98,3,2,2,Americas
@@ -14954,7 +14954,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-03,Uganda,48,0,0,48,3,0,0,Africa
 2020-04-03,Ukraine,1072,27,22,1023,175,5,3,Europe
 2020-04-03,United Arab Emirates,1264,9,108,1147,240,1,12,Eastern Mediterranean
-2020-04-03,United Kingdom,53559,4467,162,48930,4973,715,16,Europe
+2020-04-03,United Kingdom,53559,4523,162,48874,4973,737,16,Europe
 2020-04-03,Uruguay,386,4,86,296,17,0,18,Americas
 2020-04-03,Uzbekistan,227,2,25,200,22,0,0,Europe
 2020-04-03,Venezuela,153,7,52,94,7,2,9,Americas
@@ -15159,7 +15159,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-04,Uganda,48,0,0,48,0,0,0,Africa
 2020-04-04,Ukraine,1225,32,25,1168,153,5,3,Europe
 2020-04-04,United Arab Emirates,1505,10,125,1370,241,1,17,Eastern Mediterranean
-2020-04-04,United Kingdom,57621,5228,162,52231,4062,761,0,Europe
+2020-04-04,United Kingdom,57621,5280,162,52179,4062,757,0,Europe
 2020-04-04,Uruguay,400,5,93,302,14,1,7,Americas
 2020-04-04,Uzbekistan,266,2,25,239,39,0,0,Europe
 2020-04-04,Venezuela,155,7,52,96,2,0,0,Americas
@@ -15364,7 +15364,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-05,Uganda,52,0,0,52,4,0,0,Africa
 2020-04-05,Ukraine,1308,37,28,1243,83,5,3,Europe
 2020-04-05,United Arab Emirates,1799,10,144,1645,294,0,19,Eastern Mediterranean
-2020-04-05,United Kingdom,61265,5873,176,55216,3644,645,14,Europe
+2020-04-05,United Kingdom,61265,5880,176,55209,3644,600,14,Europe
 2020-04-05,Uruguay,406,6,104,296,6,1,11,Americas
 2020-04-05,Uzbekistan,342,2,30,310,76,0,5,Europe
 2020-04-05,Venezuela,159,7,52,100,4,0,0,Americas
@@ -15569,7 +15569,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-06,Uganda,52,0,0,52,0,0,0,Africa
 2020-04-06,Ukraine,1319,38,28,1253,11,1,0,Europe
 2020-04-06,United Arab Emirates,2076,11,167,1898,277,1,23,Eastern Mediterranean
-2020-04-06,United Kingdom,66568,6444,234,59890,5303,571,58,Europe
+2020-04-06,United Kingdom,66568,6450,234,59884,5303,570,58,Europe
 2020-04-06,Uruguay,415,6,123,286,9,0,19,Americas
 2020-04-06,Uzbekistan,457,2,30,425,115,0,0,Europe
 2020-04-06,Venezuela,165,7,65,93,6,0,13,Americas
@@ -15774,7 +15774,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-07,Uganda,52,0,0,52,0,0,0,Africa
 2020-04-07,Ukraine,1462,45,28,1389,143,7,0,Europe
 2020-04-07,United Arab Emirates,2359,12,186,2161,283,1,19,Eastern Mediterranean
-2020-04-07,United Kingdom,72041,7482,259,64300,5473,1038,25,Europe
+2020-04-07,United Kingdom,72041,7555,259,64227,5473,1105,25,Europe
 2020-04-07,Uruguay,424,7,150,267,9,1,27,Americas
 2020-04-07,Uzbekistan,520,2,30,488,63,0,0,Europe
 2020-04-07,Venezuela,165,7,65,93,0,0,0,Americas
@@ -15979,7 +15979,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-08,Uganda,53,0,0,53,1,0,0,Africa
 2020-04-08,Ukraine,1668,52,35,1581,206,7,7,Europe
 2020-04-08,United Arab Emirates,2659,12,239,2408,300,0,53,Eastern Mediterranean
-2020-04-08,United Kingdom,77194,8518,278,68398,5153,1036,19,Europe
+2020-04-08,United Kingdom,77194,8587,278,68329,5153,1032,19,Europe
 2020-04-08,Uruguay,456,7,192,257,32,0,42,Americas
 2020-04-08,Uzbekistan,545,3,30,512,25,1,0,Europe
 2020-04-08,Venezuela,167,9,65,93,2,2,0,Americas
@@ -16184,7 +16184,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-09,Uganda,53,0,0,53,0,0,0,Africa
 2020-04-09,Ukraine,1892,57,45,1790,224,5,10,Europe
 2020-04-09,United Arab Emirates,2990,14,268,2708,331,2,29,Eastern Mediterranean
-2020-04-09,United Kingdom,82097,9629,292,72176,4903,1111,14,Europe
+2020-04-09,United Kingdom,82097,9704,292,72101,4903,1117,14,Europe
 2020-04-09,Uruguay,473,7,206,260,17,0,14,Americas
 2020-04-09,Uzbekistan,582,3,38,541,37,0,8,Europe
 2020-04-09,Venezuela,171,9,84,78,4,0,19,Americas
@@ -16389,7 +16389,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-10,Uganda,53,0,0,53,0,0,0,Africa
 2020-04-10,Ukraine,2203,69,61,2073,311,12,16,Europe
 2020-04-10,United Arab Emirates,3360,16,418,2926,370,2,150,Eastern Mediterranean
-2020-04-10,United Kingdom,86460,10782,512,75166,4363,1153,220,Europe
+2020-04-10,United Kingdom,86460,10827,512,75121,4363,1123,220,Europe
 2020-04-10,Uruguay,494,7,214,273,21,0,8,Americas
 2020-04-10,Uzbekistan,624,3,42,579,42,0,4,Europe
 2020-04-10,Venezuela,171,9,84,78,0,0,0,Americas
@@ -16594,7 +16594,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-11,Uganda,53,0,4,49,0,0,4,Africa
 2020-04-11,Ukraine,2511,73,79,2359,308,4,18,Europe
 2020-04-11,United Arab Emirates,3736,20,588,3128,376,4,170,Eastern Mediterranean
-2020-04-11,United Kingdom,90071,11623,529,77919,3611,841,17,Europe
+2020-04-11,United Kingdom,90071,11671,529,77871,3611,844,17,Europe
 2020-04-11,Uruguay,501,7,224,270,7,0,10,Americas
 2020-04-11,Uzbekistan,767,4,42,721,143,1,0,Europe
 2020-04-11,Venezuela,175,9,93,73,4,0,9,Americas
@@ -16799,7 +16799,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-12,Uganda,54,0,4,50,1,0,0,Africa
 2020-04-12,Ukraine,2777,83,89,2605,266,10,10,Europe
 2020-04-12,United Arab Emirates,4123,22,680,3421,387,2,92,Eastern Mediterranean
-2020-04-12,United Kingdom,93601,12309,533,80759,3530,686,4,Europe
+2020-04-12,United Kingdom,93601,12328,533,80740,3530,657,4,Europe
 2020-04-12,Uruguay,480,7,231,242,0,0,7,Americas
 2020-04-12,Uzbekistan,865,4,66,795,98,0,24,Europe
 2020-04-12,Venezuela,181,9,93,79,6,0,0,Americas
@@ -17004,7 +17004,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-13,Uganda,54,0,7,47,0,0,3,Africa
 2020-04-13,Ukraine,3102,93,97,2912,325,10,8,Europe
 2020-04-13,United Arab Emirates,4521,25,852,3644,398,3,172,Eastern Mediterranean
-2020-04-13,United Kingdom,97803,13054,209,84540,4202,745,-324,Europe
+2020-04-13,United Kingdom,97803,13053,209,84541,4202,725,-324,Europe
 2020-04-13,Uruguay,483,8,248,227,3,1,17,Americas
 2020-04-13,Uzbekistan,998,4,85,909,133,0,19,Europe
 2020-04-13,Venezuela,189,9,110,70,8,0,17,Americas
@@ -17209,7 +17209,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-14,Uganda,55,0,8,47,1,0,1,Africa
 2020-04-14,Ukraine,3372,98,119,3155,270,5,22,Europe
 2020-04-14,United Arab Emirates,4933,28,933,3972,412,3,81,Eastern Mediterranean
-2020-04-14,United Kingdom,102144,14105,219,87820,4341,1051,10,Europe
+2020-04-14,United Kingdom,102144,14133,219,87792,4341,1080,10,Europe
 2020-04-14,Uruguay,492,8,260,224,9,0,12,Americas
 2020-04-14,Uzbekistan,1165,4,99,1062,167,0,14,Europe
 2020-04-14,Venezuela,189,9,110,70,0,0,0,Americas
@@ -17414,7 +17414,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-15,Uganda,55,0,12,43,0,0,4,Africa
 2020-04-15,Ukraine,3764,108,143,3513,392,10,24,Europe
 2020-04-15,United Arab Emirates,5365,33,1034,4298,432,5,101,Eastern Mediterranean
-2020-04-15,United Kingdom,107242,14951,253,92038,5098,846,34,Europe
+2020-04-15,United Kingdom,107242,15017,253,91972,5098,884,34,Europe
 2020-04-15,Uruguay,493,9,272,212,1,1,12,Americas
 2020-04-15,Uzbekistan,1302,4,107,1191,137,0,8,Europe
 2020-04-15,Venezuela,197,9,111,77,8,0,1,Americas
@@ -17619,7 +17619,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-16,Uganda,55,0,20,35,0,0,8,Africa
 2020-04-16,Ukraine,4161,116,186,3859,397,8,43,Europe
 2020-04-16,United Arab Emirates,5825,35,1095,4695,460,2,61,Eastern Mediterranean
-2020-04-16,United Kingdom,112578,15984,260,96334,5336,1033,7,Europe
+2020-04-16,United Kingdom,112578,16057,260,96261,5336,1040,7,Europe
 2020-04-16,Uruguay,502,9,286,207,9,0,14,Americas
 2020-04-16,Uzbekistan,1349,4,129,1216,47,0,22,Europe
 2020-04-16,Venezuela,204,9,111,84,7,0,0,Americas
@@ -17824,7 +17824,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-17,Uganda,56,0,20,36,1,0,0,Africa
 2020-04-17,Ukraine,4662,125,246,4291,501,9,60,Europe
 2020-04-17,United Arab Emirates,6302,37,1188,5077,477,2,93,Eastern Mediterranean
-2020-04-17,United Kingdom,117565,16921,277,100367,4987,937,17,Europe
+2020-04-17,United Kingdom,117565,16971,277,100317,4987,914,17,Europe
 2020-04-17,Uruguay,508,9,294,205,6,0,8,Americas
 2020-04-17,Uzbekistan,1405,4,156,1245,56,0,27,Europe
 2020-04-17,Venezuela,204,9,111,84,0,0,0,Americas
@@ -18029,7 +18029,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-18,Uganda,55,0,22,33,0,0,2,Africa
 2020-04-18,Ukraine,5106,133,275,4698,444,8,29,Europe
 2020-04-18,United Arab Emirates,6302,37,1188,5077,0,0,0,Eastern Mediterranean
-2020-04-18,United Kingdom,122301,18039,288,103974,4736,1118,11,Europe
+2020-04-18,United Kingdom,122301,18079,288,103934,4736,1108,11,Europe
 2020-04-18,Uruguay,517,9,298,210,9,0,4,Americas
 2020-04-18,Uzbekistan,1490,5,194,1291,85,1,38,Europe
 2020-04-18,Venezuela,227,9,113,105,23,0,2,Americas
@@ -18234,7 +18234,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-19,Uganda,55,0,28,27,0,0,6,Africa
 2020-04-19,Ukraine,5449,141,347,4961,343,8,72,Europe
 2020-04-19,United Arab Emirates,6781,41,1286,5454,479,4,98,Eastern Mediterranean
-2020-04-19,United Kingdom,126161,18537,301,107323,3860,498,13,Europe
+2020-04-19,United Kingdom,126161,18511,301,107349,3860,432,13,Europe
 2020-04-19,Uruguay,528,10,298,220,11,1,0,Americas
 2020-04-19,Uzbekistan,1565,5,225,1335,75,0,31,Europe
 2020-04-19,Venezuela,256,9,117,130,29,0,4,Americas
@@ -18439,7 +18439,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-20,Uganda,56,0,38,18,1,0,10,Africa
 2020-04-20,Ukraine,5710,151,359,5200,261,10,12,Europe
 2020-04-20,United Arab Emirates,7265,43,1360,5862,484,2,74,Eastern Mediterranean
-2020-04-20,United Kingdom,131021,19102,310,111609,4860,565,9,Europe
+2020-04-20,United Kingdom,131021,19087,310,111624,4860,576,9,Europe
 2020-04-20,Uruguay,535,10,313,212,7,0,15,Americas
 2020-04-20,Uzbekistan,1627,5,261,1361,62,0,36,Europe
 2020-04-20,Venezuela,256,9,117,130,0,0,0,Americas
@@ -18644,7 +18644,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-21,Uganda,61,0,38,23,5,0,0,Africa
 2020-04-21,Ukraine,6125,161,367,5597,415,10,8,Europe
 2020-04-21,United Arab Emirates,7755,46,1443,6266,490,3,83,Eastern Mediterranean
-2020-04-21,United Kingdom,135796,20275,502,115019,4775,1173,192,Europe
+2020-04-21,United Kingdom,135796,20311,502,114983,4775,1224,192,Europe
 2020-04-21,Uruguay,543,12,324,207,8,2,11,Americas
 2020-04-21,Uzbekistan,1678,6,357,1315,51,1,96,Europe
 2020-04-21,Venezuela,285,10,117,158,29,1,0,Americas
@@ -18849,7 +18849,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-22,Uganda,63,0,45,18,2,0,7,Africa
 2020-04-22,Ukraine,6592,174,424,5994,467,13,57,Europe
 2020-04-22,United Arab Emirates,8238,52,1546,6640,483,6,103,Eastern Mediterranean
-2020-04-22,United Kingdom,141301,21122,536,119643,5505,847,34,Europe
+2020-04-22,United Kingdom,141301,21168,536,119597,5505,857,34,Europe
 2020-04-22,Uruguay,549,12,337,200,6,0,13,Americas
 2020-04-22,Uzbekistan,1716,7,450,1259,38,1,93,Europe
 2020-04-22,Venezuela,288,10,122,156,3,0,5,Americas
@@ -19054,7 +19054,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-23,Uganda,74,0,46,28,11,0,1,Africa
 2020-04-23,Ukraine,7170,187,504,6479,578,13,80,Europe
 2020-04-23,United Arab Emirates,8756,56,1637,7063,518,4,91,Eastern Mediterranean
-2020-04-23,United Kingdom,146467,21851,555,124061,5166,729,19,Europe
+2020-04-23,United Kingdom,146467,21852,555,124060,5166,684,19,Europe
 2020-04-23,Uruguay,557,12,354,191,8,0,17,Americas
 2020-04-23,Uzbekistan,1758,7,561,1190,42,0,111,Europe
 2020-04-23,Venezuela,311,10,126,175,23,0,4,Americas
@@ -19259,7 +19259,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-24,Uganda,75,0,46,29,1,0,0,Africa
 2020-04-24,Ukraine,7647,201,782,6664,477,14,278,Europe
 2020-04-24,United Arab Emirates,9281,64,1760,7457,525,8,123,Eastern Mediterranean
-2020-04-24,United Kingdom,151443,22864,564,128015,4976,1013,9,Europe
+2020-04-24,United Kingdom,151443,22869,564,128010,4976,1017,9,Europe
 2020-04-24,Uruguay,563,12,369,182,6,0,15,Americas
 2020-04-24,Uzbekistan,1804,8,621,1175,46,1,60,Europe
 2020-04-24,Venezuela,318,10,132,176,7,0,6,Americas
@@ -19464,7 +19464,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-25,Uganda,75,0,46,29,0,0,0,Africa
 2020-04-25,Ukraine,8125,201,782,7142,478,0,0,Europe
 2020-04-25,United Arab Emirates,9813,71,1887,7855,532,7,127,Eastern Mediterranean
-2020-04-25,United Kingdom,155203,23708,614,130881,3760,844,50,Europe
+2020-04-25,United Kingdom,155203,23685,614,130904,3760,816,50,Europe
 2020-04-25,Uruguay,596,14,370,212,33,2,1,Americas
 2020-04-25,Uzbekistan,1862,8,707,1147,58,0,86,Europe
 2020-04-25,Venezuela,323,10,132,181,5,0,0,Americas
@@ -19669,7 +19669,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-26,Uganda,79,0,46,33,4,0,0,Africa
 2020-04-26,Ukraine,8617,209,840,7568,492,8,58,Europe
 2020-04-26,United Arab Emirates,10349,76,1978,8295,536,5,91,Eastern Mediterranean
-2020-04-26,United Kingdom,158671,24128,618,133925,3468,420,4,Europe
+2020-04-26,United Kingdom,158671,24049,618,134004,3468,364,4,Europe
 2020-04-26,Uruguay,606,15,375,216,10,1,5,Americas
 2020-04-26,Uzbekistan,1869,8,789,1072,7,0,82,Europe
 2020-04-26,Venezuela,325,10,137,178,2,0,5,Americas
@@ -19874,7 +19874,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-27,Uganda,79,0,47,32,0,0,1,Africa
 2020-04-27,Ukraine,9009,220,864,7925,392,11,24,Europe
 2020-04-27,United Arab Emirates,10839,82,2090,8667,490,6,112,Eastern Mediterranean
-2020-04-27,United Kingdom,163374,24469,644,138261,4703,341,26,Europe
+2020-04-27,United Kingdom,163374,24372,644,138358,4703,323,26,Europe
 2020-04-27,Uruguay,620,15,386,219,14,0,11,Americas
 2020-04-27,Uzbekistan,1904,8,892,1004,35,0,103,Europe
 2020-04-27,Venezuela,329,10,142,177,4,0,5,Americas
@@ -20079,7 +20079,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-28,Uganda,79,0,52,27,0,0,5,Africa
 2020-04-28,Ukraine,9410,239,992,8179,401,19,128,Europe
 2020-04-28,United Arab Emirates,11380,89,2181,9110,541,7,91,Eastern Mediterranean
-2020-04-28,United Kingdom,168101,25382,648,142071,4727,913,4,Europe
+2020-04-28,United Kingdom,168101,25343,648,142110,4727,971,4,Europe
 2020-04-28,Uruguay,625,15,394,216,5,0,8,Americas
 2020-04-28,Uzbekistan,1939,8,992,939,35,0,100,Europe
 2020-04-28,Venezuela,329,10,142,177,0,0,0,Americas
@@ -20284,7 +20284,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-29,Uganda,81,0,52,29,2,0,0,Africa
 2020-04-29,Ukraine,9866,250,1103,8513,456,11,111,Europe
 2020-04-29,United Arab Emirates,11929,98,2329,9502,549,9,148,Eastern Mediterranean
-2020-04-29,United Kingdom,173548,26179,692,146677,5447,797,44,Europe
+2020-04-29,United Kingdom,173548,26114,692,146742,5447,771,44,Europe
 2020-04-29,Uruguay,630,15,412,203,5,0,18,Americas
 2020-04-29,Uzbekistan,2002,9,1096,897,63,1,104,Europe
 2020-04-29,Venezuela,331,10,142,179,2,0,0,Americas
@@ -20489,7 +20489,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-30,Uganda,83,0,52,31,2,0,0,Africa
 2020-04-30,Ukraine,10406,261,1238,8907,540,11,135,Europe
 2020-04-30,United Arab Emirates,12481,105,2429,9947,552,7,100,Eastern Mediterranean
-2020-04-30,United Kingdom,178509,26855,694,150960,4961,676,2,Europe
+2020-04-30,United Kingdom,178509,26750,694,151065,4961,636,2,Europe
 2020-04-30,Uruguay,643,17,417,209,13,2,5,Americas
 2020-04-30,Uzbekistan,2039,9,1133,897,37,0,37,Europe
 2020-04-30,Venezuela,333,16,142,175,2,6,0,Americas
@@ -20694,7 +20694,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-01,Uganda,85,0,52,33,2,0,0,Africa
 2020-05-01,Ukraine,10861,272,1413,9176,455,11,175,Europe
 2020-05-01,United Arab Emirates,13038,111,2543,10384,557,6,114,Eastern Mediterranean
-2020-05-01,United Kingdom,183238,27597,725,154916,4729,742,31,Europe
+2020-05-01,United Kingdom,183238,27450,725,155063,4729,700,31,Europe
 2020-05-01,Uruguay,648,17,435,196,5,0,18,Americas
 2020-05-01,Uzbekistan,2086,9,1212,865,47,0,79,Europe
 2020-05-01,Venezuela,335,10,148,177,2,-6,6,Americas
@@ -20899,7 +20899,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-02,Uganda,88,0,52,36,3,0,0,Africa
 2020-05-02,Ukraine,11411,279,1498,9634,550,7,85,Europe
 2020-05-02,United Arab Emirates,13599,119,2664,10816,561,8,121,Eastern Mediterranean
-2020-05-02,United Kingdom,186468,28219,728,157521,3230,622,3,Europe
+2020-05-02,United Kingdom,186468,28035,728,157705,3230,585,3,Europe
 2020-05-02,Uruguay,652,17,440,195,4,0,5,Americas
 2020-05-02,Uzbekistan,2118,9,1271,838,32,0,59,Europe
 2020-05-02,Venezuela,345,10,148,187,10,0,0,Americas
@@ -21104,7 +21104,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-03,Uganda,89,0,52,37,1,0,0,Africa
 2020-05-03,Ukraine,11913,288,1548,10077,502,9,50,Europe
 2020-05-03,United Arab Emirates,14163,126,2763,11274,564,7,99,Eastern Mediterranean
-2020-05-03,United Kingdom,189445,28534,728,160183,2977,315,0,Europe
+2020-05-03,United Kingdom,189445,28288,728,160429,2977,253,0,Europe
 2020-05-03,Uruguay,655,17,442,196,3,0,2,Americas
 2020-05-03,Uzbekistan,2149,10,1319,820,31,1,48,Europe
 2020-05-03,Venezuela,357,10,158,189,12,0,10,Americas
@@ -21309,7 +21309,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-04,Uganda,97,0,55,42,8,0,3,Africa
 2020-05-04,Ukraine,12331,303,1619,10409,418,15,71,Europe
 2020-05-04,United Arab Emirates,14730,137,2966,11627,567,11,203,Eastern Mediterranean
-2020-05-04,United Kingdom,192827,28823,731,163273,3382,289,3,Europe
+2020-05-04,United Kingdom,192827,28561,731,163535,3382,273,3,Europe
 2020-05-04,Uruguay,657,17,447,193,2,0,5,Americas
 2020-05-04,Uzbekistan,2189,10,1405,774,40,0,86,Europe
 2020-05-04,Venezuela,357,10,158,189,0,0,0,Americas
@@ -21514,7 +21514,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-05,Uganda,98,0,55,43,1,0,0,Africa
 2020-05-05,Ukraine,12697,316,1875,10506,366,13,256,Europe
 2020-05-05,United Arab Emirates,15192,146,3153,11893,462,9,187,Eastern Mediterranean
-2020-05-05,United Kingdom,196513,29516,731,166266,3686,693,0,Europe
+2020-05-05,United Kingdom,196513,29286,731,166496,3686,725,0,Europe
 2020-05-05,Uruguay,670,17,468,185,13,0,21,Americas
 2020-05-05,Uzbekistan,2207,10,1501,696,18,0,96,Europe
 2020-05-05,Venezuela,361,10,158,193,4,0,0,Americas
@@ -21719,7 +21719,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-06,Uganda,100,0,55,45,2,0,0,Africa
 2020-05-06,Ukraine,13184,327,2097,10760,487,11,222,Europe
 2020-05-06,United Arab Emirates,15738,157,3359,12222,546,11,206,Eastern Mediterranean
-2020-05-06,United Kingdom,200348,30168,736,169444,3835,652,5,Europe
+2020-05-06,United Kingdom,200348,29933,736,169679,3835,647,5,Europe
 2020-05-06,Uruguay,673,17,486,170,3,0,18,Americas
 2020-05-06,Uzbekistan,2233,10,1577,646,26,0,76,Europe
 2020-05-06,Venezuela,379,10,176,193,18,0,18,Americas
@@ -21924,7 +21924,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-07,Uganda,101,0,55,46,1,0,0,Africa
 2020-05-07,Ukraine,13691,340,2396,10955,507,13,299,Europe
 2020-05-07,United Arab Emirates,16240,165,3572,12503,502,8,213,Eastern Mediterranean
-2020-05-07,United Kingdom,204117,30708,762,172647,3769,540,26,Europe
+2020-05-07,United Kingdom,204117,30391,762,172964,3769,458,26,Europe
 2020-05-07,Uruguay,684,17,492,175,11,0,6,Americas
 2020-05-07,Uzbekistan,2298,10,1656,632,65,0,79,Europe
 2020-05-07,Venezuela,381,10,185,186,2,0,9,Americas
@@ -22129,7 +22129,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-08,Uganda,101,0,55,46,0,0,0,Africa
 2020-05-08,Ukraine,14195,361,2706,11128,504,21,310,Europe
 2020-05-08,United Arab Emirates,16793,174,3837,12782,553,9,265,Eastern Mediterranean
-2020-05-08,United Kingdom,207166,31336,779,175051,3049,628,17,Europe
+2020-05-08,United Kingdom,207166,30971,779,175416,3049,580,17,Europe
 2020-05-08,Uruguay,694,18,506,170,10,1,14,Americas
 2020-05-08,Uzbekistan,2325,10,1775,540,27,0,119,Europe
 2020-05-08,Venezuela,388,10,190,188,7,0,5,Americas
@@ -22334,7 +22334,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-09,Uganda,116,0,55,61,15,0,0,Africa
 2020-05-09,Ukraine,14710,376,2909,11425,515,15,203,Europe
 2020-05-09,United Arab Emirates,17417,185,4295,12937,624,11,458,Eastern Mediterranean
-2020-05-09,United Kingdom,209316,31681,782,176853,2150,345,3,Europe
+2020-05-09,United Kingdom,209316,31246,782,177288,2150,275,3,Europe
 2020-05-09,Uruguay,702,18,513,171,8,0,7,Americas
 2020-05-09,Uzbekistan,2349,10,1846,493,24,0,71,Europe
 2020-05-09,Venezuela,402,10,190,202,14,0,0,Americas
@@ -22539,7 +22539,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-10,Uganda,121,0,55,66,5,0,0,Africa
 2020-05-10,Ukraine,15232,391,3060,11781,522,15,151,Europe
 2020-05-10,United Arab Emirates,18198,198,4804,13196,781,13,509,Eastern Mediterranean
-2020-05-10,United Kingdom,211638,31950,782,178906,2322,269,0,Europe
+2020-05-10,United Kingdom,211638,31463,782,179393,2322,217,0,Europe
 2020-05-10,Uruguay,707,19,517,171,5,1,4,Americas
 2020-05-10,Uzbekistan,2418,10,1881,527,69,0,35,Europe
 2020-05-10,Venezuela,414,10,193,211,12,0,3,Americas
@@ -22744,7 +22744,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-11,Uganda,121,0,55,66,0,0,0,Africa
 2020-05-11,Ukraine,15648,408,3288,11952,416,17,228,Europe
 2020-05-11,United Arab Emirates,18878,201,5381,13296,680,3,577,Eastern Mediterranean
-2020-05-11,United Kingdom,215223,32162,789,182272,3585,212,7,Europe
+2020-05-11,United Kingdom,215223,31651,789,182783,3585,188,7,Europe
 2020-05-11,Uruguay,711,19,523,169,4,0,6,Americas
 2020-05-11,Uzbekistan,2486,10,1988,488,68,0,107,Europe
 2020-05-11,Venezuela,422,10,205,207,8,0,12,Americas
@@ -22949,7 +22949,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-12,Uganda,129,0,55,74,8,0,0,Africa
 2020-05-12,Ukraine,16023,425,3373,12225,375,17,85,Europe
 2020-05-12,United Arab Emirates,19661,203,6012,13446,783,2,631,Eastern Mediterranean
-2020-05-12,United Kingdom,218616,32793,793,185030,3393,631,4,Europe
+2020-05-12,United Kingdom,218616,32266,793,185557,3393,615,4,Europe
 2020-05-12,Uruguay,717,19,532,166,6,0,9,Americas
 2020-05-12,Uzbekistan,2519,10,2010,499,33,0,22,Europe
 2020-05-12,Venezuela,423,10,220,193,1,0,15,Americas
@@ -23154,7 +23154,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-13,Uganda,139,0,55,84,10,0,0,Africa
 2020-05-13,Ukraine,16425,439,3716,12270,402,14,343,Europe
 2020-05-13,United Arab Emirates,20386,206,6523,13657,725,3,511,Eastern Mediterranean
-2020-05-13,United Kingdom,221916,33290,796,187830,3300,497,3,Europe
+2020-05-13,United Kingdom,221916,32714,796,188406,3300,448,3,Europe
 2020-05-13,Uruguay,719,19,545,155,2,0,13,Americas
 2020-05-13,Uzbekistan,2612,11,2076,525,93,1,66,Europe
 2020-05-13,Venezuela,423,10,220,193,0,0,0,Americas
@@ -23359,7 +23359,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-14,Uganda,160,0,63,97,21,0,8,Africa
 2020-05-14,Ukraine,16847,456,4143,12248,422,17,427,Europe
 2020-05-14,United Arab Emirates,21084,208,6930,13946,698,2,407,Eastern Mediterranean
-2020-05-14,United Kingdom,224527,33719,807,190001,2611,429,11,Europe
+2020-05-14,United Kingdom,224527,33067,807,190653,2611,353,11,Europe
 2020-05-14,Uruguay,724,19,547,158,5,0,2,Americas
 2020-05-14,Uzbekistan,2645,11,2136,498,33,0,60,Europe
 2020-05-14,Venezuela,455,10,220,225,32,0,0,Americas
@@ -23564,7 +23564,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-15,Uganda,203,0,63,140,43,0,0,Africa
 2020-05-15,Ukraine,17330,476,4473,12381,483,20,330,Europe
 2020-05-15,United Arab Emirates,21831,210,7328,14293,747,2,398,Eastern Mediterranean
-2020-05-15,United Kingdom,227046,34104,808,192134,2519,385,1,Europe
+2020-05-15,United Kingdom,227046,33418,808,192820,2519,351,1,Europe
 2020-05-15,Uruguay,732,19,553,160,8,0,6,Americas
 2020-05-15,Uzbekistan,2686,11,2158,517,41,0,22,Europe
 2020-05-15,Venezuela,459,10,229,220,4,0,9,Americas
@@ -23769,7 +23769,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-16,Uganda,227,0,63,164,24,0,0,Africa
 2020-05-16,Ukraine,17858,497,4906,12455,528,21,433,Europe
 2020-05-16,United Arab Emirates,22627,214,7931,14482,796,4,603,Eastern Mediterranean
-2020-05-16,United Kingdom,229118,34584,816,193718,2072,480,8,Europe
+2020-05-16,United Kingdom,229118,33829,816,194473,2072,411,8,Europe
 2020-05-16,Uruguay,733,19,558,156,1,0,5,Americas
 2020-05-16,Uzbekistan,2738,11,2213,514,52,0,55,Europe
 2020-05-16,Venezuela,504,10,241,253,45,0,12,Americas
@@ -23974,7 +23974,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-17,Uganda,227,0,63,164,0,0,0,Africa
 2020-05-17,Ukraine,18291,514,5116,12661,433,17,210,Europe
 2020-05-17,United Arab Emirates,23358,220,8512,14626,731,6,581,Eastern Mediterranean
-2020-05-17,United Kingdom,230944,34754,816,195374,1826,170,0,Europe
+2020-05-17,United Kingdom,230944,33896,816,196232,1826,67,0,Europe
 2020-05-17,Uruguay,734,20,564,150,1,1,6,Americas
 2020-05-17,Uzbekistan,2753,12,2247,494,15,1,34,Europe
 2020-05-17,Venezuela,541,10,241,290,37,0,0,Americas
@@ -24179,7 +24179,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-18,Uganda,248,0,63,185,21,0,0,Africa
 2020-05-18,Ukraine,18616,535,5276,12805,325,21,160,Europe
 2020-05-18,United Arab Emirates,24190,224,9577,14389,832,4,1065,Eastern Mediterranean
-2020-05-18,United Kingdom,233521,34914,848,197759,2577,160,32,Europe
+2020-05-18,United Kingdom,233521,34042,848,198631,2577,146,32,Europe
 2020-05-18,Uruguay,737,20,569,148,3,0,5,Americas
 2020-05-18,Uzbekistan,2791,13,2314,464,38,1,67,Europe
 2020-05-18,Venezuela,618,10,253,355,77,0,12,Americas
@@ -24384,7 +24384,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-19,Uganda,260,0,63,197,12,0,0,Africa
 2020-05-19,Ukraine,18876,548,5632,12696,260,13,356,Europe
 2020-05-19,United Arab Emirates,25063,227,10791,14045,873,3,1214,Eastern Mediterranean
-2020-05-19,United Kingdom,236562,35463,857,200242,3041,549,9,Europe
+2020-05-19,United Kingdom,236562,34543,857,201162,3041,501,9,Europe
 2020-05-19,Uruguay,738,20,579,139,1,0,10,Americas
 2020-05-19,Uzbekistan,2855,13,2338,504,64,0,24,Europe
 2020-05-19,Venezuela,749,10,253,486,131,0,0,Americas
@@ -24589,7 +24589,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-20,Uganda,264,0,65,199,4,0,2,Africa
 2020-05-20,Ukraine,19230,564,5955,12711,354,16,323,Europe
 2020-05-20,United Arab Emirates,26004,233,11809,13962,941,6,1018,Eastern Mediterranean
-2020-05-20,United Kingdom,239272,35833,874,202565,2710,370,17,Europe
+2020-05-20,United Kingdom,239272,34872,874,203526,2710,329,17,Europe
 2020-05-20,Uruguay,746,20,588,138,8,0,9,Americas
 2020-05-20,Uzbekistan,2939,13,2372,554,84,0,34,Europe
 2020-05-20,Venezuela,824,10,262,552,75,0,9,Americas
@@ -24794,7 +24794,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-21,Uganda,160,0,66,94,0,0,1,Africa
 2020-05-21,Ukraine,19706,579,6227,12900,476,15,272,Europe
 2020-05-21,United Arab Emirates,26898,237,12755,13906,894,4,946,Eastern Mediterranean
-2020-05-21,United Kingdom,241814,36171,891,204752,2542,338,17,Europe
+2020-05-21,United Kingdom,241814,35145,891,205778,2542,273,17,Europe
 2020-05-21,Uruguay,749,20,594,135,3,0,6,Americas
 2020-05-21,Uzbekistan,2964,13,2407,544,25,0,35,Europe
 2020-05-21,Venezuela,882,10,262,610,58,0,0,Americas
@@ -24999,7 +24999,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-22,Uganda,175,0,68,107,15,0,2,Africa
 2020-05-22,Ukraine,20148,588,6585,12975,442,9,358,Europe
 2020-05-22,United Arab Emirates,27892,241,13798,13853,994,4,1043,Eastern Mediterranean
-2020-05-22,United Kingdom,243847,36529,892,206426,2033,358,1,Europe
+2020-05-22,United Kingdom,243847,35436,892,207519,2033,291,1,Europe
 2020-05-22,Uruguay,753,20,603,130,4,0,9,Americas
 2020-05-22,Uzbekistan,3028,13,2492,523,64,0,85,Europe
 2020-05-22,Venezuela,944,10,262,672,62,0,0,Americas
@@ -25204,7 +25204,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-23,Uganda,198,0,68,130,23,0,0,Africa
 2020-05-23,Ukraine,20580,605,6929,13046,432,17,344,Europe
 2020-05-23,United Arab Emirates,28704,244,14495,13965,812,3,697,Eastern Mediterranean
-2020-05-23,United Kingdom,245354,36812,899,207643,1507,283,7,Europe
+2020-05-23,United Kingdom,245354,35656,899,208799,1507,220,7,Europe
 2020-05-23,Uruguay,764,22,616,126,11,2,13,Americas
 2020-05-23,Uzbekistan,3115,13,2532,570,87,0,40,Europe
 2020-05-23,Venezuela,1010,10,262,738,66,0,0,Americas
@@ -25409,7 +25409,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-24,Uganda,198,0,68,130,0,0,0,Africa
 2020-05-24,Ukraine,20986,617,7108,13261,406,12,179,Europe
 2020-05-24,United Arab Emirates,29485,245,15056,14184,781,1,561,Eastern Mediterranean
-2020-05-24,United Kingdom,246707,37253,901,208553,1353,441,2,Europe
+2020-05-24,United Kingdom,246707,36035,901,209771,1353,379,2,Europe
 2020-05-24,Uruguay,769,22,618,129,5,0,2,Americas
 2020-05-24,Uzbekistan,3164,13,2565,586,49,0,33,Europe
 2020-05-24,Venezuela,1121,10,262,849,111,0,0,Americas
@@ -25614,7 +25614,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-25,Uganda,222,0,69,153,24,0,1,Africa
 2020-05-25,Ukraine,21245,623,7234,13388,259,6,126,Europe
 2020-05-25,United Arab Emirates,30307,248,15657,14402,822,3,601,Eastern Mediterranean
-2020-05-25,United Kingdom,248315,37375,911,210029,1608,122,10,Europe
+2020-05-25,United Kingdom,248315,36139,911,211265,1608,104,10,Europe
 2020-05-25,Uruguay,787,22,629,136,18,0,11,Americas
 2020-05-25,Uzbekistan,3189,13,2607,569,25,0,42,Europe
 2020-05-25,Venezuela,1177,10,302,865,56,0,40,Americas
@@ -25819,7 +25819,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-26,Uganda,253,0,69,184,31,0,0,Africa
 2020-05-26,Ukraine,21584,644,7575,13365,339,21,341,Europe
 2020-05-26,United Arab Emirates,31086,253,15982,14851,779,5,325,Eastern Mediterranean
-2020-05-26,United Kingdom,249971,37511,909,211551,1656,136,-2,Europe
+2020-05-26,United Kingdom,249971,36270,909,212792,1656,131,-2,Europe
 2020-05-26,Uruguay,789,22,638,129,2,0,9,Americas
 2020-05-26,Uzbekistan,3290,14,2636,640,101,1,29,Europe
 2020-05-26,Venezuela,1211,11,302,898,34,1,0,Americas
@@ -26024,7 +26024,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-27,Uganda,281,0,69,212,28,0,0,Africa
 2020-05-27,Ukraine,21905,658,7995,13252,321,14,420,Europe
 2020-05-27,United Arab Emirates,31969,255,16371,15343,883,2,389,Eastern Mediterranean
-2020-05-27,United Kingdom,251774,37954,909,212911,1803,443,0,Europe
+2020-05-27,United Kingdom,251774,36692,909,214173,1803,422,0,Europe
 2020-05-27,Uruguay,803,22,650,131,14,0,12,Americas
 2020-05-27,Uzbekistan,3369,14,2668,687,79,0,32,Europe
 2020-05-27,Venezuela,1245,11,302,932,34,0,0,Americas
@@ -26229,7 +26229,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-28,Uganda,317,0,69,248,36,0,0,Africa
 2020-05-28,Ukraine,22382,669,8439,13274,477,11,444,Europe
 2020-05-28,United Arab Emirates,32532,258,16685,15589,563,3,314,Eastern Mediterranean
-2020-05-28,United Kingdom,253509,38370,910,214229,1735,416,1,Europe
+2020-05-28,United Kingdom,253509,37035,910,215564,1735,343,1,Europe
 2020-05-28,Uruguay,811,22,654,135,8,0,4,Americas
 2020-05-28,Uzbekistan,3444,14,2694,736,75,0,26,Europe
 2020-05-28,Venezuela,1325,11,302,1012,80,0,0,Americas
@@ -26434,7 +26434,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-29,Uganda,329,0,72,257,12,0,3,Africa
 2020-05-29,Ukraine,22811,679,8934,13198,429,10,495,Europe
 2020-05-29,United Arab Emirates,33170,260,17097,15813,638,2,412,Eastern Mediterranean
-2020-05-29,United Kingdom,255013,38743,913,215357,1504,373,3,Europe
+2020-05-29,United Kingdom,255013,37309,913,216791,1504,274,3,Europe
 2020-05-29,Uruguay,816,22,680,114,5,0,26,Americas
 2020-05-29,Uzbekistan,3468,14,2728,726,24,0,34,Europe
 2020-05-29,Venezuela,1370,14,302,1054,45,3,0,Americas
@@ -26639,7 +26639,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-30,Uganda,413,0,72,341,84,0,0,Africa
 2020-05-30,Ukraine,23204,696,9311,13197,393,17,377,Europe
 2020-05-30,United Arab Emirates,33896,262,17546,16088,726,2,449,Eastern Mediterranean
-2020-05-30,United Kingdom,256112,38973,926,216213,1099,230,13,Europe
+2020-05-30,United Kingdom,256112,37463,926,217723,1099,154,13,Europe
 2020-05-30,Uruguay,821,22,682,117,5,0,2,Americas
 2020-05-30,Uzbekistan,3546,14,2783,749,78,0,55,Europe
 2020-05-30,Venezuela,1459,14,302,1143,89,0,0,Americas
@@ -26844,7 +26844,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-31,Uganda,417,0,72,345,4,0,0,Africa
 2020-05-31,Ukraine,23672,708,9538,13426,468,12,227,Europe
 2020-05-31,United Arab Emirates,34557,264,17932,16361,661,2,386,Eastern Mediterranean
-2020-05-31,United Kingdom,257181,39088,929,217164,1069,115,3,Europe
+2020-05-31,United Kingdom,257181,37523,929,218729,1069,60,3,Europe
 2020-05-31,Uruguay,823,22,685,116,2,0,3,Americas
 2020-05-31,Uzbekistan,3623,15,2837,771,77,1,54,Europe
 2020-05-31,Venezuela,1510,14,302,1194,51,0,0,Americas
@@ -27049,7 +27049,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-01,Uganda,457,0,72,385,40,0,0,Africa
 2020-06-01,Ukraine,24562,724,10053,13785,890,16,515,Europe
 2020-06-01,United Arab Emirates,35192,266,18338,16588,635,2,406,Eastern Mediterranean
-2020-06-01,United Kingdom,258616,39199,951,218466,1435,111,22,Europe
+2020-06-01,United Kingdom,258616,37609,951,220056,1435,86,22,Europe
 2020-06-01,Uruguay,825,23,689,113,2,1,4,Americas
 2020-06-01,Uzbekistan,3702,15,2859,828,79,0,22,Europe
 2020-06-01,Venezuela,1662,17,302,1343,152,3,0,Americas
@@ -27254,7 +27254,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-02,Uganda,489,0,82,407,32,0,10,Africa
 2020-06-02,Ukraine,24895,733,10461,13701,333,9,408,Europe
 2020-06-02,United Arab Emirates,35788,269,18726,16793,596,3,388,Eastern Mediterranean
-2020-06-02,United Kingdom,260083,39526,952,219605,1467,327,1,Europe
+2020-06-02,United Kingdom,260083,37859,952,221272,1467,250,1,Europe
 2020-06-02,Uruguay,826,23,691,112,1,0,2,Americas
 2020-06-02,Uzbekistan,3760,15,2908,837,58,0,49,Europe
 2020-06-02,Venezuela,1819,18,334,1467,157,1,32,Americas
@@ -27459,7 +27459,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-03,Uganda,507,0,82,425,18,0,0,Africa
 2020-06-03,Ukraine,25385,742,10838,13805,490,9,377,Europe
 2020-06-03,United Arab Emirates,36359,270,19153,16936,571,1,427,Eastern Mediterranean
-2020-06-03,United Kingdom,261426,39891,937,220598,1343,365,-15,Europe
+2020-06-03,United Kingdom,261426,38113,937,222376,1343,254,-15,Europe
 2020-06-03,Uruguay,828,23,698,107,2,0,7,Americas
 2020-06-03,Uzbekistan,3843,16,3014,813,83,1,106,Europe
 2020-06-03,Venezuela,1952,20,334,1598,133,2,0,Americas
@@ -27664,7 +27664,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-04,Uganda,522,0,82,440,15,0,0,Africa
 2020-06-04,Ukraine,25981,755,11468,13758,596,13,630,Europe
 2020-06-04,United Arab Emirates,37018,273,19572,17173,659,3,419,Eastern Mediterranean
-2020-06-04,United Kingdom,262660,40068,937,221655,1234,177,0,Europe
+2020-06-04,United Kingdom,262660,38243,937,223480,1234,130,0,Europe
 2020-06-04,Uruguay,832,23,709,100,4,0,11,Americas
 2020-06-04,Uzbekistan,3939,16,3087,836,96,0,73,Europe
 2020-06-04,Venezuela,2087,20,334,1733,135,0,0,Americas
@@ -27869,7 +27869,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-05,Uganda,557,0,82,475,35,0,0,Africa
 2020-06-05,Ukraine,26542,770,11815,13957,561,15,347,Europe
 2020-06-05,United Arab Emirates,37642,274,20337,17031,624,1,765,Eastern Mediterranean
-2020-06-05,United Kingdom,263765,40426,938,222401,1105,358,1,Europe
+2020-06-05,United Kingdom,263765,38501,938,224326,1105,258,1,Europe
 2020-06-05,Uruguay,834,23,721,90,2,0,12,Americas
 2020-06-05,Uzbekistan,4007,16,3247,744,68,0,160,Europe
 2020-06-05,Venezuela,2145,20,334,1791,58,0,0,Americas
@@ -28074,7 +28074,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-06,Uganda,593,0,82,511,36,0,0,Africa
 2020-06-06,Ukraine,27101,785,12265,14051,559,15,450,Europe
 2020-06-06,United Arab Emirates,38268,275,21061,16932,626,1,724,Eastern Mediterranean
-2020-06-06,United Kingdom,264558,40633,938,222987,793,207,0,Europe
+2020-06-06,United Kingdom,264558,38644,938,224976,793,143,0,Europe
 2020-06-06,Uruguay,845,23,726,96,11,0,5,Americas
 2020-06-06,Uzbekistan,4094,17,3268,809,87,1,21,Europe
 2020-06-06,Venezuela,2316,22,385,1909,171,2,51,Americas
@@ -28279,7 +28279,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-07,Uganda,616,0,96,520,23,0,14,Africa
 2020-06-07,Ukraine,27599,796,12513,14290,498,11,248,Europe
 2020-06-07,United Arab Emirates,38808,276,21806,16726,540,1,745,Eastern Mediterranean
-2020-06-07,United Kingdom,265275,40710,938,223627,717,77,0,Europe
+2020-06-07,United Kingdom,265275,38698,938,225639,717,54,0,Europe
 2020-06-07,Uruguay,845,23,730,92,0,0,4,Americas
 2020-06-07,Uzbekistan,4331,17,3354,960,237,0,86,Europe
 2020-06-07,Venezuela,2377,22,487,1868,61,0,102,Americas
@@ -28484,7 +28484,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-08,Uganda,646,0,103,543,30,0,7,Africa
 2020-06-08,Ukraine,28077,805,12657,14615,478,9,144,Europe
 2020-06-08,United Arab Emirates,39376,281,22275,16820,568,5,469,Eastern Mediterranean
-2020-06-08,United Kingdom,266362,40765,944,224653,1087,55,6,Europe
+2020-06-08,United Kingdom,266362,38745,944,226673,1087,47,6,Europe
 2020-06-08,Uruguay,845,23,738,84,0,0,8,Americas
 2020-06-08,Uzbekistan,4440,18,3357,1065,109,1,3,Europe
 2020-06-08,Venezuela,2473,22,487,1964,96,0,0,Americas
@@ -28689,7 +28689,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-09,Uganda,657,0,118,539,11,0,15,Africa
 2020-06-09,Ukraine,28479,818,12892,14769,402,13,235,Europe
 2020-06-09,United Arab Emirates,39904,283,22740,16881,528,2,465,Eastern Mediterranean
-2020-06-09,United Kingdom,267516,41056,944,225516,1154,291,0,Europe
+2020-06-09,United Kingdom,267516,38942,944,227630,1154,197,0,Europe
 2020-06-09,Uruguay,846,23,754,69,1,0,16,Americas
 2020-06-09,Uzbekistan,4520,18,3459,1043,80,0,102,Europe
 2020-06-09,Venezuela,2632,23,487,2122,159,1,0,Americas
@@ -28894,7 +28894,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-10,Uganda,665,0,119,546,8,0,1,Africa
 2020-06-10,Ukraine,29015,841,13257,14917,536,23,365,Europe
 2020-06-10,United Arab Emirates,40507,284,24017,16206,603,1,1277,Eastern Mediterranean
-2020-06-10,United Kingdom,268698,41306,949,226443,1182,250,5,Europe
+2020-06-10,United Kingdom,268698,39106,949,228643,1182,164,5,Europe
 2020-06-10,Uruguay,847,23,758,66,1,0,4,Americas
 2020-06-10,Uzbekistan,4623,19,3532,1072,103,1,73,Europe
 2020-06-10,Venezuela,2738,23,487,2228,106,0,0,Americas
@@ -29099,7 +29099,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-11,Uganda,679,0,161,518,14,0,42,Africa
 2020-06-11,Ukraine,29706,864,13642,15200,691,23,385,Europe
 2020-06-11,United Arab Emirates,40986,286,25234,15466,479,2,1217,Eastern Mediterranean
-2020-06-11,United Kingdom,269699,41458,951,227290,1001,152,2,Europe
+2020-06-11,United Kingdom,269699,39182,951,229566,1001,76,2,Europe
 2020-06-11,Uruguay,847,23,772,52,0,0,14,Americas
 2020-06-11,Uzbekistan,4741,19,3637,1085,118,0,105,Europe
 2020-06-11,Venezuela,2814,23,487,2304,76,0,0,Americas
@@ -29304,7 +29304,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-12,Uganda,686,0,161,525,7,0,0,Africa
 2020-06-12,Ukraine,30415,880,14075,15460,709,16,433,Europe
 2020-06-12,United Arab Emirates,41499,287,25946,15266,513,1,712,Eastern Mediterranean
-2020-06-12,United Kingdom,270752,41662,951,228139,1053,204,0,Europe
+2020-06-12,United Kingdom,270752,39313,951,230488,1053,131,0,Europe
 2020-06-12,Uruguay,847,23,780,44,0,0,8,Americas
 2020-06-12,Uzbekistan,4869,19,3758,1092,128,0,121,Europe
 2020-06-12,Venezuela,2879,23,487,2369,65,0,0,Americas
@@ -29509,7 +29509,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-13,Uganda,694,0,219,475,8,0,58,Africa
 2020-06-13,Ukraine,31177,890,14489,15798,762,10,414,Europe
 2020-06-13,United Arab Emirates,41990,288,26761,14941,491,1,815,Eastern Mediterranean
-2020-06-13,United Kingdom,271640,41845,951,228844,888,183,0,Europe
+2020-06-13,United Kingdom,271640,39420,951,231269,888,107,0,Europe
 2020-06-13,Uruguay,847,23,784,40,0,0,4,Americas
 2020-06-13,Uzbekistan,4966,19,3874,1073,97,0,116,Europe
 2020-06-13,Venezuela,2904,24,487,2393,25,1,0,Americas
@@ -29714,7 +29714,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-14,Uganda,696,0,240,456,2,0,21,Africa
 2020-06-14,Ukraine,31851,899,14596,16356,674,9,107,Europe
 2020-06-14,United Arab Emirates,42294,289,27462,14543,304,1,701,Eastern Mediterranean
-2020-06-14,United Kingdom,272447,41881,951,229615,807,36,0,Europe
+2020-06-14,United Kingdom,272447,39447,951,232049,807,27,0,Europe
 2020-06-14,Uruguay,848,23,788,37,1,0,4,Americas
 2020-06-14,Uzbekistan,5080,19,3943,1118,114,0,69,Europe
 2020-06-14,Venezuela,2978,25,835,2118,74,1,348,Americas
@@ -29919,7 +29919,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-15,Uganda,705,0,299,406,9,0,59,Africa
 2020-06-15,Ukraine,32536,911,14771,16854,685,12,175,Europe
 2020-06-15,United Arab Emirates,42636,291,28129,14216,342,2,667,Eastern Mediterranean
-2020-06-15,United Kingdom,273478,41919,951,230608,1031,38,0,Europe
+2020-06-15,United Kingdom,273478,39476,951,233051,1031,29,0,Europe
 2020-06-15,Uruguay,848,23,792,33,0,0,4,Americas
 2020-06-15,Uzbekistan,5263,19,4019,1225,183,0,76,Europe
 2020-06-15,Venezuela,3062,26,835,2201,84,1,0,Americas
@@ -30124,7 +30124,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-16,Uganda,724,0,351,373,19,0,52,Africa
 2020-06-16,Ukraine,33209,922,15054,17233,673,11,283,Europe
 2020-06-16,United Arab Emirates,42982,293,28861,13828,346,2,732,Eastern Mediterranean
-2020-06-16,United Kingdom,274555,42155,952,231448,1077,236,1,Europe
+2020-06-16,United Kingdom,274555,39596,952,234007,1077,120,1,Europe
 2020-06-16,Uruguay,849,24,801,24,1,1,9,Americas
 2020-06-16,Uzbekistan,5493,19,4096,1378,230,0,77,Europe
 2020-06-16,Venezuela,3150,27,835,2288,88,1,0,Americas
@@ -30329,7 +30329,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-17,Uganda,732,0,420,312,8,0,69,Africa
 2020-06-17,Ukraine,33986,953,15485,17548,777,31,431,Europe
 2020-06-17,United Arab Emirates,43364,295,29537,13532,382,2,676,Eastern Mediterranean
-2020-06-17,United Kingdom,275554,42339,952,232263,999,184,0,Europe
+2020-06-17,United Kingdom,275554,39706,952,234896,999,110,0,Europe
 2020-06-17,Uruguay,849,24,810,15,0,0,9,Americas
 2020-06-17,Uzbekistan,5682,19,4131,1532,189,0,35,Europe
 2020-06-17,Venezuela,3386,28,835,2523,236,1,0,Americas
@@ -30534,7 +30534,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-18,Uganda,741,0,486,255,9,0,66,Africa
 2020-06-18,Ukraine,34833,976,16001,17856,847,23,516,Europe
 2020-06-18,United Arab Emirates,43752,298,30241,13213,388,3,704,Eastern Mediterranean
-2020-06-18,United Kingdom,276574,42476,952,233146,1020,137,0,Europe
+2020-06-18,United Kingdom,276574,39773,952,235849,1020,67,0,Europe
 2020-06-18,Uruguay,850,24,814,12,1,0,4,Americas
 2020-06-18,Uzbekistan,5767,19,4166,1582,85,0,35,Europe
 2020-06-18,Venezuela,3483,28,835,2620,97,0,0,Americas
@@ -30739,7 +30739,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,Uganda,755,0,492,263,14,0,6,Africa
 2020-06-19,Ukraine,35755,995,16588,18172,922,19,587,Europe
 2020-06-19,United Arab Emirates,44145,300,30996,12849,393,2,755,Eastern Mediterranean
-2020-06-19,United Kingdom,277556,42649,956,233951,982,173,4,Europe
+2020-06-19,United Kingdom,277556,39857,956,236743,982,84,4,Europe
 2020-06-19,Uruguay,853,24,814,15,3,0,0,Americas
 2020-06-19,Uzbekistan,5946,19,4273,1654,179,0,107,Europe
 2020-06-19,Venezuela,3591,30,835,2726,108,2,0,Americas
@@ -30944,7 +30944,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,Uganda,763,0,492,271,8,0,0,Africa
 2020-06-20,Ukraine,36615,1004,16974,18637,860,9,386,Europe
 2020-06-20,United Arab Emirates,44533,301,31754,12478,388,1,758,Eastern Mediterranean
-2020-06-20,United Kingdom,278222,42779,956,234487,666,130,0,Europe
+2020-06-20,United Kingdom,278222,39928,956,237338,666,71,0,Europe
 2020-06-20,Uruguay,859,25,815,19,6,1,1,Americas
 2020-06-20,Uzbekistan,6153,19,4290,1844,207,0,17,Europe
 2020-06-20,Venezuela,3789,33,835,2921,198,3,0,Americas
@@ -31149,7 +31149,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,Uganda,770,0,578,192,7,0,86,Africa
 2020-06-21,Ukraine,37361,1012,17078,19271,746,8,104,Europe
 2020-06-21,United Arab Emirates,44925,302,32415,12208,392,1,661,Eastern Mediterranean
-2020-06-21,United Kingdom,278844,42822,956,235066,622,43,0,Europe
+2020-06-21,United Kingdom,278844,39959,956,237929,622,31,0,Europe
 2020-06-21,Uruguay,876,25,814,37,17,0,-1,Americas
 2020-06-21,Uzbekistan,6315,19,4377,1919,162,0,87,Europe
 2020-06-21,Venezuela,3917,33,835,3049,128,0,0,Americas
@@ -31354,7 +31354,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-22,Uganda,774,0,631,143,4,0,53,Africa
 2020-06-22,Ukraine,38056,1022,17211,19823,695,10,133,Europe
 2020-06-22,United Arab Emirates,45303,303,33046,11954,378,1,631,Eastern Mediterranean
-2020-06-22,United Kingdom,279736,42836,956,235944,892,14,0,Europe
+2020-06-22,United Kingdom,279736,39972,956,238808,892,13,0,Europe
 2020-06-22,Uruguay,882,25,815,42,6,0,1,Americas
 2020-06-22,Uzbekistan,6461,19,4450,1992,146,0,73,Europe
 2020-06-22,Venezuela,4048,35,1327,2686,131,2,492,Americas
@@ -31559,7 +31559,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-23,Uganda,797,0,699,98,23,0,68,Africa
 2020-06-23,Ukraine,38901,1045,17538,20318,845,23,327,Europe
 2020-06-23,United Arab Emirates,45683,305,33703,11675,380,2,657,Eastern Mediterranean
-2020-06-23,United Kingdom,280618,43007,956,236655,882,171,0,Europe
+2020-06-23,United Kingdom,280618,40066,956,239596,882,94,0,Europe
 2020-06-23,Uruguay,885,25,815,45,3,0,0,Americas
 2020-06-23,Uzbekistan,6662,19,4560,2083,201,0,110,Europe
 2020-06-23,Venezuela,4187,35,1327,2825,139,0,0,Americas
@@ -31764,7 +31764,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-24,Uganda,805,0,717,88,8,0,18,Africa
 2020-06-24,Ukraine,39852,1061,18009,20782,951,16,471,Europe
 2020-06-24,United Arab Emirates,46133,307,34405,11421,450,2,702,Eastern Mediterranean
-2020-06-24,United Kingdom,281393,43161,956,237276,775,154,0,Europe
+2020-06-24,United Kingdom,281393,40153,956,240284,775,87,0,Europe
 2020-06-24,Uruguay,902,26,815,61,17,1,0,Americas
 2020-06-24,Uzbekistan,6990,19,4685,2286,328,0,125,Europe
 2020-06-24,Venezuela,4366,38,1327,3001,179,3,0,Americas
@@ -31969,7 +31969,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-25,Uganda,821,0,731,90,16,0,14,Africa
 2020-06-25,Ukraine,40854,1078,18365,21411,1002,17,356,Europe
 2020-06-25,United Arab Emirates,46563,308,35165,11090,430,1,760,Eastern Mediterranean
-2020-06-25,United Kingdom,282090,43310,957,237823,697,149,1,Europe
+2020-06-25,United Kingdom,282090,40252,957,240881,697,99,1,Europe
 2020-06-25,Uruguay,907,26,818,63,5,0,3,Americas
 2020-06-25,Uzbekistan,7177,20,4877,2280,187,1,192,Europe
 2020-06-25,Venezuela,4563,39,1327,3197,197,1,0,Americas
@@ -32174,7 +32174,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-26,Uganda,833,0,761,72,12,0,30,Africa
 2020-06-26,Ukraine,41975,1097,18927,21951,1121,19,562,Europe
 2020-06-26,United Arab Emirates,46973,310,35469,11194,410,2,304,Eastern Mediterranean
-2020-06-26,United Kingdom,282728,43494,957,238277,638,184,0,Europe
+2020-06-26,United Kingdom,282728,40329,957,241442,638,77,0,Europe
 2020-06-26,Uruguay,919,26,818,75,12,0,0,Americas
 2020-06-26,Uzbekistan,7427,20,5038,2369,250,0,161,Europe
 2020-06-26,Venezuela,4779,41,1327,3411,216,2,0,Americas
@@ -32379,7 +32379,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-27,Uganda,848,0,761,87,15,0,0,Africa
 2020-06-27,Ukraine,42932,1121,19350,22461,957,24,423,Europe
 2020-06-27,United Arab Emirates,47360,311,35834,11215,387,1,365,Eastern Mediterranean
-2020-06-27,United Kingdom,283361,43594,958,238809,633,100,1,Europe
+2020-06-27,United Kingdom,283361,40369,958,242034,633,40,1,Europe
 2020-06-27,Uruguay,924,26,818,80,5,0,0,Americas
 2020-06-27,Uzbekistan,7682,20,5240,2422,255,0,202,Europe
 2020-06-27,Venezuela,5130,42,1327,3761,351,1,0,Americas
@@ -32584,7 +32584,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-28,Uganda,859,0,794,65,11,0,33,Africa
 2020-06-28,Ukraine,43856,1142,19585,23129,924,21,235,Europe
 2020-06-28,United Arab Emirates,47797,313,36411,11073,437,2,577,Eastern Mediterranean
-2020-06-28,United Kingdom,283756,43630,958,239168,395,36,0,Europe
+2020-06-28,United Kingdom,283756,40400,958,242398,395,31,0,Europe
 2020-06-28,Uruguay,929,27,818,84,5,1,0,Americas
 2020-06-28,Uzbekistan,7948,22,5329,2597,266,2,89,Europe
 2020-06-28,Venezuela,5297,44,1649,3604,167,2,322,Americas
@@ -32789,7 +32789,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-29,Uganda,870,0,808,62,11,0,14,Africa
 2020-06-29,Ukraine,44538,1161,19679,23698,682,19,94,Europe
 2020-06-29,United Arab Emirates,48246,314,37076,10856,449,1,665,Eastern Mediterranean
-2020-06-29,United Kingdom,284360,43655,959,239746,604,25,1,Europe
+2020-06-29,United Kingdom,284360,40421,959,242980,604,21,1,Europe
 2020-06-29,Uruguay,932,27,822,83,3,0,4,Americas
 2020-06-29,Uzbekistan,8222,23,5496,2703,274,1,167,Europe
 2020-06-29,Venezuela,5530,48,1649,3833,233,4,0,Americas
@@ -32994,7 +32994,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-30,Uganda,889,0,819,70,19,0,11,Africa
 2020-06-30,Ukraine,45254,1173,19792,24289,716,12,113,Europe
 2020-06-30,United Arab Emirates,48667,315,37566,10786,421,1,490,Eastern Mediterranean
-2020-06-30,United Kingdom,284763,43810,959,239994,403,155,0,Europe
+2020-06-30,United Kingdom,284763,40474,959,243330,403,53,0,Europe
 2020-06-30,Uruguay,936,27,824,85,4,0,2,Americas
 2020-06-30,Uzbekistan,8503,26,5682,2795,281,3,186,Europe
 2020-06-30,Venezuela,5832,51,1649,4132,302,3,0,Americas
@@ -33199,7 +33199,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-01,Uganda,893,0,837,56,4,0,18,Africa
 2020-07-01,Ukraine,45924,1188,20244,24492,670,15,452,Europe
 2020-07-01,United Arab Emirates,49069,316,38160,10593,402,1,594,Eastern Mediterranean
-2020-07-01,United Kingdom,284823,43986,959,239878,60,176,0,Europe
+2020-07-01,United Kingdom,284823,40571,959,243293,60,97,0,Europe
 2020-07-01,Uruguay,943,28,825,90,7,1,1,Americas
 2020-07-01,Uzbekistan,8781,26,5847,2908,278,0,165,Europe
 2020-07-01,Venezuela,6062,54,1649,4359,230,3,0,Americas
@@ -33404,7 +33404,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-02,Uganda,902,0,847,55,9,0,10,Africa
 2020-07-02,Ukraine,46821,1200,20755,24866,897,12,511,Europe
 2020-07-02,United Arab Emirates,49469,317,38664,10488,400,1,504,Eastern Mediterranean
-2020-07-02,United Kingdom,284827,44075,959,239793,4,89,0,Europe
+2020-07-02,United Kingdom,284827,40612,959,243256,4,41,0,Europe
 2020-07-02,Uruguay,947,28,828,91,4,0,3,Americas
 2020-07-02,Uzbekistan,9078,27,6034,3017,297,1,187,Europe
 2020-07-02,Venezuela,6273,57,2100,4116,211,3,451,Americas
@@ -33609,7 +33609,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-03,Uganda,911,0,849,62,9,0,2,Africa
 2020-07-03,Ukraine,47705,1227,21296,25182,884,27,541,Europe
 2020-07-03,United Arab Emirates,50141,318,39153,10670,672,1,489,Eastern Mediterranean
-2020-07-03,United Kingdom,285329,44211,961,240157,502,136,2,Europe
+2020-07-03,United Kingdom,285329,40661,961,243707,502,49,2,Europe
 2020-07-03,Uruguay,952,28,837,87,5,0,9,Americas
 2020-07-03,Uzbekistan,9396,29,6251,3116,318,2,217,Europe
 2020-07-03,Venezuela,6537,59,2100,4378,264,2,0,Americas
@@ -33814,7 +33814,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-04,Uganda,927,0,868,59,16,0,19,Africa
 2020-07-04,Ukraine,48628,1243,21907,25478,923,16,611,Europe
 2020-07-04,United Arab Emirates,50857,321,39857,10679,716,3,704,Eastern Mediterranean
-2020-07-04,United Kingdom,285953,44278,961,240714,624,67,0,Europe
+2020-07-04,United Kingdom,285953,40693,961,244299,624,32,0,Europe
 2020-07-04,Uruguay,955,28,840,87,3,0,3,Americas
 2020-07-04,Uzbekistan,9708,31,6425,3252,312,2,174,Europe
 2020-07-04,Venezuela,6750,62,2100,4588,213,3,0,Americas
@@ -34019,7 +34019,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-05,Uganda,939,0,891,48,12,0,23,Africa
 2020-07-05,Ukraine,49468,1265,22131,26072,840,22,224,Europe
 2020-07-05,United Arab Emirates,51540,323,40297,10920,683,2,440,Eastern Mediterranean
-2020-07-05,United Kingdom,286469,44300,961,241208,516,22,0,Europe
+2020-07-05,United Kingdom,286469,40712,961,244796,516,19,0,Europe
 2020-07-05,Uruguay,956,28,849,79,1,0,9,Americas
 2020-07-05,Uzbekistan,10020,34,6584,3402,312,3,159,Europe
 2020-07-05,Venezuela,7169,65,2100,5004,419,3,0,Americas
@@ -34224,7 +34224,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-06,Uganda,953,0,892,61,14,0,1,Africa
 2020-07-06,Ukraine,50053,1278,22462,26313,585,13,331,Europe
 2020-07-06,United Arab Emirates,52068,324,40721,11023,528,1,424,Eastern Mediterranean
-2020-07-06,United Kingdom,286827,44316,961,241550,358,16,0,Europe
+2020-07-06,United Kingdom,286827,40723,961,245143,358,11,0,Europe
 2020-07-06,Uruguay,960,29,858,73,4,1,9,Americas
 2020-07-06,Uzbekistan,10362,37,6628,3697,342,3,44,Europe
 2020-07-06,Venezuela,7411,68,2100,5243,242,3,0,Americas
@@ -34429,7 +34429,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-07,Uganda,971,0,896,75,18,0,4,Africa
 2020-07-07,Ukraine,50622,1299,22970,26353,569,21,508,Europe
 2020-07-07,United Arab Emirates,52600,326,41714,10560,532,2,993,Eastern Mediterranean
-2020-07-07,United Kingdom,287410,44471,961,241978,583,155,0,Europe
+2020-07-07,United Kingdom,287410,40777,961,245672,583,54,0,Europe
 2020-07-07,Uruguay,965,29,865,71,5,0,7,Americas
 2020-07-07,Uzbekistan,10838,41,6811,3986,476,4,183,Europe
 2020-07-07,Venezuela,7693,71,2100,5522,282,3,0,Americas
@@ -34634,7 +34634,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-08,Uganda,977,0,904,73,6,0,8,Africa
 2020-07-08,Ukraine,51457,1323,23912,26222,835,24,942,Europe
 2020-07-08,United Arab Emirates,53045,327,42282,10436,445,1,568,Eastern Mediterranean
-2020-07-08,United Kingdom,288041,44597,961,242483,631,126,0,Europe
+2020-07-08,United Kingdom,288041,40834,961,246246,631,57,0,Europe
 2020-07-08,Uruguay,974,29,871,74,9,0,6,Americas
 2020-07-08,Uzbekistan,11092,45,7060,3987,254,4,249,Europe
 2020-07-08,Venezuela,8008,75,2100,5833,315,4,0,Americas
@@ -34839,7 +34839,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-09,Uganda,1000,0,908,92,23,0,4,Africa
 2020-07-09,Ukraine,52285,1344,24606,26335,828,21,694,Europe
 2020-07-09,United Arab Emirates,53577,328,43570,9679,532,1,1288,Eastern Mediterranean
-2020-07-09,United Kingdom,288683,44682,961,243040,642,85,0,Europe
+2020-07-09,United Kingdom,288683,40865,961,246857,642,31,0,Europe
 2020-07-09,Uruguay,977,29,878,70,3,0,7,Americas
 2020-07-09,Uzbekistan,11564,51,7287,4226,472,6,227,Europe
 2020-07-09,Venezuela,8372,80,2544,5748,364,5,444,Americas
@@ -35044,7 +35044,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-10,Uganda,1006,0,938,68,6,0,30,Africa
 2020-07-10,Ukraine,53116,1362,25634,26120,831,18,1028,Europe
 2020-07-10,United Arab Emirates,54050,330,43969,9751,473,2,399,Eastern Mediterranean
-2020-07-10,United Kingdom,289196,44730,961,243505,513,48,0,Europe
+2020-07-10,United Kingdom,289196,40899,961,247336,513,34,0,Europe
 2020-07-10,Uruguay,985,29,886,70,8,0,8,Americas
 2020-07-10,Uzbekistan,12027,54,7530,4443,463,3,243,Europe
 2020-07-10,Venezuela,8803,83,2671,6049,431,3,127,Americas
@@ -35249,7 +35249,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-11,Uganda,1013,0,952,61,7,0,14,Africa
 2020-07-11,Ukraine,53941,1389,26513,26039,825,27,879,Europe
 2020-07-11,United Arab Emirates,54453,331,44648,9474,403,1,679,Eastern Mediterranean
-2020-07-11,United Kingdom,290016,44878,961,244177,820,148,0,Europe
+2020-07-11,United Kingdom,290016,40916,961,248139,820,17,0,Europe
 2020-07-11,Uruguay,986,30,896,60,1,1,10,Americas
 2020-07-11,Uzbekistan,12513,57,7723,4733,486,3,193,Europe
 2020-07-11,Venezuela,9178,85,2671,6422,375,2,0,Americas
@@ -35454,7 +35454,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-12,Uganda,1025,0,972,53,12,0,20,Africa
 2020-07-12,Ukraine,54647,1400,26971,26276,706,11,458,Europe
 2020-07-12,United Arab Emirates,54854,333,45140,9381,401,2,492,Eastern Mediterranean
-2020-07-12,United Kingdom,290666,44899,961,244806,650,21,0,Europe
+2020-07-12,United Kingdom,290666,40925,961,248780,650,9,0,Europe
 2020-07-12,Uruguay,987,31,896,60,1,1,0,Americas
 2020-07-12,Uzbekistan,12997,60,7852,5085,484,3,129,Europe
 2020-07-12,Venezuela,9465,89,2671,6705,287,4,0,Americas
@@ -35659,7 +35659,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-13,Uganda,1029,0,977,52,4,0,5,Africa
 2020-07-13,Ukraine,55285,1415,27356,26514,638,15,385,Europe
 2020-07-13,United Arab Emirates,55198,334,45513,9351,344,1,373,Eastern Mediterranean
-2020-07-13,United Kingdom,291200,44910,961,245329,534,11,0,Europe
+2020-07-13,United Kingdom,291200,40935,961,249304,534,10,0,Europe
 2020-07-13,Uruguay,989,31,903,55,2,0,7,Americas
 2020-07-13,Uzbekistan,13591,64,8030,5497,594,4,178,Europe
 2020-07-13,Venezuela,9707,93,2671,6943,242,4,0,Americas
@@ -35864,7 +35864,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-14,Uganda,1040,0,984,56,11,0,7,Africa
 2020-07-14,Ukraine,55931,1429,28021,26481,646,14,665,Europe
 2020-07-14,United Arab Emirates,55573,335,46025,9213,375,1,512,Eastern Mediterranean
-2020-07-14,United Kingdom,292440,45048,961,246431,1240,138,0,Europe
+2020-07-14,United Kingdom,292440,40979,961,250500,1240,44,0,Europe
 2020-07-14,Uruguay,997,31,905,61,8,0,2,Americas
 2020-07-14,Uzbekistan,14085,67,8327,5691,494,3,297,Europe
 2020-07-14,Venezuela,10010,96,2671,7243,303,3,0,Americas
@@ -36069,7 +36069,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-15,Uganda,1043,0,1004,39,3,0,20,Africa
 2020-07-15,Ukraine,56779,1444,29005,26330,848,15,984,Europe
 2020-07-15,United Arab Emirates,55848,335,46418,9095,275,0,393,Eastern Mediterranean
-2020-07-15,United Kingdom,292978,45133,961,246884,538,85,0,Europe
+2020-07-15,United Kingdom,292978,41005,961,251012,538,26,0,Europe
 2020-07-15,Uruguay,1009,31,909,69,12,0,4,Americas
 2020-07-15,Uzbekistan,14581,71,8655,5855,496,4,328,Europe
 2020-07-15,Venezuela,10428,100,3050,7278,418,4,379,Americas
@@ -36274,7 +36274,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-16,Uganda,1051,0,1014,37,8,0,10,Africa
 2020-07-16,Ukraine,57640,1462,29822,26356,861,18,817,Europe
 2020-07-16,United Arab Emirates,56129,335,47412,8382,281,0,994,Eastern Mediterranean
-2020-07-16,United Kingdom,293623,45199,978,247446,645,66,17,Europe
+2020-07-16,United Kingdom,293623,41029,978,251616,645,24,17,Europe
 2020-07-16,Uruguay,1026,32,916,78,17,1,7,Americas
 2020-07-16,Uzbekistan,15066,75,8783,6208,485,4,128,Europe
 2020-07-16,Venezuela,10854,104,3255,7495,426,4,205,Americas
@@ -36479,7 +36479,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-17,Uganda,1056,0,1023,33,5,0,9,Africa
 2020-07-17,Ukraine,58466,1473,30675,26318,826,11,853,Europe
 2020-07-17,United Arab Emirates,56422,337,48448,7637,293,2,1036,Eastern Mediterranean
-2020-07-17,United Kingdom,294310,45313,978,248019,687,114,0,Europe
+2020-07-17,United Kingdom,294310,41055,978,252277,687,26,0,Europe
 2020-07-17,Uruguay,1037,32,917,88,11,0,1,Americas
 2020-07-17,Uzbekistan,15607,79,9003,6525,541,4,220,Europe
 2020-07-17,Venezuela,11191,107,3852,7232,337,3,597,Americas
@@ -36684,7 +36684,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-18,Uganda,1062,0,1023,39,6,0,0,Africa
 2020-07-18,Ukraine,59333,1496,31479,26358,867,23,804,Europe
 2020-07-18,United Arab Emirates,56711,338,48917,7456,289,1,469,Eastern Mediterranean
-2020-07-18,United Kingdom,295138,45353,978,248807,828,40,0,Europe
+2020-07-18,United Kingdom,295138,41064,978,253096,828,9,0,Europe
 2020-07-18,Uruguay,1044,33,921,90,7,1,4,Americas
 2020-07-18,Uzbekistan,16186,83,9127,6976,579,4,124,Europe
 2020-07-18,Venezuela,11483,110,3972,7401,292,3,120,Americas
@@ -36889,7 +36889,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-19,Uganda,1065,0,1023,42,3,0,0,Africa
 2020-07-19,Ukraine,60077,1504,31836,26737,744,8,357,Europe
 2020-07-19,United Arab Emirates,56922,339,49269,7314,211,1,352,Eastern Mediterranean
-2020-07-19,United Kingdom,295864,45380,978,249506,726,27,0,Europe
+2020-07-19,United Kingdom,295864,41075,978,253811,726,11,0,Europe
 2020-07-19,Uruguay,1054,33,922,99,10,0,1,Americas
 2020-07-19,Uzbekistan,16752,87,9279,7386,566,4,152,Europe
 2020-07-19,Venezuela,11891,112,3972,7807,408,2,0,Americas
@@ -37094,7 +37094,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-20,Uganda,1069,0,1071,-2,4,0,48,Africa
 2020-07-20,Ukraine,60767,1517,32397,26853,690,13,561,Europe
 2020-07-20,United Arab Emirates,57193,340,49621,7232,271,1,352,Eastern Mediterranean
-2020-07-20,United Kingdom,296444,45392,978,250074,580,12,0,Europe
+2020-07-20,United Kingdom,296444,41085,978,254381,580,10,0,Europe
 2020-07-20,Uruguay,1064,33,927,104,10,0,5,Americas
 2020-07-20,Uzbekistan,17149,90,9387,7672,397,3,108,Europe
 2020-07-20,Venezuela,12334,116,6844,5374,443,4,2872,Americas
@@ -37299,7 +37299,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-21,Uganda,1072,0,958,114,3,0,-113,Africa
 2020-07-21,Ukraine,61454,1537,33186,26731,687,20,789,Europe
 2020-07-21,United Arab Emirates,57498,341,49964,7193,305,1,343,Eastern Mediterranean
-2020-07-21,United Kingdom,296889,45502,978,250409,445,110,0,Europe
+2020-07-21,United Kingdom,296889,41110,978,254801,445,25,0,Europe
 2020-07-21,Uruguay,1096,33,929,134,32,0,2,Americas
 2020-07-21,Uzbekistan,17881,95,9521,8265,732,5,134,Europe
 2020-07-21,Venezuela,12774,120,6983,5671,440,4,139,Americas
@@ -37504,7 +37504,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-22,Uganda,1075,0,958,117,3,0,0,Africa
 2020-07-22,Ukraine,62295,1553,34176,26566,841,16,990,Europe
 2020-07-22,United Arab Emirates,57734,342,50354,7038,236,1,390,Eastern Mediterranean
-2020-07-22,United Kingdom,297449,45581,980,250888,560,79,2,Europe
+2020-07-22,United Kingdom,297449,41127,980,255342,560,17,2,Europe
 2020-07-22,Uruguay,1117,34,934,149,21,1,5,Americas
 2020-07-22,Uzbekistan,18379,98,9872,8409,498,3,351,Europe
 2020-07-22,Venezuela,13164,124,7471,5569,390,4,488,Americas
@@ -37709,7 +37709,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-23,Uganda,1079,0,971,108,4,0,13,Africa
 2020-07-23,Ukraine,63169,1570,35035,26564,874,17,859,Europe
 2020-07-23,United Arab Emirates,57988,342,50848,6798,254,0,494,Eastern Mediterranean
-2020-07-23,United Kingdom,298218,45634,984,251600,769,53,4,Europe
+2020-07-23,United Kingdom,298218,41136,984,256098,769,9,4,Europe
 2020-07-23,Uruguay,1141,34,940,167,24,0,6,Americas
 2020-07-23,Uzbekistan,18986,103,10149,8734,607,5,277,Europe
 2020-07-23,Venezuela,13613,129,7752,5732,449,5,281,Americas
@@ -37914,7 +37914,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-24,Uganda,1089,1,975,113,10,1,4,Africa
 2020-07-24,Ukraine,64173,1591,35932,26650,1004,21,897,Europe
 2020-07-24,United Arab Emirates,58249,343,51235,6671,261,1,387,Eastern Mediterranean
-2020-07-24,United Kingdom,298987,45757,984,252246,769,123,0,Europe
+2020-07-24,United Kingdom,298987,41168,984,256835,769,32,0,Europe
 2020-07-24,Uruguay,1166,34,946,186,25,0,6,Americas
 2020-07-24,Uzbekistan,19360,106,10472,8782,374,3,323,Europe
 2020-07-24,Venezuela,14263,134,8127,6002,650,5,375,Americas
@@ -38119,7 +38119,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-25,Uganda,1103,1,982,120,14,0,7,Africa
 2020-07-25,Ukraine,65317,1610,36573,27134,1144,19,641,Europe
 2020-07-25,United Arab Emirates,58562,343,51628,6591,313,0,393,Eastern Mediterranean
-2020-07-25,United Kingdom,299754,45818,984,252952,767,61,0,Europe
+2020-07-25,United Kingdom,299754,41183,984,257587,767,15,0,Europe
 2020-07-25,Uruguay,1174,34,947,193,8,0,1,Americas
 2020-07-25,Uzbekistan,19952,111,10831,9010,592,5,359,Europe
 2020-07-25,Venezuela,14929,138,8795,5996,666,4,668,Americas
@@ -38324,7 +38324,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-26,Uganda,1115,2,982,131,12,1,0,Africa
 2020-07-26,Ukraine,66261,1625,36885,27751,944,15,312,Europe
 2020-07-26,United Arab Emirates,58913,344,52182,6387,351,1,554,Eastern Mediterranean
-2020-07-26,United Kingdom,300499,45832,984,253683,745,14,0,Europe
+2020-07-26,United Kingdom,300499,41191,984,258324,745,8,0,Europe
 2020-07-26,Uruguay,1192,34,948,210,18,0,1,Americas
 2020-07-26,Uzbekistan,20531,116,11105,9310,579,5,274,Europe
 2020-07-26,Venezuela,15463,142,9746,5575,534,4,951,Americas
@@ -38529,7 +38529,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-27,Uganda,1128,2,986,140,13,0,4,Africa
 2020-07-27,Ukraine,67096,1636,37202,28258,835,11,317,Europe
 2020-07-27,United Arab Emirates,59177,345,52510,6322,264,1,328,Eastern Mediterranean
-2020-07-27,United Kingdom,301185,45839,986,254360,686,7,2,Europe
+2020-07-27,United Kingdom,301185,41194,986,259005,686,3,2,Europe
 2020-07-27,Uruguay,1202,35,951,216,10,1,3,Americas
 2020-07-27,Uzbekistan,21209,121,11674,9414,678,5,569,Europe
 2020-07-27,Venezuela,15988,146,9959,5883,525,4,213,Americas
@@ -38734,7 +38734,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-28,Uganda,1135,2,989,144,7,0,3,Africa
 2020-07-28,Ukraine,68030,1650,37852,28528,934,14,650,Europe
 2020-07-28,United Arab Emirates,59546,347,52905,6294,369,2,395,Eastern Mediterranean
-2020-07-28,United Kingdom,301737,45958,986,254793,552,119,0,Europe
+2020-07-28,United Kingdom,301737,41215,986,259536,552,21,0,Europe
 2020-07-28,Uruguay,1218,35,958,225,16,0,7,Americas
 2020-07-28,Uzbekistan,21699,124,12026,9549,490,3,352,Europe
 2020-07-28,Venezuela,16571,151,10195,6225,583,5,236,Americas
@@ -38939,7 +38939,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-29,Uganda,1140,2,1028,110,5,0,39,Africa
 2020-07-29,Ukraine,69078,1673,38523,28882,1048,23,671,Europe
 2020-07-29,United Arab Emirates,59921,347,53202,6372,375,0,297,Eastern Mediterranean
-2020-07-29,United Kingdom,302534,46041,986,255507,797,83,0,Europe
+2020-07-29,United Kingdom,302534,41249,986,260299,797,34,0,Europe
 2020-07-29,Uruguay,1237,35,967,235,19,0,9,Americas
 2020-07-29,Uzbekistan,22585,131,12937,9517,886,7,911,Europe
 2020-07-29,Venezuela,17158,156,10421,6581,587,5,226,Americas
@@ -39144,7 +39144,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-30,Uganda,1147,2,1028,117,7,0,0,Africa
 2020-07-30,Ukraine,70300,1697,39327,29276,1222,24,804,Europe
 2020-07-30,United Arab Emirates,60223,349,53626,6248,302,2,424,Eastern Mediterranean
-2020-07-30,United Kingdom,303380,46079,986,256315,846,38,0,Europe
+2020-07-30,United Kingdom,303380,41249,986,261145,846,0,0,Europe
 2020-07-30,Uruguay,1243,35,978,230,6,0,11,Americas
 2020-07-30,Uzbekistan,23271,136,13680,9455,686,5,743,Europe
 2020-07-30,Venezuela,17859,158,10421,7280,701,2,0,Americas
@@ -39349,7 +39349,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-31,Uganda,1154,3,1028,123,7,1,0,Africa
 2020-07-31,Ukraine,71404,1717,39945,29742,1104,20,618,Europe
 2020-07-31,United Arab Emirates,60506,351,53909,6246,283,2,283,Eastern Mediterranean
-2020-07-31,United Kingdom,304260,46199,986,257075,880,120,0,Europe
+2020-07-31,United Kingdom,304260,41269,986,262005,880,20,0,Europe
 2020-07-31,Uruguay,1264,35,994,235,21,0,16,Americas
 2020-07-31,Uzbekistan,24009,141,14464,9404,738,5,784,Europe
 2020-07-31,Venezuela,18574,164,10421,7989,715,6,0,Americas
@@ -39554,7 +39554,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-01,Uganda,1176,4,1045,127,22,1,17,Africa
 2020-08-01,Ukraine,72609,1733,40516,30360,1205,16,571,Europe
 2020-08-01,United Arab Emirates,60760,351,54255,6154,254,0,346,Eastern Mediterranean
-2020-08-01,United Kingdom,305021,46273,986,257762,761,74,0,Europe
+2020-08-01,United Kingdom,305021,41282,986,262753,761,13,0,Europe
 2020-08-01,Uruguay,1278,35,1004,239,14,0,10,Americas
 2020-08-01,Uzbekistan,24783,147,15299,9337,774,6,835,Europe
 2020-08-01,Venezuela,19443,169,11129,8145,869,5,708,Americas
@@ -39759,7 +39759,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-02,Uganda,1182,4,1045,133,6,0,0,Africa
 2020-08-02,Ukraine,73761,1749,40755,31257,1152,16,239,Europe
 2020-08-02,United Arab Emirates,60999,351,54615,6033,239,0,360,Eastern Mediterranean
-2020-08-02,United Kingdom,305765,46281,988,258496,744,8,2,Europe
+2020-08-02,United Kingdom,305765,41287,988,263490,744,5,2,Europe
 2020-08-02,Uruguay,1286,36,1011,239,8,1,7,Americas
 2020-08-02,Uzbekistan,25336,151,15833,9352,553,4,534,Europe
 2020-08-02,Venezuela,20206,174,11404,8628,763,5,275,Americas
@@ -39964,7 +39964,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-03,Uganda,1195,5,1070,120,13,1,25,Africa
 2020-08-03,Ukraine,74781,1762,41097,31922,1020,13,342,Europe
 2020-08-03,United Arab Emirates,61163,351,54863,5949,164,0,248,Eastern Mediterranean
-2020-08-03,United Kingdom,306707,46290,989,259428,942,9,1,Europe
+2020-08-03,United Kingdom,306707,41288,989,264430,942,1,1,Europe
 2020-08-03,Uruguay,1291,36,1023,232,5,0,12,Americas
 2020-08-03,Uzbekistan,26066,157,16838,9071,730,6,1005,Europe
 2020-08-03,Venezuela,20754,180,11622,8952,548,6,218,Americas
@@ -40169,7 +40169,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-04,Uganda,1203,5,1073,125,8,0,3,Africa
 2020-08-04,Ukraine,75880,1788,41849,32243,1099,26,752,Europe
 2020-08-04,United Arab Emirates,61352,351,55090,5911,189,0,227,Eastern Mediterranean
-2020-08-04,United Kingdom,307381,46309,989,260083,674,19,0,Europe
+2020-08-04,United Kingdom,307381,41306,989,265086,674,18,0,Europe
 2020-08-04,Uruguay,1300,37,1048,215,9,1,25,Americas
 2020-08-04,Uzbekistan,27047,165,18051,8831,981,8,1213,Europe
 2020-08-04,Venezuela,21438,187,11875,9376,684,7,253,Americas
@@ -40374,7 +40374,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-05,Uganda,1213,5,1102,106,10,0,29,Africa
 2020-08-05,Ukraine,77169,1813,42784,32572,1289,25,935,Europe
 2020-08-05,United Arab Emirates,61606,353,55385,5868,254,2,295,Eastern Mediterranean
-2020-08-05,United Kingdom,308273,46444,989,260840,892,135,0,Europe
+2020-08-05,United Kingdom,308273,41320,989,265964,892,14,0,Europe
 2020-08-05,Uruguay,1309,37,1065,207,9,0,17,Americas
 2020-08-05,Uzbekistan,27793,171,18783,8839,746,6,732,Europe
 2020-08-05,Venezuela,22299,195,12146,9958,861,8,271,Americas
@@ -40579,7 +40579,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-06,Uganda,1223,5,1102,116,10,0,0,Africa
 2020-08-06,Ukraine,78515,1846,43812,32857,1346,33,1028,Europe
 2020-08-06,United Arab Emirates,61845,354,55739,5752,239,1,354,Eastern Mediterranean
-2020-08-06,United Kingdom,309224,46493,989,261742,951,49,0,Europe
+2020-08-06,United Kingdom,309224,41338,989,266897,951,18,0,Europe
 2020-08-06,Uruguay,1318,37,1079,202,9,0,14,Americas
 2020-08-06,Uzbekistan,28315,175,19291,8849,522,4,508,Europe
 2020-08-06,Venezuela,23280,202,12470,10608,981,7,324,Americas
@@ -40784,7 +40784,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-07,Uganda,1254,6,1113,135,31,1,11,Africa
 2020-08-07,Ukraine,80018,1879,44369,33770,1503,33,557,Europe
 2020-08-07,United Arab Emirates,62061,356,56015,5690,216,2,276,Eastern Mediterranean
-2020-08-07,United Kingdom,310095,46591,989,262515,871,98,0,Europe
+2020-08-07,United Kingdom,310095,41350,989,267756,871,12,0,Europe
 2020-08-07,Uruguay,1325,37,1095,193,7,0,16,Americas
 2020-08-07,Uzbekistan,29057,181,20059,8817,742,6,768,Europe
 2020-08-07,Venezuela,24166,208,12470,11488,886,6,0,Americas
@@ -40989,7 +40989,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-08,Uganda,1267,6,1115,146,13,0,2,Africa
 2020-08-08,Ukraine,81534,1906,45006,34622,1516,27,637,Europe
 2020-08-08,United Arab Emirates,62300,356,56245,5699,239,0,230,Eastern Mediterranean
-2020-08-08,United Kingdom,310853,46646,989,263218,758,55,0,Europe
+2020-08-08,United Kingdom,310853,41353,989,268511,758,3,0,Europe
 2020-08-08,Uruguay,1335,37,1112,186,10,0,17,Americas
 2020-08-08,Uzbekistan,29652,187,21006,8459,595,6,947,Europe
 2020-08-08,Venezuela,24961,215,13356,11390,795,7,886,Americas
@@ -41194,7 +41194,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-09,Uganda,1283,7,1115,161,16,1,0,Africa
 2020-08-09,Ukraine,82767,1925,45335,35507,1233,19,329,Europe
 2020-08-09,United Arab Emirates,62525,357,56568,5600,225,1,323,Eastern Mediterranean
-2020-08-09,United Kingdom,311916,46654,989,264273,1063,8,0,Europe
+2020-08-09,United Kingdom,311916,41358,989,269569,1063,5,0,Europe
 2020-08-09,Uruguay,1353,37,1125,191,18,0,13,Americas
 2020-08-09,Uzbekistan,30609,194,22042,8373,957,7,1036,Europe
 2020-08-09,Venezuela,25805,223,13356,12226,844,8,0,Americas
@@ -41399,7 +41399,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-10,Uganda,1297,9,1137,151,14,2,22,Africa
 2020-08-10,Ukraine,83812,1950,45723,36139,1045,25,388,Europe
 2020-08-10,United Arab Emirates,62704,357,56766,5581,179,0,198,Eastern Mediterranean
-2020-08-10,United Kingdom,312734,46606,1001,265127,818,-48,12,Europe
+2020-08-10,United Kingdom,312734,41376,1001,270357,818,18,12,Europe
 2020-08-10,Uruguay,1364,37,1146,181,11,0,21,Americas
 2020-08-10,Uzbekistan,31304,200,22992,8112,695,6,950,Europe
 2020-08-10,Venezuela,26800,229,16930,9641,995,6,3574,Americas
@@ -41604,7 +41604,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-11,Uganda,1313,9,1138,166,16,0,1,Africa
 2020-08-11,Ukraine,85023,1979,46313,36731,1211,29,590,Europe
 2020-08-11,United Arab Emirates,62966,358,56961,5647,262,1,195,Eastern Mediterranean
-2020-08-11,United Kingdom,313883,46709,1001,266173,1149,103,0,Europe
+2020-08-11,United Kingdom,313883,41389,1001,271493,1149,13,0,Europe
 2020-08-11,Uruguay,1385,37,1157,191,21,0,11,Americas
 2020-08-11,Uzbekistan,31747,204,23704,7839,443,4,712,Europe
 2020-08-11,Venezuela,27938,238,19706,7994,1138,9,2776,Americas
@@ -41809,7 +41809,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-12,Uganda,1332,9,1139,184,19,0,1,Africa
 2020-08-12,Ukraine,86504,1999,47084,37421,1481,20,771,Europe
 2020-08-12,United Arab Emirates,63212,358,57193,5661,246,0,232,Eastern Mediterranean
-2020-08-12,United Kingdom,314896,46786,1002,267108,1013,77,1,Europe
+2020-08-12,United Kingdom,314896,41409,1002,272485,1013,20,1,Europe
 2020-08-12,Uruguay,1393,37,1163,193,8,0,6,Americas
 2020-08-12,Uzbekistan,32654,211,25659,6784,907,7,1955,Europe
 2020-08-12,Venezuela,29088,247,21042,7799,1150,9,1336,Americas
@@ -42014,7 +42014,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-13,Uganda,1353,11,1141,201,21,2,2,Africa
 2020-08-13,Ukraine,88136,2023,47678,38435,1632,24,594,Europe
 2020-08-13,United Arab Emirates,63489,358,57372,5759,277,0,179,Eastern Mediterranean
-2020-08-13,United Kingdom,316025,46786,1002,268237,1129,0,0,Europe
+2020-08-13,United Kingdom,316025,41427,1002,273596,1129,18,0,Europe
 2020-08-13,Uruguay,1409,37,1180,192,16,0,17,Americas
 2020-08-13,Uzbekistan,33323,216,27213,5894,669,5,1554,Europe
 2020-08-13,Venezuela,30369,259,21385,8725,1281,12,343,Americas
@@ -42219,7 +42219,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-14,Uganda,1385,12,1142,231,32,1,1,Africa
 2020-08-14,Ukraine,89917,2042,48288,39587,1781,19,610,Europe
 2020-08-14,United Arab Emirates,63819,359,57473,5987,330,1,101,Eastern Mediterranean
-2020-08-14,United Kingdom,317469,46786,1002,269681,1444,0,0,Europe
+2020-08-14,United Kingdom,317469,41438,1002,275029,1444,11,0,Europe
 2020-08-14,Uruguay,1421,38,1182,201,12,1,2,Americas
 2020-08-14,Uzbekistan,33821,220,27825,5776,498,4,612,Europe
 2020-08-14,Venezuela,31381,266,21580,9535,1012,7,195,Americas
@@ -42424,7 +42424,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-15,Uganda,1434,13,1142,279,49,1,0,Africa
 2020-08-15,Ukraine,91795,2076,48946,40773,1878,34,658,Europe
 2020-08-15,United Arab Emirates,64102,361,57571,6170,283,2,98,Eastern Mediterranean
-2020-08-15,United Kingdom,318484,46786,1004,270694,1015,0,2,Europe
+2020-08-15,United Kingdom,318484,41441,1004,276039,1015,3,2,Europe
 2020-08-15,Uruguay,1434,38,1194,202,13,0,12,Americas
 2020-08-15,Uzbekistan,34528,225,29328,4975,707,5,1503,Europe
 2020-08-15,Venezuela,32607,276,21747,10584,1226,10,167,Americas
@@ -42629,7 +42629,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-16,Uganda,1500,13,1142,345,66,0,0,Africa
 2020-08-16,Ukraine,93490,2100,49346,42044,1695,24,400,Europe
 2020-08-16,United Arab Emirates,64312,364,57694,6254,210,3,123,Eastern Mediterranean
-2020-08-16,United Kingdom,319589,46786,1004,271799,1105,0,0,Europe
+2020-08-16,United Kingdom,319589,41446,1004,277139,1105,5,0,Europe
 2020-08-16,Uruguay,1440,38,1200,202,6,0,6,Americas
 2020-08-16,Uzbekistan,35329,232,30973,4124,801,7,1645,Europe
 2020-08-16,Venezuela,33755,281,22700,10774,1148,5,953,Americas
