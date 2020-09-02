@@ -44802,7 +44802,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-27,Libya,12274,219,1209,10846,440,9,57,Eastern Mediterranean
 2020-08-27,Liechtenstein,105,1,96,8,3,0,2,Europe
 2020-08-27,Lithuania,2762,85,1802,875,36,0,8,Europe
-2020-08-27,Luxembourg,7928,124,7140,664,0,0,0,Europe
+2020-08-27,Luxembourg,7928,124,5854,1950,0,0,-1286,Europe
 2020-08-27,Madagascar,14592,184,0,14408,38,3,0,Africa
 2020-08-27,Malawi,5496,173,3121,2202,22,0,36,Africa
 2020-08-27,Malaysia,9296,125,0,9171,5,0,0,Western Pacific
@@ -45007,7 +45007,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-28,Libya,12629,226,1310,11093,355,7,101,Eastern Mediterranean
 2020-08-28,Liechtenstein,106,1,96,9,1,0,0,Europe
 2020-08-28,Lithuania,2810,86,1816,908,48,1,14,Europe
-2020-08-28,Luxembourg,6580,124,7140,-684,0,0,0,Europe
+2020-08-28,Luxembourg,6580,124,5909,547,0,0,55,Europe
 2020-08-28,Madagascar,14696,187,0,14509,104,3,0,Africa
 2020-08-28,Malawi,5523,174,3143,2206,27,1,22,Africa
 2020-08-28,Malaysia,9306,125,0,9181,10,0,0,Western Pacific
@@ -45212,7 +45212,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-29,Libya,12958,231,1333,11394,329,5,23,Eastern Mediterranean
 2020-08-29,Liechtenstein,107,1,97,9,1,0,1,Europe
 2020-08-29,Lithuania,2839,86,1833,920,29,0,17,Europe
-2020-08-29,Luxembourg,6625,124,7140,-639,45,0,0,Europe
+2020-08-29,Luxembourg,6625,124,5942,559,45,0,33,Europe
 2020-08-29,Madagascar,14791,190,0,14601,95,3,0,Africa
 2020-08-29,Malawi,5528,174,3143,2211,5,0,0,Africa
 2020-08-29,Malaysia,9317,125,0,9192,11,0,0,Western Pacific
@@ -45417,7 +45417,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-30,Libya,13423,232,1410,11781,465,1,77,Eastern Mediterranean
 2020-08-30,Liechtenstein,107,1,97,9,0,0,0,Europe
 2020-08-30,Lithuania,2874,86,1837,951,35,0,4,Europe
-2020-08-30,Luxembourg,6625,124,7140,-639,0,0,0,Europe
+2020-08-30,Luxembourg,6625,124,5967,534,0,0,25,Europe
 2020-08-30,Madagascar,14843,191,0,14652,52,1,0,Africa
 2020-08-30,Malawi,5536,174,3147,2215,8,0,4,Africa
 2020-08-30,Malaysia,9334,126,0,9208,17,1,0,Western Pacific
@@ -45622,7 +45622,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-31,Libya,13966,237,1459,12270,543,5,49,Eastern Mediterranean
 2020-08-31,Liechtenstein,107,1,97,9,0,0,0,Europe
 2020-08-31,Lithuania,2906,86,1840,980,32,0,3,Europe
-2020-08-31,Luxembourg,6625,124,7140,-639,0,0,0,Europe
+2020-08-31,Luxembourg,6625,124,5984,517,0,0,17,Europe
 2020-08-31,Madagascar,14863,192,0,14671,20,1,0,Africa
 2020-08-31,Malawi,5566,175,3160,2231,30,1,13,Africa
 2020-08-31,Malaysia,9340,127,0,9213,6,1,0,Western Pacific
@@ -45827,7 +45827,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-01,Libya,14624,242,1676,12706,658,5,217,Eastern Mediterranean
 2020-09-01,Liechtenstein,107,1,97,9,0,0,0,Europe
 2020-09-01,Lithuania,2929,86,1857,986,23,0,17,Europe
-2020-09-01,Luxembourg,6625,124,7140,-639,0,0,0,Europe
+2020-09-01,Luxembourg,6625,124,5990,511,0,0,6,Europe
 2020-09-01,Madagascar,14957,195,0,14762,94,3,0,Africa
 2020-09-01,Malawi,5576,175,3420,1981,10,0,260,Africa
 2020-09-01,Malaysia,9354,128,0,9226,14,1,0,Western Pacific
