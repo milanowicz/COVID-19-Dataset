@@ -43677,7 +43677,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-22,Australia,24811,502,18758,5551,209,17,300,Western Pacific
 2020-08-22,Austria,25062,732,21406,2924,300,2,146,Europe
 2020-08-22,Azerbaijan,35105,515,32842,1748,184,3,160,Europe
-2020-08-22,Bahamas,1703,27,221,1455,0,0,0,Americas
+2020-08-22,Bahamas,1765,27,227,1511,62,0,6,Americas
 2020-08-22,Bahrain,49038,183,45589,3266,377,2,423,Eastern Mediterranean
 2020-08-22,Bangladesh,292625,3907,175567,113151,2265,46,2952,South-East Asia
 2020-08-22,Barbados,158,7,126,25,1,0,2,Americas
@@ -43882,7 +43882,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-23,Australia,24915,517,19231,5167,104,15,473,Western Pacific
 2020-08-23,Austria,25253,732,21558,2963,191,0,152,Europe
 2020-08-23,Azerbaijan,35274,518,32993,1763,169,3,151,Europe
-2020-08-23,Bahamas,1765,29,227,1509,62,2,6,Americas
+2020-08-23,Bahamas,1784,29,634,1121,19,2,407,Americas
 2020-08-23,Bahrain,49330,184,45981,3165,292,1,392,Eastern Mediterranean
 2020-08-23,Bangladesh,294598,3941,179091,111566,1973,34,3524,South-East Asia
 2020-08-23,Barbados,161,7,132,22,3,0,6,Americas
@@ -44087,7 +44087,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-24,Australia,25053,525,19601,4927,138,8,370,Western Pacific
 2020-08-24,Austria,25495,733,21657,3105,242,1,99,Europe
 2020-08-24,Azerbaijan,35426,519,33104,1803,152,1,111,Europe
-2020-08-24,Bahamas,1765,29,227,1509,0,0,0,Americas
+2020-08-24,Bahamas,1798,44,634,1120,14,15,0,Americas
 2020-08-24,Bahrain,49719,185,46311,3223,389,1,330,Eastern Mediterranean
 2020-08-24,Bangladesh,297083,3983,182875,110225,2485,42,3784,South-East Asia
 2020-08-24,Barbados,161,7,132,22,0,0,0,Americas
@@ -44292,7 +44292,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-25,Australia,25204,549,20098,4557,151,24,497,Western Pacific
 2020-08-25,Austria,25706,733,21888,3085,211,0,231,Europe
 2020-08-25,Azerbaijan,35559,521,33190,1848,133,2,86,Europe
-2020-08-25,Bahamas,1765,29,227,1509,0,0,0,Americas
+2020-08-25,Bahamas,1813,46,634,1133,15,2,0,Americas
 2020-08-25,Bahrain,50076,186,46673,3217,357,1,362,Eastern Mediterranean
 2020-08-25,Bangladesh,299628,4028,186756,108844,2545,45,3881,South-East Asia
 2020-08-25,Barbados,164,7,132,25,3,0,0,Americas
@@ -44497,7 +44497,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-26,Australia,25322,572,20099,4651,118,23,1,Western Pacific
 2020-08-26,Austria,26033,733,22145,3155,327,0,257,Europe
 2020-08-26,Azerbaijan,35707,522,33281,1904,148,1,91,Europe
-2020-08-26,Bahamas,1765,29,227,1509,0,0,0,Americas
+2020-08-26,Bahamas,1923,48,733,1142,110,2,99,Americas
 2020-08-26,Bahrain,50393,186,47049,3158,317,0,376,Eastern Mediterranean
 2020-08-26,Bangladesh,302147,4082,190183,107882,2519,54,3427,South-East Asia
 2020-08-26,Barbados,165,7,139,19,1,0,7,Americas
@@ -44702,7 +44702,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-27,Australia,25448,583,20365,4500,126,11,266,Western Pacific
 2020-08-27,Austria,26361,733,22317,3311,328,0,172,Europe
 2020-08-27,Azerbaijan,35844,524,33364,1956,137,2,83,Europe
-2020-08-27,Bahamas,1765,29,227,1509,0,0,0,Americas
+2020-08-27,Bahamas,2020,48,742,1230,97,0,9,Americas
 2020-08-27,Bahrain,50756,188,47370,3198,363,2,321,Eastern Mediterranean
 2020-08-27,Bangladesh,304583,4127,193458,106998,2436,45,3275,South-East Asia
 2020-08-27,Barbados,165,7,140,18,0,0,1,Americas
@@ -44907,7 +44907,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-28,Australia,25547,600,20631,4316,99,17,266,Western Pacific
 2020-08-28,Austria,26590,733,22594,3263,229,0,277,Europe
 2020-08-28,Azerbaijan,35986,527,33461,1998,142,3,97,Europe
-2020-08-28,Bahamas,2057,50,755,1252,292,21,528,Americas
+2020-08-28,Bahamas,2057,50,755,1252,37,2,13,Americas
 2020-08-28,Bahrain,51113,189,47760,3164,357,1,390,Eastern Mediterranean
 2020-08-28,Bangladesh,306794,4174,196836,105784,2211,47,3378,South-East Asia
 2020-08-28,Barbados,166,7,141,18,1,0,1,Americas
