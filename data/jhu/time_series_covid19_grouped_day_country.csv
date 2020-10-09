@@ -42239,7 +42239,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-15,Argentina,289100,5637.0,205697,77766.0,6663,110,6692,Americas
 2020-08-15,Armenia,41495,817.0,34484,6194.0,196,3,320,Europe
 2020-08-15,Aruba (NL),1048,4.0,193,851.0,75,0,79,Americas
-2020-08-15,Australia,23287,396.0,13633,9258.0,252,17,1,Western Pacific
+2020-08-15,Australia,23287,396.0,13635,9256.0,252,17,3,Western Pacific
 2020-08-15,Austria,23179,728.0,20627,1824.0,303,3,128,Europe
 2020-08-15,Azerbaijan,34107,506.0,31697,1904.0,89,2,207,Europe
 2020-08-15,Bahamas,1252,17.0,160,1075.0,133,0,22,Americas
@@ -42444,7 +42444,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-16,Argentina,294569,5703.0,211702,77164.0,5469,66,6005,Americas
 2020-08-16,Armenia,41663,818.0,34584,6261.0,168,1,100,Europe
 2020-08-16,Aruba (NL),1102,4.0,200,898.0,54,0,7,Americas
-2020-08-16,Australia,23558,421.0,14083,9054.0,271,25,450,Western Pacific
+2020-08-16,Australia,23558,421.0,14085,9052.0,271,25,450,Western Pacific
 2020-08-16,Austria,23370,728.0,20681,1961.0,191,0,54,Europe
 2020-08-16,Azerbaijan,34219,506.0,31875,1838.0,112,0,178,Europe
 2020-08-16,Bahamas,1315,18.0,189,1108.0,63,1,29,Americas
@@ -42649,7 +42649,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-17,Argentina,299126,5814.0,217850,75462.0,4557,111,6148,Americas
 2020-08-17,Armenia,41701,824.0,34655,6222.0,38,6,71,Europe
 2020-08-17,Aruba (NL),1121,4.0,212,905.0,19,0,12,Americas
-2020-08-17,Australia,23773,438.0,14536,8799.0,215,17,453,Western Pacific
+2020-08-17,Australia,23773,438.0,14538,8797.0,215,17,453,Western Pacific
 2020-08-17,Austria,23534,729.0,20765,2040.0,164,1,84,Europe
 2020-08-17,Azerbaijan,34343,508.0,32042,1793.0,124,2,167,Europe
 2020-08-17,Bahamas,1329,19.0,191,1119.0,14,1,2,Americas
@@ -42854,7 +42854,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-18,Argentina,305966,6048.0,223531,76387.0,6840,234,5681,Americas
 2020-08-18,Armenia,41846,832.0,34982,6032.0,145,8,327,Europe
 2020-08-18,Aruba (NL),1205,4.0,277,924.0,84,0,65,Americas
-2020-08-18,Australia,23989,450.0,14927,8612.0,216,12,391,Western Pacific
+2020-08-18,Australia,23989,450.0,14929,8610.0,216,12,391,Western Pacific
 2020-08-18,Austria,23829,729.0,20870,2230.0,295,0,105,Europe
 2020-08-18,Azerbaijan,34474,509.0,32201,1764.0,131,1,159,Europe
 2020-08-18,Bahamas,1424,20.0,203,1201.0,95,1,12,Americas
@@ -43059,7 +43059,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-19,Argentina,312659,6330.0,228725,77604.0,6693,282,5194,Americas
 2020-08-19,Armenia,42056,833.0,35226,5997.0,210,1,244,Europe
 2020-08-19,Aruba (NL),1296,5.0,277,1014.0,91,1,0,Americas
-2020-08-19,Australia,24236,463.0,15247,8526.0,247,13,320,Western Pacific
+2020-08-19,Australia,24236,463.0,15249,8524.0,247,13,320,Western Pacific
 2020-08-19,Austria,24084,729.0,20958,2397.0,255,0,88,Europe
 2020-08-19,Azerbaijan,34620,510.0,32363,1747.0,146,1,162,Europe
 2020-08-19,Bahamas,1531,22.0,209,1300.0,107,2,6,Americas
@@ -43264,7 +43264,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-20,Argentina,320884,6517.0,233651,80716.0,8225,187,4926,Americas
 2020-08-20,Armenia,42319,836.0,35476,6007.0,263,3,250,Europe
 2020-08-20,Aruba (NL),1387,6.0,277,1104.0,91,1,0,Americas
-2020-08-20,Australia,24407,472.0,17852,6083.0,171,9,2605,Western Pacific
+2020-08-20,Australia,24407,472.0,17854,6081.0,171,9,2605,Western Pacific
 2020-08-20,Austria,24431,729.0,21093,2609.0,347,0,135,Europe
 2020-08-20,Azerbaijan,34759,510.0,32511,1738.0,139,0,148,Europe
 2020-08-20,Bahamas,1610,23.0,211,1376.0,79,1,2,Americas
@@ -43469,7 +43469,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-21,Argentina,329043,6730.0,239806,82507.0,8159,213,6155,Americas
 2020-08-21,Armenia,42477,842.0,35693,5942.0,158,6,217,Europe
 2020-08-21,Aruba (NL),1464,6.0,415,1043.0,77,0,138,Americas
-2020-08-21,Australia,24602,485.0,18458,5659.0,195,13,606,Western Pacific
+2020-08-21,Australia,24602,485.0,18460,5657.0,195,13,606,Western Pacific
 2020-08-21,Austria,24762,730.0,21260,2772.0,331,1,167,Europe
 2020-08-21,Azerbaijan,34921,512.0,32682,1727.0,162,2,171,Europe
 2020-08-21,Bahamas,1703,27.0,221,1455.0,93,4,10,Americas
@@ -43674,7 +43674,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-22,Argentina,336802,6848.0,245781,84173.0,7759,118,5975,Americas
 2020-08-22,Armenia,42616,850.0,35907,5859.0,139,8,214,Europe
 2020-08-22,Aruba (NL),1534,7.0,446,1081.0,70,1,31,Americas
-2020-08-22,Australia,24811,502.0,18758,5551.0,209,17,300,Western Pacific
+2020-08-22,Australia,24811,502.0,18760,5549.0,209,17,300,Western Pacific
 2020-08-22,Austria,25062,732.0,21406,2924.0,300,2,146,Europe
 2020-08-22,Azerbaijan,35105,515.0,32842,1748.0,184,3,160,Europe
 2020-08-22,Bahamas,1765,27.0,227,1511.0,62,0,6,Americas
@@ -43879,7 +43879,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-23,Argentina,342154,6985.0,251400,83769.0,5352,137,5619,Americas
 2020-08-23,Armenia,42792,852.0,35991,5949.0,176,2,84,Europe
 2020-08-23,Aruba (NL),1568,7.0,455,1106.0,34,0,9,Americas
-2020-08-23,Australia,24915,517.0,19231,5167.0,104,15,473,Western Pacific
+2020-08-23,Australia,24915,517.0,19233,5165.0,104,15,473,Western Pacific
 2020-08-23,Austria,25253,732.0,21558,2963.0,191,0,152,Europe
 2020-08-23,Azerbaijan,35274,518.0,32993,1763.0,169,3,151,Europe
 2020-08-23,Bahamas,1784,29.0,634,1121.0,19,2,407,Americas
@@ -44084,7 +44084,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-24,Argentina,350867,7366.0,256789,86712.0,8713,381,5389,Americas
 2020-08-24,Armenia,42825,854.0,36049,5922.0,33,2,58,Europe
 2020-08-24,Aruba (NL),1628,7.0,461,1160.0,60,0,6,Americas
-2020-08-24,Australia,25053,525.0,19601,4927.0,138,8,370,Western Pacific
+2020-08-24,Australia,25053,525.0,19603,4925.0,138,8,370,Western Pacific
 2020-08-24,Austria,25495,733.0,21657,3105.0,242,1,99,Europe
 2020-08-24,Azerbaijan,35426,519.0,33104,1803.0,152,1,111,Europe
 2020-08-24,Bahamas,1798,44.0,634,1120.0,14,15,0,Americas
@@ -44289,7 +44289,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-25,Argentina,359638,7563.0,263202,88873.0,8771,197,6413,Americas
 2020-08-25,Armenia,42936,858.0,36475,5603.0,111,4,426,Europe
 2020-08-25,Aruba (NL),1670,8.0,565,1097.0,42,1,104,Americas
-2020-08-25,Australia,25204,549.0,20098,4557.0,151,24,497,Western Pacific
+2020-08-25,Australia,25204,549.0,20100,4555.0,151,24,497,Western Pacific
 2020-08-25,Austria,25706,733.0,21888,3085.0,211,0,231,Europe
 2020-08-25,Azerbaijan,35559,521.0,33190,1848.0,133,2,86,Europe
 2020-08-25,Bahamas,1813,46.0,634,1133.0,15,2,0,Americas
@@ -44494,7 +44494,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-26,Argentina,370188,7839.0,268801,93548.0,10550,276,5599,Americas
 2020-08-26,Armenia,43067,861.0,36726,5480.0,131,3,251,Europe
 2020-08-26,Aruba (NL),1760,8.0,587,1165.0,90,0,22,Americas
-2020-08-26,Australia,25322,572.0,20099,4651.0,118,23,1,Western Pacific
+2020-08-26,Australia,25322,572.0,20101,4649.0,118,23,1,Western Pacific
 2020-08-26,Austria,26033,733.0,22145,3155.0,327,0,257,Europe
 2020-08-26,Azerbaijan,35707,522.0,33281,1904.0,148,1,91,Europe
 2020-08-26,Bahamas,1923,48.0,733,1142.0,110,2,99,Americas
@@ -44699,7 +44699,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-27,Argentina,380292,8050.0,274458,97784.0,10104,211,5657,Americas
 2020-08-27,Armenia,43270,864.0,36988,5418.0,203,3,262,Europe
 2020-08-27,Aruba (NL),1848,8.0,608,1232.0,88,0,21,Americas
-2020-08-27,Australia,25448,583.0,20365,4500.0,126,11,266,Western Pacific
+2020-08-27,Australia,25448,583.0,20367,4498.0,126,11,266,Western Pacific
 2020-08-27,Austria,26361,733.0,22317,3311.0,328,0,172,Europe
 2020-08-27,Azerbaijan,35844,524.0,33364,1956.0,137,2,83,Europe
 2020-08-27,Bahamas,2020,48.0,742,1230.0,97,0,9,Americas
@@ -44904,7 +44904,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-28,Argentina,392009,8271.0,280165,103573.0,11717,221,5707,Americas
 2020-08-28,Armenia,43451,869.0,37264,5318.0,181,5,276,Europe
 2020-08-28,Aruba (NL),1906,9.0,743,1154.0,58,1,135,Americas
-2020-08-28,Australia,25547,600.0,20631,4316.0,99,17,266,Western Pacific
+2020-08-28,Australia,25547,600.0,20633,4314.0,99,17,266,Western Pacific
 2020-08-28,Austria,26590,733.0,22594,3263.0,229,0,277,Europe
 2020-08-28,Azerbaijan,35986,527.0,33461,1998.0,142,3,97,Europe
 2020-08-28,Bahamas,2057,50.0,755,1252.0,37,2,13,Americas
@@ -45109,7 +45109,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-29,Argentina,401239,8353.0,287220,105666.0,9230,82,7055,Americas
 2020-08-29,Armenia,43626,872.0,37563,5191.0,175,3,299,Europe
 2020-08-29,Aruba (NL),1975,10.0,765,1200.0,69,1,22,Americas
-2020-08-29,Australia,25670,611.0,20858,4201.0,123,11,227,Western Pacific
+2020-08-29,Australia,25670,611.0,20860,4199.0,123,11,227,Western Pacific
 2020-08-29,Austria,26985,733.0,22866,3386.0,395,0,272,Europe
 2020-08-29,Azerbaijan,36174,529.0,33576,2069.0,188,2,115,Europe
 2020-08-29,Bahamas,2135,50.0,782,1303.0,78,0,27,Americas
@@ -45314,7 +45314,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-30,Argentina,408426,8457.0,294007,105962.0,7187,104,6787,Americas
 2020-08-30,Armenia,43750,877.0,37650,5223.0,124,5,87,Europe
 2020-08-30,Aruba (NL),1997,10.0,765,1222.0,22,0,0,Americas
-2020-08-30,Australia,25746,652.0,21114,3980.0,76,41,256,Western Pacific
+2020-08-30,Australia,25746,652.0,21116,3978.0,76,41,256,Western Pacific
 2020-08-30,Austria,27166,733.0,23070,3363.0,181,0,204,Europe
 2020-08-30,Azerbaijan,36309,531.0,33703,2075.0,135,2,127,Europe
 2020-08-30,Bahamas,2167,50.0,782,1335.0,32,0,0,Americas
@@ -45519,7 +45519,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-31,Argentina,417735,8660.0,301195,107880.0,9309,203,7188,Americas
 2020-08-31,Armenia,43781,879.0,37722,5180.0,31,2,72,Europe
 2020-08-31,Aruba (NL),2006,10.0,768,1228.0,9,0,3,Americas
-2020-08-31,Australia,25819,657.0,21348,3814.0,73,5,234,Western Pacific
+2020-08-31,Australia,25819,657.0,21350,3812.0,73,5,234,Western Pacific
 2020-08-31,Austria,27438,733.0,23226,3479.0,272,0,156,Europe
 2020-08-31,Azerbaijan,36435,534.0,33847,2054.0,126,3,144,Europe
 2020-08-31,Bahamas,2217,50.0,801,1366.0,50,0,19,Americas
@@ -45724,7 +45724,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-01,Argentina,428239,8919.0,308376,110944.0,10504,259,7181,Americas
 2020-09-01,Armenia,43878,881.0,38356,4641.0,97,2,634,Europe
 2020-09-01,Aruba (NL),2104,10.0,857,1237.0,98,0,89,Americas
-2020-09-01,Australia,25923,663.0,21687,3573.0,104,6,339,Western Pacific
+2020-09-01,Australia,25923,663.0,21689,3571.0,104,6,339,Western Pacific
 2020-09-01,Austria,27642,734.0,23565,3343.0,204,1,339,Europe
 2020-09-01,Azerbaijan,36578,536.0,33977,2065.0,143,2,130,Europe
 2020-09-01,Bahamas,2276,50.0,801,1425.0,59,0,0,Americas
@@ -45929,7 +45929,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-02,Argentina,439172,9118.0,315530,114524.0,10933,199,7154,Americas
 2020-09-02,Armenia,44075,884.0,38631,4560.0,197,3,275,Europe
 2020-09-02,Aruba (NL),2211,12.0,934,1265.0,107,2,77,Americas
-2020-09-02,Australia,26049,678.0,21690,3681.0,126,15,3,Western Pacific
+2020-09-02,Australia,26049,678.0,21692,3679.0,126,15,3,Western Pacific
 2020-09-02,Austria,27969,734.0,23820,3415.0,327,0,255,Europe
 2020-09-02,Azerbaijan,36732,538.0,34116,2078.0,154,2,139,Europe
 2020-09-02,Bahamas,2337,50.0,849,1438.0,61,0,48,Americas
@@ -46134,7 +46134,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-03,Argentina,451198,9361.0,322461,119376.0,12026,243,6931,Americas
 2020-09-03,Armenia,44271,887.0,38855,4529.0,196,3,224,Europe
 2020-09-03,Aruba (NL),2292,13.0,1031,1248.0,81,1,97,Americas
-2020-09-03,Australia,26136,737.0,21912,3487.0,87,59,222,Western Pacific
+2020-09-03,Australia,26136,737.0,21914,3485.0,87,59,222,Western Pacific
 2020-09-03,Austria,28372,735.0,24171,3466.0,403,1,351,Europe
 2020-09-03,Azerbaijan,36899,541.0,34264,2094.0,167,3,148,Europe
 2020-09-03,Bahamas,2386,50.0,893,1443.0,49,0,44,Americas
@@ -46339,7 +46339,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-04,Argentina,461882,9623.0,331621,120638.0,10684,262,9160,Americas
 2020-09-04,Armenia,44461,891.0,39257,4313.0,190,4,402,Europe
 2020-09-04,Aruba (NL),2358,13.0,1119,1226.0,66,0,88,Americas
-2020-09-04,Australia,26207,748.0,22170,3289.0,71,11,258,Western Pacific
+2020-09-04,Australia,26207,748.0,22172,3287.0,71,11,258,Western Pacific
 2020-09-04,Austria,28729,735.0,24513,3481.0,357,0,342,Europe
 2020-09-04,Azerbaijan,37031,543.0,34419,2069.0,132,2,155,Europe
 2020-09-04,Bahamas,2386,50.0,893,1443.0,0,0,0,Americas
@@ -46544,7 +46544,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-05,Argentina,471806,9739.0,340381,121686.0,9924,116,8760,Americas
 2020-09-05,Armenia,44649,895.0,39823,3931.0,188,4,566,Europe
 2020-09-05,Aruba (NL),2428,14.0,1206,1208.0,70,1,87,Americas
-2020-09-05,Australia,26278,753.0,22328,3197.0,71,5,158,Western Pacific
+2020-09-05,Australia,26278,753.0,22330,3195.0,71,5,158,Western Pacific
 2020-09-05,Austria,29087,735.0,24828,3524.0,358,0,315,Europe
 2020-09-05,Azerbaijan,37192,545.0,34565,2082.0,161,2,146,Europe
 2020-09-05,Bahamas,2476,55.0,948,1473.0,90,5,55,Americas
@@ -46749,7 +46749,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-06,Argentina,478792,9859.0,349132,119801.0,6986,120,8751,Americas
 2020-09-06,Armenia,44783,897.0,40089,3797.0,134,2,266,Europe
 2020-09-06,Aruba (NL),2449,14.0,1206,1229.0,21,0,0,Americas
-2020-09-06,Australia,26321,762.0,22465,3094.0,43,9,137,Western Pacific
+2020-09-06,Australia,26321,762.0,22467,3092.0,43,9,137,Western Pacific
 2020-09-06,Austria,29271,736.0,25043,3492.0,184,1,215,Europe
 2020-09-06,Azerbaijan,37329,548.0,34705,2076.0,137,3,140,Europe
 2020-09-06,Bahamas,2506,56.0,948,1502.0,30,1,0,Americas
@@ -46954,7 +46954,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-07,Argentina,488007,10129.0,357388,120490.0,9215,270,8256,Americas
 2020-09-07,Armenia,44845,900.0,40121,3824.0,62,3,32,Europe
 2020-09-07,Aruba (NL),2482,15.0,1244,1223.0,33,1,38,Americas
-2020-09-07,Australia,26373,770.0,22602,3001.0,52,8,137,Western Pacific
+2020-09-07,Australia,26373,770.0,22604,2999.0,52,8,137,Western Pacific
 2020-09-07,Austria,29561,746.0,25300,3515.0,290,10,257,Europe
 2020-09-07,Azerbaijan,37418,551.0,34837,2030.0,89,3,132,Europe
 2020-09-07,Bahamas,2546,58.0,976,1512.0,40,2,28,Americas
@@ -47159,7 +47159,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-08,Argentina,500034,10405.0,366590,123039.0,12027,276,9202,Americas
 2020-09-08,Armenia,44953,903.0,40592,3458.0,108,3,471,Europe
 2020-09-08,Aruba (NL),2589,15.0,1293,1281.0,107,0,49,Americas
-2020-09-08,Australia,26465,781.0,22723,2961.0,92,11,121,Western Pacific
+2020-09-08,Australia,26465,781.0,22725,2959.0,92,11,121,Western Pacific
 2020-09-08,Austria,30081,747.0,25629,3705.0,520,1,329,Europe
 2020-09-08,Azerbaijan,37557,552.0,34965,2040.0,139,1,128,Europe
 2020-09-08,Bahamas,2585,59.0,976,1550.0,39,1,0,Americas
@@ -47364,7 +47364,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-09,Argentina,512293,10658.0,382490,119145.0,12259,253,15900,Americas
 2020-09-09,Armenia,45152,905.0,41023,3224.0,199,2,431,Europe
 2020-09-09,Aruba (NL),2730,15.0,1351,1364.0,141,0,58,Americas
-2020-09-09,Australia,26524,788.0,22861,2875.0,59,7,138,Western Pacific
+2020-09-09,Australia,26524,788.0,22863,2873.0,59,7,138,Western Pacific
 2020-09-09,Austria,30583,747.0,25764,4072.0,502,0,135,Europe
 2020-09-09,Azerbaijan,37732,555.0,35119,2058.0,175,3,154,Europe
 2020-09-09,Bahamas,2721,63.0,1183,1475.0,136,4,207,Americas
@@ -47569,7 +47569,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-10,Argentina,524198,10907.0,390098,123193.0,11905,249,7608,Americas
 2020-09-10,Armenia,45326,906.0,41233,3187.0,174,1,210,Europe
 2020-09-10,Aruba (NL),2819,16.0,1407,1396.0,89,1,56,Americas
-2020-09-10,Australia,26564,797.0,23037,2730.0,40,9,176,Western Pacific
+2020-09-10,Australia,26564,797.0,23039,2728.0,40,9,176,Western Pacific
 2020-09-10,Austria,31247,748.0,26043,4456.0,664,1,279,Europe
 2020-09-10,Azerbaijan,37874,556.0,35269,2049.0,142,1,150,Europe
 2020-09-10,Bahamas,2721,63.0,1183,1475.0,0,0,0,Americas
@@ -47774,7 +47774,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-11,Argentina,535705,11148.0,400121,124436.0,11507,241,10023,Americas
 2020-09-11,Armenia,45503,909.0,41434,3160.0,177,3,201,Europe
 2020-09-11,Aruba (NL),2898,18.0,1451,1429.0,79,2,44,Americas
-2020-09-11,Australia,26607,803.0,23327,2477.0,43,6,290,Western Pacific
+2020-09-11,Australia,26607,803.0,23329,2475.0,43,6,290,Western Pacific
 2020-09-11,Austria,31827,750.0,26257,4820.0,580,2,214,Europe
 2020-09-11,Azerbaijan,38037,557.0,35440,2040.0,163,1,171,Europe
 2020-09-11,Bahamas,2814,65.0,1220,1529.0,93,2,37,Americas
@@ -47979,7 +47979,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-12,Argentina,546481,11263.0,409771,125447.0,10776,115,9650,Americas
 2020-09-12,Armenia,45675,911.0,41605,3159.0,172,2,171,Europe
 2020-09-12,Aruba (NL),2994,18.0,1542,1434.0,96,0,91,Americas
-2020-09-12,Australia,26651,810.0,23338,2503.0,44,7,11,Western Pacific
+2020-09-12,Australia,26651,810.0,23340,2501.0,44,7,11,Western Pacific
 2020-09-12,Austria,32696,754.0,26579,5363.0,869,4,322,Europe
 2020-09-12,Azerbaijan,38172,559.0,35607,2006.0,135,2,167,Europe
 2020-09-12,Bahamas,2928,67.0,1319,1542.0,114,2,99,Americas
@@ -48184,7 +48184,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-13,Argentina,555537,11352.0,419513,124672.0,9056,89,9742,Americas
 2020-09-13,Armenia,45862,916.0,41659,3287.0,187,5,54,Europe
 2020-09-13,Aruba (NL),3046,18.0,1542,1486.0,52,0,0,Americas
-2020-09-13,Australia,26692,816.0,23463,2413.0,41,6,125,Western Pacific
+2020-09-13,Australia,26692,816.0,23465,2411.0,41,6,125,Western Pacific
 2020-09-13,Austria,33159,756.0,26760,5643.0,463,2,181,Europe
 2020-09-13,Azerbaijan,38327,562.0,35756,2009.0,155,3,149,Europe
 2020-09-13,Bahamas,2928,67.0,1319,1542.0,0,0,0,Americas
@@ -48389,7 +48389,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-14,Argentina,565446,11667.0,428953,124826.0,9909,315,9440,Americas
 2020-09-14,Armenia,45969,919.0,41693,3357.0,107,3,34,Europe
 2020-09-14,Aruba (NL),3060,20.0,1566,1474.0,14,2,24,Americas
-2020-09-14,Australia,26739,816.0,23577,2346.0,47,0,114,Western Pacific
+2020-09-14,Australia,26739,816.0,23579,2344.0,47,0,114,Western Pacific
 2020-09-14,Austria,33541,757.0,27010,5774.0,382,1,250,Europe
 2020-09-14,Azerbaijan,38403,564.0,35860,1979.0,76,2,104,Europe
 2020-09-14,Bahamas,3008,68.0,1391,1549.0,80,1,72,Americas
@@ -48594,7 +48594,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-15,Argentina,577338,11852.0,438883,126603.0,11892,185,9930,Americas
 2020-09-15,Armenia,46119,920.0,41941,3258.0,150,1,248,Europe
 2020-09-15,Aruba (NL),3152,22.0,1610,1520.0,92,2,44,Americas
-2020-09-15,Australia,26778,824.0,23650,2304.0,39,8,73,Western Pacific
+2020-09-15,Australia,26778,824.0,23652,2302.0,39,8,73,Western Pacific
 2020-09-15,Austria,34305,757.0,27354,6194.0,764,0,344,Europe
 2020-09-15,Azerbaijan,38517,566.0,35998,1953.0,114,2,138,Europe
 2020-09-15,Bahamas,3032,69.0,1482,1481.0,24,1,91,Americas
@@ -48799,7 +48799,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-16,Argentina,589012,12116.0,448263,128633.0,11674,264,9380,Americas
 2020-09-16,Armenia,46376,923.0,42069,3384.0,257,3,128,Europe
 2020-09-16,Aruba (NL),3328,22.0,1676,1630.0,176,0,66,Americas
-2020-09-16,Australia,26813,832.0,23790,2191.0,35,8,140,Western Pacific
+2020-09-16,Australia,26813,832.0,23792,2189.0,35,8,140,Western Pacific
 2020-09-16,Austria,35073,758.0,27655,6660.0,768,1,301,Europe
 2020-09-16,Azerbaijan,38658,569.0,36149,1940.0,141,3,151,Europe
 2020-09-16,Bahamas,3087,69.0,1533,1485.0,55,0,51,Americas
@@ -49004,7 +49004,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-17,Argentina,601713,12460.0,456347,132906.0,12701,344,8084,Americas
 2020-09-17,Armenia,46671,925.0,42231,3515.0,295,2,162,Europe
 2020-09-17,Aruba (NL),3382,23.0,1742,1617.0,54,1,66,Americas
-2020-09-17,Australia,26861,837.0,23852,2172.0,48,5,62,Western Pacific
+2020-09-17,Australia,26861,837.0,23854,2170.0,48,5,62,Western Pacific
 2020-09-17,Austria,35853,758.0,28044,7051.0,780,0,389,Europe
 2020-09-17,Azerbaijan,38777,571.0,36289,1917.0,119,2,140,Europe
 2020-09-17,Bahamas,3177,69.0,1626,1482.0,90,0,93,Americas
@@ -49209,7 +49209,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-18,Argentina,613658,12656.0,467286,133716.0,11945,196,10939,Americas
 2020-09-18,Armenia,46910,926.0,42369,3615.0,239,1,138,Europe
 2020-09-18,Aruba (NL),3460,23.0,2128,1309.0,78,0,386,Americas
-2020-09-18,Australia,26885,844.0,23859,2182.0,24,7,7,Western Pacific
+2020-09-18,Australia,26885,844.0,23861,2180.0,24,7,7,Western Pacific
 2020-09-18,Austria,36661,763.0,28451,7447.0,808,5,407,Europe
 2020-09-18,Azerbaijan,38894,572.0,36424,1898.0,117,1,135,Europe
 2020-09-18,Bahamas,3177,69.0,1626,1482.0,0,0,0,Americas
@@ -49414,7 +49414,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-19,Argentina,622934,12799.0,478077,132058.0,9276,143,10791,Americas
 2020-09-19,Armenia,47154,928.0,42551,3675.0,244,2,182,Europe
 2020-09-19,Aruba (NL),3460,23.0,2128,1309.0,0,0,0,Americas
-2020-09-19,Australia,26898,849.0,23966,2083.0,13,5,107,Western Pacific
+2020-09-19,Australia,26898,849.0,23968,2081.0,13,5,107,Western Pacific
 2020-09-19,Austria,37474,765.0,28961,7748.0,813,2,510,Europe
 2020-09-19,Azerbaijan,39042,574.0,36601,1867.0,148,2,177,Europe
 2020-09-19,Bahamas,3214,73.0,1679,1462.0,37,4,53,Americas
@@ -49619,7 +49619,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-20,Argentina,631365,13053.0,488231,130081.0,8431,254,10154,Americas
 2020-09-20,Armenia,47431,930.0,42608,3893.0,277,2,57,Europe
 2020-09-20,Aruba (NL),3551,23.0,2239,1289.0,91,0,111,Americas
-2020-09-20,Australia,26912,851.0,24061,2000.0,14,2,95,Western Pacific
+2020-09-20,Australia,26912,851.0,24063,1998.0,14,2,95,Western Pacific
 2020-09-20,Austria,38095,766.0,29229,8100.0,621,1,268,Europe
 2020-09-20,Azerbaijan,39188,575.0,36755,1858.0,146,1,154,Europe
 2020-09-20,Bahamas,3315,74.0,1689,1552.0,101,1,10,Americas
@@ -49824,7 +49824,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-21,Argentina,640147,13482.0,508563,118102.0,8782,429,20332,Americas
 2020-09-21,Armenia,47552,936.0,42637,3979.0,121,6,29,Europe
 2020-09-21,Aruba (NL),3587,24.0,2369,1194.0,36,1,130,Americas
-2020-09-21,Australia,26942,854.0,24155,1933.0,30,3,94,Western Pacific
+2020-09-21,Australia,26942,854.0,24157,1931.0,30,3,94,Western Pacific
 2020-09-21,Austria,38658,767.0,29516,8375.0,563,1,287,Europe
 2020-09-21,Azerbaijan,39280,576.0,36836,1868.0,92,1,81,Europe
 2020-09-21,Bahamas,3418,75.0,1771,1572.0,103,1,82,Americas
@@ -50029,7 +50029,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-22,Argentina,652174,13952.0,517228,120994.0,12027,470,8665,Americas
 2020-09-22,Armenia,47667,938.0,42676,4053.0,115,2,39,Europe
 2020-09-22,Aruba (NL),3665,25.0,2426,1214.0,78,1,57,Americas
-2020-09-22,Australia,26972,859.0,24329,1784.0,30,5,174,Western Pacific
+2020-09-22,Australia,26972,859.0,24331,1782.0,30,5,174,Western Pacific
 2020-09-22,Austria,39303,771.0,30312,8220.0,645,4,796,Europe
 2020-09-22,Azerbaijan,39378,578.0,36949,1851.0,98,2,113,Europe
 2020-09-22,Bahamas,3467,77.0,1871,1519.0,49,2,100,Americas
@@ -50234,7 +50234,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-23,Argentina,664799,14376.0,525486,124937.0,12625,424,8258,Americas
 2020-09-23,Armenia,47877,942.0,43026,3909.0,210,4,350,Europe
 2020-09-23,Aruba (NL),3721,25.0,2501,1195.0,56,0,75,Americas
-2020-09-23,Australia,26980,861.0,24446,1673.0,8,2,117,Western Pacific
+2020-09-23,Australia,26980,861.0,24448,1671.0,8,2,117,Western Pacific
 2020-09-23,Austria,39984,777.0,30949,8258.0,681,6,637,Europe
 2020-09-23,Azerbaijan,39524,580.0,37122,1822.0,146,2,173,Europe
 2020-09-23,Bahamas,3618,80.0,1915,1623.0,151,3,44,Americas
@@ -50439,7 +50439,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-24,Argentina,678266,14766.0,536589,126911.0,13467,390,11103,Americas
 2020-09-24,Armenia,48251,945.0,43266,4040.0,374,3,240,Europe
 2020-09-24,Aruba (NL),3756,25.0,2664,1067.0,35,0,163,Americas
-2020-09-24,Australia,27000,869.0,24521,1610.0,20,8,75,Western Pacific
+2020-09-24,Australia,27000,869.0,24523,1608.0,20,8,75,Western Pacific
 2020-09-24,Austria,40816,783.0,31661,8372.0,832,6,712,Europe
 2020-09-24,Azerbaijan,39686,581.0,37255,1850.0,162,1,133,Europe
 2020-09-24,Bahamas,3699,86.0,1962,1651.0,81,6,47,Americas
@@ -50644,7 +50644,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-25,Argentina,691235,15208.0,546924,129103.0,12969,442,10335,Americas
 2020-09-25,Armenia,48643,947.0,43401,4295.0,392,2,135,Europe
 2020-09-25,Aruba (NL),3799,25.0,2753,1021.0,43,0,89,Americas
-2020-09-25,Australia,27016,870.0,24521,1625.0,16,1,0,Western Pacific
+2020-09-25,Australia,27016,870.0,24523,1623.0,16,1,0,Western Pacific
 2020-09-25,Austria,41500,786.0,32301,8413.0,684,3,640,Europe
 2020-09-25,Azerbaijan,39787,583.0,37392,1812.0,101,2,137,Europe
 2020-09-25,Bahamas,3790,89.0,1999,1702.0,91,3,37,Americas
@@ -50849,7 +50849,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-26,Argentina,702484,15543.0,556489,130452.0,11249,335,9565,Americas
 2020-09-26,Armenia,49072,948.0,43576,4548.0,429,1,175,Europe
 2020-09-26,Aruba (NL),3832,25.0,2829,978.0,33,0,76,Americas
-2020-09-26,Australia,27040,872.0,24571,1597.0,24,2,50,Western Pacific
+2020-09-26,Australia,27040,872.0,24573,1595.0,24,2,50,Western Pacific
 2020-09-26,Austria,42214,787.0,33154,8273.0,714,1,853,Europe
 2020-09-26,Azerbaijan,39895,585.0,37523,1787.0,108,2,131,Europe
 2020-09-26,Bahamas,3790,89.0,1999,1702.0,0,0,0,Americas
@@ -51054,7 +51054,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-27,Argentina,711325,15749.0,565935,129641.0,8841,206,9446,Americas
 2020-09-27,Armenia,49400,951.0,43613,4836.0,328,3,37,Europe
 2020-09-27,Aruba (NL),3844,25.0,2948,871.0,12,0,119,Americas
-2020-09-27,Australia,27044,875.0,24631,1538.0,4,3,60,Western Pacific
+2020-09-27,Australia,27044,875.0,24633,1536.0,4,3,60,Western Pacific
 2020-09-27,Austria,42876,787.0,33589,8500.0,662,0,435,Europe
 2020-09-27,Azerbaijan,40023,586.0,37655,1782.0,128,1,132,Europe
 2020-09-27,Bahamas,3838,89.0,2005,1744.0,48,0,6,Americas
@@ -51259,7 +51259,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-28,Argentina,723132,16113.0,576715,130304.0,11807,364,10780,Americas
 2020-09-28,Armenia,49574,957.0,43665,4952.0,174,6,52,Europe
 2020-09-28,Aruba (NL),3872,25.0,3037,810.0,28,0,89,Americas
-2020-09-28,Australia,27055,882.0,24679,1494.0,11,7,48,Western Pacific
+2020-09-28,Australia,27055,882.0,24681,1492.0,11,7,48,Western Pacific
 2020-09-28,Austria,43432,790.0,34052,8590.0,556,3,463,Europe
 2020-09-28,Azerbaijan,40061,588.0,37725,1748.0,38,2,70,Europe
 2020-09-28,Bahamas,3838,89.0,2005,1744.0,0,0,0,Americas
@@ -51464,7 +51464,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-29,Argentina,736609,16519.0,585857,134233.0,13477,406,9142,Americas
 2020-09-29,Armenia,49901,958.0,43849,5094.0,327,1,184,Europe
 2020-09-29,Aruba (NL),3934,26.0,3181,727.0,62,1,144,Americas
-2020-09-29,Australia,27078,886.0,24750,1442.0,23,4,71,Western Pacific
+2020-09-29,Australia,27078,886.0,24752,1440.0,23,4,71,Western Pacific
 2020-09-29,Austria,44041,796.0,34916,8329.0,609,6,864,Europe
 2020-09-29,Azerbaijan,40119,590.0,37827,1702.0,58,2,102,Europe
 2020-09-29,Bahamas,3903,91.0,2072,1740.0,65,2,67,Americas
@@ -51669,7 +51669,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-30,Argentina,751001,16937.0,594645,139419.0,14392,418,8788,Americas
 2020-09-30,Armenia,50359,959.0,44001,5399.0,458,1,152,Europe
 2020-09-30,Aruba (NL),3963,27.0,3259,677.0,29,1,78,Americas
-2020-09-30,Australia,27096,888.0,24782,1426.0,18,2,32,Western Pacific
+2020-09-30,Australia,27096,888.0,24784,1424.0,18,2,32,Western Pacific
 2020-09-30,Austria,44813,799.0,35644,8370.0,772,3,728,Europe
 2020-09-30,Azerbaijan,40229,591.0,37954,1684.0,110,1,127,Europe
 2020-09-30,Bahamas,4123,96.0,2206,1821.0,220,5,134,Americas
@@ -51874,7 +51874,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-01,Argentina,765002,20288.0,603140,141574.0,14001,3351,8495,Americas
 2020-10-01,Armenia,50850,963.0,44219,5668.0,491,4,218,Europe
 2020-10-01,Aruba (NL),3998,27.0,3327,644.0,35,0,68,Americas
-2020-10-01,Australia,27109,890.0,24786,1433.0,13,2,4,Western Pacific
+2020-10-01,Australia,27109,890.0,24788,1431.0,13,2,4,Western Pacific
 2020-10-01,Austria,45686,802.0,36476,8408.0,873,3,832,Europe
 2020-10-01,Azerbaijan,40309,593.0,38068,1648.0,80,2,114,Europe
 2020-10-01,Bahamas,4123,96.0,2206,1821.0,0,0,0,Americas
@@ -52079,7 +52079,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-02,Argentina,779689,20599.0,614515,144575.0,14687,311,11375,Americas
 2020-10-02,Armenia,51382,966.0,44406,6010.0,532,3,187,Europe
 2020-10-02,Aruba (NL),4038,30.0,3406,602.0,40,3,79,Americas
-2020-10-02,Australia,27121,893.0,24848,1380.0,12,3,62,Western Pacific
+2020-10-02,Australia,27121,893.0,24850,1378.0,12,3,62,Western Pacific
 2020-10-02,Austria,46374,803.0,37186,8385.0,688,1,710,Europe
 2020-10-02,Azerbaijan,40453,594.0,38217,1642.0,144,1,149,Europe
 2020-10-02,Bahamas,4220,96.0,2290,1834.0,97,0,84,Americas
@@ -52284,7 +52284,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-03,Argentina,790818,20795.0,626114,143909.0,11129,196,11599,Americas
 2020-10-03,Armenia,51925,972.0,44583,6370.0,543,6,177,Europe
 2020-10-03,Aruba (NL),4074,30.0,3474,570.0,36,0,68,Americas
-2020-10-03,Australia,27135,894.0,24864,1377.0,14,1,16,Western Pacific
+2020-10-03,Australia,27135,894.0,24866,1375.0,14,1,16,Western Pacific
 2020-10-03,Austria,47432,809.0,38045,8578.0,1058,6,859,Europe
 2020-10-03,Azerbaijan,40561,595.0,38354,1612.0,108,1,137,Europe
 2020-10-03,Bahamas,4332,96.0,2375,1861.0,112,0,85,Americas
@@ -52489,7 +52489,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-04,Argentina,798486,21018.0,636672,140796.0,7668,223,10558,Americas
 2020-10-04,Armenia,52496,977.0,44672,6847.0,571,5,89,Europe
 2020-10-04,Aruba (NL),4079,30.0,3532,517.0,5,0,58,Americas
-2020-10-04,Australia,27148,894.0,24888,1366.0,13,0,24,Western Pacific
+2020-10-04,Australia,27148,894.0,24890,1364.0,13,0,24,Western Pacific
 2020-10-04,Austria,48146,813.0,38629,8704.0,714,4,584,Europe
 2020-10-04,Azerbaijan,40691,596.0,38496,1599.0,130,1,142,Europe
 2020-10-04,Bahamas,4409,96.0,2375,1938.0,77,0,0,Americas
@@ -52694,7 +52694,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-05,Argentina,809728,21468.0,649017,139243.0,11242,450,12345,Americas
 2020-10-05,Armenia,52677,984.0,44710,6983.0,181,7,38,Europe
 2020-10-05,Aruba (NL),4094,31.0,3612,451.0,15,1,80,Americas
-2020-10-05,Australia,27173,895.0,24890,1388.0,25,1,2,Western Pacific
+2020-10-05,Australia,27173,895.0,24892,1386.0,25,1,2,Western Pacific
 2020-10-05,Austria,48896,818.0,39058,9020.0,750,5,429,Europe
 2020-10-05,Azerbaijan,40788,598.0,38587,1603.0,97,2,91,Europe
 2020-10-05,Bahamas,4452,96.0,2375,1981.0,43,0,0,Americas
@@ -52899,7 +52899,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-06,Argentina,824468,21827.0,660272,142369.0,14740,359,11255,Americas
 2020-10-06,Armenia,53083,990.0,44932,7161.0,406,6,222,Europe
 2020-10-06,Aruba (NL),4108,31.0,3643,434.0,14,0,31,Americas
-2020-10-06,Australia,27181,897.0,24915,1369.0,8,2,25,Western Pacific
+2020-10-06,Australia,27181,897.0,24917,1367.0,8,2,25,Western Pacific
 2020-10-06,Austria,49819,822.0,39790,9207.0,923,4,732,Europe
 2020-10-06,Azerbaijan,40931,600.0,38713,1618.0,143,2,126,Europe
 2020-10-06,Bahamas,4559,100.0,2475,1984.0,107,4,100,Americas
@@ -53104,7 +53104,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-07,Argentina,840915,22226.0,670725,147964.0,16447,399,10453,Americas
 2020-10-07,Armenia,53755,995.0,45110,7650.0,672,5,178,Europe
 2020-10-07,Aruba (NL),4133,31.0,3678,424.0,25,0,35,Americas
-2020-10-07,Australia,27206,897.0,24937,1372.0,25,0,22,Western Pacific
+2020-10-07,Australia,27206,897.0,24939,1370.0,25,0,22,Western Pacific
 2020-10-07,Austria,50848,830.0,40499,9519.0,1029,8,709,Europe
 2020-10-07,Azerbaijan,41113,602.0,38858,1653.0,182,2,145,Europe
 2020-10-07,Bahamas,4713,102.0,2607,2004.0,154,2,132,Americas
@@ -53309,7 +53309,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-08,Argentina,856369,22710.0,684844,148815.0,15454,484,14119,Americas
 2020-10-08,Armenia,54473,1004.0,45312,8157.0,718,9,202,Europe
 2020-10-08,Aruba (NL),4150,31.0,3718,401.0,17,0,40,Americas
-2020-10-08,Australia,27226,897.0,24969,1360.0,20,0,32,Western Pacific
+2020-10-08,Australia,27226,897.0,24971,1358.0,20,0,32,Western Pacific
 2020-10-08,Austria,52057,838.0,41289,9930.0,1209,8,790,Europe
 2020-10-08,Azerbaijan,41304,603.0,39012,1689.0,191,1,154,Europe
 2020-10-08,Bahamas,4713,102.0,2607,2004.0,0,0,0,Americas
