@@ -53734,7 +53734,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-10,Bolivia,138463,8292.0,100786,29385.0,237,30,439,Americas
 2020-10-10,Bosnia and Herzegovina,30345,927.0,23370,6048.0,428,1,129,Europe
 2020-10-10,Botswana,3219,18.0,834,2367.0,0,0,0,Africa
-2020-10-10,Brazil,5055888,149639.0,4502854,403395.0,0,0,0,Americas
+2020-10-10,Brazil,5082637,150198.0,4502854,429585.0,26749,559,0,Americas
 2020-10-10,British Virgin Islands (UK),71,1.0,70,0.0,0,0,0,Americas
 2020-10-10,Brunei,146,3.0,143,0.0,0,0,0,Western Pacific
 2020-10-10,Bulgaria,24319,891.0,15818,7610.0,448,4,105,Europe
@@ -53939,7 +53939,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-11,Bolivia,138574,8308.0,101103,29163.0,111,16,317,Americas
 2020-10-11,Bosnia and Herzegovina,30647,928.0,23461,6258.0,302,1,91,Europe
 2020-10-11,Botswana,3219,18.0,834,2367.0,0,0,0,Africa
-2020-10-11,Brazil,5094979,150488.0,4526393,418098.0,39091,849,23539,Americas
+2020-10-11,Brazil,5094979,150488.0,4526393,418098.0,12342,290,23539,Americas
 2020-10-11,British Virgin Islands (UK),71,1.0,70,0.0,0,0,0,Americas
 2020-10-11,Brunei,146,3.0,143,0.0,0,0,0,Western Pacific
 2020-10-11,Bulgaria,24402,892.0,15847,7663.0,83,1,29,Europe
