@@ -47420,7 +47420,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-08,Chad,1045,79.0,927,39.0,5,0,8,Africa
 2020-09-08,Chile,425541,11682.0,397730,16129.0,1267,30,2013,Americas
 2020-09-08,China,90087,4711.0,83323,2053.0,9,1,32,Western Pacific
-2020-09-08,Colombia,671533,21611.0,529017,120905.0,0,-4,-262,Americas
+2020-09-08,Colombia,679513,21817.0,541462,116234.0,7665,202,12183,Americas
 2020-09-08,Comoros,456,7.0,415,34.0,4,0,5,Africa
 2020-09-08,Congo (Brazzaville),4891,114.0,3887,890.0,0,12,0,Africa
 2020-09-08,Congo (Kinshasa),10292,260.0,9501,531.0,59,0,50,Africa
@@ -47626,7 +47626,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-09,Chad,1048,79.0,931,38.0,3,0,4,Africa
 2020-09-09,Chile,427027,11702.0,399555,15770.0,1486,20,1825,Americas
 2020-09-09,China,90100,4711.0,83348,2041.0,13,0,25,Western Pacific
-2020-09-09,Colombia,686851,22053.0,552885,111913.0,15318,442,23868,Americas
+2020-09-09,Colombia,686851,22053.0,552885,111913.0,7338,236,11423,Americas
 2020-09-09,Comoros,456,7.0,415,34.0,0,0,0,Africa
 2020-09-09,Congo (Brazzaville),4891,114.0,3887,890.0,0,0,0,Africa
 2020-09-09,Congo (Kinshasa),10324,260.0,9523,541.0,32,0,22,Africa
@@ -53672,7 +53672,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-08,Libya,40292,616.0,23130,16546.0,779,8,299,Eastern Mediterranean
 2020-10-08,Liechtenstein,135,1.0,117,17.0,4,0,1,Europe
 2020-10-08,Lithuania,5625,102.0,2660,2863.0,142,1,60,Europe
-2020-10-08,Luxembourg,9119,128.0,7900,1091.0,0,0,0,Europe
+2020-10-08,Luxembourg,9219,129.0,7900,1190.0,100,1,0,Europe
 2020-10-08,Madagascar,16654,0.0,15910,744.0,21,0,102,Africa
 2020-10-08,Malawi,5809,180.0,4626,1003.0,6,0,51,Africa
 2020-10-08,Malaysia,14368,0.0,10519,3849.0,375,0,18,Western Pacific
@@ -53878,7 +53878,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-09,Libya,41368,621.0,23453,17294.0,1076,5,323,Eastern Mediterranean
 2020-10-09,Liechtenstein,139,1.0,117,21.0,4,0,0,Europe
 2020-10-09,Lithuania,5758,103.0,2722,2933.0,133,1,62,Europe
-2020-10-09,Luxembourg,9119,128.0,7900,1091.0,0,0,0,Europe
+2020-10-09,Luxembourg,9360,130.0,7900,1330.0,141,1,0,Europe
 2020-10-09,Madagascar,16676,0.0,15975,701.0,22,0,65,Africa
 2020-10-09,Malawi,5813,180.0,4631,1002.0,4,0,5,Africa
 2020-10-09,Malaysia,14722,0.0,10707,4015.0,354,0,188,Western Pacific
@@ -54084,7 +54084,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-10,Libya,41686,623.0,23791,17272.0,318,2,338,Eastern Mediterranean
 2020-10-10,Liechtenstein,142,1.0,117,24.0,3,0,0,Europe
 2020-10-10,Lithuania,5963,103.0,2751,3109.0,205,0,29,Europe
-2020-10-10,Luxembourg,9119,128.0,7900,1091.0,0,0,0,Europe
+2020-10-10,Luxembourg,9514,131.0,7900,1483.0,154,1,0,Europe
 2020-10-10,Madagascar,16702,0.0,16012,690.0,26,0,37,Africa
 2020-10-10,Malawi,5821,180.0,4644,997.0,8,0,13,Africa
 2020-10-10,Malaysia,15096,0.0,10780,4316.0,374,0,73,Western Pacific
@@ -54290,7 +54290,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-11,Libya,42712,631.0,24038,18043.0,1026,8,247,Eastern Mediterranean
 2020-10-11,Liechtenstein,144,1.0,121,22.0,2,0,4,Europe
 2020-10-11,Lithuania,6122,103.0,2777,3242.0,159,0,26,Europe
-2020-10-11,Luxembourg,9119,128.0,7900,1091.0,0,0,0,Europe
+2020-10-11,Luxembourg,9722,132.0,7900,1690.0,208,1,0,Europe
 2020-10-11,Madagascar,16718,0.0,16042,676.0,16,0,30,Africa
 2020-10-11,Malawi,5821,180.0,4647,994.0,0,0,3,Africa
 2020-10-11,Malaysia,15657,0.0,10913,4744.0,561,0,133,Western Pacific
@@ -54496,7 +54496,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-12,Libya,43821,644.0,24466,18711.0,1109,13,428,Eastern Mediterranean
 2020-10-12,Liechtenstein,148,1.0,124,23.0,4,0,3,Europe
 2020-10-12,Lithuania,6248,103.0,2793,3352.0,126,0,16,Europe
-2020-10-12,Luxembourg,9119,128.0,7900,1091.0,0,0,0,Europe
+2020-10-12,Luxembourg,9731,133.0,7900,1698.0,9,1,0,Europe
 2020-10-12,Madagascar,16726,0.0,16081,645.0,8,0,39,Africa
 2020-10-12,Malawi,5824,180.0,4659,985.0,3,0,12,Africa
 2020-10-12,Malaysia,16220,0.0,11022,5198.0,563,0,109,Western Pacific
@@ -54702,7 +54702,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-13,Libya,44985,656.0,25007,19322.0,1164,12,541,Eastern Mediterranean
 2020-10-13,Liechtenstein,163,1.0,128,34.0,15,0,4,Europe
 2020-10-13,Lithuania,6366,106.0,2842,3418.0,118,3,49,Europe
-2020-10-13,Luxembourg,9119,128.0,7900,1091.0,0,0,0,Europe
+2020-10-13,Luxembourg,9840,133.0,7900,1807.0,109,0,0,Europe
 2020-10-13,Madagascar,16754,0.0,16124,630.0,28,0,43,Africa
 2020-10-13,Malawi,5827,181.0,4688,958.0,3,1,29,Africa
 2020-10-13,Malaysia,16880,0.0,11372,5508.0,660,0,350,Western Pacific
@@ -54908,7 +54908,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-14,Libya,45821,669.0,25301,19851.0,836,13,294,Eastern Mediterranean
 2020-10-14,Liechtenstein,174,1.0,131,42.0,11,0,3,Europe
 2020-10-14,Lithuania,6505,109.0,2903,3493.0,139,3,61,Europe
-2020-10-14,Luxembourg,9119,128.0,7900,1091.0,0,0,0,Europe
+2020-10-14,Luxembourg,10030,133.0,7900,1997.0,190,0,0,Europe
 2020-10-14,Madagascar,16754,0.0,16124,630.0,0,0,0,Africa
 2020-10-14,Malawi,5829,181.0,4723,925.0,2,0,35,Africa
 2020-10-14,Malaysia,17540,0.0,11605,5935.0,660,0,233,Western Pacific
