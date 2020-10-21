@@ -53661,7 +53661,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-08,Jordan,21517,144.0,5777,15596.0,1317,13,202,Eastern Mediterranean
 2020-10-08,Kazakhstan,108561,1746.0,103758,3057.0,107,0,154,Europe
 2020-10-08,Kenya,40178,751.0,31710,7717.0,271,3,51,Africa
-2020-10-08,Kosovo,15938,638.0,14143,1157.0,0,0,0,Europe
+2020-10-08,Kosovo,15971,638.0,14189,1144.0,33,0,46,Europe
 2020-10-08,Kuwait,109441,0.0,101314,8127.0,698,0,538,Eastern Mediterranean
 2020-10-08,Kyrgyzstan,48342,1073.0,43957,3312.0,245,4,159,Europe
 2020-10-08,Laos,23,0.0,22,1.0,0,0,0,Western Pacific
@@ -53867,7 +53867,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-09,Jordan,22763,166.0,5906,16691.0,1246,22,129,Eastern Mediterranean
 2020-10-09,Kazakhstan,108663,1746.0,103910,3007.0,102,0,152,Europe
 2020-10-09,Kenya,40620,755.0,31876,7989.0,442,4,166,Africa
-2020-10-09,Kosovo,15971,638.0,14189,1144.0,33,0,46,Europe
+2020-10-09,Kosovo,16050,641.0,14250,1159.0,79,3,61,Europe
 2020-10-09,Kuwait,110076,0.0,102024,8052.0,635,0,710,Eastern Mediterranean
 2020-10-09,Kyrgyzstan,48617,1077.0,44097,3443.0,275,4,140,Europe
 2020-10-09,Laos,23,0.0,22,1.0,0,0,0,Western Pacific
@@ -54073,7 +54073,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-10,Jordan,23998,181.0,6045,17772.0,1235,15,139,Eastern Mediterranean
 2020-10-10,Kazakhstan,108757,1746.0,103980,3031.0,94,0,70,Europe
 2020-10-10,Kenya,41158,760.0,31876,8522.0,538,5,0,Africa
-2020-10-10,Kosovo,16130,645.0,14282,1203.0,159,7,93,Europe
+2020-10-10,Kosovo,16130,645.0,14282,1203.0,80,4,32,Europe
 2020-10-10,Kuwait,110568,0.0,102722,7846.0,492,0,698,Eastern Mediterranean
 2020-10-10,Kyrgyzstan,48924,1082.0,44227,3615.0,307,5,130,Europe
 2020-10-10,Laos,23,0.0,22,1.0,0,0,0,Western Pacific
@@ -55515,7 +55515,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-17,Jordan,36053,330.0,6773,28950.0,1505,20,81,Eastern Mediterranean
 2020-10-17,Kazakhstan,109406,1768.0,105001,2637.0,104,0,80,Europe
 2020-10-17,Kenya,44196,825.0,31752,11619.0,616,12,104,Africa
-2020-10-17,Kosovo,16606,652.0,14556,1398.0,0,0,0,Europe
+2020-10-17,Kosovo,16754,652.0,14612,1490.0,148,0,56,Europe
 2020-10-17,Kuwait,115483,0.0,107108,8375.0,739,0,613,Eastern Mediterranean
 2020-10-17,Kyrgyzstan,51490,1108.0,45509,4873.0,470,5,221,Europe
 2020-10-17,Laos,23,0.0,22,1.0,0,0,0,Western Pacific
@@ -55721,7 +55721,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-18,Jordan,37573,345.0,6912,30316.0,1520,15,139,Eastern Mediterranean
 2020-10-18,Kazakhstan,109508,1768.0,105001,2739.0,102,0,0,Europe
 2020-10-18,Kenya,44881,832.0,31857,12192.0,685,7,105,Africa
-2020-10-18,Kosovo,16891,653.0,14661,1577.0,285,1,105,Europe
+2020-10-18,Kosovo,16891,653.0,14661,1577.0,137,1,49,Europe
 2020-10-18,Kuwait,116146,0.0,107860,8286.0,663,0,752,Eastern Mediterranean
 2020-10-18,Kyrgyzstan,52044,1111.0,45736,5197.0,554,3,227,Europe
 2020-10-18,Laos,23,0.0,22,1.0,0,0,0,Western Pacific
@@ -56133,7 +56133,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-20,Jordan,40972,414.0,7123,33435.0,2035,34,117,Eastern Mediterranean
 2020-10-20,Kazakhstan,109766,1796.0,105301,2669.0,143,28,156,Europe
 2020-10-20,Kenya,45647,842.0,32522,12283.0,571,3,438,Africa
-2020-10-20,Kosovo,17009,656.0,14711,1642.0,0,0,0,Europe
+2020-10-20,Kosovo,17139,657.0,14782,1700.0,130,1,71,Europe
 2020-10-20,Kuwait,117718,0.0,109198,8520.0,886,0,592,Eastern Mediterranean
 2020-10-20,Kyrgyzstan,52910,1113.0,46139,5658.0,384,2,276,Europe
 2020-10-20,Laos,23,0.0,22,1.0,0,0,0,Western Pacific
