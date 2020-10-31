@@ -40441,7 +40441,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-04,Germany,212828,9163,0,203665,717,9,0,Europe
 2020-08-04,Ghana,37812,191,34313,3308,0,0,0,Africa
 2020-08-04,Gibraltar (UK),189,0,183,6,1,0,0,Europe
-2020-08-04,Greece,4855,209,1374,3272,118,0,0,Europe
+2020-08-04,Greece,4855,209,3804,842,118,0,2430,Europe
 2020-08-04,Greenland (DK),14,0,13,1,0,0,0,Europe
 2020-08-04,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-04,Guadeloupe (FR),272,14,179,79,0,0,0,Americas
@@ -40648,7 +40648,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-05,Germany,214113,9179,0,204934,1285,16,0,Europe
 2020-08-05,Ghana,39075,199,35563,3313,1263,8,1250,Africa
 2020-08-05,Gibraltar (UK),189,0,183,6,0,0,0,Europe
-2020-08-05,Greece,4974,210,1374,3390,119,1,0,Europe
+2020-08-05,Greece,4974,210,3804,960,119,1,0,Europe
 2020-08-05,Greenland (DK),14,0,13,1,0,0,0,Europe
 2020-08-05,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-05,Guadeloupe (FR),279,14,179,86,7,0,0,Americas
@@ -40855,7 +40855,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-06,Germany,215039,9181,0,205858,926,2,0,Europe
 2020-08-06,Ghana,39642,199,36384,3059,567,0,821,Africa
 2020-08-06,Gibraltar (UK),190,0,184,6,1,0,1,Europe
-2020-08-06,Greece,5123,210,1374,3539,149,0,0,Europe
+2020-08-06,Greece,5123,210,3804,1109,149,0,0,Europe
 2020-08-06,Greenland (DK),14,0,14,0,0,0,1,Europe
 2020-08-06,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-06,Guadeloupe (FR),279,14,179,86,0,0,0,Americas
@@ -41062,7 +41062,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-07,Germany,216196,9195,0,207001,1157,14,0,Europe
 2020-08-07,Ghana,40097,206,36638,3253,455,7,254,Africa
 2020-08-07,Gibraltar (UK),190,0,184,6,0,0,0,Europe
-2020-08-07,Greece,5270,210,1374,3686,147,0,0,Europe
+2020-08-07,Greece,5270,210,3804,1256,147,0,0,Europe
 2020-08-07,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-07,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-07,Guadeloupe (FR),290,14,186,90,11,0,7,Americas
@@ -41269,7 +41269,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-08,Germany,216903,9201,0,207702,707,6,0,Europe
 2020-08-08,Ghana,40533,206,37702,2625,436,0,1064,Africa
 2020-08-08,Gibraltar (UK),197,0,184,13,7,0,0,Europe
-2020-08-08,Greece,5421,211,1374,3836,151,1,0,Europe
+2020-08-08,Greece,5421,211,3804,1406,151,1,0,Europe
 2020-08-08,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-08,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-08,Guadeloupe (FR),290,14,186,90,0,0,0,Americas
@@ -41476,7 +41476,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-09,Germany,217288,9202,0,208086,385,1,0,Europe
 2020-08-09,Ghana,41003,215,38330,2458,470,9,628,Africa
 2020-08-09,Gibraltar (UK),201,0,186,15,4,0,2,Europe
-2020-08-09,Greece,5623,212,1347,4064,202,1,-27,Europe
+2020-08-09,Greece,5623,212,3804,1607,202,1,0,Europe
 2020-08-09,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-09,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-09,Guadeloupe (FR),290,14,186,90,0,0,0,Americas
@@ -41683,7 +41683,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-10,Germany,218508,9203,0,209305,1220,1,0,Europe
 2020-08-10,Ghana,41212,215,38727,2270,209,0,397,Africa
 2020-08-10,Gibraltar (UK),201,0,186,15,0,0,0,Europe
-2020-08-10,Greece,5749,213,1347,4189,126,1,0,Europe
+2020-08-10,Greece,5749,213,3804,1732,126,1,0,Europe
 2020-08-10,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-10,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-10,Guadeloupe (FR),317,14,186,117,27,0,0,Americas
@@ -41890,7 +41890,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-11,Germany,219540,9208,0,210332,1032,5,0,Europe
 2020-08-11,Ghana,41404,215,39055,2134,192,0,328,Africa
 2020-08-11,Gibraltar (UK),202,0,187,15,1,0,1,Europe
-2020-08-11,Greece,5942,214,1347,4381,193,1,0,Europe
+2020-08-11,Greece,5942,214,3804,1924,193,1,0,Europe
 2020-08-11,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-11,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-11,Guadeloupe (FR),317,14,186,117,0,0,0,Americas
@@ -42097,7 +42097,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-12,Germany,220859,9213,0,211646,1319,5,0,Europe
 2020-08-12,Ghana,41572,223,39320,2029,168,8,265,Africa
 2020-08-12,Gibraltar (UK),203,0,187,16,1,0,0,Europe
-2020-08-12,Greece,6177,216,1347,4614,235,2,0,Europe
+2020-08-12,Greece,6177,216,3804,2157,235,2,0,Europe
 2020-08-12,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-12,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-12,Guadeloupe (FR),367,14,289,64,50,0,103,Americas
@@ -42304,7 +42304,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-13,Germany,222281,9217,0,213064,1422,4,0,Europe
 2020-08-13,Ghana,41725,223,39495,2007,153,0,175,Africa
 2020-08-13,Gibraltar (UK),205,0,188,17,2,0,1,Europe
-2020-08-13,Greece,6381,221,1347,4813,204,5,0,Europe
+2020-08-13,Greece,6381,221,3804,2356,204,5,0,Europe
 2020-08-13,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-13,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-13,Guadeloupe (FR),367,14,289,64,0,0,0,Americas
@@ -42511,7 +42511,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-14,Germany,223791,9230,0,214561,1510,13,0,Europe
 2020-08-14,Ghana,41847,223,39718,1906,122,0,223,Africa
 2020-08-14,Gibraltar (UK),206,0,188,18,1,0,0,Europe
-2020-08-14,Greece,6632,223,1347,5062,251,2,0,Europe
+2020-08-14,Greece,6632,223,3804,2605,251,2,0,Europe
 2020-08-14,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-14,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-14,Guadeloupe (FR),446,14,289,143,79,0,0,Americas
@@ -42718,7 +42718,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-15,Germany,224488,9235,0,215253,697,5,0,Europe
 2020-08-15,Ghana,42210,231,40147,1832,363,8,429,Africa
 2020-08-15,Gibraltar (UK),209,0,190,19,3,0,2,Europe
-2020-08-15,Greece,6858,226,1347,5285,226,3,0,Europe
+2020-08-15,Greece,6858,226,3804,2828,226,3,0,Europe
 2020-08-15,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-15,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-15,Guadeloupe (FR),446,14,289,143,0,0,0,Americas
@@ -42925,7 +42925,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-16,Germany,225007,9235,0,215772,519,0,0,Europe
 2020-08-16,Ghana,42532,231,40362,1939,322,0,215,Africa
 2020-08-16,Gibraltar (UK),215,0,190,25,6,0,0,Europe
-2020-08-16,Greece,7075,228,1347,5500,217,2,0,Europe
+2020-08-16,Greece,7075,228,3804,3043,217,2,0,Europe
 2020-08-16,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-16,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-16,Guadeloupe (FR),446,14,289,143,0,0,0,Americas
@@ -43132,7 +43132,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-17,Germany,226700,9236,0,217464,1693,1,0,Europe
 2020-08-17,Ghana,42653,239,40567,1847,121,8,205,Africa
 2020-08-17,Gibraltar (UK),217,0,194,23,2,0,4,Europe
-2020-08-17,Greece,7222,230,1347,5645,147,2,0,Europe
+2020-08-17,Greece,7222,230,3804,3188,147,2,0,Europe
 2020-08-17,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-17,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-17,Guadeloupe (FR),510,14,289,207,64,0,0,Americas
@@ -43339,7 +43339,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-18,Germany,228120,9241,0,218879,1420,5,0,Europe
 2020-08-18,Ghana,42993,248,40796,1949,340,9,229,Africa
 2020-08-18,Gibraltar (UK),222,0,195,27,5,0,1,Europe
-2020-08-18,Greece,7472,232,1347,5893,250,2,0,Europe
+2020-08-18,Greece,7472,232,3804,3436,250,2,0,Europe
 2020-08-18,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-18,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-18,Guadeloupe (FR),510,15,289,206,0,1,0,Americas
@@ -43546,7 +43546,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-19,Germany,229706,9249,0,220457,1586,8,0,Europe
 2020-08-19,Ghana,43094,256,40963,1875,101,8,167,Africa
 2020-08-19,Gibraltar (UK),223,0,197,26,1,0,2,Europe
-2020-08-19,Greece,7684,235,1347,6102,212,3,0,Europe
+2020-08-19,Greece,7684,235,3804,3645,212,3,0,Europe
 2020-08-19,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-19,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-19,Guadeloupe (FR),510,15,289,206,0,0,0,Americas
@@ -43753,7 +43753,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-20,Germany,231292,9263,0,222029,1586,14,0,Europe
 2020-08-20,Ghana,43260,261,41276,1723,166,5,313,Africa
 2020-08-20,Gibraltar (UK),229,0,200,29,6,0,3,Europe
-2020-08-20,Greece,7934,235,1347,6352,250,0,0,Europe
+2020-08-20,Greece,7934,235,3804,3895,250,0,0,Europe
 2020-08-20,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-20,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-20,Guadeloupe (FR),510,15,289,206,0,0,0,Americas
@@ -43960,7 +43960,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-21,Germany,233029,9266,0,223763,1737,3,0,Europe
 2020-08-21,Ghana,43325,261,41408,1656,65,0,132,Africa
 2020-08-21,Gibraltar (UK),231,0,200,31,2,0,0,Europe
-2020-08-21,Greece,8138,238,1347,6553,204,3,0,Europe
+2020-08-21,Greece,8138,238,3804,4096,204,3,0,Europe
 2020-08-21,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-21,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-21,Guadeloupe (FR),771,15,289,467,261,0,0,Americas
@@ -44167,7 +44167,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-22,Germany,233861,9272,0,224589,832,6,0,Europe
 2020-08-22,Ghana,43325,261,41408,1656,0,0,0,Africa
 2020-08-22,Gibraltar (UK),239,0,201,38,8,0,1,Europe
-2020-08-22,Greece,8381,240,1347,6794,243,2,0,Europe
+2020-08-22,Greece,8381,240,3804,4337,243,2,0,Europe
 2020-08-22,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-22,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-22,Guadeloupe (FR),771,15,289,467,0,0,0,Americas
@@ -44374,7 +44374,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-23,Germany,234494,9275,0,225219,633,3,0,Europe
 2020-08-23,Ghana,43505,261,41532,1712,180,0,124,Africa
 2020-08-23,Gibraltar (UK),246,0,201,45,7,0,0,Europe
-2020-08-23,Greece,8664,242,1347,7075,283,2,0,Europe
+2020-08-23,Greece,8664,242,3804,4618,283,2,0,Europe
 2020-08-23,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-23,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-23,Guadeloupe (FR),771,15,289,467,0,0,0,Americas
@@ -44581,7 +44581,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-24,Germany,236122,9276,0,226846,1628,1,0,Europe
 2020-08-24,Ghana,43622,263,41695,1664,117,2,163,Africa
 2020-08-24,Gibraltar (UK),248,0,203,45,2,0,2,Europe
-2020-08-24,Greece,8819,242,1347,7230,155,0,0,Europe
+2020-08-24,Greece,8819,242,3804,4773,155,0,0,Europe
 2020-08-24,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-24,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-24,Guadeloupe (FR),771,15,289,467,0,0,0,Americas
@@ -44788,7 +44788,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-25,Germany,237583,9281,0,228302,1461,5,0,Europe
 2020-08-25,Ghana,43717,270,41843,1604,95,7,148,Africa
 2020-08-25,Gibraltar (UK),256,0,203,53,8,0,0,Europe
-2020-08-25,Greece,8987,243,1347,7397,168,1,0,Europe
+2020-08-25,Greece,8987,243,3804,4940,168,1,0,Europe
 2020-08-25,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-25,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-25,Guadeloupe (FR),935,15,289,631,164,0,0,Americas
@@ -44995,7 +44995,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-26,Germany,239010,9285,0,229725,1427,4,0,Europe
 2020-08-26,Ghana,43769,270,42048,1451,52,0,205,Africa
 2020-08-26,Gibraltar (UK),270,0,203,67,14,0,0,Europe
-2020-08-26,Greece,9280,248,1347,7685,293,5,0,Europe
+2020-08-26,Greece,9280,248,3804,5228,293,5,0,Europe
 2020-08-26,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-26,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-26,Guadeloupe (FR),935,15,289,631,0,0,0,Americas
@@ -45202,7 +45202,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-27,Germany,240571,9290,0,231281,1561,5,0,Europe
 2020-08-27,Ghana,43841,270,42246,1325,72,0,198,Africa
 2020-08-27,Gibraltar (UK),272,0,216,56,2,0,13,Europe
-2020-08-27,Greece,9531,254,1347,7930,251,6,0,Europe
+2020-08-27,Greece,9531,254,3804,5473,251,6,0,Europe
 2020-08-27,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-27,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-27,Guadeloupe (FR),935,15,289,631,0,0,0,Americas
@@ -45409,7 +45409,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-28,Germany,242126,9290,0,232836,1555,0,0,Europe
 2020-08-28,Ghana,43949,270,42392,1287,108,0,146,Africa
 2020-08-28,Gibraltar (UK),274,0,221,53,2,0,5,Europe
-2020-08-28,Greece,9800,259,1347,8194,269,5,0,Europe
+2020-08-28,Greece,9800,259,3804,5737,269,5,0,Europe
 2020-08-28,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-28,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-28,Guadeloupe (FR),1145,16,336,793,210,1,47,Americas
@@ -45616,7 +45616,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-29,Germany,242835,9299,0,233536,709,9,0,Europe
 2020-08-29,Ghana,44118,270,42581,1267,169,0,189,Africa
 2020-08-29,Gibraltar (UK),275,0,226,49,1,0,5,Europe
-2020-08-29,Greece,9977,260,1347,8370,177,1,0,Europe
+2020-08-29,Greece,9977,260,3804,5913,177,1,0,Europe
 2020-08-29,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-29,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-29,Guadeloupe (FR),1145,16,336,793,0,0,0,Americas
@@ -45823,7 +45823,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-30,Germany,243305,9300,0,234005,470,1,0,Europe
 2020-08-30,Ghana,44205,276,42777,1152,87,6,196,Africa
 2020-08-30,Gibraltar (UK),285,0,228,57,10,0,2,Europe
-2020-08-30,Greece,10134,262,1347,8525,157,2,0,Europe
+2020-08-30,Greece,10134,262,3804,6068,157,2,0,Europe
 2020-08-30,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-30,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-30,Guadeloupe (FR),1145,16,336,793,0,0,0,Americas
@@ -46030,7 +46030,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-31,Germany,244802,9303,0,235499,1497,3,0,Europe
 2020-08-31,Ghana,44298,276,42963,1059,93,0,186,Africa
 2020-08-31,Gibraltar (UK),288,0,232,56,3,0,4,Europe
-2020-08-31,Greece,10317,266,1347,8704,183,4,0,Europe
+2020-08-31,Greece,10317,266,3804,6247,183,4,0,Europe
 2020-08-31,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-08-31,Grenada,24,0,0,24,0,0,0,Americas
 2020-08-31,Guadeloupe (FR),1269,16,336,917,124,0,0,Americas
@@ -46237,7 +46237,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-01,Germany,246015,9307,0,236708,1213,4,0,Europe
 2020-09-01,Ghana,44460,276,43121,1063,162,0,158,Africa
 2020-09-01,Gibraltar (UK),290,0,237,53,2,0,5,Europe
-2020-09-01,Greece,10524,271,1347,8906,207,5,0,Europe
+2020-09-01,Greece,10524,271,6486,3767,207,5,2682,Europe
 2020-09-01,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-01,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-01,Guadeloupe (FR),1269,16,336,917,0,0,0,Americas
@@ -46444,7 +46444,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-02,Germany,247411,9322,0,238089,1396,15,0,Europe
 2020-09-02,Ghana,44658,276,43478,904,198,0,357,Africa
 2020-09-02,Gibraltar (UK),295,0,240,55,5,0,3,Europe
-2020-09-02,Greece,10757,273,1347,9137,233,2,0,Europe
+2020-09-02,Greece,10757,273,6486,3998,233,2,0,Europe
 2020-09-02,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-02,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-02,Guadeloupe (FR),1363,18,336,1009,94,2,0,Americas
@@ -46651,7 +46651,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-03,Germany,248840,9322,0,239518,1429,0,0,Europe
 2020-09-03,Ghana,44713,280,43577,856,55,4,99,Africa
 2020-09-03,Gibraltar (UK),298,0,246,52,3,0,6,Europe
-2020-09-03,Greece,10998,278,1347,9373,241,5,0,Europe
+2020-09-03,Greece,10998,278,6486,4234,241,5,0,Europe
 2020-09-03,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-03,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-03,Guadeloupe (FR),1363,18,336,1009,0,0,0,Americas
@@ -46858,7 +46858,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-04,Germany,250283,9327,0,240956,1443,5,0,Europe
 2020-09-04,Ghana,44777,283,43693,801,64,3,116,Africa
 2020-09-04,Gibraltar (UK),305,0,248,57,7,0,2,Europe
-2020-09-04,Greece,11200,279,1347,9574,202,1,0,Europe
+2020-09-04,Greece,11200,279,6486,4435,202,1,0,Europe
 2020-09-04,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-04,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-04,Guadeloupe (FR),1363,18,336,1009,0,0,0,Americas
@@ -47065,7 +47065,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-05,Germany,251058,9329,0,241729,775,2,0,Europe
 2020-09-05,Ghana,44777,283,43693,801,0,0,0,Africa
 2020-09-05,Gibraltar (UK),312,0,255,57,7,0,7,Europe
-2020-09-05,Greece,11386,280,1347,9759,186,1,0,Europe
+2020-09-05,Greece,11386,280,6486,4620,186,1,0,Europe
 2020-09-05,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-05,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-05,Guadeloupe (FR),1363,18,336,1009,0,0,0,Americas
@@ -47272,7 +47272,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-06,Germany,251728,9330,0,242398,670,1,0,Europe
 2020-09-06,Ghana,44777,283,43693,801,0,0,0,Africa
 2020-09-06,Gibraltar (UK),315,0,273,42,3,0,18,Europe
-2020-09-06,Greece,11524,284,1347,9893,138,4,0,Europe
+2020-09-06,Greece,11524,284,6486,4754,138,4,0,Europe
 2020-09-06,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-06,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-06,Guadeloupe (FR),1363,18,336,1009,0,0,0,Americas
@@ -47479,7 +47479,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-07,Germany,253626,9331,0,244295,1898,1,0,Europe
 2020-09-07,Ghana,44869,283,43801,785,92,0,108,Africa
 2020-09-07,Gibraltar (UK),315,0,273,42,0,0,0,Europe
-2020-09-07,Greece,11663,289,1347,10027,139,5,0,Europe
+2020-09-07,Greece,11663,289,6486,4888,139,5,0,Europe
 2020-09-07,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-07,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-07,Guadeloupe (FR),1363,18,336,1009,0,0,0,Americas
@@ -47686,7 +47686,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-08,Germany,254957,9336,0,245621,1331,5,0,Europe
 2020-09-08,Ghana,45012,283,43898,831,143,0,97,Africa
 2020-09-08,Gibraltar (UK),320,0,276,44,5,0,3,Europe
-2020-09-08,Greece,11832,290,1347,10195,169,1,0,Europe
+2020-09-08,Greece,11832,290,7262,4280,169,1,776,Europe
 2020-09-08,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-08,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-08,Guadeloupe (FR),1363,18,336,1009,0,0,0,Americas
@@ -47893,7 +47893,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-09,Germany,256433,9342,0,247091,1476,6,0,Europe
 2020-09-09,Ghana,45313,283,44188,842,301,0,290,Africa
 2020-09-09,Gibraltar (UK),322,0,277,45,2,0,1,Europe
-2020-09-09,Greece,12080,293,1347,10440,248,3,0,Europe
+2020-09-09,Greece,12080,293,7262,4525,248,3,0,Europe
 2020-09-09,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-09,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-09,Guadeloupe (FR),2287,23,336,1928,924,5,0,Americas
@@ -48100,7 +48100,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-10,Germany,258149,9345,0,248804,1716,3,0,Europe
 2020-09-10,Ghana,45313,283,44188,842,0,0,0,Africa
 2020-09-10,Gibraltar (UK),323,0,287,36,1,0,10,Europe
-2020-09-10,Greece,12452,297,1347,10808,372,4,0,Europe
+2020-09-10,Greece,12452,297,7262,4893,372,4,0,Europe
 2020-09-10,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-10,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-10,Guadeloupe (FR),2287,23,336,1928,0,0,0,Americas
@@ -48307,7 +48307,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-11,Germany,259735,9348,0,250387,1586,3,0,Europe
 2020-09-11,Ghana,45388,285,44267,836,75,2,79,Africa
 2020-09-11,Gibraltar (UK),323,0,289,34,0,0,2,Europe
-2020-09-11,Greece,12734,300,1347,11087,282,3,0,Europe
+2020-09-11,Greece,12734,300,7262,5172,282,3,0,Europe
 2020-09-11,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-11,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-11,Guadeloupe (FR),2287,23,336,1928,0,0,0,Americas
@@ -48514,7 +48514,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-12,Germany,260817,9352,0,251465,1082,4,0,Europe
 2020-09-12,Ghana,45434,286,44342,806,46,1,75,Africa
 2020-09-12,Gibraltar (UK),327,0,294,33,4,0,5,Europe
-2020-09-12,Greece,13036,302,1347,11387,302,2,0,Europe
+2020-09-12,Greece,13036,302,7262,5472,302,2,0,Europe
 2020-09-12,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-12,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-12,Guadeloupe (FR),3080,24,837,2219,793,1,501,Americas
@@ -48721,7 +48721,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-13,Germany,261737,9354,0,252383,920,2,0,Europe
 2020-09-13,Ghana,45434,286,44342,806,0,0,0,Africa
 2020-09-13,Gibraltar (UK),330,0,298,32,3,0,4,Europe
-2020-09-13,Greece,13240,305,1347,11588,204,3,0,Europe
+2020-09-13,Greece,13240,305,7262,5673,204,3,0,Europe
 2020-09-13,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-13,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-13,Guadeloupe (FR),3080,24,837,2219,0,0,0,Americas
@@ -48928,7 +48928,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-14,Germany,263222,9356,0,253866,1485,2,0,Europe
 2020-09-14,Ghana,45601,294,44679,628,167,8,337,Africa
 2020-09-14,Gibraltar (UK),330,0,303,27,0,0,5,Europe
-2020-09-14,Greece,13420,310,1347,11763,180,5,0,Europe
+2020-09-14,Greece,13420,310,7262,5848,180,5,0,Europe
 2020-09-14,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-14,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-14,Guadeloupe (FR),3080,24,837,2219,0,0,0,Americas
@@ -49135,7 +49135,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-15,Germany,265014,9367,0,255647,1792,11,0,Europe
 2020-09-15,Ghana,45655,294,44797,564,54,0,118,Africa
 2020-09-15,Gibraltar (UK),334,0,307,27,4,0,4,Europe
-2020-09-15,Greece,13730,313,1347,12070,310,3,0,Europe
+2020-09-15,Greece,13730,313,8846,4571,310,3,1584,Europe
 2020-09-15,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-15,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-15,Guadeloupe (FR),3080,24,837,2219,0,0,0,Americas
@@ -49342,7 +49342,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-16,Germany,266869,9373,0,257496,1855,6,0,Europe
 2020-09-16,Ghana,45655,294,44797,564,0,0,0,Africa
 2020-09-16,Gibraltar (UK),340,0,309,31,6,0,2,Europe
-2020-09-16,Greece,14041,316,1347,12378,311,3,0,Europe
+2020-09-16,Greece,14041,316,8846,4879,311,3,0,Europe
 2020-09-16,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-16,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-16,Guadeloupe (FR),3426,26,837,2563,346,2,0,Americas
@@ -49549,7 +49549,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-17,Germany,269048,9376,0,259672,2179,3,0,Europe
 2020-09-17,Ghana,45714,294,44896,524,59,0,99,Africa
 2020-09-17,Gibraltar (UK),343,0,313,30,3,0,4,Europe
-2020-09-17,Greece,14400,325,1347,12728,359,9,0,Europe
+2020-09-17,Greece,14400,325,8846,5229,359,9,0,Europe
 2020-09-17,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-17,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-17,Guadeloupe (FR),3426,26,837,2563,0,0,0,Americas
@@ -49756,7 +49756,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-18,Germany,271247,9386,0,261861,2199,10,0,Europe
 2020-09-18,Ghana,45760,295,44973,492,46,1,77,Africa
 2020-09-18,Gibraltar (UK),346,0,315,31,3,0,2,Europe
-2020-09-18,Greece,14738,327,1347,13064,338,2,0,Europe
+2020-09-18,Greece,14738,327,8846,5565,338,2,0,Europe
 2020-09-18,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-18,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-18,Guadeloupe (FR),3426,26,837,2563,0,0,0,Americas
@@ -49963,7 +49963,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-19,Germany,272932,9388,0,263544,1685,2,0,Europe
 2020-09-19,Ghana,45877,297,45081,499,117,2,108,Africa
 2020-09-19,Gibraltar (UK),350,0,322,28,4,0,7,Europe
-2020-09-19,Greece,14978,331,1347,13300,240,4,0,Europe
+2020-09-19,Greece,14978,331,8846,5801,240,4,0,Europe
 2020-09-19,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-19,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-19,Guadeloupe (FR),3426,26,837,2563,0,0,0,Americas
@@ -50170,7 +50170,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-20,Germany,273965,9390,0,264575,1033,2,0,Europe
 2020-09-20,Ghana,46004,297,45153,554,127,0,72,Africa
 2020-09-20,Gibraltar (UK),350,0,323,27,0,0,1,Europe
-2020-09-20,Greece,15142,338,1347,13457,164,7,0,Europe
+2020-09-20,Greece,15142,338,8846,5958,164,7,0,Europe
 2020-09-20,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-20,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-20,Guadeloupe (FR),3426,26,837,2563,0,0,0,Americas
@@ -50377,7 +50377,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-21,Germany,275560,9390,0,266170,1595,0,0,Europe
 2020-09-21,Ghana,46062,297,45258,507,58,0,105,Africa
 2020-09-21,Gibraltar (UK),350,0,323,27,0,0,0,Europe
-2020-09-21,Greece,15595,344,1347,13904,453,6,0,Europe
+2020-09-21,Greece,15595,344,8846,6405,453,6,0,Europe
 2020-09-21,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-21,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-21,Guadeloupe (FR),3426,26,837,2563,0,0,0,Americas
@@ -50584,7 +50584,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-22,Germany,277412,9405,0,268007,1852,15,0,Europe
 2020-09-22,Ghana,46062,297,45258,507,0,0,0,Africa
 2020-09-22,Gibraltar (UK),355,0,323,32,5,0,0,Europe
-2020-09-22,Greece,15928,352,1347,14229,333,8,0,Europe
+2020-09-22,Greece,15928,352,10441,5135,333,8,1595,Europe
 2020-09-22,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-22,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-22,Guadeloupe (FR),3426,26,837,2563,0,0,0,Americas
@@ -50791,7 +50791,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-23,Germany,279025,9423,0,269602,1613,18,0,Europe
 2020-09-23,Ghana,46153,299,45299,555,91,2,41,Africa
 2020-09-23,Gibraltar (UK),357,0,324,33,2,0,1,Europe
-2020-09-23,Greece,16286,357,1347,14582,358,5,0,Europe
+2020-09-23,Greece,16286,357,10441,5488,358,5,0,Europe
 2020-09-23,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-23,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-23,Guadeloupe (FR),4487,42,2199,2246,1061,16,1362,Americas
@@ -50998,7 +50998,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-24,Germany,281346,9436,0,271910,2321,13,0,Europe
 2020-09-24,Ghana,46222,299,45417,506,69,0,118,Africa
 2020-09-24,Gibraltar (UK),361,0,331,30,4,0,7,Europe
-2020-09-24,Greece,16627,366,1347,14914,341,9,0,Europe
+2020-09-24,Greece,16627,366,10441,5820,341,9,0,Europe
 2020-09-24,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-24,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-24,Guadeloupe (FR),4487,42,2199,2246,0,0,0,Americas
@@ -51205,7 +51205,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-25,Germany,283712,9451,0,274261,2366,15,0,Europe
 2020-09-25,Ghana,46222,299,45417,506,0,0,0,Africa
 2020-09-25,Gibraltar (UK),364,0,333,31,3,0,2,Europe
-2020-09-25,Greece,16913,369,1347,15197,286,3,0,Europe
+2020-09-25,Greece,16913,369,10441,6103,286,3,0,Europe
 2020-09-25,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-25,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-25,Guadeloupe (FR),4487,42,2199,2246,0,0,0,Americas
@@ -51412,7 +51412,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-26,Germany,285026,9459,0,275567,1314,8,0,Europe
 2020-09-26,Ghana,46222,299,45417,506,0,0,0,Africa
 2020-09-26,Gibraltar (UK),372,0,335,37,8,0,2,Europe
-2020-09-26,Greece,17228,376,1347,15505,315,7,0,Europe
+2020-09-26,Greece,17228,376,10441,6411,315,7,0,Europe
 2020-09-26,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-26,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-26,Guadeloupe (FR),4487,42,2199,2246,0,0,0,Americas
@@ -51619,7 +51619,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-27,Germany,286339,9464,0,276875,1313,5,0,Europe
 2020-09-27,Ghana,46387,299,45618,470,165,0,201,Africa
 2020-09-27,Gibraltar (UK),379,0,341,38,7,0,6,Europe
-2020-09-27,Greece,17444,379,1347,15718,216,3,0,Europe
+2020-09-27,Greece,17444,379,10441,6624,216,3,0,Europe
 2020-09-27,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-27,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-27,Guadeloupe (FR),4487,42,2199,2246,0,0,0,Americas
@@ -51826,7 +51826,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-28,Germany,288631,9468,0,279163,2292,4,0,Europe
 2020-09-28,Ghana,46444,299,45646,499,57,0,28,Africa
 2020-09-28,Gibraltar (UK),382,0,341,41,3,0,0,Europe
-2020-09-28,Greece,17707,383,1347,15977,263,4,0,Europe
+2020-09-28,Greece,17707,383,10441,6883,263,4,0,Europe
 2020-09-28,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-28,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-28,Guadeloupe (FR),4487,42,2199,2246,0,0,0,Americas
@@ -52033,7 +52033,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-29,Germany,290471,9483,0,280988,1840,15,0,Europe
 2020-09-29,Ghana,46482,301,45651,530,38,2,5,Africa
 2020-09-29,Gibraltar (UK),391,0,342,49,9,0,1,Europe
-2020-09-29,Greece,18123,388,1347,16388,416,5,0,Europe
+2020-09-29,Greece,18123,388,11686,6049,416,5,1245,Europe
 2020-09-29,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-29,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-29,Guadeloupe (FR),4487,42,2199,2246,0,0,0,Americas
@@ -52240,7 +52240,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-30,Germany,292913,9495,0,283418,2442,12,0,Europe
 2020-09-30,Ghana,46626,301,45757,568,144,0,106,Africa
 2020-09-30,Gibraltar (UK),396,0,344,52,5,0,2,Europe
-2020-09-30,Greece,18475,391,1347,16737,352,3,0,Europe
+2020-09-30,Greece,18475,391,11686,6398,352,3,0,Europe
 2020-09-30,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-09-30,Grenada,24,0,0,24,0,0,0,Americas
 2020-09-30,Guadeloupe (FR),5528,57,2199,3272,1041,15,0,Americas
@@ -52447,7 +52447,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-01,Germany,295539,9509,0,286030,2626,14,0,Europe
 2020-10-01,Ghana,46656,301,45942,413,30,0,185,Africa
 2020-10-01,Gibraltar (UK),410,0,349,61,14,0,5,Europe
-2020-10-01,Greece,18886,393,1347,17146,411,2,0,Europe
+2020-10-01,Greece,18886,393,11686,6807,411,2,0,Europe
 2020-10-01,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-10-01,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-01,Guadeloupe (FR),5528,57,2199,3272,0,0,0,Americas
@@ -52654,7 +52654,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-02,Germany,298374,9518,0,288856,2835,9,0,Europe
 2020-10-02,Ghana,46694,301,45945,448,38,0,3,Africa
 2020-10-02,Gibraltar (UK),416,0,351,65,6,0,2,Europe
-2020-10-02,Greece,19346,398,1347,17601,460,5,0,Europe
+2020-10-02,Greece,19346,398,11686,7262,460,5,0,Europe
 2020-10-02,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-10-02,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-02,Guadeloupe (FR),5528,57,2199,3272,0,0,0,Americas
@@ -52861,7 +52861,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-03,Germany,300027,9531,0,290496,1653,13,0,Europe
 2020-10-03,Ghana,46803,303,46006,494,109,2,61,Africa
 2020-10-03,Gibraltar (UK),428,0,358,70,12,0,7,Europe
-2020-10-03,Greece,19613,405,1347,17861,267,7,0,Europe
+2020-10-03,Greece,19613,405,11686,7522,267,7,0,Europe
 2020-10-03,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-10-03,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-03,Guadeloupe (FR),5528,57,2199,3272,0,0,0,Americas
@@ -53068,7 +53068,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-04,Germany,301573,9533,0,292040,1546,2,0,Europe
 2020-10-04,Ghana,46829,303,46060,466,26,0,54,Africa
 2020-10-04,Gibraltar (UK),432,0,360,72,4,0,2,Europe
-2020-10-04,Greece,19842,409,1347,18086,229,4,0,Europe
+2020-10-04,Greece,19842,409,11686,7747,229,4,0,Europe
 2020-10-04,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-10-04,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-04,Guadeloupe (FR),5528,57,2199,3272,0,0,0,Americas
@@ -53275,7 +53275,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-05,Germany,304673,9554,0,295119,3100,21,0,Europe
 2020-10-05,Ghana,46829,303,46060,466,0,0,0,Africa
 2020-10-05,Gibraltar (UK),432,0,363,69,0,0,3,Europe
-2020-10-05,Greece,20142,417,1347,18378,300,8,0,Europe
+2020-10-05,Greece,20142,417,11686,8039,300,8,0,Europe
 2020-10-05,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-10-05,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-05,Guadeloupe (FR),5528,57,2199,3272,0,0,0,Americas
@@ -53482,7 +53482,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-06,Germany,307127,9566,0,297561,2454,12,0,Europe
 2020-10-06,Ghana,46829,303,46060,466,0,0,0,Africa
 2020-10-06,Gibraltar (UK),437,0,368,69,5,0,5,Europe
-2020-10-06,Greece,20541,420,1347,18774,399,3,0,Europe
+2020-10-06,Greece,20541,420,13199,6922,399,3,1513,Europe
 2020-10-06,Greenland (DK),14,0,14,0,0,0,0,Europe
 2020-10-06,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-06,Guadeloupe (FR),6319,77,2199,4043,791,20,0,Americas
@@ -53689,7 +53689,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-07,Germany,311137,9582,0,301555,4010,16,0,Europe
 2020-10-07,Ghana,46829,303,46060,466,0,0,0,Africa
 2020-10-07,Gibraltar (UK),445,0,376,69,8,0,8,Europe
-2020-10-07,Greece,20947,424,1347,19176,406,4,0,Europe
+2020-10-07,Greece,20947,424,13199,7324,406,4,0,Europe
 2020-10-07,Greenland (DK),15,0,14,1,1,0,0,Europe
 2020-10-07,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-07,Guadeloupe (FR),6319,77,2199,4043,0,0,0,Americas
@@ -53896,7 +53896,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-08,Germany,315941,9594,0,306347,4804,12,0,Europe
 2020-10-08,Ghana,46947,306,46259,382,118,3,199,Africa
 2020-10-08,Gibraltar (UK),452,0,386,66,7,0,10,Europe
-2020-10-08,Greece,21381,430,1347,19604,434,6,0,Europe
+2020-10-08,Greece,21381,430,13199,7752,434,6,0,Europe
 2020-10-08,Greenland (DK),15,0,14,1,0,0,0,Europe
 2020-10-08,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-08,Guadeloupe (FR),6319,77,2199,4043,0,0,0,Americas
@@ -54103,7 +54103,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-09,Germany,320495,9599,0,310896,4554,5,0,Europe
 2020-10-09,Ghana,46987,306,46378,303,40,0,119,Africa
 2020-10-09,Gibraltar (UK),468,0,398,70,16,0,12,Europe
-2020-10-09,Greece,21772,431,1347,19994,391,1,0,Europe
+2020-10-09,Greece,21772,431,13199,8142,391,1,0,Europe
 2020-10-09,Greenland (DK),16,0,14,2,1,0,0,Europe
 2020-10-09,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-09,Guadeloupe (FR),6483,77,2199,4207,164,0,0,Americas
@@ -54310,7 +54310,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-10,Germany,323463,9620,0,313843,2968,21,0,Europe
 2020-10-10,Ghana,47005,306,46398,301,18,0,20,Africa
 2020-10-10,Gibraltar (UK),476,0,405,71,8,0,7,Europe
-2020-10-10,Greece,22078,436,1347,20295,306,5,0,Europe
+2020-10-10,Greece,22078,436,13199,8443,306,5,0,Europe
 2020-10-10,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-10,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-10,Guadeloupe (FR),6483,77,2199,4207,0,0,0,Americas
@@ -54517,7 +54517,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-11,Germany,326309,9626,0,316683,2846,6,0,Europe
 2020-10-11,Ghana,47005,306,46398,301,0,0,0,Africa
 2020-10-11,Gibraltar (UK),485,0,413,72,9,0,8,Europe
-2020-10-11,Greece,22358,449,1347,20562,280,13,0,Europe
+2020-10-11,Greece,22358,449,13199,8710,280,13,0,Europe
 2020-10-11,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-11,Grenada,24,0,0,24,0,0,0,Americas
 2020-10-11,Guadeloupe (FR),6483,77,2199,4207,0,0,0,Americas
@@ -54724,7 +54724,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-12,Germany,332850,9640,0,323210,6541,14,0,Europe
 2020-10-12,Ghana,47030,308,46424,298,25,2,26,Africa
 2020-10-12,Gibraltar (UK),486,0,419,67,1,0,6,Europe
-2020-10-12,Greece,22652,456,1347,20849,294,7,0,Europe
+2020-10-12,Greece,22652,456,13199,8997,294,7,0,Europe
 2020-10-12,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-12,Grenada,25,0,0,25,1,0,0,Americas
 2020-10-12,Guadeloupe (FR),6483,77,2199,4207,0,0,0,Americas
@@ -54931,7 +54931,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-13,Germany,337314,9682,0,327632,4464,42,0,Europe
 2020-10-13,Ghana,47126,310,46469,347,96,2,45,Africa
 2020-10-13,Gibraltar (UK),499,0,424,75,13,0,5,Europe
-2020-10-13,Greece,23060,462,1347,21251,408,6,0,Europe
+2020-10-13,Greece,23060,462,16437,6161,408,6,3238,Europe
 2020-10-13,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-13,Grenada,25,0,0,25,0,0,0,Americas
 2020-10-13,Guadeloupe (FR),6908,96,2199,4613,425,19,0,Americas
@@ -55138,7 +55138,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-14,Germany,344487,9716,0,334771,7173,34,0,Europe
 2020-10-14,Ghana,47126,310,46469,347,0,0,0,Africa
 2020-10-14,Gibraltar (UK),516,0,435,81,17,0,11,Europe
-2020-10-14,Greece,23495,469,1347,21679,435,7,0,Europe
+2020-10-14,Greece,23495,469,16437,6589,435,7,0,Europe
 2020-10-14,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-14,Grenada,25,0,0,25,0,0,0,Americas
 2020-10-14,Guadeloupe (FR),6908,96,2199,4613,0,0,0,Americas
@@ -55345,7 +55345,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-15,Germany,352107,9739,0,342368,7620,23,0,Europe
 2020-10-15,Ghana,47173,310,46527,336,47,0,58,Africa
 2020-10-15,Gibraltar (UK),531,0,439,92,15,0,4,Europe
-2020-10-15,Greece,23947,482,1347,22118,452,13,0,Europe
+2020-10-15,Greece,23947,482,16437,7028,452,13,0,Europe
 2020-10-15,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-15,Grenada,25,0,0,25,0,0,0,Americas
 2020-10-15,Guadeloupe (FR),6908,96,2199,4613,0,0,0,Americas
@@ -55552,7 +55552,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-16,Germany,359802,9773,0,350029,7695,34,0,Europe
 2020-10-16,Ghana,47173,310,46527,336,0,0,0,Africa
 2020-10-16,Gibraltar (UK),544,0,441,103,13,0,2,Europe
-2020-10-16,Greece,24450,490,1347,22613,503,8,0,Europe
+2020-10-16,Greece,24450,490,16437,7523,503,8,0,Europe
 2020-10-16,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-16,Grenada,25,0,0,25,0,0,0,Americas
 2020-10-16,Guadeloupe (FR),7122,96,2199,4827,214,0,0,Americas
@@ -55759,7 +55759,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-17,Germany,364664,9785,0,354879,4862,12,0,Europe
 2020-10-17,Ghana,47232,310,46578,344,59,0,51,Africa
 2020-10-17,Gibraltar (UK),558,0,449,109,14,0,8,Europe
-2020-10-17,Greece,24932,500,1347,23085,482,10,0,Europe
+2020-10-17,Greece,24932,500,16437,7995,482,10,0,Europe
 2020-10-17,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-17,Grenada,27,0,0,27,2,0,0,Americas
 2020-10-17,Guadeloupe (FR),7122,96,2199,4827,0,0,0,Americas
@@ -55966,7 +55966,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-18,Germany,368671,9798,0,358873,4007,13,0,Europe
 2020-10-18,Ghana,47310,310,46618,382,78,0,40,Africa
 2020-10-18,Gibraltar (UK),571,0,455,116,13,0,6,Europe
-2020-10-18,Greece,25370,509,1347,23514,438,9,0,Europe
+2020-10-18,Greece,25370,509,16437,8424,438,9,0,Europe
 2020-10-18,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-18,Grenada,27,0,0,27,0,0,0,Americas
 2020-10-18,Guadeloupe (FR),7122,96,2199,4827,0,0,0,Americas
@@ -56173,7 +56173,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-19,Germany,377068,9842,0,367226,8397,44,0,Europe
 2020-10-19,Ghana,47372,310,46664,398,62,0,46,Africa
 2020-10-19,Gibraltar (UK),577,0,462,115,6,0,7,Europe
-2020-10-19,Greece,25802,520,1347,23935,432,11,0,Europe
+2020-10-19,Greece,25802,520,16437,8845,432,11,0,Europe
 2020-10-19,Greenland (DK),16,0,14,2,0,0,0,Europe
 2020-10-19,Grenada,27,0,0,27,0,0,0,Americas
 2020-10-19,Guadeloupe (FR),7122,96,2199,4827,0,0,0,Americas
@@ -56380,7 +56380,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-20,Germany,385591,9882,0,375709,8523,40,0,Europe
 2020-10-20,Ghana,47461,312,46752,397,89,2,88,Africa
 2020-10-20,Gibraltar (UK),608,0,471,137,31,0,9,Europe
-2020-10-20,Greece,26469,528,1347,24594,667,8,0,Europe
+2020-10-20,Greece,26469,528,19749,6192,667,8,3312,Europe
 2020-10-20,Greenland (DK),16,0,16,0,0,0,2,Europe
 2020-10-20,Grenada,27,0,0,27,0,0,0,Americas
 2020-10-20,Guadeloupe (FR),7329,115,2199,5015,207,19,0,Americas
@@ -56587,7 +56587,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-21,Germany,397922,9911,0,388011,12331,29,0,Europe
 2020-10-21,Ghana,47461,312,46752,397,0,0,0,Africa
 2020-10-21,Gibraltar (UK),621,0,481,140,13,0,10,Europe
-2020-10-21,Greece,27334,534,1347,25453,865,6,0,Europe
+2020-10-21,Greece,27334,534,19749,7051,865,6,0,Europe
 2020-10-21,Greenland (DK),16,0,16,0,0,0,0,Europe
 2020-10-21,Grenada,27,0,0,27,0,0,0,Americas
 2020-10-21,Guadeloupe (FR),7329,115,2199,5015,0,0,0,Americas
@@ -56794,7 +56794,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-22,Germany,403874,9960,0,393914,5952,49,0,Europe
 2020-10-22,Ghana,47538,312,46789,437,77,0,37,Africa
 2020-10-22,Gibraltar (UK),630,0,495,135,9,0,14,Europe
-2020-10-22,Greece,28216,549,1347,26320,882,15,0,Europe
+2020-10-22,Greece,28216,549,19749,7918,882,15,0,Europe
 2020-10-22,Greenland (DK),17,0,16,1,1,0,0,Europe
 2020-10-22,Grenada,27,0,0,27,0,0,0,Americas
 2020-10-22,Guadeloupe (FR),7329,115,2199,5015,0,0,0,Americas
@@ -57001,7 +57001,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-23,Germany,426110,10008,0,416102,22236,48,0,Europe
 2020-10-23,Ghana,47601,314,46824,463,63,2,35,Africa
 2020-10-23,Gibraltar (UK),641,0,500,141,11,0,5,Europe
-2020-10-23,Greece,29057,559,1347,27151,841,10,0,Europe
+2020-10-23,Greece,29057,559,19749,8749,841,10,0,Europe
 2020-10-23,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-23,Grenada,27,0,0,27,0,0,0,Americas
 2020-10-23,Guadeloupe (FR),7329,115,2199,5015,0,0,0,Americas
@@ -57208,7 +57208,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-24,Germany,434798,10035,0,424763,8688,27,0,Europe
 2020-10-24,Ghana,47690,316,46887,487,89,2,63,Africa
 2020-10-24,Gibraltar (UK),660,0,507,153,19,0,7,Europe
-2020-10-24,Greece,29992,564,1347,28081,935,5,0,Europe
+2020-10-24,Greece,29992,564,19749,9679,935,5,0,Europe
 2020-10-24,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-24,Grenada,28,0,0,28,1,0,0,Americas
 2020-10-24,Guadeloupe (FR),7329,115,2199,5015,0,0,0,Americas
@@ -57415,7 +57415,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-25,Germany,437698,10062,0,427636,2900,27,0,Europe
 2020-10-25,Ghana,47690,316,46887,487,0,0,0,Africa
 2020-10-25,Gibraltar (UK),667,0,516,151,7,0,9,Europe
-2020-10-25,Greece,30782,574,1347,28861,790,10,0,Europe
+2020-10-25,Greece,30782,574,19749,10459,790,10,0,Europe
 2020-10-25,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-25,Grenada,28,0,0,28,0,0,0,Americas
 2020-10-25,Guadeloupe (FR),7329,115,2199,5015,0,0,0,Americas
@@ -57622,7 +57622,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-26,Germany,450258,10091,0,440167,12560,29,0,Europe
 2020-10-26,Ghana,47775,316,46971,488,85,0,84,Africa
 2020-10-26,Gibraltar (UK),670,0,532,138,3,0,16,Europe
-2020-10-26,Greece,31496,581,1347,29568,714,7,0,Europe
+2020-10-26,Greece,31496,581,19749,11166,714,7,0,Europe
 2020-10-26,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-26,Grenada,28,0,0,28,0,0,0,Americas
 2020-10-26,Guadeloupe (FR),7474,115,2199,5160,145,0,0,Americas
@@ -57829,7 +57829,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-27,Germany,463419,10121,0,453298,13161,30,0,Europe
 2020-10-27,Ghana,47775,316,46971,488,0,0,0,Africa
 2020-10-27,Gibraltar (UK),679,0,547,132,9,0,15,Europe
-2020-10-27,Greece,32752,593,1347,30812,1256,12,0,Europe
+2020-10-27,Greece,32752,593,19749,12410,1256,12,0,Europe
 2020-10-27,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-27,Grenada,28,0,0,28,0,0,0,Americas
 2020-10-27,Guadeloupe (FR),7474,115,2199,5160,0,0,0,Americas
@@ -58036,7 +58036,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-28,Germany,486972,10259,0,476713,23553,138,0,Europe
 2020-10-28,Ghana,47775,316,46971,488,0,0,0,Africa
 2020-10-28,Gibraltar (UK),682,0,562,120,3,0,15,Europe
-2020-10-28,Greece,34299,603,1347,32349,1547,10,0,Europe
+2020-10-28,Greece,34299,603,23074,10622,1547,10,3325,Europe
 2020-10-28,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-28,Grenada,28,0,0,28,0,0,0,Americas
 2020-10-28,Guadeloupe (FR),7605,126,2242,5237,131,11,43,Americas
@@ -58243,7 +58243,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-29,Germany,498354,10305,0,488049,11382,46,0,Europe
 2020-10-29,Ghana,48055,320,47169,566,280,4,198,Africa
 2020-10-29,Gibraltar (UK),688,0,584,104,6,0,22,Europe
-2020-10-29,Greece,35510,615,1347,33548,1211,12,0,Europe
+2020-10-29,Greece,35510,615,23074,11821,1211,12,0,Europe
 2020-10-29,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-29,Grenada,28,0,0,28,0,0,0,Americas
 2020-10-29,Guadeloupe (FR),7605,126,2242,5237,0,0,0,Americas
@@ -58414,7 +58414,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-30,Chad,1483,98,1314,71,10,1,7,Africa
 2020-10-30,Chile,508571,14158,485152,9261,1521,40,1230,Americas
 2020-10-30,China,91339,4739,82285,4315,40,0,20,Western Pacific
-2020-10-30,Colombia,1053122,31421,95870,925831,5067,495,-854478,Americas
+2020-10-30,Colombia,1053122,31421,959433,62268,5067,495,9085,Americas
 2020-10-30,Comoros,537,7,498,32,20,0,4,Africa
 2020-10-30,Congo (Brazzaville),5290,92,3887,1311,0,0,0,Africa
 2020-10-30,Congo (Kinshasa),11306,307,10585,414,95,2,76,Africa
@@ -58450,7 +58450,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-30,Germany,517736,10391,0,507345,19382,86,0,Europe
 2020-10-30,Ghana,48055,320,47169,566,0,0,0,Africa
 2020-10-30,Gibraltar (UK),693,0,590,103,5,0,6,Europe
-2020-10-30,Greece,37196,620,1347,35229,1686,5,0,Europe
+2020-10-30,Greece,37196,620,23074,13502,1686,5,0,Europe
 2020-10-30,Greenland (DK),17,0,16,1,0,0,0,Europe
 2020-10-30,Grenada,28,0,0,28,0,0,0,Americas
 2020-10-30,Guadeloupe (FR),7605,126,2242,5237,0,0,0,Americas
