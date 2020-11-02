@@ -57379,7 +57379,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-25,Chad,1437,96,1268,73,3,0,14,Africa
 2020-10-25,Chile,502063,13944,478252,9867,1521,52,1676,Americas
 2020-10-25,China,91151,4739,82200,4212,23,0,17,Western Pacific
-2020-10-25,Colombia,1015885,30000,907379,78506,8174,0,0,Americas
+2020-10-25,Colombia,1015885,30154,907379,78352,8174,154,0,Americas
 2020-10-25,Comoros,517,7,494,16,0,0,0,Africa
 2020-10-25,Congo (Brazzaville),5253,92,3887,1274,0,0,0,Africa
 2020-10-25,Congo (Kinshasa),11143,305,10467,371,0,0,0,Africa
@@ -57586,7 +57586,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-26,Chad,1441,96,1277,68,4,0,9,Africa
 2020-10-26,Chile,503598,14003,479877,9718,1535,59,1625,Americas
 2020-10-26,China,91175,4739,82215,4221,24,0,15,Western Pacific
-2020-10-26,Colombia,1025052,30348,924044,70660,9167,348,16665,Americas
+2020-10-26,Colombia,1025052,30348,924044,70660,9167,194,16665,Americas
 2020-10-26,Comoros,517,7,494,16,0,0,0,Africa
 2020-10-26,Congo (Brazzaville),5253,92,3887,1274,0,0,0,Africa
 2020-10-26,Congo (Kinshasa),11174,305,10468,401,31,0,1,Africa
@@ -58000,7 +58000,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-28,Chad,1468,97,1306,65,8,1,16,Africa
 2020-10-28,Chile,505530,14032,482906,8592,1005,6,1527,Americas
 2020-10-28,China,91271,4739,82243,4289,49,0,17,Western Pacific
-2020-10-28,Colombia,1041936,30753,941874,69309,8718,188,8992,Americas
+2020-10-28,Colombia,1041935,30753,941874,69308,8717,188,8992,Americas
 2020-10-28,Comoros,517,7,494,16,0,0,0,Africa
 2020-10-28,Congo (Brazzaville),5253,92,3887,1274,0,0,0,Africa
 2020-10-28,Congo (Kinshasa),11211,305,10509,397,20,0,0,Africa
@@ -58207,7 +58207,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-29,Chad,1473,97,1307,69,5,0,1,Africa
 2020-10-29,Chile,507050,14118,483922,9010,1520,86,1016,Americas
 2020-10-29,China,91299,4739,82265,4295,28,0,22,Western Pacific
-2020-10-29,Colombia,1048055,30926,950348,66781,6119,173,8474,Americas
+2020-10-29,Colombia,1053122,30926,950348,71848,11187,173,8474,Americas
 2020-10-29,Comoros,517,7,494,16,0,0,0,Africa
 2020-10-29,Congo (Brazzaville),5290,92,3887,1311,37,0,0,Africa
 2020-10-29,Congo (Kinshasa),11211,305,10509,397,0,0,0,Africa
@@ -58414,7 +58414,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-30,Chad,1483,98,1314,71,10,1,7,Africa
 2020-10-30,Chile,508571,14158,485152,9261,1521,40,1230,Americas
 2020-10-30,China,91339,4739,82285,4315,40,0,20,Western Pacific
-2020-10-30,Colombia,1053122,31421,959433,62268,5067,495,9085,Americas
+2020-10-30,Colombia,1063151,31135,959433,72583,10029,209,9085,Americas
 2020-10-30,Comoros,537,7,498,32,20,0,4,Africa
 2020-10-30,Congo (Brazzaville),5290,92,3887,1311,0,0,0,Africa
 2020-10-30,Congo (Kinshasa),11306,307,10585,414,95,2,76,Africa
@@ -58621,7 +58621,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-31,Chad,1483,98,1314,71,0,0,0,Africa
 2020-10-31,Chile,510256,14207,486642,9407,1685,49,1490,Americas
 2020-10-31,China,91366,4739,82301,4326,27,0,16,Western Pacific
-2020-10-31,Colombia,1073809,31598,968927,73284,20687,177,9494,Americas
+2020-10-31,Colombia,1074184,31314,969230,73640,11033,179,9797,Americas
 2020-10-31,Comoros,545,7,498,40,8,0,0,Africa
 2020-10-31,Congo (Brazzaville),5290,92,3887,1311,0,0,0,Africa
 2020-10-31,Congo (Kinshasa),11306,307,10585,414,0,0,0,Africa
@@ -58828,7 +58828,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-01,Chad,1498,98,1324,76,15,0,10,Africa
 2020-11-01,Chile,511864,14247,488166,9451,1608,40,1524,Americas
 2020-11-01,China,91397,4739,82317,4341,31,0,16,Western Pacific
-2020-11-01,Colombia,1082767,31796,977371,73600,8958,198,8444,Americas
+2020-11-01,Colombia,1083321,31515,977804,74002,9137,201,8574,Americas
 2020-11-01,Comoros,545,7,498,40,0,0,0,Africa
 2020-11-01,Congo (Brazzaville),5290,92,3887,1311,0,0,0,Africa
 2020-11-01,Congo (Kinshasa),11373,308,10768,297,67,1,183,Africa
