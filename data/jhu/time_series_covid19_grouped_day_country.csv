@@ -57311,7 +57311,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-24,Sri Lanka,7521,15,3714,3792,368,1,70,South-East Asia
 2020-10-24,Sudan,13742,837,6764,6141,18,1,0,Eastern Mediterranean
 2020-10-24,Suriname,5166,109,5016,41,11,0,6,Americas
-2020-10-24,Sweden,110594,5933,0,104661,0,0,0,Europe
+2020-10-24,Sweden,110594,5934,0,104660,0,1,0,Europe
 2020-10-24,Switzerland,103653,2081,55800,45772,0,14,0,Europe
 2020-10-24,Syria,5359,267,0,5092,40,3,0,Eastern Mediterranean
 2020-10-24,Taiwan*,550,7,502,41,2,0,5,Western Pacific
@@ -57518,7 +57518,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-25,Sri Lanka,7872,16,3803,4053,351,1,89,South-East Asia
 2020-10-25,Sudan,13742,837,6764,6141,0,0,0,Eastern Mediterranean
 2020-10-25,Suriname,5170,109,5032,29,4,0,16,Americas
-2020-10-25,Sweden,110594,5933,0,104661,0,0,0,Europe
+2020-10-25,Sweden,110594,5941,0,104653,0,7,0,Europe
 2020-10-25,Switzerland,103653,2083,55800,45770,0,2,0,Europe
 2020-10-25,Syria,5408,269,0,5139,49,2,0,Eastern Mediterranean
 2020-10-25,Taiwan*,550,7,502,41,0,0,0,Western Pacific
@@ -57725,7 +57725,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-26,Sri Lanka,8413,16,3933,4464,541,0,130,South-East Asia
 2020-10-26,Sudan,13747,837,6764,6146,5,0,0,Eastern Mediterranean
 2020-10-26,Suriname,5180,110,5037,33,10,1,5,Americas
-2020-10-26,Sweden,110594,5933,0,104661,0,0,0,Europe
+2020-10-26,Sweden,110594,5951,0,104643,0,10,0,Europe
 2020-10-26,Switzerland,121093,2111,61700,57282,17440,28,5900,Europe
 2020-10-26,Syria,5461,272,0,5189,53,3,0,Eastern Mediterranean
 2020-10-26,Taiwan*,550,7,502,41,0,0,0,Western Pacific
@@ -57932,7 +57932,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-27,Sri Lanka,8870,19,4043,4808,457,3,110,South-East Asia
 2020-10-27,Sudan,13747,837,6764,6146,0,0,0,Eastern Mediterranean
 2020-10-27,Suriname,5187,111,5039,37,7,1,2,Americas
-2020-10-27,Sweden,115785,5918,0,109867,5191,-15,0,Europe
+2020-10-27,Sweden,115785,5959,0,109826,5191,8,0,Europe
 2020-10-27,Switzerland,127042,2147,62700,62195,5949,36,1000,Europe
 2020-10-27,Syria,5528,275,0,5253,67,3,0,Eastern Mediterranean
 2020-10-27,Taiwan*,550,7,502,41,0,0,0,Western Pacific
@@ -58139,7 +58139,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-28,Sri Lanka,9205,19,4075,5111,335,0,32,South-East Asia
 2020-10-28,Sudan,13765,837,6764,6164,18,0,0,Eastern Mediterranean
 2020-10-28,Suriname,5192,111,5046,35,5,0,7,Americas
-2020-10-28,Sweden,117913,5927,0,111986,2128,9,0,Europe
+2020-10-28,Sweden,117913,5963,0,111950,2128,4,0,Europe
 2020-10-28,Switzerland,135658,2158,65100,68400,8616,11,2400,Europe
 2020-10-28,Syria,5580,278,0,5302,52,3,0,Eastern Mediterranean
 2020-10-28,Taiwan*,550,7,508,35,0,0,6,Western Pacific
@@ -58346,7 +58346,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-29,Sri Lanka,9791,19,4142,5630,586,0,67,South-East Asia
 2020-10-29,Sudan,13772,837,6764,6171,7,0,0,Eastern Mediterranean
 2020-10-29,Suriname,5197,111,5053,33,5,0,7,Americas
-2020-10-29,Sweden,121167,5934,0,115233,3254,7,0,Europe
+2020-10-29,Sweden,121167,5966,0,115201,3254,3,0,Europe
 2020-10-29,Switzerland,145044,2200,65100,77744,9386,42,0,Europe
 2020-10-29,Syria,5633,281,0,5352,53,3,0,Eastern Mediterranean
 2020-10-29,Taiwan*,553,7,513,33,3,0,5,Western Pacific
@@ -58553,7 +58553,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-30,Sri Lanka,10424,19,4282,6123,633,0,140,South-East Asia
 2020-10-30,Sudan,13804,837,6764,6203,32,0,0,Eastern Mediterranean
 2020-10-30,Suriname,5201,111,5057,33,4,0,4,Americas
-2020-10-30,Sweden,124355,5938,0,118417,3188,4,0,Europe
+2020-10-30,Sweden,124355,5972,0,118383,3188,6,0,Europe
 2020-10-30,Switzerland,154251,2277,65200,86774,9207,77,100,Europe
 2020-10-30,Syria,5683,285,0,5398,50,4,0,Eastern Mediterranean
 2020-10-30,Taiwan*,554,7,514,33,1,0,1,Western Pacific
@@ -58760,7 +58760,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-31,Sri Lanka,10663,20,4399,6244,239,1,117,South-East Asia
 2020-10-31,Sudan,13804,837,6764,6203,0,0,0,Eastern Mediterranean
 2020-10-31,Suriname,5203,111,5060,32,2,0,3,Americas
-2020-10-31,Sweden,124355,5938,0,118417,0,0,0,Europe
+2020-10-31,Sweden,124355,5977,0,118378,0,5,0,Europe
 2020-10-31,Switzerland,154251,2297,65200,86754,0,20,0,Europe
 2020-10-31,Syria,5728,288,0,5440,45,3,0,Eastern Mediterranean
 2020-10-31,Taiwan*,555,7,515,33,1,0,1,Western Pacific
@@ -58967,7 +58967,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-01,Sri Lanka,11060,21,4905,6134,397,1,506,South-East Asia
 2020-11-01,Sudan,13819,837,6764,6218,15,0,0,Eastern Mediterranean
 2020-11-01,Suriname,5210,111,5066,33,7,0,6,Americas
-2020-11-01,Sweden,124355,5938,0,118417,0,0,0,Europe
+2020-11-01,Sweden,124355,5980,0,118375,0,3,0,Europe
 2020-11-01,Switzerland,154251,2326,65200,86725,0,29,0,Europe
 2020-11-01,Syria,5789,292,0,5497,61,4,0,Eastern Mediterranean
 2020-11-01,Taiwan*,558,7,518,33,3,0,3,Western Pacific
@@ -59174,7 +59174,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-02,Sri Lanka,11335,21,5249,6065,275,0,344,South-East Asia
 2020-11-02,Sudan,13866,837,6764,6265,47,0,0,Eastern Mediterranean
 2020-11-02,Suriname,5212,111,5082,19,2,0,16,Americas
-2020-11-02,Sweden,124355,5938,0,118417,0,0,0,Europe
+2020-11-02,Sweden,124355,5987,0,118368,0,7,0,Europe
 2020-11-02,Switzerland,176177,2404,80400,93373,21926,78,15200,Europe
 2020-11-02,Syria,5843,295,0,5548,54,3,0,Eastern Mediterranean
 2020-11-02,Taiwan*,563,7,519,37,5,0,1,Western Pacific
@@ -59381,7 +59381,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-03,Sri Lanka,11744,23,5581,6140,409,2,332,South-East Asia
 2020-11-03,Sudan,13905,837,6764,6304,39,0,0,Eastern Mediterranean
 2020-11-03,Suriname,5218,111,5087,20,6,0,5,Americas
-2020-11-03,Sweden,134532,5969,0,128563,10177,31,0,Europe
+2020-11-03,Sweden,134532,5989,0,128543,10177,2,0,Europe
 2020-11-03,Switzerland,182303,2471,83400,96432,6126,67,3000,Europe
 2020-11-03,Syria,5888,298,0,5590,45,3,0,Eastern Mediterranean
 2020-11-03,Taiwan*,567,7,521,39,4,0,2,Western Pacific
@@ -59588,7 +59588,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-04,Sri Lanka,12187,24,5858,6305,443,1,277,South-East Asia
 2020-11-04,Sudan,13943,837,6764,6342,38,0,0,Eastern Mediterranean
 2020-11-04,Suriname,5220,112,5090,18,2,1,3,Americas
-2020-11-04,Sweden,137730,5997,0,131733,3198,28,0,Europe
+2020-11-04,Sweden,137730,5997,0,131733,3198,8,0,Europe
 2020-11-04,Switzerland,192376,2555,87100,102721,10073,84,3700,Europe
 2020-11-04,Syria,5964,301,0,5663,76,3,0,Eastern Mediterranean
 2020-11-04,Taiwan*,568,7,521,40,1,0,0,Western Pacific
