@@ -59062,7 +59062,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-02,Faroe Islands (DK),495,0,490,5,0,0,0,Europe
 2020-11-02,Fiji,34,2,31,1,0,0,0,Western Pacific
 2020-11-02,Finland,16400,359,11300,4741,109,1,0,Europe
-2020-11-02,France,1419972,37150,98627,1284195,0,416,0,Europe
+2020-11-02,France,1471768,37150,98627,1335991,51765,416,0,Europe
 2020-11-02,French Guiana,10567,70,9995,502,31,0,0,Americas
 2020-11-02,French Polynesia,8646,38,4842,3766,1384,9,0,Western Pacific
 2020-11-02,Gabon,8984,55,8779,150,16,0,81,Africa
@@ -59269,7 +59269,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-03,Faroe Islands (DK),495,0,490,5,0,0,0,Europe
 2020-11-03,Fiji,34,2,31,1,0,0,0,Western Pacific
 2020-11-03,Finland,16637,359,11300,4978,237,0,0,Europe
-2020-11-03,France,1419972,37150,98627,1284195,0,0,0,Europe
+2020-11-03,France,1507755,37573,98627,1371555,35987,423,0,Europe
 2020-11-03,French Guiana,10577,70,9995,512,10,0,0,Americas
 2020-11-03,French Polynesia,8949,38,4842,4069,303,0,0,Western Pacific
 2020-11-03,Gabon,8984,55,8779,150,0,0,0,Africa
@@ -59476,7 +59476,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-04,Faroe Islands (DK),495,0,490,5,0,0,0,Europe
 2020-11-04,Fiji,34,2,31,1,0,0,0,Western Pacific
 2020-11-04,Finland,16930,361,12700,3869,293,2,1400,Europe
-2020-11-04,France,1548553,38382,101158,1409013,128581,1232,2531,Europe
+2020-11-04,France,1548553,38382,101158,1409013,40798,809,2531,Europe
 2020-11-04,French Guiana,10591,70,9995,526,14,0,0,Americas
 2020-11-04,French Polynesia,9287,39,4842,4406,338,1,0,Western Pacific
 2020-11-04,Gabon,9005,55,8846,104,21,0,67,Africa
