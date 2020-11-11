@@ -199,6 +199,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-22,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-22,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-22,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-22,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-22,Vietnam,0,0,0,0,0,0,0,Western Pacific
 2020-01-22,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -406,6 +407,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-23,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-23,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-23,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-23,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-23,Vietnam,2,0,0,2,2,0,0,Western Pacific
 2020-01-23,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -613,6 +615,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-24,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-24,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-24,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-24,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-24,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-24,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -820,6 +823,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-25,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-25,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-25,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-25,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-25,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-25,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -1027,6 +1031,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-26,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-26,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-26,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-26,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-26,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-26,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -1234,6 +1239,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-27,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-27,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-27,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-27,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-27,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-27,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -1441,6 +1447,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-28,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-28,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-28,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-28,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-28,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-28,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -1648,6 +1655,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-29,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-29,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-29,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-29,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-29,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-29,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -1855,6 +1863,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-30,United Kingdom,0,0,0,0,0,0,0,Europe
 2020-01-30,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-30,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-30,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-30,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-30,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -2062,6 +2071,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-01-31,United Kingdom,2,0,0,2,2,0,0,Europe
 2020-01-31,Uruguay,0,0,0,0,0,0,0,Americas
 2020-01-31,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-01-31,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-01-31,Venezuela,0,0,0,0,0,0,0,Americas
 2020-01-31,Vietnam,2,0,0,2,0,0,0,Western Pacific
 2020-01-31,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -2269,6 +2279,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-01,United Kingdom,2,0,0,2,0,0,0,Europe
 2020-02-01,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-01,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-01,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-01,Vietnam,6,0,1,5,4,0,1,Western Pacific
 2020-02-01,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -2476,6 +2487,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-02,United Kingdom,2,0,0,2,0,0,0,Europe
 2020-02-02,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-02,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-02,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-02,Vietnam,6,0,1,5,0,0,0,Western Pacific
 2020-02-02,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -2683,6 +2695,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-03,United Kingdom,8,0,0,8,6,0,0,Europe
 2020-02-03,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-03,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-03,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-03,Vietnam,8,0,1,7,2,0,0,Western Pacific
 2020-02-03,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -2890,6 +2903,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-04,United Kingdom,8,0,0,8,0,0,0,Europe
 2020-02-04,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-04,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-04,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-04,Vietnam,8,0,1,7,0,0,0,Western Pacific
 2020-02-04,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -3097,6 +3111,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-05,United Kingdom,9,0,0,9,1,0,0,Europe
 2020-02-05,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-05,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-05,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-05,Vietnam,8,0,1,7,0,0,0,Western Pacific
 2020-02-05,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -3304,6 +3319,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-06,United Kingdom,9,0,0,9,0,0,0,Europe
 2020-02-06,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-06,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-06,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-06,Vietnam,10,0,1,9,2,0,0,Western Pacific
 2020-02-06,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -3511,6 +3527,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-07,United Kingdom,9,0,0,9,0,0,0,Europe
 2020-02-07,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-07,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-07,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-07,Vietnam,10,0,1,9,0,0,0,Western Pacific
 2020-02-07,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -3718,6 +3735,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-08,United Kingdom,13,0,0,13,4,0,0,Europe
 2020-02-08,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-08,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-08,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-08,Vietnam,13,0,1,12,3,0,0,Western Pacific
 2020-02-08,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -3925,6 +3943,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-09,United Kingdom,14,0,0,14,1,0,0,Europe
 2020-02-09,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-09,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-09,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-09,Vietnam,13,0,1,12,0,0,0,Western Pacific
 2020-02-09,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -4132,6 +4151,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-10,United Kingdom,14,0,0,14,0,0,0,Europe
 2020-02-10,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-10,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-10,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-10,Vietnam,14,0,1,13,1,0,0,Western Pacific
 2020-02-10,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -4339,6 +4359,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-11,United Kingdom,15,0,0,15,1,0,0,Europe
 2020-02-11,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-11,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-11,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-11,Vietnam,15,0,6,9,1,0,5,Western Pacific
 2020-02-11,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -4546,6 +4567,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-12,United Kingdom,16,0,1,15,1,0,1,Europe
 2020-02-12,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-12,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-12,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-12,Vietnam,15,0,6,9,0,0,0,Western Pacific
 2020-02-12,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -4753,6 +4775,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-13,United Kingdom,17,0,1,16,1,0,0,Europe
 2020-02-13,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-13,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-13,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-13,Vietnam,16,0,7,9,1,0,1,Western Pacific
 2020-02-13,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -4960,6 +4983,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-14,United Kingdom,18,0,1,17,1,0,0,Europe
 2020-02-14,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-14,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-14,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-14,Vietnam,16,0,7,9,0,0,0,Western Pacific
 2020-02-14,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -5167,6 +5191,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-15,United Kingdom,18,0,1,17,0,0,0,Europe
 2020-02-15,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-15,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-15,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-15,Vietnam,16,0,7,9,0,0,0,Western Pacific
 2020-02-15,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -5374,6 +5399,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-16,United Kingdom,18,0,8,10,0,0,7,Europe
 2020-02-16,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-16,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-16,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-16,Vietnam,16,0,7,9,0,0,0,Western Pacific
 2020-02-16,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -5581,6 +5607,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-17,United Kingdom,19,0,8,11,1,0,0,Europe
 2020-02-17,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-17,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-17,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-17,Vietnam,16,0,7,9,0,0,0,Western Pacific
 2020-02-17,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -5788,6 +5815,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-18,United Kingdom,19,0,8,11,0,0,0,Europe
 2020-02-18,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-18,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-18,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-18,Vietnam,16,0,7,9,0,0,0,Western Pacific
 2020-02-18,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -5995,6 +6023,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-19,United Kingdom,20,0,8,12,1,0,0,Europe
 2020-02-19,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-19,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-19,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-19,Vietnam,16,0,7,9,0,0,0,Western Pacific
 2020-02-19,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -6202,6 +6231,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-20,United Kingdom,22,0,8,14,2,0,0,Europe
 2020-02-20,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-20,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-20,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-20,Vietnam,16,0,7,9,0,0,0,Western Pacific
 2020-02-20,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -6409,6 +6439,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-21,United Kingdom,23,0,8,15,1,0,0,Europe
 2020-02-21,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-21,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-21,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-21,Vietnam,16,0,14,2,0,0,7,Western Pacific
 2020-02-21,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -6616,6 +6647,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-22,United Kingdom,23,0,8,15,0,0,0,Europe
 2020-02-22,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-22,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-22,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-22,Vietnam,16,0,14,2,0,0,0,Western Pacific
 2020-02-22,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -6823,6 +6855,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-23,United Kingdom,28,0,8,20,5,0,0,Europe
 2020-02-23,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-23,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-23,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-23,Vietnam,16,0,14,2,0,0,0,Western Pacific
 2020-02-23,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -7030,6 +7063,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-24,United Kingdom,30,0,8,22,2,0,0,Europe
 2020-02-24,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-24,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-24,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-24,Vietnam,16,0,14,2,0,0,0,Western Pacific
 2020-02-24,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -7237,6 +7271,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-25,United Kingdom,34,0,8,26,4,0,0,Europe
 2020-02-25,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-25,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-25,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-25,Vietnam,16,0,16,0,0,0,2,Western Pacific
 2020-02-25,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -7444,6 +7479,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-26,United Kingdom,37,0,8,29,3,0,0,Europe
 2020-02-26,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-26,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-26,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-26,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-02-26,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -7651,6 +7687,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-27,United Kingdom,44,0,8,36,7,0,0,Europe
 2020-02-27,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-27,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-27,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-27,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-02-27,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -7858,6 +7895,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-28,United Kingdom,56,0,8,48,12,0,0,Europe
 2020-02-28,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-28,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-28,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-28,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-02-28,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -8065,6 +8103,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-02-29,United Kingdom,61,0,8,53,5,0,0,Europe
 2020-02-29,Uruguay,0,0,0,0,0,0,0,Americas
 2020-02-29,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-02-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-02-29,Venezuela,0,0,0,0,0,0,0,Americas
 2020-02-29,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-02-29,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -8272,6 +8311,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-01,United Kingdom,94,0,8,86,33,0,0,Europe
 2020-03-01,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-01,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-01,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-01,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-03-01,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -8479,6 +8519,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-02,United Kingdom,134,0,8,126,40,0,0,Europe
 2020-03-02,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-02,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-02,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-02,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-03-02,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -8686,6 +8727,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-03,United Kingdom,189,0,8,181,55,0,0,Europe
 2020-03-03,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-03,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-03,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-03,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-03-03,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -8893,6 +8935,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-04,United Kingdom,245,0,8,237,56,0,0,Europe
 2020-03-04,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-04,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-04,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-04,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-03-04,West Bank and Gaza,0,0,0,0,0,0,0,Eastern Mediterranean
@@ -9100,6 +9143,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-05,United Kingdom,294,0,8,286,49,0,0,Europe
 2020-03-05,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-05,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-05,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-05,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-03-05,West Bank and Gaza,4,0,0,4,4,0,0,Eastern Mediterranean
@@ -9307,6 +9351,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-06,United Kingdom,373,1,8,364,79,1,0,Europe
 2020-03-06,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-06,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-06,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-06,Vietnam,16,0,16,0,0,0,0,Western Pacific
 2020-03-06,West Bank and Gaza,7,0,0,7,3,0,0,Eastern Mediterranean
@@ -9514,6 +9559,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-07,United Kingdom,428,2,18,408,55,1,10,Europe
 2020-03-07,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-07,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-07,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-07,Vietnam,18,0,16,2,2,0,0,Western Pacific
 2020-03-07,West Bank and Gaza,16,0,0,16,9,0,0,Eastern Mediterranean
@@ -9721,6 +9767,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-08,United Kingdom,482,2,18,462,54,0,0,Europe
 2020-03-08,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-08,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-08,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-08,Vietnam,30,0,16,14,12,0,0,Western Pacific
 2020-03-08,West Bank and Gaza,16,0,0,16,0,0,0,Eastern Mediterranean
@@ -9928,6 +9975,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-09,United Kingdom,629,3,18,608,147,1,0,Europe
 2020-03-09,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-09,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-09,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-09,Vietnam,30,0,16,14,0,0,0,Western Pacific
 2020-03-09,West Bank and Gaza,19,0,0,19,3,0,0,Eastern Mediterranean
@@ -10135,6 +10183,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-10,United Kingdom,888,7,18,863,259,4,0,Europe
 2020-03-10,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-10,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-10,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-10,Vietnam,31,0,16,15,1,0,0,Western Pacific
 2020-03-10,West Bank and Gaza,26,0,0,26,7,0,0,Eastern Mediterranean
@@ -10342,6 +10391,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-11,United Kingdom,1300,7,18,1275,412,0,0,Europe
 2020-03-11,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-11,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-11,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-11,Vietnam,38,0,16,22,7,0,0,Western Pacific
 2020-03-11,West Bank and Gaza,30,0,0,30,4,0,0,Eastern Mediterranean
@@ -10549,6 +10599,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-12,United Kingdom,1789,9,18,1762,489,2,0,Europe
 2020-03-12,Uruguay,0,0,0,0,0,0,0,Americas
 2020-03-12,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-12,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-12,Vietnam,39,0,16,23,1,0,0,Western Pacific
 2020-03-12,West Bank and Gaza,30,0,0,30,0,0,0,Eastern Mediterranean
@@ -10756,6 +10807,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-13,United Kingdom,2268,10,18,2240,479,1,0,Europe
 2020-03-13,Uruguay,4,0,0,4,4,0,0,Americas
 2020-03-13,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-13,Venezuela,0,0,0,0,0,0,0,Americas
 2020-03-13,Vietnam,47,0,16,31,8,0,0,Western Pacific
 2020-03-13,West Bank and Gaza,31,0,0,31,1,0,0,Eastern Mediterranean
@@ -10963,6 +11015,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-14,United Kingdom,2632,29,18,2585,364,19,0,Europe
 2020-03-14,Uruguay,6,0,0,6,2,0,0,Americas
 2020-03-14,Uzbekistan,0,0,0,0,0,0,0,Europe
+2020-03-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-14,Venezuela,2,0,0,2,2,0,0,Americas
 2020-03-14,Vietnam,53,0,16,37,6,0,0,Western Pacific
 2020-03-14,West Bank and Gaza,35,0,0,35,4,0,0,Eastern Mediterranean
@@ -11170,6 +11223,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-15,United Kingdom,3075,43,18,3014,443,14,0,Europe
 2020-03-15,Uruguay,8,0,0,8,2,0,0,Americas
 2020-03-15,Uzbekistan,1,0,0,1,1,0,0,Europe
+2020-03-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-15,Venezuela,10,0,0,10,8,0,0,Americas
 2020-03-15,Vietnam,56,0,16,40,3,0,0,Western Pacific
 2020-03-15,West Bank and Gaza,38,0,0,38,3,0,0,Eastern Mediterranean
@@ -11377,6 +11431,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-16,United Kingdom,3690,65,20,3605,615,22,2,Europe
 2020-03-16,Uruguay,29,0,0,29,21,0,0,Americas
 2020-03-16,Uzbekistan,6,0,0,6,5,0,0,Europe
+2020-03-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-16,Venezuela,17,0,0,17,7,0,0,Americas
 2020-03-16,Vietnam,61,0,16,45,5,0,0,Western Pacific
 2020-03-16,West Bank and Gaza,38,0,0,38,0,0,0,Eastern Mediterranean
@@ -11584,6 +11639,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-17,United Kingdom,4458,82,52,4324,768,17,32,Europe
 2020-03-17,Uruguay,50,0,0,50,21,0,0,Americas
 2020-03-17,Uzbekistan,10,0,0,10,4,0,0,Europe
+2020-03-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-17,Venezuela,33,0,0,33,16,0,0,Americas
 2020-03-17,Vietnam,66,0,16,50,5,0,0,Western Pacific
 2020-03-17,West Bank and Gaza,39,0,0,39,1,0,0,Eastern Mediterranean
@@ -11791,6 +11847,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-18,United Kingdom,5457,116,65,5276,999,34,13,Europe
 2020-03-18,Uruguay,79,0,0,79,29,0,0,Americas
 2020-03-18,Uzbekistan,15,0,0,15,5,0,0,Europe
+2020-03-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-18,Venezuela,36,0,0,36,3,0,0,Americas
 2020-03-18,Vietnam,75,0,16,59,9,0,0,Western Pacific
 2020-03-18,West Bank and Gaza,41,0,0,41,2,0,0,Eastern Mediterranean
@@ -11998,6 +12055,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-19,United Kingdom,6519,162,65,6292,1062,46,0,Europe
 2020-03-19,Uruguay,94,0,0,94,15,0,0,Americas
 2020-03-19,Uzbekistan,23,0,0,23,8,0,0,Europe
+2020-03-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-19,Venezuela,42,0,0,42,6,0,0,Americas
 2020-03-19,Vietnam,85,0,16,69,10,0,0,Western Pacific
 2020-03-19,West Bank and Gaza,44,0,0,44,3,0,0,Eastern Mediterranean
@@ -12205,6 +12263,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-20,United Kingdom,7777,194,65,7518,1258,32,0,Europe
 2020-03-20,Uruguay,110,0,0,110,16,0,0,Americas
 2020-03-20,Uzbekistan,33,0,0,33,10,0,0,Europe
+2020-03-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-20,Venezuela,42,0,0,42,0,0,0,Americas
 2020-03-20,Vietnam,91,0,16,75,6,0,0,Western Pacific
 2020-03-20,West Bank and Gaza,47,0,17,30,3,0,17,Eastern Mediterranean
@@ -12412,6 +12471,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-21,United Kingdom,8992,252,65,8675,1215,58,0,Europe
 2020-03-21,Uruguay,135,0,0,135,25,0,0,Americas
 2020-03-21,Uzbekistan,43,0,0,43,10,0,0,Europe
+2020-03-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-21,Venezuela,70,0,0,70,28,0,0,Americas
 2020-03-21,Vietnam,94,0,17,77,3,0,1,Western Pacific
 2020-03-21,West Bank and Gaza,48,0,17,31,1,0,0,Eastern Mediterranean
@@ -12619,6 +12679,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-22,United Kingdom,10376,288,65,10023,1384,36,0,Europe
 2020-03-22,Uruguay,158,0,0,158,23,0,0,Americas
 2020-03-22,Uzbekistan,43,0,0,43,0,0,0,Europe
+2020-03-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-22,Venezuela,70,0,15,55,0,0,15,Americas
 2020-03-22,Vietnam,113,0,17,96,19,0,0,Western Pacific
 2020-03-22,West Bank and Gaza,52,0,17,35,4,0,0,Eastern Mediterranean
@@ -12826,6 +12887,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-23,United Kingdom,12723,364,65,12294,2347,76,0,Europe
 2020-03-23,Uruguay,162,0,0,162,4,0,0,Americas
 2020-03-23,Uzbekistan,46,0,0,46,3,0,0,Europe
+2020-03-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-23,Venezuela,77,0,15,62,7,0,0,Americas
 2020-03-23,Vietnam,123,0,17,106,10,0,0,Western Pacific
 2020-03-23,West Bank and Gaza,59,0,17,42,7,0,0,Eastern Mediterranean
@@ -13033,6 +13095,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-24,United Kingdom,15104,512,135,14457,2381,148,70,Europe
 2020-03-24,Uruguay,189,0,0,189,27,0,0,Americas
 2020-03-24,Uzbekistan,50,0,0,50,4,0,0,Europe
+2020-03-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-24,Venezuela,84,0,15,69,7,0,0,Americas
 2020-03-24,Vietnam,134,0,17,117,11,0,0,Western Pacific
 2020-03-24,West Bank and Gaza,59,0,17,42,0,0,0,Eastern Mediterranean
@@ -13240,6 +13303,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-25,United Kingdom,17808,703,135,16970,2704,191,0,Europe
 2020-03-25,Uruguay,217,0,0,217,28,0,0,Americas
 2020-03-25,Uzbekistan,60,0,0,60,10,0,0,Europe
+2020-03-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-25,Venezuela,91,0,15,76,7,0,0,Americas
 2020-03-25,Vietnam,141,0,17,124,7,0,0,Western Pacific
 2020-03-25,West Bank and Gaza,59,0,17,42,0,0,0,Eastern Mediterranean
@@ -13447,6 +13511,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-26,United Kingdom,20922,885,137,19900,3114,182,2,Europe
 2020-03-26,Uruguay,238,0,0,238,21,0,0,Americas
 2020-03-26,Uzbekistan,75,0,0,75,15,0,0,Europe
+2020-03-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-26,Venezuela,107,0,15,92,16,0,0,Americas
 2020-03-26,Vietnam,153,0,20,133,12,0,3,Western Pacific
 2020-03-26,West Bank and Gaza,84,1,17,66,25,1,0,Eastern Mediterranean
@@ -13654,6 +13719,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-27,United Kingdom,24151,1173,137,22841,3229,288,0,Europe
 2020-03-27,Uruguay,274,0,0,274,36,0,0,Americas
 2020-03-27,Uzbekistan,88,1,5,82,13,1,5,Europe
+2020-03-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-27,Venezuela,107,1,31,75,0,1,16,Americas
 2020-03-27,Vietnam,163,0,20,143,10,0,0,Western Pacific
 2020-03-27,West Bank and Gaza,91,1,17,73,7,0,0,Eastern Mediterranean
@@ -13861,6 +13927,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-28,United Kingdom,26985,1465,137,25383,2834,292,0,Europe
 2020-03-28,Uruguay,303,1,0,302,29,1,0,Americas
 2020-03-28,Uzbekistan,104,2,5,97,16,1,0,Europe
+2020-03-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-28,Venezuela,119,2,39,78,12,1,8,Americas
 2020-03-28,Vietnam,174,0,21,153,11,0,1,Western Pacific
 2020-03-28,West Bank and Gaza,98,1,18,79,7,0,1,Eastern Mediterranean
@@ -14068,6 +14135,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-29,United Kingdom,29868,1678,137,28053,2883,213,0,Europe
 2020-03-29,Uruguay,309,1,0,308,6,0,0,Americas
 2020-03-29,Uzbekistan,144,2,7,135,40,0,2,Europe
+2020-03-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-29,Venezuela,119,2,39,78,0,0,0,Americas
 2020-03-29,Vietnam,188,0,25,163,14,0,4,Western Pacific
 2020-03-29,West Bank and Gaza,109,1,18,90,11,0,0,Eastern Mediterranean
@@ -14275,6 +14343,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-30,United Kingdom,34186,2052,137,31997,4318,374,0,Europe
 2020-03-30,Uruguay,320,1,0,319,11,0,0,Americas
 2020-03-30,Uzbekistan,149,2,7,140,5,0,0,Europe
+2020-03-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-30,Venezuela,135,3,39,93,16,1,0,Americas
 2020-03-30,Vietnam,203,0,55,148,15,0,30,Western Pacific
 2020-03-30,West Bank and Gaza,116,1,18,97,7,0,0,Eastern Mediterranean
@@ -14482,6 +14551,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-31,United Kingdom,38717,2456,145,36116,4531,404,8,Europe
 2020-03-31,Uruguay,338,1,41,296,18,0,41,Americas
 2020-03-31,Uzbekistan,172,2,7,163,23,0,0,Europe
+2020-03-31,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-03-31,Venezuela,135,3,39,93,0,0,0,Americas
 2020-03-31,Vietnam,212,0,58,154,9,0,3,Western Pacific
 2020-03-31,West Bank and Gaza,119,1,18,100,3,0,0,Eastern Mediterranean
@@ -14689,6 +14759,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-01,United Kingdom,43670,3129,145,40396,4953,673,0,Europe
 2020-04-01,Uruguay,350,2,62,286,12,1,21,Americas
 2020-04-01,Uzbekistan,181,2,12,167,9,0,5,Europe
+2020-04-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-01,Venezuela,143,3,41,99,8,0,2,Americas
 2020-04-01,Vietnam,218,0,63,155,6,0,5,Western Pacific
 2020-04-01,West Bank and Gaza,134,1,18,115,15,0,0,Eastern Mediterranean
@@ -14896,6 +14967,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-02,United Kingdom,48586,3786,146,44654,4916,657,1,Europe
 2020-04-02,Uruguay,369,4,68,297,19,2,6,Americas
 2020-04-02,Uzbekistan,205,2,25,178,24,0,13,Europe
+2020-04-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-02,Venezuela,146,5,43,98,3,2,2,Americas
 2020-04-02,Vietnam,233,0,75,158,15,0,12,Western Pacific
 2020-04-02,West Bank and Gaza,161,1,18,142,27,0,0,Eastern Mediterranean
@@ -15103,6 +15175,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-03,United Kingdom,53559,4523,162,48874,4973,737,16,Europe
 2020-04-03,Uruguay,386,4,86,296,17,0,18,Americas
 2020-04-03,Uzbekistan,227,2,25,200,22,0,0,Europe
+2020-04-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-03,Venezuela,153,7,52,94,7,2,9,Americas
 2020-04-03,Vietnam,237,0,85,152,4,0,10,Western Pacific
 2020-04-03,West Bank and Gaza,194,1,21,172,33,0,3,Eastern Mediterranean
@@ -15310,6 +15383,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-04,United Kingdom,57621,5280,162,52179,4062,757,0,Europe
 2020-04-04,Uruguay,400,5,93,302,14,1,7,Americas
 2020-04-04,Uzbekistan,266,2,25,239,39,0,0,Europe
+2020-04-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-04,Venezuela,155,7,52,96,2,0,0,Americas
 2020-04-04,Vietnam,240,0,90,150,3,0,5,Western Pacific
 2020-04-04,West Bank and Gaza,217,1,21,195,23,0,0,Eastern Mediterranean
@@ -15517,6 +15591,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-05,United Kingdom,61265,5880,176,55209,3644,600,14,Europe
 2020-04-05,Uruguay,406,6,104,296,6,1,11,Americas
 2020-04-05,Uzbekistan,342,2,30,310,76,0,5,Europe
+2020-04-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-05,Venezuela,159,7,52,100,4,0,0,Americas
 2020-04-05,Vietnam,241,0,90,151,1,0,0,Western Pacific
 2020-04-05,West Bank and Gaza,237,1,25,211,20,0,4,Eastern Mediterranean
@@ -15724,6 +15799,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-06,United Kingdom,66568,6450,234,59884,5303,570,58,Europe
 2020-04-06,Uruguay,415,6,123,286,9,0,19,Americas
 2020-04-06,Uzbekistan,457,2,30,425,115,0,0,Europe
+2020-04-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-06,Venezuela,165,7,65,93,6,0,13,Americas
 2020-04-06,Vietnam,245,0,95,150,4,0,5,Western Pacific
 2020-04-06,West Bank and Gaza,254,1,24,229,17,0,-1,Eastern Mediterranean
@@ -15931,6 +16007,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-07,United Kingdom,72041,7555,259,64227,5473,1105,25,Europe
 2020-04-07,Uruguay,424,7,150,267,9,1,27,Americas
 2020-04-07,Uzbekistan,520,2,30,488,63,0,0,Europe
+2020-04-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-07,Venezuela,165,7,65,93,0,0,0,Americas
 2020-04-07,Vietnam,249,0,123,126,4,0,28,Western Pacific
 2020-04-07,West Bank and Gaza,261,1,42,218,7,0,18,Eastern Mediterranean
@@ -16138,6 +16215,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-08,United Kingdom,77194,8587,278,68329,5153,1032,19,Europe
 2020-04-08,Uruguay,456,7,192,257,32,0,42,Americas
 2020-04-08,Uzbekistan,545,3,30,512,25,1,0,Europe
+2020-04-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-08,Venezuela,167,9,65,93,2,2,0,Americas
 2020-04-08,Vietnam,251,0,126,125,2,0,3,Western Pacific
 2020-04-08,West Bank and Gaza,263,1,44,218,2,0,2,Eastern Mediterranean
@@ -16345,6 +16423,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-09,United Kingdom,82097,9704,292,72101,4903,1117,14,Europe
 2020-04-09,Uruguay,473,7,206,260,17,0,14,Americas
 2020-04-09,Uzbekistan,582,3,38,541,37,0,8,Europe
+2020-04-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-09,Venezuela,171,9,84,78,4,0,19,Americas
 2020-04-09,Vietnam,255,0,128,127,4,0,2,Western Pacific
 2020-04-09,West Bank and Gaza,263,1,44,218,0,0,0,Eastern Mediterranean
@@ -16552,6 +16631,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-10,United Kingdom,86460,10827,512,75121,4363,1123,220,Europe
 2020-04-10,Uruguay,494,7,214,273,21,0,8,Americas
 2020-04-10,Uzbekistan,624,3,42,579,42,0,4,Europe
+2020-04-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-10,Venezuela,171,9,84,78,0,0,0,Americas
 2020-04-10,Vietnam,257,0,144,113,2,0,16,Western Pacific
 2020-04-10,West Bank and Gaza,267,2,45,220,4,1,1,Eastern Mediterranean
@@ -16759,6 +16839,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-11,United Kingdom,90071,11671,529,77871,3611,844,17,Europe
 2020-04-11,Uruguay,501,7,224,270,7,0,10,Americas
 2020-04-11,Uzbekistan,767,4,42,721,143,1,0,Europe
+2020-04-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-11,Venezuela,175,9,93,73,4,0,9,Americas
 2020-04-11,Vietnam,258,0,144,114,1,0,0,Western Pacific
 2020-04-11,West Bank and Gaza,268,2,57,209,1,0,12,Eastern Mediterranean
@@ -16966,6 +17047,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-12,United Kingdom,93601,12328,533,80740,3530,657,4,Europe
 2020-04-12,Uruguay,480,7,231,242,0,0,7,Americas
 2020-04-12,Uzbekistan,865,4,66,795,98,0,24,Europe
+2020-04-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-12,Venezuela,181,9,93,79,6,0,0,Americas
 2020-04-12,Vietnam,262,0,144,118,4,0,0,Western Pacific
 2020-04-12,West Bank and Gaza,271,2,58,211,3,0,1,Eastern Mediterranean
@@ -17173,6 +17255,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-13,United Kingdom,97803,13053,209,84541,4202,725,-324,Europe
 2020-04-13,Uruguay,483,8,248,227,3,1,17,Americas
 2020-04-13,Uzbekistan,998,4,85,909,133,0,19,Europe
+2020-04-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-13,Venezuela,189,9,110,70,8,0,17,Americas
 2020-04-13,Vietnam,265,0,146,119,3,0,2,Western Pacific
 2020-04-13,West Bank and Gaza,273,2,58,213,2,0,0,Eastern Mediterranean
@@ -17380,6 +17463,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-14,United Kingdom,102144,14133,219,87792,4341,1080,10,Europe
 2020-04-14,Uruguay,492,8,260,224,9,0,12,Americas
 2020-04-14,Uzbekistan,1165,4,99,1062,167,0,14,Europe
+2020-04-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-14,Venezuela,189,9,110,70,0,0,0,Americas
 2020-04-14,Vietnam,266,0,169,97,1,0,23,Western Pacific
 2020-04-14,West Bank and Gaza,284,2,62,220,11,0,4,Eastern Mediterranean
@@ -17587,6 +17671,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-15,United Kingdom,107242,15017,253,91972,5098,884,34,Europe
 2020-04-15,Uruguay,493,9,272,212,1,1,12,Americas
 2020-04-15,Uzbekistan,1302,4,107,1191,137,0,8,Europe
+2020-04-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-15,Venezuela,197,9,111,77,8,0,1,Americas
 2020-04-15,Vietnam,267,0,171,96,1,0,2,Western Pacific
 2020-04-15,West Bank and Gaza,291,2,63,226,7,0,1,Eastern Mediterranean
@@ -17794,6 +17879,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-16,United Kingdom,112578,16057,260,96261,5336,1040,7,Europe
 2020-04-16,Uruguay,502,9,286,207,9,0,14,Americas
 2020-04-16,Uzbekistan,1349,4,129,1216,47,0,22,Europe
+2020-04-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-16,Venezuela,204,9,111,84,7,0,0,Americas
 2020-04-16,Vietnam,268,0,177,91,1,0,6,Western Pacific
 2020-04-16,West Bank and Gaza,294,2,63,229,3,0,0,Eastern Mediterranean
@@ -18001,6 +18087,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-17,United Kingdom,117565,16971,277,100317,4987,914,17,Europe
 2020-04-17,Uruguay,508,9,294,205,6,0,8,Americas
 2020-04-17,Uzbekistan,1405,4,156,1245,56,0,27,Europe
+2020-04-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-17,Venezuela,204,9,111,84,0,0,0,Americas
 2020-04-17,Vietnam,268,0,198,70,0,0,21,Western Pacific
 2020-04-17,West Bank and Gaza,307,2,69,236,13,0,6,Eastern Mediterranean
@@ -18208,6 +18295,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-18,United Kingdom,122301,18079,288,103934,4736,1108,11,Europe
 2020-04-18,Uruguay,517,9,298,210,9,0,4,Americas
 2020-04-18,Uzbekistan,1490,5,194,1291,85,1,38,Europe
+2020-04-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-18,Venezuela,227,9,113,105,23,0,2,Americas
 2020-04-18,Vietnam,268,0,201,67,0,0,3,Western Pacific
 2020-04-18,West Bank and Gaza,313,2,69,242,6,0,0,Eastern Mediterranean
@@ -18415,6 +18503,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-19,United Kingdom,126161,18511,301,107349,3860,432,13,Europe
 2020-04-19,Uruguay,528,10,298,220,11,1,0,Americas
 2020-04-19,Uzbekistan,1565,5,225,1335,75,0,31,Europe
+2020-04-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-19,Venezuela,256,9,117,130,29,0,4,Americas
 2020-04-19,Vietnam,268,0,202,66,0,0,1,Western Pacific
 2020-04-19,West Bank and Gaza,319,2,71,246,6,0,2,Eastern Mediterranean
@@ -18622,6 +18711,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-20,United Kingdom,131021,19087,310,111624,4860,576,9,Europe
 2020-04-20,Uruguay,535,10,313,212,7,0,15,Americas
 2020-04-20,Uzbekistan,1627,5,261,1361,62,0,36,Europe
+2020-04-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-20,Venezuela,256,9,117,130,0,0,0,Americas
 2020-04-20,Vietnam,268,0,214,54,0,0,12,Western Pacific
 2020-04-20,West Bank and Gaza,329,2,71,256,10,0,0,Eastern Mediterranean
@@ -18829,6 +18919,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-21,United Kingdom,135796,20311,502,114983,4775,1224,192,Europe
 2020-04-21,Uruguay,543,12,324,207,8,2,11,Americas
 2020-04-21,Uzbekistan,1678,6,357,1315,51,1,96,Europe
+2020-04-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-21,Venezuela,285,10,117,158,29,1,0,Americas
 2020-04-21,Vietnam,268,0,216,52,0,0,2,Western Pacific
 2020-04-21,West Bank and Gaza,329,2,71,256,0,0,0,Eastern Mediterranean
@@ -19036,6 +19127,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-22,United Kingdom,141301,21168,536,119597,5505,857,34,Europe
 2020-04-22,Uruguay,549,12,337,200,6,0,13,Americas
 2020-04-22,Uzbekistan,1716,7,450,1259,38,1,93,Europe
+2020-04-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-22,Venezuela,288,10,122,156,3,0,5,Americas
 2020-04-22,Vietnam,268,0,223,45,0,0,7,Western Pacific
 2020-04-22,West Bank and Gaza,335,2,71,262,6,0,0,Eastern Mediterranean
@@ -19243,6 +19335,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-23,United Kingdom,146467,21852,555,124060,5166,684,19,Europe
 2020-04-23,Uruguay,557,12,354,191,8,0,17,Americas
 2020-04-23,Uzbekistan,1758,7,561,1190,42,0,111,Europe
+2020-04-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-23,Venezuela,311,10,126,175,23,0,4,Americas
 2020-04-23,Vietnam,268,0,224,44,0,0,1,Western Pacific
 2020-04-23,West Bank and Gaza,336,2,74,260,1,0,3,Eastern Mediterranean
@@ -19450,6 +19543,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-24,United Kingdom,151443,22869,564,128010,4976,1017,9,Europe
 2020-04-24,Uruguay,563,12,369,182,6,0,15,Americas
 2020-04-24,Uzbekistan,1804,8,621,1175,46,1,60,Europe
+2020-04-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-24,Venezuela,318,10,132,176,7,0,6,Americas
 2020-04-24,Vietnam,270,0,220,50,2,0,-4,Western Pacific
 2020-04-24,West Bank and Gaza,340,2,81,257,4,0,7,Eastern Mediterranean
@@ -19657,6 +19751,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-25,United Kingdom,155203,23685,614,130904,3760,816,50,Europe
 2020-04-25,Uruguay,596,14,370,212,33,2,1,Americas
 2020-04-25,Uzbekistan,1862,8,707,1147,58,0,86,Europe
+2020-04-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-25,Venezuela,323,10,132,181,5,0,0,Americas
 2020-04-25,Vietnam,270,0,225,45,0,0,5,Western Pacific
 2020-04-25,West Bank and Gaza,342,2,83,257,2,0,2,Eastern Mediterranean
@@ -19864,6 +19959,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-26,United Kingdom,158671,24049,618,134004,3468,364,4,Europe
 2020-04-26,Uruguay,606,15,375,216,10,1,5,Americas
 2020-04-26,Uzbekistan,1869,8,789,1072,7,0,82,Europe
+2020-04-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-26,Venezuela,325,10,137,178,2,0,5,Americas
 2020-04-26,Vietnam,270,0,225,45,0,0,0,Western Pacific
 2020-04-26,West Bank and Gaza,342,2,83,257,0,0,0,Eastern Mediterranean
@@ -20071,6 +20167,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-27,United Kingdom,163374,24372,644,138358,4703,323,26,Europe
 2020-04-27,Uruguay,620,15,386,219,14,0,11,Americas
 2020-04-27,Uzbekistan,1904,8,892,1004,35,0,103,Europe
+2020-04-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-27,Venezuela,329,10,142,177,4,0,5,Americas
 2020-04-27,Vietnam,270,0,225,45,0,0,0,Western Pacific
 2020-04-27,West Bank and Gaza,342,2,83,257,0,0,0,Eastern Mediterranean
@@ -20278,6 +20375,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-28,United Kingdom,168101,25343,648,142110,4727,971,4,Europe
 2020-04-28,Uruguay,625,15,394,216,5,0,8,Americas
 2020-04-28,Uzbekistan,1939,8,992,939,35,0,100,Europe
+2020-04-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-28,Venezuela,329,10,142,177,0,0,0,Americas
 2020-04-28,Vietnam,270,0,222,48,0,0,-3,Western Pacific
 2020-04-28,West Bank and Gaza,343,2,71,270,1,0,-12,Eastern Mediterranean
@@ -20485,6 +20583,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-29,United Kingdom,173548,26114,692,146742,5447,771,44,Europe
 2020-04-29,Uruguay,630,15,412,203,5,0,18,Americas
 2020-04-29,Uzbekistan,2002,9,1096,897,63,1,104,Europe
+2020-04-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-29,Venezuela,331,10,142,179,2,0,0,Americas
 2020-04-29,Vietnam,270,0,222,48,0,0,0,Western Pacific
 2020-04-29,West Bank and Gaza,344,2,71,271,1,0,0,Eastern Mediterranean
@@ -20692,6 +20791,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-04-30,United Kingdom,178509,26750,694,151065,4961,636,2,Europe
 2020-04-30,Uruguay,643,17,417,209,13,2,5,Americas
 2020-04-30,Uzbekistan,2039,9,1133,897,37,0,37,Europe
+2020-04-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-04-30,Venezuela,333,16,142,175,2,6,0,Americas
 2020-04-30,Vietnam,270,0,219,51,0,0,-3,Western Pacific
 2020-04-30,West Bank and Gaza,344,2,76,266,0,0,5,Eastern Mediterranean
@@ -20899,6 +20999,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-01,United Kingdom,183238,27450,725,155063,4729,700,31,Europe
 2020-05-01,Uruguay,648,17,435,196,5,0,18,Americas
 2020-05-01,Uzbekistan,2086,9,1212,865,47,0,79,Europe
+2020-05-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-01,Venezuela,335,10,148,177,2,-6,6,Americas
 2020-05-01,Vietnam,270,0,219,51,0,0,0,Western Pacific
 2020-05-01,West Bank and Gaza,353,2,76,275,9,0,0,Eastern Mediterranean
@@ -21106,6 +21207,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-02,United Kingdom,186468,28035,728,157705,3230,585,3,Europe
 2020-05-02,Uruguay,652,17,440,195,4,0,5,Americas
 2020-05-02,Uzbekistan,2118,9,1271,838,32,0,59,Europe
+2020-05-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-02,Venezuela,345,10,148,187,10,0,0,Americas
 2020-05-02,Vietnam,270,0,219,51,0,0,0,Western Pacific
 2020-05-02,West Bank and Gaza,353,2,76,275,0,0,0,Eastern Mediterranean
@@ -21313,6 +21415,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-03,United Kingdom,189445,28288,728,160429,2977,253,0,Europe
 2020-05-03,Uruguay,655,17,442,196,3,0,2,Americas
 2020-05-03,Uzbekistan,2149,10,1319,820,31,1,48,Europe
+2020-05-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-03,Venezuela,357,10,158,189,12,0,10,Americas
 2020-05-03,Vietnam,271,0,219,52,1,0,0,Western Pacific
 2020-05-03,West Bank and Gaza,353,2,77,274,0,0,1,Eastern Mediterranean
@@ -21520,6 +21623,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-04,United Kingdom,192827,28561,731,163535,3382,273,3,Europe
 2020-05-04,Uruguay,657,17,447,193,2,0,5,Americas
 2020-05-04,Uzbekistan,2189,10,1405,774,40,0,86,Europe
+2020-05-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-04,Venezuela,357,10,158,189,0,0,0,Americas
 2020-05-04,Vietnam,271,0,219,52,0,0,0,Western Pacific
 2020-05-04,West Bank and Gaza,362,2,102,258,9,0,25,Eastern Mediterranean
@@ -21727,6 +21831,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-05,United Kingdom,196513,29286,731,166496,3686,725,0,Europe
 2020-05-05,Uruguay,670,17,468,185,13,0,21,Americas
 2020-05-05,Uzbekistan,2207,10,1501,696,18,0,96,Europe
+2020-05-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-05,Venezuela,361,10,158,193,4,0,0,Americas
 2020-05-05,Vietnam,271,0,232,39,0,0,13,Western Pacific
 2020-05-05,West Bank and Gaza,371,2,127,242,9,0,25,Eastern Mediterranean
@@ -21934,6 +22039,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-06,United Kingdom,200348,29933,736,169679,3835,647,5,Europe
 2020-05-06,Uruguay,673,17,486,170,3,0,18,Americas
 2020-05-06,Uzbekistan,2233,10,1577,646,26,0,76,Europe
+2020-05-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-06,Venezuela,379,10,176,193,18,0,18,Americas
 2020-05-06,Vietnam,271,0,232,39,0,0,0,Western Pacific
 2020-05-06,West Bank and Gaza,374,2,174,198,3,0,47,Eastern Mediterranean
@@ -22141,6 +22247,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-07,United Kingdom,204117,30391,762,172964,3769,458,26,Europe
 2020-05-07,Uruguay,684,17,492,175,11,0,6,Americas
 2020-05-07,Uzbekistan,2298,10,1656,632,65,0,79,Europe
+2020-05-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-07,Venezuela,381,10,185,186,2,0,9,Americas
 2020-05-07,Vietnam,288,0,233,55,17,0,1,Western Pacific
 2020-05-07,West Bank and Gaza,375,2,176,197,1,0,2,Eastern Mediterranean
@@ -22348,6 +22455,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-08,United Kingdom,207166,30971,779,175416,3049,580,17,Europe
 2020-05-08,Uruguay,694,18,506,170,10,1,14,Americas
 2020-05-08,Uzbekistan,2325,10,1775,540,27,0,119,Europe
+2020-05-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-08,Venezuela,388,10,190,188,7,0,5,Americas
 2020-05-08,Vietnam,288,0,241,47,0,0,8,Western Pacific
 2020-05-08,West Bank and Gaza,375,2,228,145,0,0,52,Eastern Mediterranean
@@ -22555,6 +22663,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-09,United Kingdom,209316,31246,782,177288,2150,275,3,Europe
 2020-05-09,Uruguay,702,18,513,171,8,0,7,Americas
 2020-05-09,Uzbekistan,2349,10,1846,493,24,0,71,Europe
+2020-05-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-09,Venezuela,402,10,190,202,14,0,0,Americas
 2020-05-09,Vietnam,288,0,241,47,0,0,0,Western Pacific
 2020-05-09,West Bank and Gaza,375,2,228,145,0,0,0,Eastern Mediterranean
@@ -22762,6 +22871,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-10,United Kingdom,211638,31463,782,179393,2322,217,0,Europe
 2020-05-10,Uruguay,707,19,517,171,5,1,4,Americas
 2020-05-10,Uzbekistan,2418,10,1881,527,69,0,35,Europe
+2020-05-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-10,Venezuela,414,10,193,211,12,0,3,Americas
 2020-05-10,Vietnam,288,0,241,47,0,0,0,Western Pacific
 2020-05-10,West Bank and Gaza,375,2,263,110,0,0,35,Eastern Mediterranean
@@ -22969,6 +23079,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-11,United Kingdom,215223,31651,789,182783,3585,188,7,Europe
 2020-05-11,Uruguay,711,19,523,169,4,0,6,Americas
 2020-05-11,Uzbekistan,2486,10,1988,488,68,0,107,Europe
+2020-05-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-11,Venezuela,422,10,205,207,8,0,12,Americas
 2020-05-11,Vietnam,288,0,249,39,0,0,8,Western Pacific
 2020-05-11,West Bank and Gaza,375,2,301,72,0,0,38,Eastern Mediterranean
@@ -23176,6 +23287,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-12,United Kingdom,218616,32266,793,185557,3393,615,4,Europe
 2020-05-12,Uruguay,717,19,532,166,6,0,9,Americas
 2020-05-12,Uzbekistan,2519,10,2010,499,33,0,22,Europe
+2020-05-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-12,Venezuela,423,10,220,193,1,0,15,Americas
 2020-05-12,Vietnam,288,0,252,36,0,0,3,Western Pacific
 2020-05-12,West Bank and Gaza,375,2,308,65,0,0,7,Eastern Mediterranean
@@ -23383,6 +23495,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-13,United Kingdom,221916,32714,796,188406,3300,448,3,Europe
 2020-05-13,Uruguay,719,19,545,155,2,0,13,Americas
 2020-05-13,Uzbekistan,2612,11,2076,525,93,1,66,Europe
+2020-05-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-13,Venezuela,423,10,220,193,0,0,0,Americas
 2020-05-13,Vietnam,288,0,252,36,0,0,0,Western Pacific
 2020-05-13,West Bank and Gaza,375,2,310,63,0,0,2,Eastern Mediterranean
@@ -23590,6 +23703,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-14,United Kingdom,224527,33067,807,190653,2611,353,11,Europe
 2020-05-14,Uruguay,724,19,547,158,5,0,2,Americas
 2020-05-14,Uzbekistan,2645,11,2136,498,33,0,60,Europe
+2020-05-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-14,Venezuela,455,10,220,225,32,0,0,Americas
 2020-05-14,Vietnam,312,0,260,52,24,0,8,Western Pacific
 2020-05-14,West Bank and Gaza,375,2,310,63,0,0,0,Eastern Mediterranean
@@ -23797,6 +23911,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-15,United Kingdom,227046,33418,808,192820,2519,351,1,Europe
 2020-05-15,Uruguay,732,19,553,160,8,0,6,Americas
 2020-05-15,Uzbekistan,2686,11,2158,517,41,0,22,Europe
+2020-05-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-15,Venezuela,459,10,229,220,4,0,9,Americas
 2020-05-15,Vietnam,314,0,260,54,2,0,0,Western Pacific
 2020-05-15,West Bank and Gaza,375,2,315,58,0,0,5,Eastern Mediterranean
@@ -24004,6 +24119,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-16,United Kingdom,229118,33829,816,194473,2072,411,8,Europe
 2020-05-16,Uruguay,733,19,558,156,1,0,5,Americas
 2020-05-16,Uzbekistan,2738,11,2213,514,52,0,55,Europe
+2020-05-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-16,Venezuela,504,10,241,253,45,0,12,Americas
 2020-05-16,Vietnam,318,0,260,58,4,0,0,Western Pacific
 2020-05-16,West Bank and Gaza,376,2,329,45,1,0,14,Eastern Mediterranean
@@ -24211,6 +24327,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-17,United Kingdom,230944,33896,816,196232,1826,67,0,Europe
 2020-05-17,Uruguay,734,20,564,150,1,1,6,Americas
 2020-05-17,Uzbekistan,2753,12,2247,494,15,1,34,Europe
+2020-05-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-17,Venezuela,541,10,241,290,37,0,0,Americas
 2020-05-17,Vietnam,320,0,260,60,2,0,0,Western Pacific
 2020-05-17,West Bank and Gaza,381,2,335,44,5,0,6,Eastern Mediterranean
@@ -24418,6 +24535,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-18,United Kingdom,233521,34042,848,198631,2577,146,32,Europe
 2020-05-18,Uruguay,737,20,569,148,3,0,5,Americas
 2020-05-18,Uzbekistan,2791,13,2314,464,38,1,67,Europe
+2020-05-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-18,Venezuela,618,10,253,355,77,0,12,Americas
 2020-05-18,Vietnam,324,0,263,61,4,0,3,Western Pacific
 2020-05-18,West Bank and Gaza,388,2,337,49,7,0,2,Eastern Mediterranean
@@ -24625,6 +24743,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-19,United Kingdom,236562,34543,857,201162,3041,501,9,Europe
 2020-05-19,Uruguay,738,20,579,139,1,0,10,Americas
 2020-05-19,Uzbekistan,2855,13,2338,504,64,0,24,Europe
+2020-05-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-19,Venezuela,749,10,253,486,131,0,0,Americas
 2020-05-19,Vietnam,324,0,263,61,0,0,0,Western Pacific
 2020-05-19,West Bank and Gaza,391,2,346,43,3,0,9,Eastern Mediterranean
@@ -24832,6 +24951,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-20,United Kingdom,239272,34872,874,203526,2710,329,17,Europe
 2020-05-20,Uruguay,746,20,588,138,8,0,9,Americas
 2020-05-20,Uzbekistan,2939,13,2372,554,84,0,34,Europe
+2020-05-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-20,Venezuela,824,10,262,552,75,0,9,Americas
 2020-05-20,Vietnam,324,0,263,61,0,0,0,Western Pacific
 2020-05-20,West Bank and Gaza,398,2,346,50,7,0,0,Eastern Mediterranean
@@ -25039,6 +25159,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-21,United Kingdom,241814,35145,891,205778,2542,273,17,Europe
 2020-05-21,Uruguay,749,20,594,135,3,0,6,Americas
 2020-05-21,Uzbekistan,2964,13,2407,544,25,0,35,Europe
+2020-05-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-21,Venezuela,882,10,262,610,58,0,0,Americas
 2020-05-21,Vietnam,324,0,266,58,0,0,3,Western Pacific
 2020-05-21,West Bank and Gaza,423,2,346,75,25,0,0,Eastern Mediterranean
@@ -25246,6 +25367,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-22,United Kingdom,243847,35436,892,207519,2033,291,1,Europe
 2020-05-22,Uruguay,753,20,603,130,4,0,9,Americas
 2020-05-22,Uzbekistan,3028,13,2492,523,64,0,85,Europe
+2020-05-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-22,Venezuela,944,10,262,672,62,0,0,Americas
 2020-05-22,Vietnam,324,0,267,57,0,0,1,Western Pacific
 2020-05-22,West Bank and Gaza,423,2,346,75,0,0,0,Eastern Mediterranean
@@ -25453,6 +25575,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-23,United Kingdom,245354,35656,899,208799,1507,220,7,Europe
 2020-05-23,Uruguay,764,22,616,126,11,2,13,Americas
 2020-05-23,Uzbekistan,3115,13,2532,570,87,0,40,Europe
+2020-05-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-23,Venezuela,1010,10,262,738,66,0,0,Americas
 2020-05-23,Vietnam,325,0,267,58,1,0,0,Western Pacific
 2020-05-23,West Bank and Gaza,423,3,348,72,0,1,2,Eastern Mediterranean
@@ -25660,6 +25783,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-24,United Kingdom,246707,36035,901,209771,1353,379,2,Europe
 2020-05-24,Uruguay,769,22,618,129,5,0,2,Americas
 2020-05-24,Uzbekistan,3164,13,2565,586,49,0,33,Europe
+2020-05-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-24,Venezuela,1121,10,262,849,111,0,0,Americas
 2020-05-24,Vietnam,325,0,267,58,0,0,0,Western Pacific
 2020-05-24,West Bank and Gaza,423,3,357,63,0,0,9,Eastern Mediterranean
@@ -25867,6 +25991,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-25,United Kingdom,248315,36139,911,211265,1608,104,10,Europe
 2020-05-25,Uruguay,787,22,629,136,18,0,11,Americas
 2020-05-25,Uzbekistan,3189,13,2607,569,25,0,42,Europe
+2020-05-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-25,Venezuela,1177,10,302,865,56,0,40,Americas
 2020-05-25,Vietnam,326,0,272,54,1,0,5,Western Pacific
 2020-05-25,West Bank and Gaza,423,3,357,63,0,0,0,Eastern Mediterranean
@@ -26074,6 +26199,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-26,United Kingdom,249971,36270,909,212792,1656,131,-2,Europe
 2020-05-26,Uruguay,789,22,638,129,2,0,9,Americas
 2020-05-26,Uzbekistan,3290,14,2636,640,101,1,29,Europe
+2020-05-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-26,Venezuela,1211,11,302,898,34,1,0,Americas
 2020-05-26,Vietnam,327,0,272,55,1,0,0,Western Pacific
 2020-05-26,West Bank and Gaza,429,3,365,61,6,0,8,Eastern Mediterranean
@@ -26281,6 +26407,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-27,United Kingdom,251774,36692,909,214173,1803,422,0,Europe
 2020-05-27,Uruguay,803,22,650,131,14,0,12,Americas
 2020-05-27,Uzbekistan,3369,14,2668,687,79,0,32,Europe
+2020-05-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-27,Venezuela,1245,11,302,932,34,0,0,Americas
 2020-05-27,Vietnam,327,0,278,49,0,0,6,Western Pacific
 2020-05-27,West Bank and Gaza,434,3,365,66,5,0,0,Eastern Mediterranean
@@ -26488,6 +26615,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-28,United Kingdom,253509,37035,910,215564,1735,343,1,Europe
 2020-05-28,Uruguay,811,22,654,135,8,0,4,Americas
 2020-05-28,Uzbekistan,3444,14,2694,736,75,0,26,Europe
+2020-05-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-28,Venezuela,1325,11,302,1012,80,0,0,Americas
 2020-05-28,Vietnam,327,0,278,49,0,0,0,Western Pacific
 2020-05-28,West Bank and Gaza,446,3,368,75,12,0,3,Eastern Mediterranean
@@ -26695,6 +26823,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-29,United Kingdom,255013,37309,913,216791,1504,274,3,Europe
 2020-05-29,Uruguay,816,22,680,114,5,0,26,Americas
 2020-05-29,Uzbekistan,3468,14,2728,726,24,0,34,Europe
+2020-05-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-29,Venezuela,1370,14,302,1054,45,3,0,Americas
 2020-05-29,Vietnam,328,0,279,49,1,0,1,Western Pacific
 2020-05-29,West Bank and Gaza,446,3,368,75,0,0,0,Eastern Mediterranean
@@ -26902,6 +27031,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-30,United Kingdom,256112,37463,926,217723,1099,154,13,Europe
 2020-05-30,Uruguay,821,22,682,117,5,0,2,Americas
 2020-05-30,Uzbekistan,3546,14,2783,749,78,0,55,Europe
+2020-05-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-30,Venezuela,1459,14,302,1143,89,0,0,Americas
 2020-05-30,Vietnam,328,0,279,49,0,0,0,Western Pacific
 2020-05-30,West Bank and Gaza,447,3,368,76,1,0,0,Eastern Mediterranean
@@ -27109,6 +27239,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-05-31,United Kingdom,257181,37523,929,218729,1069,60,3,Europe
 2020-05-31,Uruguay,823,22,685,116,2,0,3,Americas
 2020-05-31,Uzbekistan,3623,15,2837,771,77,1,54,Europe
+2020-05-31,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-05-31,Venezuela,1510,14,302,1194,51,0,0,Americas
 2020-05-31,Vietnam,328,0,279,49,0,0,0,Western Pacific
 2020-05-31,West Bank and Gaza,448,3,372,73,1,0,4,Eastern Mediterranean
@@ -27316,6 +27447,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-01,United Kingdom,258616,37609,951,220056,1435,86,22,Europe
 2020-06-01,Uruguay,825,23,689,113,2,1,4,Americas
 2020-06-01,Uzbekistan,3702,15,2859,828,79,0,22,Europe
+2020-06-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-01,Venezuela,1662,17,302,1343,152,3,0,Americas
 2020-06-01,Vietnam,328,0,293,35,0,0,14,Western Pacific
 2020-06-01,West Bank and Gaza,449,3,372,74,1,0,0,Eastern Mediterranean
@@ -27523,6 +27655,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-02,United Kingdom,260083,37859,952,221272,1467,250,1,Europe
 2020-06-02,Uruguay,826,23,691,112,1,0,2,Americas
 2020-06-02,Uzbekistan,3760,15,2908,837,58,0,49,Europe
+2020-06-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-02,Venezuela,1819,18,334,1467,157,1,32,Americas
 2020-06-02,Vietnam,328,0,298,30,0,0,5,Western Pacific
 2020-06-02,West Bank and Gaza,451,3,372,76,2,0,0,Eastern Mediterranean
@@ -27730,6 +27863,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-03,United Kingdom,261426,38113,937,222376,1343,254,-15,Europe
 2020-06-03,Uruguay,828,23,698,107,2,0,7,Americas
 2020-06-03,Uzbekistan,3843,16,3014,813,83,1,106,Europe
+2020-06-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-03,Venezuela,1952,20,334,1598,133,2,0,Americas
 2020-06-03,Vietnam,328,0,302,26,0,0,4,Western Pacific
 2020-06-03,West Bank and Gaza,457,3,372,82,6,0,0,Eastern Mediterranean
@@ -27937,6 +28071,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-04,United Kingdom,262660,38243,937,223480,1234,130,0,Europe
 2020-06-04,Uruguay,832,23,709,100,4,0,11,Americas
 2020-06-04,Uzbekistan,3939,16,3087,836,96,0,73,Europe
+2020-06-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-04,Venezuela,2087,20,334,1733,135,0,0,Americas
 2020-06-04,Vietnam,328,0,302,26,0,0,0,Western Pacific
 2020-06-04,West Bank and Gaza,464,3,377,84,7,0,5,Eastern Mediterranean
@@ -28144,6 +28279,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-05,United Kingdom,263765,38501,938,224326,1105,258,1,Europe
 2020-06-05,Uruguay,834,23,721,90,2,0,12,Americas
 2020-06-05,Uzbekistan,4007,16,3247,744,68,0,160,Europe
+2020-06-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-05,Venezuela,2145,20,334,1791,58,0,0,Americas
 2020-06-05,Vietnam,328,0,307,21,0,0,5,Western Pacific
 2020-06-05,West Bank and Gaza,464,3,377,84,0,0,0,Eastern Mediterranean
@@ -28351,6 +28487,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-06,United Kingdom,264558,38644,938,224976,793,143,0,Europe
 2020-06-06,Uruguay,845,23,726,96,11,0,5,Americas
 2020-06-06,Uzbekistan,4094,17,3268,809,87,1,21,Europe
+2020-06-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-06,Venezuela,2316,22,385,1909,171,2,51,Americas
 2020-06-06,Vietnam,329,0,307,22,1,0,0,Western Pacific
 2020-06-06,West Bank and Gaza,464,3,400,61,0,0,23,Eastern Mediterranean
@@ -28558,6 +28695,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-07,United Kingdom,265275,38698,938,225639,717,54,0,Europe
 2020-06-07,Uruguay,845,23,730,92,0,0,4,Americas
 2020-06-07,Uzbekistan,4331,17,3354,960,237,0,86,Europe
+2020-06-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-07,Venezuela,2377,22,487,1868,61,0,102,Americas
 2020-06-07,Vietnam,331,0,307,24,2,0,0,Western Pacific
 2020-06-07,West Bank and Gaza,472,3,403,66,8,0,3,Eastern Mediterranean
@@ -28765,6 +28903,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-08,United Kingdom,266362,38745,944,226673,1087,47,6,Europe
 2020-06-08,Uruguay,845,23,738,84,0,0,8,Americas
 2020-06-08,Uzbekistan,4440,18,3357,1065,109,1,3,Europe
+2020-06-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-08,Venezuela,2473,22,487,1964,96,0,0,Americas
 2020-06-08,Vietnam,332,0,316,16,1,0,9,Western Pacific
 2020-06-08,West Bank and Gaza,473,3,404,66,1,0,1,Eastern Mediterranean
@@ -28972,6 +29111,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-09,United Kingdom,267516,38942,944,227630,1154,197,0,Europe
 2020-06-09,Uruguay,846,23,754,69,1,0,16,Americas
 2020-06-09,Uzbekistan,4520,18,3459,1043,80,0,102,Europe
+2020-06-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-09,Venezuela,2632,23,487,2122,159,1,0,Americas
 2020-06-09,Vietnam,332,0,316,16,0,0,0,Western Pacific
 2020-06-09,West Bank and Gaza,481,3,404,74,8,0,0,Eastern Mediterranean
@@ -29179,6 +29319,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-10,United Kingdom,268698,39106,949,228643,1182,164,5,Europe
 2020-06-10,Uruguay,847,23,758,66,1,0,4,Americas
 2020-06-10,Uzbekistan,4623,19,3532,1072,103,1,73,Europe
+2020-06-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-10,Venezuela,2738,23,487,2228,106,0,0,Americas
 2020-06-10,Vietnam,332,0,320,12,0,0,4,Western Pacific
 2020-06-10,West Bank and Gaza,485,3,410,72,4,0,6,Eastern Mediterranean
@@ -29386,6 +29527,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-11,United Kingdom,269699,39182,951,229566,1001,76,2,Europe
 2020-06-11,Uruguay,847,23,772,52,0,0,14,Americas
 2020-06-11,Uzbekistan,4741,19,3637,1085,118,0,105,Europe
+2020-06-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-11,Venezuela,2814,23,487,2304,76,0,0,Americas
 2020-06-11,Vietnam,332,0,321,11,0,0,1,Western Pacific
 2020-06-11,West Bank and Gaza,487,3,410,74,2,0,0,Eastern Mediterranean
@@ -29593,6 +29735,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-12,United Kingdom,270752,39313,951,230488,1053,131,0,Europe
 2020-06-12,Uruguay,847,23,780,44,0,0,8,Americas
 2020-06-12,Uzbekistan,4869,19,3758,1092,128,0,121,Europe
+2020-06-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-12,Venezuela,2879,23,487,2369,65,0,0,Americas
 2020-06-12,Vietnam,333,0,323,10,1,0,2,Western Pacific
 2020-06-12,West Bank and Gaza,489,3,414,72,2,0,4,Eastern Mediterranean
@@ -29800,6 +29943,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-13,United Kingdom,271640,39420,951,231269,888,107,0,Europe
 2020-06-13,Uruguay,847,23,784,40,0,0,4,Americas
 2020-06-13,Uzbekistan,4966,19,3874,1073,97,0,116,Europe
+2020-06-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-13,Venezuela,2904,24,487,2393,25,1,0,Americas
 2020-06-13,Vietnam,334,0,323,11,1,0,0,Western Pacific
 2020-06-13,West Bank and Gaza,489,3,415,71,0,0,1,Eastern Mediterranean
@@ -30007,6 +30151,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-14,United Kingdom,272447,39447,951,232049,807,27,0,Europe
 2020-06-14,Uruguay,848,23,788,37,1,0,4,Americas
 2020-06-14,Uzbekistan,5080,19,3943,1118,114,0,69,Europe
+2020-06-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-14,Venezuela,2978,25,835,2118,74,1,348,Americas
 2020-06-14,Vietnam,334,0,323,11,0,0,0,Western Pacific
 2020-06-14,West Bank and Gaza,492,3,415,74,3,0,0,Eastern Mediterranean
@@ -30214,6 +30359,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-15,United Kingdom,273478,39476,951,233051,1031,29,0,Europe
 2020-06-15,Uruguay,848,23,792,33,0,0,4,Americas
 2020-06-15,Uzbekistan,5263,19,4019,1225,183,0,76,Europe
+2020-06-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-15,Venezuela,3062,26,835,2201,84,1,0,Americas
 2020-06-15,Vietnam,334,0,323,11,0,0,0,Western Pacific
 2020-06-15,West Bank and Gaza,505,3,415,87,13,0,0,Eastern Mediterranean
@@ -30421,6 +30567,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-16,United Kingdom,274555,39596,952,234007,1077,120,1,Europe
 2020-06-16,Uruguay,849,24,801,24,1,1,9,Americas
 2020-06-16,Uzbekistan,5493,19,4096,1378,230,0,77,Europe
+2020-06-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-16,Venezuela,3150,27,835,2288,88,1,0,Americas
 2020-06-16,Vietnam,334,0,325,9,0,0,2,Western Pacific
 2020-06-16,West Bank and Gaza,514,3,415,96,9,0,0,Eastern Mediterranean
@@ -30628,6 +30775,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-17,United Kingdom,275554,39706,952,234896,999,110,0,Europe
 2020-06-17,Uruguay,849,24,810,15,0,0,9,Americas
 2020-06-17,Uzbekistan,5682,19,4131,1532,189,0,35,Europe
+2020-06-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-17,Venezuela,3386,28,835,2523,236,1,0,Americas
 2020-06-17,Vietnam,335,0,325,10,1,0,0,Western Pacific
 2020-06-17,West Bank and Gaza,555,3,415,137,41,0,0,Eastern Mediterranean
@@ -30835,6 +30983,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-18,United Kingdom,276574,39773,952,235849,1020,67,0,Europe
 2020-06-18,Uruguay,850,24,814,12,1,0,4,Americas
 2020-06-18,Uzbekistan,5767,19,4166,1582,85,0,35,Europe
+2020-06-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-18,Venezuela,3483,28,835,2620,97,0,0,Americas
 2020-06-18,Vietnam,342,0,325,17,7,0,0,Western Pacific
 2020-06-18,West Bank and Gaza,600,3,415,182,45,0,0,Eastern Mediterranean
@@ -31042,6 +31191,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-19,United Kingdom,277556,39857,956,236743,982,84,4,Europe
 2020-06-19,Uruguay,853,24,814,15,3,0,0,Americas
 2020-06-19,Uzbekistan,5946,19,4273,1654,179,0,107,Europe
+2020-06-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-19,Venezuela,3591,30,835,2726,108,2,0,Americas
 2020-06-19,Vietnam,349,0,326,23,7,0,1,Western Pacific
 2020-06-19,West Bank and Gaza,675,3,437,235,75,0,22,Eastern Mediterranean
@@ -31249,6 +31399,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-20,United Kingdom,278222,39928,956,237338,666,71,0,Europe
 2020-06-20,Uruguay,859,25,815,19,6,1,1,Americas
 2020-06-20,Uzbekistan,6153,19,4290,1844,207,0,17,Europe
+2020-06-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-20,Venezuela,3789,33,835,2921,198,3,0,Americas
 2020-06-20,Vietnam,349,0,327,22,0,0,1,Western Pacific
 2020-06-20,West Bank and Gaza,784,3,437,344,109,0,0,Eastern Mediterranean
@@ -31456,6 +31607,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-21,United Kingdom,278844,39959,956,237929,622,31,0,Europe
 2020-06-21,Uruguay,876,25,814,37,17,0,-1,Americas
 2020-06-21,Uzbekistan,6315,19,4377,1919,162,0,87,Europe
+2020-06-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-21,Venezuela,3917,33,835,3049,128,0,0,Americas
 2020-06-21,Vietnam,349,0,327,22,0,0,0,Western Pacific
 2020-06-21,West Bank and Gaza,833,3,439,391,49,0,2,Eastern Mediterranean
@@ -31663,6 +31815,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-22,United Kingdom,279736,39972,956,238808,892,13,0,Europe
 2020-06-22,Uruguay,882,25,815,42,6,0,1,Americas
 2020-06-22,Uzbekistan,6461,19,4450,1992,146,0,73,Europe
+2020-06-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-22,Venezuela,4048,35,1327,2686,131,2,492,Americas
 2020-06-22,Vietnam,349,0,328,21,0,0,1,Western Pacific
 2020-06-22,West Bank and Gaza,1001,3,442,556,168,0,3,Eastern Mediterranean
@@ -31870,6 +32023,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-23,United Kingdom,280618,40066,956,239596,882,94,0,Europe
 2020-06-23,Uruguay,885,25,815,45,3,0,0,Americas
 2020-06-23,Uzbekistan,6662,19,4560,2083,201,0,110,Europe
+2020-06-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-23,Venezuela,4187,35,1327,2825,139,0,0,Americas
 2020-06-23,Vietnam,349,0,329,20,0,0,1,Western Pacific
 2020-06-23,West Bank and Gaza,1169,3,442,724,168,0,0,Eastern Mediterranean
@@ -32077,6 +32231,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-24,United Kingdom,281393,40153,956,240284,775,87,0,Europe
 2020-06-24,Uruguay,902,26,815,61,17,1,0,Americas
 2020-06-24,Uzbekistan,6990,19,4685,2286,328,0,125,Europe
+2020-06-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-24,Venezuela,4366,38,1327,3001,179,3,0,Americas
 2020-06-24,Vietnam,352,0,329,23,3,0,0,Western Pacific
 2020-06-24,West Bank and Gaza,1328,3,442,883,159,0,0,Eastern Mediterranean
@@ -32284,6 +32439,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-25,United Kingdom,282090,40252,957,240881,697,99,1,Europe
 2020-06-25,Uruguay,907,26,818,63,5,0,3,Americas
 2020-06-25,Uzbekistan,7177,20,4877,2280,187,1,192,Europe
+2020-06-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-25,Venezuela,4563,39,1327,3197,197,1,0,Americas
 2020-06-25,Vietnam,352,0,329,23,0,0,0,Western Pacific
 2020-06-25,West Bank and Gaza,1382,3,446,933,54,0,4,Eastern Mediterranean
@@ -32491,6 +32647,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-26,United Kingdom,282728,40329,957,241442,638,77,0,Europe
 2020-06-26,Uruguay,919,26,818,75,12,0,0,Americas
 2020-06-26,Uzbekistan,7427,20,5038,2369,250,0,161,Europe
+2020-06-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-26,Venezuela,4779,41,1327,3411,216,2,0,Americas
 2020-06-26,Vietnam,353,0,330,23,1,0,1,Western Pacific
 2020-06-26,West Bank and Gaza,1557,3,446,1108,175,0,0,Eastern Mediterranean
@@ -32698,6 +32855,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-27,United Kingdom,283361,40369,958,242034,633,40,1,Europe
 2020-06-27,Uruguay,924,26,818,80,5,0,0,Americas
 2020-06-27,Uzbekistan,7682,20,5240,2422,255,0,202,Europe
+2020-06-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-27,Venezuela,5130,42,1327,3761,351,1,0,Americas
 2020-06-27,Vietnam,355,0,330,25,2,0,0,Western Pacific
 2020-06-27,West Bank and Gaza,1815,4,446,1365,258,1,0,Eastern Mediterranean
@@ -32905,6 +33063,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-28,United Kingdom,283756,40400,958,242398,395,31,0,Europe
 2020-06-28,Uruguay,929,27,818,84,5,1,0,Americas
 2020-06-28,Uzbekistan,7948,22,5329,2597,266,2,89,Europe
+2020-06-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-28,Venezuela,5297,44,1649,3604,167,2,322,Americas
 2020-06-28,Vietnam,355,0,330,25,0,0,0,Western Pacific
 2020-06-28,West Bank and Gaza,1990,4,447,1539,175,0,1,Eastern Mediterranean
@@ -33112,6 +33271,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-29,United Kingdom,284360,40421,959,242980,604,21,1,Europe
 2020-06-29,Uruguay,932,27,822,83,3,0,4,Americas
 2020-06-29,Uzbekistan,8222,23,5496,2703,274,1,167,Europe
+2020-06-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-29,Venezuela,5530,48,1649,3833,233,4,0,Americas
 2020-06-29,Vietnam,355,0,335,20,0,0,5,Western Pacific
 2020-06-29,West Bank and Gaza,2185,5,447,1733,195,1,0,Eastern Mediterranean
@@ -33319,6 +33479,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-06-30,United Kingdom,284763,40474,959,243330,403,53,0,Europe
 2020-06-30,Uruguay,936,27,824,85,4,0,2,Americas
 2020-06-30,Uzbekistan,8503,26,5682,2795,281,3,186,Europe
+2020-06-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-06-30,Venezuela,5832,51,1649,4132,302,3,0,Americas
 2020-06-30,Vietnam,355,0,335,20,0,0,0,Western Pacific
 2020-06-30,West Bank and Gaza,2428,8,451,1969,243,3,4,Eastern Mediterranean
@@ -33526,6 +33687,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-01,United Kingdom,284823,40571,959,243293,60,97,0,Europe
 2020-07-01,Uruguay,943,28,825,90,7,1,1,Americas
 2020-07-01,Uzbekistan,8781,26,5847,2908,278,0,165,Europe
+2020-07-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-01,Venezuela,6062,54,1649,4359,230,3,0,Americas
 2020-07-01,Vietnam,355,0,336,19,0,0,1,Western Pacific
 2020-07-01,West Bank and Gaza,2758,8,460,2290,330,0,9,Eastern Mediterranean
@@ -33733,6 +33895,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-02,United Kingdom,284827,40612,959,243256,4,41,0,Europe
 2020-07-02,Uruguay,947,28,828,91,4,0,3,Americas
 2020-07-02,Uzbekistan,9078,27,6034,3017,297,1,187,Europe
+2020-07-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-02,Venezuela,6273,57,2100,4116,211,3,451,Americas
 2020-07-02,Vietnam,355,0,340,15,0,0,4,Western Pacific
 2020-07-02,West Bank and Gaza,3080,9,460,2611,322,1,0,Eastern Mediterranean
@@ -33940,6 +34103,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-03,United Kingdom,285329,40661,961,243707,502,49,2,Europe
 2020-07-03,Uruguay,952,28,837,87,5,0,9,Americas
 2020-07-03,Uzbekistan,9396,29,6251,3116,318,2,217,Europe
+2020-07-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-03,Venezuela,6537,59,2100,4378,264,2,0,Americas
 2020-07-03,Vietnam,355,0,340,15,0,0,0,Western Pacific
 2020-07-03,West Bank and Gaza,3334,11,463,2860,254,2,3,Eastern Mediterranean
@@ -34147,6 +34311,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-04,United Kingdom,285953,40693,961,244299,624,32,0,Europe
 2020-07-04,Uruguay,955,28,840,87,3,0,3,Americas
 2020-07-04,Uzbekistan,9708,31,6425,3252,312,2,174,Europe
+2020-07-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-04,Venezuela,6750,62,2100,4588,213,3,0,Americas
 2020-07-04,Vietnam,355,0,340,15,0,0,0,Western Pacific
 2020-07-04,West Bank and Gaza,3835,13,463,3359,501,2,0,Eastern Mediterranean
@@ -34354,6 +34519,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-05,United Kingdom,286469,40712,961,244796,516,19,0,Europe
 2020-07-05,Uruguay,956,28,849,79,1,0,9,Americas
 2020-07-05,Uzbekistan,10020,34,6584,3402,312,3,159,Europe
+2020-07-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-05,Venezuela,7169,65,2100,5004,419,3,0,Americas
 2020-07-05,Vietnam,355,0,340,15,0,0,0,Western Pacific
 2020-07-05,West Bank and Gaza,4277,16,491,3770,442,3,28,Eastern Mediterranean
@@ -34561,6 +34727,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-06,United Kingdom,286827,40723,961,245143,358,11,0,Europe
 2020-07-06,Uruguay,960,29,858,73,4,1,9,Americas
 2020-07-06,Uzbekistan,10362,37,6628,3697,342,3,44,Europe
+2020-07-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-06,Venezuela,7411,68,2100,5243,242,3,0,Americas
 2020-07-06,Vietnam,369,0,341,28,14,0,1,Western Pacific
 2020-07-06,West Bank and Gaza,4341,17,491,3833,64,1,0,Eastern Mediterranean
@@ -34768,6 +34935,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-07,United Kingdom,287410,40777,961,245672,583,54,0,Europe
 2020-07-07,Uruguay,965,29,865,71,5,0,7,Americas
 2020-07-07,Uzbekistan,10838,41,6811,3986,476,4,183,Europe
+2020-07-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-07,Venezuela,7693,71,2100,5522,282,3,0,Americas
 2020-07-07,Vietnam,369,0,342,27,0,0,1,Western Pacific
 2020-07-07,West Bank and Gaza,4647,18,494,4135,306,1,3,Eastern Mediterranean
@@ -34975,6 +35143,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-08,United Kingdom,288041,40834,961,246246,631,57,0,Europe
 2020-07-08,Uruguay,974,29,871,74,9,0,6,Americas
 2020-07-08,Uzbekistan,11092,45,7060,3987,254,4,249,Europe
+2020-07-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-08,Venezuela,8008,75,2100,5833,315,4,0,Americas
 2020-07-08,Vietnam,369,0,347,22,0,0,5,Western Pacific
 2020-07-08,West Bank and Gaza,5029,20,494,4515,382,2,0,Eastern Mediterranean
@@ -35182,6 +35351,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-09,United Kingdom,288683,40865,961,246857,642,31,0,Europe
 2020-07-09,Uruguay,977,29,878,70,3,0,7,Americas
 2020-07-09,Uzbekistan,11564,51,7287,4226,472,6,227,Europe
+2020-07-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-09,Venezuela,8372,80,2544,5748,364,5,444,Americas
 2020-07-09,Vietnam,369,0,347,22,0,0,0,Western Pacific
 2020-07-09,West Bank and Gaza,5220,24,525,4671,191,4,31,Eastern Mediterranean
@@ -35389,6 +35559,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-10,United Kingdom,289196,40899,961,247336,513,34,0,Europe
 2020-07-10,Uruguay,985,29,886,70,8,0,8,Americas
 2020-07-10,Uzbekistan,12027,54,7530,4443,463,3,243,Europe
+2020-07-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-10,Venezuela,8803,83,2671,6049,431,3,127,Americas
 2020-07-10,Vietnam,370,0,350,20,1,0,3,Western Pacific
 2020-07-10,West Bank and Gaza,5551,27,536,4988,331,3,11,Eastern Mediterranean
@@ -35596,6 +35767,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-11,United Kingdom,290016,40916,961,248139,820,17,0,Europe
 2020-07-11,Uruguay,986,30,896,60,1,1,10,Americas
 2020-07-11,Uzbekistan,12513,57,7723,4733,486,3,193,Europe
+2020-07-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-11,Venezuela,9178,85,2671,6422,375,2,0,Americas
 2020-07-11,Vietnam,370,0,350,20,0,0,0,Western Pacific
 2020-07-11,West Bank and Gaza,5931,33,536,5362,380,6,0,Eastern Mediterranean
@@ -35803,6 +35975,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-12,United Kingdom,290666,40925,961,248780,650,9,0,Europe
 2020-07-12,Uruguay,987,31,896,60,1,1,0,Americas
 2020-07-12,Uzbekistan,12997,60,7852,5085,484,3,129,Europe
+2020-07-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-12,Venezuela,9465,89,2671,6705,287,4,0,Americas
 2020-07-12,Vietnam,372,0,350,22,2,0,0,Western Pacific
 2020-07-12,West Bank and Gaza,6230,36,942,5252,299,3,406,Eastern Mediterranean
@@ -36010,6 +36183,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-13,United Kingdom,291200,40935,961,249304,534,10,0,Europe
 2020-07-13,Uruguay,989,31,903,55,2,0,7,Americas
 2020-07-13,Uzbekistan,13591,64,8030,5497,594,4,178,Europe
+2020-07-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-13,Venezuela,9707,93,2671,6943,242,4,0,Americas
 2020-07-13,Vietnam,373,0,352,21,1,0,2,Western Pacific
 2020-07-13,West Bank and Gaza,6566,39,1084,5443,336,3,142,Eastern Mediterranean
@@ -36217,6 +36391,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-14,United Kingdom,292440,40979,961,250500,1240,44,0,Europe
 2020-07-14,Uruguay,997,31,905,61,8,0,2,Americas
 2020-07-14,Uzbekistan,14085,67,8327,5691,494,3,297,Europe
+2020-07-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-14,Venezuela,10010,96,2671,7243,303,3,0,Americas
 2020-07-14,Vietnam,373,0,352,21,0,0,0,Western Pacific
 2020-07-14,West Bank and Gaza,6764,44,1084,5636,198,5,0,Eastern Mediterranean
@@ -36424,6 +36599,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-15,United Kingdom,292978,41005,961,251012,538,26,0,Europe
 2020-07-15,Uruguay,1009,31,909,69,12,0,4,Americas
 2020-07-15,Uzbekistan,14581,71,8655,5855,496,4,328,Europe
+2020-07-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-15,Venezuela,10428,100,3050,7278,418,4,379,Americas
 2020-07-15,Vietnam,381,0,353,28,8,0,1,Western Pacific
 2020-07-15,West Bank and Gaza,7064,44,1084,5936,300,0,0,Eastern Mediterranean
@@ -36631,6 +36807,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-16,United Kingdom,293623,41029,978,251616,645,24,17,Europe
 2020-07-16,Uruguay,1026,32,916,78,17,1,7,Americas
 2020-07-16,Uzbekistan,15066,75,8783,6208,485,4,128,Europe
+2020-07-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-16,Venezuela,10854,104,3255,7495,426,4,205,Americas
 2020-07-16,Vietnam,381,0,356,25,0,0,3,Western Pacific
 2020-07-16,West Bank and Gaza,7412,51,1313,6048,348,7,229,Eastern Mediterranean
@@ -36838,6 +37015,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-17,United Kingdom,294310,41055,978,252277,687,26,0,Europe
 2020-07-17,Uruguay,1037,32,917,88,11,0,1,Americas
 2020-07-17,Uzbekistan,15607,79,9003,6525,541,4,220,Europe
+2020-07-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-17,Venezuela,11191,107,3852,7232,337,3,597,Americas
 2020-07-17,Vietnam,382,0,356,26,1,0,0,Western Pacific
 2020-07-17,West Bank and Gaza,7764,53,1492,6219,352,2,179,Eastern Mediterranean
@@ -37045,6 +37223,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-18,United Kingdom,295138,41064,978,253096,828,9,0,Europe
 2020-07-18,Uruguay,1044,33,921,90,7,1,4,Americas
 2020-07-18,Uzbekistan,16186,83,9127,6976,579,4,124,Europe
+2020-07-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-18,Venezuela,11483,110,3972,7401,292,3,120,Americas
 2020-07-18,Vietnam,382,0,357,25,0,0,1,Western Pacific
 2020-07-18,West Bank and Gaza,8204,59,1596,6549,440,6,104,Eastern Mediterranean
@@ -37252,6 +37431,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-19,United Kingdom,295864,41075,978,253811,726,11,0,Europe
 2020-07-19,Uruguay,1054,33,922,99,10,0,1,Americas
 2020-07-19,Uzbekistan,16752,87,9279,7386,566,4,152,Europe
+2020-07-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-19,Venezuela,11891,112,3972,7807,408,2,0,Americas
 2020-07-19,Vietnam,383,0,357,26,1,0,0,Western Pacific
 2020-07-19,West Bank and Gaza,8549,62,1921,6566,345,3,325,Eastern Mediterranean
@@ -37459,6 +37639,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-20,United Kingdom,296444,41085,978,254381,580,10,0,Europe
 2020-07-20,Uruguay,1064,33,927,104,10,0,5,Americas
 2020-07-20,Uzbekistan,17149,90,9387,7672,397,3,108,Europe
+2020-07-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-20,Venezuela,12334,116,6844,5374,443,4,2872,Americas
 2020-07-20,Vietnam,384,0,360,24,1,0,3,Western Pacific
 2020-07-20,West Bank and Gaza,8916,63,1921,6932,367,1,0,Eastern Mediterranean
@@ -37666,6 +37847,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-21,United Kingdom,296889,41110,978,254801,445,25,0,Europe
 2020-07-21,Uruguay,1096,33,929,134,32,0,2,Americas
 2020-07-21,Uzbekistan,17881,95,9521,8265,732,5,134,Europe
+2020-07-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-21,Venezuela,12774,120,6983,5671,440,4,139,Americas
 2020-07-21,Vietnam,401,0,365,36,17,0,5,Western Pacific
 2020-07-21,West Bank and Gaza,9228,64,1932,7232,312,1,11,Eastern Mediterranean
@@ -37873,6 +38055,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-22,United Kingdom,297449,41127,980,255342,560,17,2,Europe
 2020-07-22,Uruguay,1117,34,934,149,21,1,5,Americas
 2020-07-22,Uzbekistan,18379,98,9872,8409,498,3,351,Europe
+2020-07-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-22,Venezuela,13164,124,7471,5569,390,4,488,Americas
 2020-07-22,Vietnam,408,0,365,43,7,0,0,Western Pacific
 2020-07-22,West Bank and Gaza,9398,66,1950,7382,170,2,18,Eastern Mediterranean
@@ -38080,6 +38263,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-23,United Kingdom,298218,41136,984,256098,769,9,4,Europe
 2020-07-23,Uruguay,1141,34,940,167,24,0,6,Americas
 2020-07-23,Uzbekistan,18986,103,10149,8734,607,5,277,Europe
+2020-07-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-23,Venezuela,13613,129,7752,5732,449,5,281,Americas
 2020-07-23,Vietnam,412,0,365,47,4,0,0,Western Pacific
 2020-07-23,West Bank and Gaza,9744,67,2720,6957,346,1,770,Eastern Mediterranean
@@ -38287,6 +38471,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-24,United Kingdom,298987,41168,984,256835,769,32,0,Europe
 2020-07-24,Uruguay,1166,34,946,186,25,0,6,Americas
 2020-07-24,Uzbekistan,19360,106,10472,8782,374,3,323,Europe
+2020-07-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-24,Venezuela,14263,134,8127,6002,650,5,375,Americas
 2020-07-24,Vietnam,415,0,365,50,3,0,0,Western Pacific
 2020-07-24,West Bank and Gaza,10093,70,2720,7303,349,3,0,Eastern Mediterranean
@@ -38494,6 +38679,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-25,United Kingdom,299754,41183,984,257587,767,15,0,Europe
 2020-07-25,Uruguay,1174,34,947,193,8,0,1,Americas
 2020-07-25,Uzbekistan,19952,111,10831,9010,592,5,359,Europe
+2020-07-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-25,Venezuela,14929,138,8795,5996,666,4,668,Americas
 2020-07-25,Vietnam,417,0,365,52,2,0,0,Western Pacific
 2020-07-25,West Bank and Gaza,10306,75,3282,6949,213,5,562,Eastern Mediterranean
@@ -38701,6 +38887,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-26,United Kingdom,300499,41191,984,258324,745,8,0,Europe
 2020-07-26,Uruguay,1192,34,948,210,18,0,1,Americas
 2020-07-26,Uzbekistan,20531,116,11105,9310,579,5,274,Europe
+2020-07-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-26,Venezuela,15463,142,9746,5575,534,4,951,Americas
 2020-07-26,Vietnam,420,0,365,55,3,0,0,Western Pacific
 2020-07-26,West Bank and Gaza,10469,76,3752,6641,163,1,470,Eastern Mediterranean
@@ -38908,6 +39095,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-27,United Kingdom,301185,41194,986,259005,686,3,2,Europe
 2020-07-27,Uruguay,1202,35,951,216,10,1,3,Americas
 2020-07-27,Uzbekistan,21209,121,11674,9414,678,5,569,Europe
+2020-07-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-27,Venezuela,15988,146,9959,5883,525,4,213,Americas
 2020-07-27,Vietnam,431,0,365,66,11,0,0,Western Pacific
 2020-07-27,West Bank and Gaza,10621,78,3752,6791,152,2,0,Eastern Mediterranean
@@ -39115,6 +39303,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-28,United Kingdom,301737,41215,986,259536,552,21,0,Europe
 2020-07-28,Uruguay,1218,35,958,225,16,0,7,Americas
 2020-07-28,Uzbekistan,21699,124,12026,9549,490,3,352,Europe
+2020-07-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-28,Venezuela,16571,151,10195,6225,583,5,236,Americas
 2020-07-28,Vietnam,446,0,369,77,15,0,4,Western Pacific
 2020-07-28,West Bank and Gaza,10938,79,3752,7107,317,1,0,Eastern Mediterranean
@@ -39322,6 +39511,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-29,United Kingdom,302534,41249,986,260299,797,34,0,Europe
 2020-07-29,Uruguay,1237,35,967,235,19,0,9,Americas
 2020-07-29,Uzbekistan,22585,131,12937,9517,886,7,911,Europe
+2020-07-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-29,Venezuela,17158,156,10421,6581,587,5,226,Americas
 2020-07-29,Vietnam,459,0,369,90,13,0,0,Western Pacific
 2020-07-29,West Bank and Gaza,11284,80,4833,6371,346,1,1081,Eastern Mediterranean
@@ -39529,6 +39719,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-30,United Kingdom,303380,41249,986,261145,846,0,0,Europe
 2020-07-30,Uruguay,1243,35,978,230,6,0,11,Americas
 2020-07-30,Uzbekistan,23271,136,13680,9455,686,5,743,Europe
+2020-07-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-30,Venezuela,17859,158,10421,7280,701,2,0,Americas
 2020-07-30,Vietnam,509,0,373,136,50,0,4,Western Pacific
 2020-07-30,West Bank and Gaza,11548,81,5016,6451,264,1,183,Eastern Mediterranean
@@ -39736,6 +39927,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-07-31,United Kingdom,304260,41269,986,262005,880,20,0,Europe
 2020-07-31,Uruguay,1264,35,994,235,21,0,16,Americas
 2020-07-31,Uzbekistan,24009,141,14464,9404,738,5,784,Europe
+2020-07-31,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-07-31,Venezuela,18574,164,10421,7989,715,6,0,Americas
 2020-07-31,Vietnam,558,3,373,182,49,3,0,Western Pacific
 2020-07-31,West Bank and Gaza,11837,82,5077,6678,289,1,61,Eastern Mediterranean
@@ -39943,6 +40135,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-01,United Kingdom,305021,41282,986,262753,761,13,0,Europe
 2020-08-01,Uruguay,1278,35,1004,239,14,0,10,Americas
 2020-08-01,Uzbekistan,24783,147,15299,9337,774,6,835,Europe
+2020-08-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-01,Venezuela,19443,169,11129,8145,869,5,708,Americas
 2020-08-01,Vietnam,590,3,373,214,32,0,0,Western Pacific
 2020-08-01,West Bank and Gaza,12160,83,5324,6753,323,1,247,Eastern Mediterranean
@@ -40150,6 +40343,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-02,United Kingdom,305765,41287,988,263490,744,5,2,Europe
 2020-08-02,Uruguay,1286,36,1011,239,8,1,7,Americas
 2020-08-02,Uzbekistan,25336,151,15833,9352,553,4,534,Europe
+2020-08-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-02,Venezuela,20206,174,11404,8628,763,5,275,Americas
 2020-08-02,Vietnam,621,6,373,242,31,3,0,Western Pacific
 2020-08-02,West Bank and Gaza,12297,84,5390,6823,137,1,66,Eastern Mediterranean
@@ -40357,6 +40551,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-03,United Kingdom,306707,41288,989,264430,942,1,1,Europe
 2020-08-03,Uruguay,1291,36,1023,232,5,0,12,Americas
 2020-08-03,Uzbekistan,26066,157,16838,9071,730,6,1005,Europe
+2020-08-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-03,Venezuela,20754,180,11622,8952,548,6,218,Americas
 2020-08-03,Vietnam,652,7,374,271,31,1,1,Western Pacific
 2020-08-03,West Bank and Gaza,12541,84,5390,7067,244,0,0,Eastern Mediterranean
@@ -40564,6 +40759,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-04,United Kingdom,307381,41306,989,265086,674,18,0,Europe
 2020-08-04,Uruguay,1300,37,1048,215,9,1,25,Americas
 2020-08-04,Uzbekistan,27047,165,18051,8831,981,8,1213,Europe
+2020-08-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-04,Venezuela,21438,187,11875,9376,684,7,253,Americas
 2020-08-04,Vietnam,672,8,378,286,20,1,4,Western Pacific
 2020-08-04,West Bank and Gaza,12770,86,6419,6265,229,2,1029,Eastern Mediterranean
@@ -40771,6 +40967,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-05,United Kingdom,308273,41320,989,265964,892,14,0,Europe
 2020-08-05,Uruguay,1309,37,1065,207,9,0,17,Americas
 2020-08-05,Uzbekistan,27793,171,18783,8839,746,6,732,Europe
+2020-08-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-05,Venezuela,22299,195,12146,9958,861,8,271,Americas
 2020-08-05,Vietnam,717,9,381,327,45,1,3,Western Pacific
 2020-08-05,West Bank and Gaza,13065,89,6618,6358,295,3,199,Eastern Mediterranean
@@ -40978,6 +41175,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-06,United Kingdom,309224,41338,989,266897,951,18,0,Europe
 2020-08-06,Uruguay,1318,37,1079,202,9,0,14,Americas
 2020-08-06,Uzbekistan,28315,175,19291,8849,522,4,508,Europe
+2020-08-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-06,Venezuela,23280,202,12470,10608,981,7,324,Americas
 2020-08-06,Vietnam,750,10,392,348,33,1,11,Western Pacific
 2020-08-06,West Bank and Gaza,13398,92,6907,6399,333,3,289,Eastern Mediterranean
@@ -41185,6 +41383,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-07,United Kingdom,310095,41350,989,267756,871,12,0,Europe
 2020-08-07,Uruguay,1325,37,1095,193,7,0,16,Americas
 2020-08-07,Uzbekistan,29057,181,20059,8817,742,6,768,Europe
+2020-08-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-07,Venezuela,24166,208,12470,11488,886,6,0,Americas
 2020-08-07,Vietnam,789,10,395,384,39,0,3,Western Pacific
 2020-08-07,West Bank and Gaza,13722,94,7210,6418,324,2,303,Eastern Mediterranean
@@ -41392,6 +41591,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-08,United Kingdom,310853,41353,989,268511,758,3,0,Europe
 2020-08-08,Uruguay,1335,37,1112,186,10,0,17,Americas
 2020-08-08,Uzbekistan,29652,187,21006,8459,595,6,947,Europe
+2020-08-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-08,Venezuela,24961,215,13356,11390,795,7,886,Americas
 2020-08-08,Vietnam,812,10,395,407,23,0,0,Western Pacific
 2020-08-08,West Bank and Gaza,13928,96,7706,6126,206,2,496,Eastern Mediterranean
@@ -41599,6 +41799,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-09,United Kingdom,311916,41358,989,269569,1063,5,0,Europe
 2020-08-09,Uruguay,1353,37,1125,191,18,0,13,Americas
 2020-08-09,Uzbekistan,30609,194,22042,8373,957,7,1036,Europe
+2020-08-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-09,Venezuela,25805,223,13356,12226,844,8,0,Americas
 2020-08-09,Vietnam,841,13,395,433,29,3,0,Western Pacific
 2020-08-09,West Bank and Gaza,14208,97,7945,6166,280,1,239,Eastern Mediterranean
@@ -41806,6 +42007,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-10,United Kingdom,312734,41376,1001,270357,818,18,12,Europe
 2020-08-10,Uruguay,1364,37,1146,181,11,0,21,Americas
 2020-08-10,Uzbekistan,31304,200,22992,8112,695,6,950,Europe
+2020-08-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-10,Venezuela,26800,229,16930,9641,995,6,3574,Americas
 2020-08-10,Vietnam,847,15,399,433,6,2,4,Western Pacific
 2020-08-10,West Bank and Gaza,14510,100,8045,6365,302,3,100,Eastern Mediterranean
@@ -42013,6 +42215,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-11,United Kingdom,313883,41389,1001,271493,1149,13,0,Europe
 2020-08-11,Uruguay,1385,37,1157,191,21,0,11,Americas
 2020-08-11,Uzbekistan,31747,204,23704,7839,443,4,712,Europe
+2020-08-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-11,Venezuela,27938,238,19706,7994,1138,9,2776,Americas
 2020-08-11,Vietnam,866,16,451,399,19,1,52,Western Pacific
 2020-08-11,West Bank and Gaza,14875,104,8181,6590,365,4,136,Eastern Mediterranean
@@ -42220,6 +42423,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-12,United Kingdom,314896,41409,1002,272485,1013,20,1,Europe
 2020-08-12,Uruguay,1393,37,1163,193,8,0,6,Americas
 2020-08-12,Uzbekistan,32654,211,25659,6784,907,7,1955,Europe
+2020-08-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-12,Venezuela,29088,247,21042,7799,1150,9,1336,Americas
 2020-08-12,Vietnam,883,18,409,456,17,2,-42,Western Pacific
 2020-08-12,West Bank and Gaza,15184,105,8369,6710,309,1,188,Eastern Mediterranean
@@ -42427,6 +42631,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-13,United Kingdom,316025,41427,1002,273596,1129,18,0,Europe
 2020-08-13,Uruguay,1409,37,1180,192,16,0,17,Americas
 2020-08-13,Uzbekistan,33323,216,27213,5894,669,5,1554,Europe
+2020-08-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-13,Venezuela,30369,259,21385,8725,1281,12,343,Americas
 2020-08-13,Vietnam,911,21,425,465,28,3,16,Western Pacific
 2020-08-13,West Bank and Gaza,15491,106,9186,6199,307,1,817,Eastern Mediterranean
@@ -42634,6 +42839,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-14,United Kingdom,317469,41438,1002,275029,1444,11,0,Europe
 2020-08-14,Uruguay,1421,38,1182,201,12,1,2,Americas
 2020-08-14,Uzbekistan,33821,220,27825,5776,498,4,612,Europe
+2020-08-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-14,Venezuela,31381,266,21580,9535,1012,7,195,Americas
 2020-08-14,Vietnam,930,22,437,471,19,1,12,Western Pacific
 2020-08-14,West Bank and Gaza,15834,106,9382,6346,343,0,196,Eastern Mediterranean
@@ -42841,6 +43047,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-15,United Kingdom,318484,41441,1004,276039,1015,3,2,Europe
 2020-08-15,Uruguay,1434,38,1194,202,13,0,12,Americas
 2020-08-15,Uzbekistan,34528,225,29328,4975,707,5,1503,Europe
+2020-08-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-15,Venezuela,32607,276,21747,10584,1226,10,167,Americas
 2020-08-15,Vietnam,951,24,447,480,21,2,10,Western Pacific
 2020-08-15,West Bank and Gaza,16153,108,9388,6657,319,2,6,Eastern Mediterranean
@@ -43048,6 +43255,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-16,United Kingdom,319589,41446,1004,277139,1105,5,0,Europe
 2020-08-16,Uruguay,1440,38,1200,202,6,0,6,Americas
 2020-08-16,Uzbekistan,35329,232,30973,4124,801,7,1645,Europe
+2020-08-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-16,Venezuela,33755,281,22700,10774,1148,5,953,Americas
 2020-08-16,Vietnam,964,24,456,484,13,0,9,Western Pacific
 2020-08-16,West Bank and Gaza,16534,110,9838,6586,381,2,450,Eastern Mediterranean
@@ -43255,6 +43463,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-17,United Kingdom,320308,41449,1004,277855,719,3,0,Europe
 2020-08-17,Uruguay,1457,40,1205,212,17,2,5,Americas
 2020-08-17,Uzbekistan,35702,236,30973,4493,373,4,0,Europe
+2020-08-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-17,Venezuela,34802,288,23575,10939,1047,7,875,Americas
 2020-08-17,Vietnam,983,25,467,491,19,1,11,Western Pacific
 2020-08-17,West Bank and Gaza,16844,113,9906,6825,310,3,68,Eastern Mediterranean
@@ -43462,6 +43671,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-18,United Kingdom,321397,41461,1004,278932,1089,12,0,Europe
 2020-08-18,Uruguay,1485,40,1219,226,28,0,14,Americas
 2020-08-18,Uzbekistan,36352,242,32062,4048,650,6,1089,Europe
+2020-08-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-18,Venezuela,35697,297,24561,10839,895,9,986,Americas
 2020-08-18,Vietnam,989,26,526,437,6,1,59,Western Pacific
 2020-08-18,West Bank and Gaza,17306,113,9939,7254,462,0,33,Eastern Mediterranean
@@ -43669,6 +43879,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-19,United Kingdom,322213,41478,1004,279731,816,17,0,Europe
 2020-08-19,Uruguay,1493,40,1228,225,8,0,9,Americas
 2020-08-19,Uzbekistan,37112,248,32944,3920,760,6,882,Europe
+2020-08-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-19,Venezuela,36868,303,25416,11149,1171,6,855,Americas
 2020-08-19,Vietnam,994,25,533,436,5,-1,7,Western Pacific
 2020-08-19,West Bank and Gaza,17606,119,10312,7175,300,6,373,Eastern Mediterranean
@@ -43876,6 +44087,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-20,United Kingdom,323395,41484,1004,280907,1182,6,0,Europe
 2020-08-20,Uruguay,1506,41,1242,223,13,1,14,Americas
 2020-08-20,Uzbekistan,37547,252,33261,4034,435,4,317,Europe
+2020-08-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-20,Venezuela,37567,311,26330,10926,699,8,914,Americas
 2020-08-20,Vietnam,1007,25,542,440,13,0,9,Western Pacific
 2020-08-20,West Bank and Gaza,17989,120,10682,7187,383,1,370,Eastern Mediterranean
@@ -44083,6 +44295,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-21,United Kingdom,324430,41486,1004,281940,1035,2,0,Europe
 2020-08-21,Uruguay,1516,42,1249,225,10,1,7,Americas
 2020-08-21,Uzbekistan,38074,260,33989,3825,527,8,728,Europe
+2020-08-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-21,Venezuela,38219,317,27306,10596,652,6,976,Americas
 2020-08-21,Vietnam,1009,25,545,439,2,0,3,Western Pacific
 2020-08-21,West Bank and Gaza,18313,122,11102,7089,324,2,420,Eastern Mediterranean
@@ -44290,6 +44503,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-22,United Kingdom,325718,41504,1006,283208,1288,18,2,Europe
 2020-08-22,Uruguay,1521,42,1264,215,5,0,15,Americas
 2020-08-22,Uzbekistan,38532,267,34576,3689,458,7,587,Europe
+2020-08-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-22,Venezuela,38957,323,28453,10181,738,6,1147,Americas
 2020-08-22,Vietnam,1014,26,563,425,5,1,18,Western Pacific
 2020-08-22,West Bank and Gaza,18476,125,11103,7248,163,3,1,Eastern Mediterranean
@@ -44497,6 +44711,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-23,United Kingdom,326759,41510,1006,284243,1041,6,0,Europe
 2020-08-23,Uruguay,1527,42,1276,209,6,0,12,Americas
 2020-08-23,Uzbekistan,38946,273,34987,3686,414,6,411,Europe
+2020-08-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-23,Venezuela,39564,329,29966,9269,607,6,1513,Americas
 2020-08-23,Vietnam,1016,27,568,421,2,1,5,Western Pacific
 2020-08-23,West Bank and Gaza,18802,128,11843,6831,326,3,740,Eastern Mediterranean
@@ -44704,6 +44919,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-24,United Kingdom,327734,41514,1007,285213,975,4,1,Europe
 2020-08-24,Uruguay,1533,42,1295,196,6,0,19,Americas
 2020-08-24,Uzbekistan,39348,280,35551,3517,402,7,564,Europe
+2020-08-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-24,Venezuela,40338,337,31080,8921,774,8,1114,Americas
 2020-08-24,Vietnam,1022,27,587,408,6,0,19,Western Pacific
 2020-08-24,West Bank and Gaza,19213,133,11870,7210,411,5,27,Eastern Mediterranean
@@ -44911,6 +45127,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-25,United Kingdom,328922,41530,1008,286384,1188,16,1,Europe
 2020-08-25,Uruguay,1536,43,1309,184,3,1,14,Americas
 2020-08-25,Uzbekistan,39641,284,35869,3488,293,4,318,Europe
+2020-08-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-25,Venezuela,41158,343,32015,8800,820,6,935,Americas
 2020-08-25,Vietnam,1029,27,592,410,7,0,5,Western Pacific
 2020-08-25,West Bank and Gaza,19678,133,13162,6383,465,0,1292,Eastern Mediterranean
@@ -45118,6 +45335,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-26,United Kingdom,329973,41546,1008,287419,1051,16,0,Europe
 2020-08-26,Uruguay,1543,43,1322,178,7,0,13,Americas
 2020-08-26,Uzbekistan,39964,291,36402,3271,323,7,533,Europe
+2020-08-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-26,Venezuela,41965,351,32931,8683,807,8,916,Americas
 2020-08-26,Vietnam,1034,30,632,372,5,3,40,Western Pacific
 2020-08-26,West Bank and Gaza,20155,137,13929,6089,477,4,767,Eastern Mediterranean
@@ -45325,6 +45543,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-27,United Kingdom,331495,41558,1008,288929,1522,12,0,Europe
 2020-08-27,Uruguay,1551,43,1333,175,8,0,11,Americas
 2020-08-27,Uzbekistan,40447,298,37200,2949,483,7,798,Europe
+2020-08-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-27,Venezuela,42898,358,34147,8393,933,7,1216,Americas
 2020-08-27,Vietnam,1036,30,637,369,2,0,5,Western Pacific
 2020-08-27,West Bank and Gaza,20677,141,14194,6342,522,4,265,Eastern Mediterranean
@@ -45532,6 +45751,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-28,United Kingdom,332773,41567,1008,290198,1278,9,0,Europe
 2020-08-28,Uruguay,1556,43,1352,161,5,0,19,Americas
 2020-08-28,Uzbekistan,40720,302,37873,2545,273,4,673,Europe
+2020-08-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-28,Venezuela,43879,366,34972,8541,981,8,825,Americas
 2020-08-28,Vietnam,1038,30,663,345,2,0,26,Western Pacific
 2020-08-28,West Bank and Gaza,21251,145,14291,6815,574,4,97,Eastern Mediterranean
@@ -45739,6 +45959,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-29,United Kingdom,333882,41579,1010,291293,1109,12,2,Europe
 2020-08-29,Uruguay,1570,44,1364,162,14,1,12,Americas
 2020-08-29,Uzbekistan,41067,307,38250,2510,347,5,377,Europe
+2020-08-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-29,Venezuela,44946,375,36175,8396,1067,9,1203,Americas
 2020-08-29,Vietnam,1040,32,677,331,2,2,14,Western Pacific
 2020-08-29,West Bank and Gaza,21668,147,14631,6890,417,2,340,Eastern Mediterranean
@@ -45946,6 +46167,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-30,United Kingdom,335597,41580,1010,293007,1715,1,0,Europe
 2020-08-30,Uruguay,1585,44,1378,163,15,0,14,Americas
 2020-08-30,Uzbekistan,41424,313,38655,2456,357,6,405,Europe
+2020-08-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-30,Venezuela,45868,381,37091,8396,922,6,916,Americas
 2020-08-30,Vietnam,1040,32,695,313,0,0,18,Western Pacific
 2020-08-30,West Bank and Gaza,22204,152,14787,7265,536,5,156,Eastern Mediterranean
@@ -46153,6 +46375,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-31,United Kingdom,337006,41582,1012,294412,1409,2,2,Europe
 2020-08-31,Uruguay,1595,44,1409,142,10,0,31,Americas
 2020-08-31,Uzbekistan,41893,320,39275,2298,469,7,620,Europe
+2020-08-31,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-08-31,Venezuela,46728,386,38112,8230,860,5,1021,Americas
 2020-08-31,Vietnam,1044,34,707,303,4,2,12,Western Pacific
 2020-08-31,West Bank and Gaza,22729,152,15056,7521,525,0,269,Eastern Mediterranean
@@ -46360,6 +46583,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-01,United Kingdom,338306,41585,1014,295707,1300,3,2,Europe
 2020-09-01,Uruguay,1611,44,1419,148,16,0,10,Americas
 2020-09-01,Uzbekistan,42127,323,39538,2266,234,3,263,Europe
+2020-09-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-01,Venezuela,47756,391,39027,8338,1028,5,915,Americas
 2020-09-01,Vietnam,1044,34,735,275,0,0,28,Western Pacific
 2020-09-01,West Bank and Gaza,23281,159,15338,7784,552,7,282,Eastern Mediterranean
@@ -46567,6 +46791,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-02,United Kingdom,339815,41595,1044,297176,1509,10,30,Europe
 2020-09-02,Uruguay,1626,44,1433,149,15,0,14,Americas
 2020-09-02,Uzbekistan,42437,327,39664,2446,310,4,126,Europe
+2020-09-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-02,Venezuela,48883,398,39912,8573,1127,7,885,Americas
 2020-09-02,Vietnam,1046,34,746,266,2,0,11,Western Pacific
 2020-09-02,West Bank and Gaza,23875,162,15483,8230,594,3,145,Eastern Mediterranean
@@ -46774,6 +46999,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-03,United Kingdom,341552,41608,1044,298900,1737,13,0,Europe
 2020-09-03,Uruguay,1636,44,1437,155,10,0,4,Americas
 2020-09-03,Uzbekistan,42688,331,40081,2276,251,4,417,Europe
+2020-09-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-03,Venezuela,49877,402,40574,8901,994,4,662,Americas
 2020-09-03,Vietnam,1046,35,755,256,0,1,9,Western Pacific
 2020-09-03,West Bank and Gaza,24471,167,16095,8209,596,5,612,Eastern Mediterranean
@@ -46981,6 +47207,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-04,United Kingdom,343493,41618,1045,300830,1941,10,1,Europe
 2020-09-04,Uruguay,1653,45,1446,162,17,1,9,Americas
 2020-09-04,Uzbekistan,42998,338,40392,2268,310,7,311,Europe
+2020-09-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-04,Venezuela,50973,412,41249,9312,1096,10,675,Americas
 2020-09-04,Vietnam,1049,35,772,242,3,0,17,Western Pacific
 2020-09-04,West Bank and Gaza,25142,170,16437,8535,671,3,342,Eastern Mediterranean
@@ -47188,6 +47415,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-05,United Kingdom,345306,41630,1045,302631,1813,12,0,Europe
 2020-09-05,Uruguay,1669,45,1459,165,16,0,13,Americas
 2020-09-05,Uzbekistan,43293,343,40774,2176,295,5,382,Europe
+2020-09-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-05,Venezuela,52165,420,42006,9739,1192,8,757,Americas
 2020-09-05,Vietnam,1049,35,805,209,0,0,33,Western Pacific
 2020-09-05,West Bank and Gaza,25575,177,16661,8737,433,7,224,Eastern Mediterranean
@@ -47395,6 +47623,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-06,United Kingdom,348290,41632,1045,305613,2984,2,0,Europe
 2020-09-06,Uruguay,1679,45,1459,175,10,0,0,Americas
 2020-09-06,Uzbekistan,43587,347,41225,2015,294,4,451,Europe
+2020-09-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-06,Venezuela,53289,428,42006,10855,1124,8,0,Americas
 2020-09-06,Vietnam,1049,35,815,199,0,0,10,Western Pacific
 2020-09-06,West Bank and Gaza,26127,181,16843,9103,552,4,182,Eastern Mediterranean
@@ -47602,6 +47831,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-07,United Kingdom,351240,41635,1045,308560,2950,3,0,Europe
 2020-09-07,Uruguay,1693,45,1466,182,14,0,7,Americas
 2020-09-07,Uzbekistan,43893,352,41531,2010,306,5,306,Europe
+2020-09-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-07,Venezuela,54350,436,43753,10161,1061,8,1747,Americas
 2020-09-07,Vietnam,1049,35,853,161,0,0,38,Western Pacific
 2020-09-07,West Bank and Gaza,26779,184,17270,9325,652,3,427,Eastern Mediterranean
@@ -47809,6 +48039,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-08,United Kingdom,353701,41667,1045,310989,2461,32,0,Europe
 2020-09-08,Uruguay,1712,45,1476,191,19,0,10,Americas
 2020-09-08,Uzbekistan,44281,358,41594,2329,388,6,63,Europe
+2020-09-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-08,Venezuela,55563,444,44435,10684,1213,8,682,Americas
 2020-09-08,Vietnam,1054,35,868,151,5,0,15,Western Pacific
 2020-09-08,West Bank and Gaza,27363,190,17779,9394,584,6,509,Eastern Mediterranean
@@ -48016,6 +48247,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-09,United Kingdom,356364,41675,1046,313643,2663,8,1,Europe
 2020-09-09,Uruguay,1741,45,1478,218,29,0,2,Americas
 2020-09-09,Uzbekistan,44930,366,42212,2352,649,8,618,Europe
+2020-09-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-09,Venezuela,56751,452,45318,10981,1188,8,883,Americas
 2020-09-09,Vietnam,1059,35,890,134,5,0,22,Western Pacific
 2020-09-09,West Bank and Gaza,27919,192,18466,9261,556,2,687,Eastern Mediterranean
@@ -48223,6 +48455,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-10,United Kingdom,359283,41689,1047,316547,2919,14,1,Europe
 2020-09-10,Uruguay,1759,45,1484,230,18,0,6,Americas
 2020-09-10,Uzbekistan,45473,370,42509,2594,543,4,297,Europe
+2020-09-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-10,Venezuela,57823,460,46125,11238,1072,8,807,Americas
 2020-09-10,Vietnam,1059,35,893,131,0,0,3,Western Pacific
 2020-09-10,West Bank and Gaza,28664,198,18821,9645,745,6,355,Eastern Mediterranean
@@ -48430,6 +48663,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-11,United Kingdom,362824,41695,1048,320081,3541,6,1,Europe
 2020-09-11,Uruguay,1773,45,1490,238,14,0,6,Americas
 2020-09-11,Uzbekistan,46160,377,42857,2926,687,7,348,Europe
+2020-09-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-11,Venezuela,58663,468,46960,11235,840,8,835,Americas
 2020-09-11,Vietnam,1060,35,902,123,1,0,9,Western Pacific
 2020-09-11,West Bank and Gaza,29256,204,19788,9264,592,6,967,Eastern Mediterranean
@@ -48637,6 +48871,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-12,United Kingdom,366321,41704,1048,323569,3497,9,0,Europe
 2020-09-12,Uruguay,1780,45,1502,233,7,0,12,Americas
 2020-09-12,Uzbekistan,46721,384,43359,2978,561,7,502,Europe
+2020-09-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-12,Venezuela,59630,477,47729,11424,967,9,769,Americas
 2020-09-12,Vietnam,1060,35,910,115,0,0,8,Western Pacific
 2020-09-12,West Bank and Gaza,29906,210,19979,9717,650,6,191,Eastern Mediterranean
@@ -48844,6 +49079,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-13,United Kingdom,369651,41709,1048,326894,3330,5,0,Europe
 2020-09-13,Uruguay,1808,45,1513,250,28,0,11,Americas
 2020-09-13,Uzbekistan,47287,390,43866,3031,566,6,507,Europe
+2020-09-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-13,Venezuela,60540,485,48644,11411,910,8,915,Americas
 2020-09-13,Vietnam,1063,35,918,110,3,0,8,Western Pacific
 2020-09-13,West Bank and Gaza,30574,221,20082,10271,668,11,103,Eastern Mediterranean
@@ -49051,6 +49287,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-14,United Kingdom,372274,41718,1048,329508,2623,9,0,Europe
 2020-09-14,Uruguay,1812,45,1528,239,4,0,15,Americas
 2020-09-14,Uzbekistan,47836,396,44375,3065,549,6,509,Europe
+2020-09-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-14,Venezuela,61569,494,49371,11704,1029,9,727,Americas
 2020-09-14,Vietnam,1063,35,926,102,0,0,8,Western Pacific
 2020-09-14,West Bank and Gaza,31362,226,21406,9730,788,5,1324,Eastern Mediterranean
@@ -49258,6 +49495,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-15,United Kingdom,375383,41745,1051,332587,3109,27,3,Europe
 2020-09-15,Uruguay,1827,45,1545,237,15,0,17,Americas
 2020-09-15,Uzbekistan,48429,402,44942,3085,593,6,567,Europe
+2020-09-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-15,Venezuela,62655,502,50361,11792,1086,8,990,Americas
 2020-09-15,Vietnam,1063,35,931,97,0,0,5,Western Pacific
 2020-09-15,West Bank and Gaza,32250,229,21804,10217,888,3,398,Eastern Mediterranean
@@ -49465,6 +49703,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-16,United Kingdom,379375,41765,1051,336559,3992,20,0,Europe
 2020-09-16,Uruguay,1856,45,1559,252,29,0,14,Americas
 2020-09-16,Uzbekistan,49015,407,45422,3186,586,5,480,Europe
+2020-09-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-16,Venezuela,63416,511,51274,11631,761,9,913,Americas
 2020-09-16,Vietnam,1063,35,936,92,0,0,5,Western Pacific
 2020-09-16,West Bank and Gaza,33006,243,22209,10554,756,14,405,Eastern Mediterranean
@@ -49672,6 +49911,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-17,United Kingdom,382775,41786,1051,339938,3400,21,0,Europe
 2020-09-17,Uruguay,1876,46,1582,248,20,1,23,Americas
 2020-09-17,Uzbekistan,49627,413,45970,3244,612,6,548,Europe
+2020-09-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-17,Venezuela,64284,520,52564,11200,868,9,1290,Americas
 2020-09-17,Vietnam,1066,35,940,91,3,0,4,Western Pacific
 2020-09-17,West Bank and Gaza,33843,244,23060,10539,837,1,851,Eastern Mediterranean
@@ -49879,6 +50119,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-18,United Kingdom,387097,41813,1051,344233,4322,27,0,Europe
 2020-09-18,Uruguay,1890,46,1603,241,14,0,21,Americas
 2020-09-18,Uzbekistan,50253,419,46527,3307,626,6,557,Europe
+2020-09-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-18,Venezuela,65174,530,54218,10426,890,10,1654,Americas
 2020-09-18,Vietnam,1068,35,941,92,2,0,1,Western Pacific
 2020-09-18,West Bank and Gaza,34401,250,23333,10818,558,6,273,Eastern Mediterranean
@@ -50086,6 +50327,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-19,United Kingdom,391521,41840,1053,348628,4424,27,2,Europe
 2020-09-19,Uruguay,1904,46,1612,246,14,0,9,Americas
 2020-09-19,Uzbekistan,50992,427,47271,3294,739,8,744,Europe
+2020-09-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-19,Venezuela,65949,539,55155,10255,775,9,937,Americas
 2020-09-19,Vietnam,1068,35,942,91,0,0,1,Western Pacific
 2020-09-19,West Bank and Gaza,35003,253,23446,11304,602,3,113,Eastern Mediterranean
@@ -50293,6 +50535,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-20,United Kingdom,395420,41858,1053,352509,3899,18,0,Europe
 2020-09-20,Uruguay,1917,46,1621,250,13,0,9,Americas
 2020-09-20,Uzbekistan,51640,433,47932,3275,648,6,661,Europe
+2020-09-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-20,Venezuela,66656,547,56096,10013,707,8,941,Americas
 2020-09-20,Vietnam,1068,35,942,91,0,0,0,Western Pacific
 2020-09-20,West Bank and Gaza,35686,262,23700,11724,683,9,254,Eastern Mediterranean
@@ -50500,6 +50743,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-21,United Kingdom,399797,41869,1053,356875,4377,11,0,Europe
 2020-09-21,Uruguay,1927,46,1634,247,10,0,13,Americas
 2020-09-21,Uzbekistan,52070,437,48369,3264,430,4,437,Europe
+2020-09-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-21,Venezuela,67443,555,56726,10162,787,8,630,Americas
 2020-09-21,Vietnam,1068,35,947,86,0,0,5,Western Pacific
 2020-09-21,West Bank and Gaza,36151,265,24428,11458,465,3,728,Eastern Mediterranean
@@ -50707,6 +50951,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-22,United Kingdom,404723,41906,1053,361764,4926,37,0,Europe
 2020-09-22,Uruguay,1934,46,1645,243,7,0,11,Americas
 2020-09-22,Uzbekistan,52685,442,49067,3176,615,5,698,Europe
+2020-09-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-22,Venezuela,68453,564,57774,10115,1010,9,1048,Americas
 2020-09-22,Vietnam,1068,35,957,76,0,0,10,Western Pacific
 2020-09-22,West Bank and Gaza,36580,269,25469,10842,429,4,1041,Eastern Mediterranean
@@ -50914,6 +51159,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-23,United Kingdom,410904,41943,1054,367907,6181,37,1,Europe
 2020-09-23,Uruguay,1946,47,1661,238,12,1,16,Americas
 2020-09-23,Uzbekistan,53275,444,49649,3182,590,2,582,Europe
+2020-09-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-23,Venezuela,69439,574,58759,10106,986,10,985,Americas
 2020-09-23,Vietnam,1069,35,991,43,1,0,34,Western Pacific
 2020-09-23,West Bank and Gaza,37083,272,26288,10523,503,3,819,Eastern Mediterranean
@@ -51121,6 +51367,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-24,United Kingdom,417539,41983,1054,374502,6635,40,0,Europe
 2020-09-24,Uruguay,1959,47,1679,233,13,0,18,Americas
 2020-09-24,Uzbekistan,53834,446,50230,3158,559,2,581,Europe
+2020-09-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-24,Venezuela,70406,581,59745,10080,967,7,986,Americas
 2020-09-24,Vietnam,1069,35,991,43,0,0,0,Western Pacific
 2020-09-24,West Bank and Gaza,37591,274,26934,10383,508,2,646,Eastern Mediterranean
@@ -51328,6 +51575,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-25,United Kingdom,424413,42017,1056,381340,6874,34,2,Europe
 2020-09-25,Uruguay,1967,47,1710,210,8,0,31,Americas
 2020-09-25,Uzbekistan,54392,449,50879,3064,558,3,649,Europe
+2020-09-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-25,Venezuela,71273,591,60709,9973,867,10,964,Americas
 2020-09-25,Vietnam,1069,35,999,35,0,0,8,Western Pacific
 2020-09-25,West Bank and Gaza,37963,278,27183,10502,372,4,249,Eastern Mediterranean
@@ -51535,6 +51783,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-26,United Kingdom,430454,42052,1081,387321,6041,35,25,Europe
 2020-09-26,Uruguay,1998,47,1716,235,31,0,6,Americas
 2020-09-26,Uzbekistan,54819,452,51322,3045,427,3,443,Europe
+2020-09-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-26,Venezuela,71940,600,61528,9812,667,9,819,Americas
 2020-09-26,Vietnam,1069,35,999,35,0,0,0,Western Pacific
 2020-09-26,West Bank and Gaza,38253,285,27704,10264,290,7,521,Eastern Mediterranean
@@ -51742,6 +51991,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-27,United Kingdom,436146,42069,1081,392996,5692,17,0,Europe
 2020-09-27,Uruguay,2008,47,1728,233,10,0,12,Americas
 2020-09-27,Uzbekistan,55320,458,51829,3033,501,6,507,Europe
+2020-09-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-27,Venezuela,72691,606,62427,9658,751,6,899,Americas
 2020-09-27,Vietnam,1074,35,999,40,5,0,0,Western Pacific
 2020-09-27,West Bank and Gaza,38703,291,29068,9344,450,6,1364,Eastern Mediterranean
@@ -51949,6 +52199,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-28,United Kingdom,440198,42082,1082,397034,4052,13,1,Europe
 2020-09-28,Uruguay,2010,47,1755,208,2,0,27,Americas
 2020-09-28,Uzbekistan,55776,460,52324,2992,456,2,495,Europe
+2020-09-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-28,Venezuela,73528,614,63346,9568,837,8,919,Americas
 2020-09-28,Vietnam,1077,35,999,43,3,0,0,Western Pacific
 2020-09-28,West Bank and Gaza,39121,299,30220,8602,418,8,1152,Eastern Mediterranean
@@ -52156,6 +52407,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-29,United Kingdom,447341,42153,1082,404106,7143,71,0,Europe
 2020-09-29,Uruguay,2033,48,1771,214,23,1,16,Americas
 2020-09-29,Uzbekistan,56354,466,52970,2918,578,6,646,Europe
+2020-09-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-29,Venezuela,74363,621,64200,9542,835,7,854,Americas
 2020-09-29,Vietnam,1094,35,1007,52,17,0,8,Western Pacific
 2020-09-29,West Bank and Gaza,39541,306,31047,8188,420,7,827,Eastern Mediterranean
@@ -52363,6 +52615,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-30,United Kingdom,454450,42224,1082,411144,7109,71,0,Europe
 2020-09-30,Uruguay,2046,48,1791,207,13,0,20,Americas
 2020-09-30,Uzbekistan,56717,470,53366,2881,363,4,396,Europe
+2020-09-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-09-30,Venezuela,75122,628,65225,9269,759,7,1025,Americas
 2020-09-30,Vietnam,1094,35,1010,49,0,0,3,Western Pacific
 2020-09-30,West Bank and Gaza,39899,311,31743,7845,358,5,696,Eastern Mediterranean
@@ -52570,6 +52823,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-01,United Kingdom,461364,42283,1083,417998,6914,59,1,Europe
 2020-10-01,Uruguay,2061,48,1809,204,15,0,18,Americas
 2020-10-01,Uzbekistan,57190,471,53835,2884,473,1,469,Europe
+2020-10-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-01,Venezuela,76029,635,66245,9149,907,7,1020,Americas
 2020-10-01,Vietnam,1095,35,1010,50,1,0,0,Western Pacific
 2020-10-01,West Bank and Gaza,40322,318,32577,7427,423,7,834,Eastern Mediterranean
@@ -52777,6 +53031,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-02,United Kingdom,468345,42349,1084,424912,6981,66,1,Europe
 2020-10-02,Uruguay,2097,48,1824,225,36,0,15,Americas
 2020-10-02,Uzbekistan,57454,472,53955,3027,264,1,120,Europe
+2020-10-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-02,Venezuela,76820,643,67216,8961,791,8,971,Americas
 2020-10-02,Vietnam,1096,35,1020,41,1,0,10,Western Pacific
 2020-10-02,West Bank and Gaza,40766,321,32944,7501,444,3,367,Eastern Mediterranean
@@ -52984,6 +53239,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-03,United Kingdom,481218,42398,1084,437736,12873,49,0,Europe
 2020-10-03,Uruguay,2122,48,1831,243,25,0,7,Americas
 2020-10-03,Uzbekistan,58238,477,54854,2907,784,5,899,Europe
+2020-10-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-03,Venezuela,77646,649,68098,8899,826,6,882,Americas
 2020-10-03,Vietnam,1096,35,1020,41,0,0,0,Western Pacific
 2020-10-03,West Bank and Gaza,41078,329,33442,7307,312,8,498,Eastern Mediterranean
@@ -53191,6 +53447,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-04,United Kingdom,504179,42431,1084,460664,22961,33,0,Europe
 2020-10-04,Uruguay,2145,48,1844,253,23,0,13,Americas
 2020-10-04,Uzbekistan,58612,480,55281,2851,374,3,427,Europe
+2020-10-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-04,Venezuela,78434,653,68917,8864,788,4,819,Americas
 2020-10-04,Vietnam,1096,35,1020,41,0,0,0,Western Pacific
 2020-10-04,West Bank and Gaza,41498,330,34698,6470,420,1,1256,Eastern Mediterranean
@@ -53398,6 +53655,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-05,United Kingdom,516782,42450,1086,473246,12603,19,2,Europe
 2020-10-05,Uruguay,2155,48,1862,245,10,0,18,Americas
 2020-10-05,Uzbekistan,58946,485,55633,2828,334,5,352,Europe
+2020-10-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-05,Venezuela,79117,658,69832,8627,683,5,915,Americas
 2020-10-05,Vietnam,1097,35,1022,40,1,0,2,Western Pacific
 2020-10-05,West Bank and Gaza,41957,339,35182,6436,459,9,484,Eastern Mediterranean
@@ -53605,6 +53863,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-06,United Kingdom,531334,42526,1086,487722,14552,76,0,Europe
 2020-10-06,Uruguay,2177,49,1878,250,22,1,16,Americas
 2020-10-06,Uzbekistan,59343,489,56058,2796,397,4,425,Europe
+2020-10-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-06,Venezuela,79796,665,70719,8412,679,7,887,Americas
 2020-10-06,Vietnam,1098,35,1023,40,1,0,1,Western Pacific
 2020-10-06,West Bank and Gaza,42432,349,35599,6484,475,10,417,Eastern Mediterranean
@@ -53812,6 +54071,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-07,United Kingdom,545499,42596,1086,501817,14165,70,0,Europe
 2020-10-07,Uruguay,2206,49,1890,267,29,0,12,Americas
 2020-10-07,Uzbekistan,59579,491,56165,2923,236,2,107,Europe
+2020-10-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-07,Venezuela,80404,671,71531,8202,608,6,812,Americas
 2020-10-07,Vietnam,1099,35,1023,41,1,0,0,Western Pacific
 2020-10-07,West Bank and Gaza,42840,355,35953,6532,408,6,354,Eastern Mediterranean
@@ -54019,6 +54279,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-08,United Kingdom,563041,42673,1109,519259,17542,77,23,Europe
 2020-10-08,Uruguay,2226,49,1904,273,20,0,14,Americas
 2020-10-08,Uzbekistan,60026,496,56837,2693,447,5,672,Europe
+2020-10-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-08,Venezuela,81019,678,72196,8145,615,7,665,Americas
 2020-10-08,Vietnam,1100,35,1023,42,1,0,0,Western Pacific
 2020-10-08,West Bank and Gaza,43256,359,36584,6313,416,4,631,Eastern Mediterranean
@@ -54226,6 +54487,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-09,United Kingdom,576907,42760,1109,533038,13866,87,0,Europe
 2020-10-09,Uruguay,2251,49,1917,285,25,0,13,Americas
 2020-10-09,Uzbekistan,60342,498,57221,2623,316,2,384,Europe
+2020-10-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-09,Venezuela,81696,684,73020,7992,677,6,824,Americas
 2020-10-09,Vietnam,1105,35,1024,46,5,0,1,Western Pacific
 2020-10-09,West Bank and Gaza,43664,367,36922,6375,408,8,338,Eastern Mediterranean
@@ -54433,6 +54695,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-10,United Kingdom,592072,42841,1109,548122,15165,81,0,Europe
 2020-10-10,Uruguay,2268,50,1930,288,17,1,13,Americas
 2020-10-10,Uzbekistan,60776,502,57704,2570,434,4,483,Europe
+2020-10-10,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-10,Venezuela,82453,691,73919,7843,757,7,899,Americas
 2020-10-10,Vietnam,1107,35,1024,48,2,0,0,Western Pacific
 2020-10-10,West Bank and Gaza,43945,378,37240,6327,281,11,318,Eastern Mediterranean
@@ -54640,6 +54903,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-11,United Kingdom,604945,42906,1109,560930,12873,65,0,Europe
 2020-10-11,Uruguay,2294,50,1942,302,26,0,12,Americas
 2020-10-11,Uzbekistan,61098,505,58069,2524,322,3,365,Europe
+2020-10-11,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-11,Venezuela,83137,697,74664,7776,684,6,745,Americas
 2020-10-11,Vietnam,1109,35,1024,50,2,0,0,Western Pacific
 2020-10-11,West Bank and Gaza,44299,381,37942,5976,354,3,702,Eastern Mediterranean
@@ -54847,6 +55111,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-12,United Kingdom,618955,42956,1111,574888,14010,50,2,Europe
 2020-10-12,Uruguay,2313,51,1950,312,19,1,8,Americas
 2020-10-12,Uzbekistan,61319,509,58306,2504,221,4,237,Europe
+2020-10-12,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-12,Venezuela,83756,704,75400,7652,619,7,736,Americas
 2020-10-12,Vietnam,1110,35,1025,50,1,0,1,Western Pacific
 2020-10-12,West Bank and Gaza,44684,387,38228,6069,385,6,286,Eastern Mediterranean
@@ -55054,6 +55319,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-13,United Kingdom,636192,43099,1129,591964,17237,143,18,Europe
 2020-10-13,Uruguay,2337,51,1987,299,24,0,37,Americas
 2020-10-13,Uzbekistan,61642,511,58613,2518,323,2,307,Europe
+2020-10-13,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-13,Venezuela,84391,710,76262,7419,635,6,862,Americas
 2020-10-13,Vietnam,1113,35,1025,53,3,0,0,Western Pacific
 2020-10-13,West Bank and Gaza,45200,391,38841,5968,516,4,613,Eastern Mediterranean
@@ -55261,6 +55527,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-14,United Kingdom,655922,43236,1133,611553,19730,137,4,Europe
 2020-10-14,Uruguay,2388,51,2007,330,51,0,20,Americas
 2020-10-14,Uzbekistan,61950,514,58951,2485,308,3,338,Europe
+2020-10-14,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-14,Venezuela,85005,714,76262,8029,614,4,0,Americas
 2020-10-14,Vietnam,1122,35,1029,58,9,0,4,Western Pacific
 2020-10-14,West Bank and Gaza,45658,393,39304,5961,458,2,463,Eastern Mediterranean
@@ -55468,6 +55735,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-15,United Kingdom,674903,43374,1139,630390,18981,138,6,Europe
 2020-10-15,Uruguay,2417,51,2025,341,29,0,18,Americas
 2020-10-15,Uzbekistan,62278,518,59291,2469,328,4,340,Europe
+2020-10-15,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-15,Venezuela,85469,720,77689,7060,464,6,1427,Americas
 2020-10-15,Vietnam,1124,35,1030,59,2,0,1,Western Pacific
 2020-10-15,West Bank and Gaza,46100,401,39585,6114,442,8,281,Eastern Mediterranean
@@ -55675,6 +55943,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-16,United Kingdom,690538,43510,1140,645888,15635,136,1,Europe
 2020-10-16,Uruguay,2450,51,2042,357,33,0,17,Americas
 2020-10-16,Uzbekistan,62588,520,59624,2444,310,2,333,Europe
+2020-10-16,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-16,Venezuela,85758,725,78294,6739,289,5,605,Americas
 2020-10-16,Vietnam,1124,35,1031,58,0,0,1,Western Pacific
 2020-10-16,West Bank and Gaza,46434,402,39921,6111,334,1,336,Eastern Mediterranean
@@ -55882,6 +56151,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-17,United Kingdom,706709,43660,1140,661909,16171,150,0,Europe
 2020-10-17,Uruguay,2501,51,2052,398,51,0,10,Americas
 2020-10-17,Uzbekistan,62809,522,59756,2531,221,2,132,Europe
+2020-10-17,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-17,Venezuela,86289,731,78847,6711,531,6,553,Americas
 2020-10-17,Vietnam,1126,35,1031,60,2,0,0,Western Pacific
 2020-10-17,West Bank and Gaza,46746,402,40162,6182,312,0,241,Eastern Mediterranean
@@ -56089,6 +56359,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-18,United Kingdom,723690,43727,1140,678823,16981,67,0,Europe
 2020-10-18,Uruguay,2531,51,2105,375,30,0,53,Americas
 2020-10-18,Uzbekistan,63124,525,60080,2519,315,3,324,Europe
+2020-10-18,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-18,Venezuela,86636,736,79694,6206,347,5,847,Americas
 2020-10-18,Vietnam,1134,35,1031,68,8,0,0,Western Pacific
 2020-10-18,West Bank and Gaza,47135,408,40498,6229,389,6,336,Eastern Mediterranean
@@ -56296,6 +56567,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-19,United Kingdom,742512,43807,1152,697553,18822,80,12,Europe
 2020-10-19,Uruguay,2560,51,2121,388,29,0,16,Americas
 2020-10-19,Uzbekistan,63523,531,60604,2388,399,6,524,Europe
+2020-10-19,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-19,Venezuela,86636,736,79694,6206,0,0,0,Americas
 2020-10-19,Vietnam,1140,35,1046,59,6,0,15,Western Pacific
 2020-10-19,West Bank and Gaza,47616,413,40861,6342,481,5,363,Eastern Mediterranean
@@ -56503,6 +56775,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-20,United Kingdom,763846,44048,1154,718644,21334,241,2,Europe
 2020-10-20,Uruguay,2623,52,2142,429,63,1,21,Americas
 2020-10-20,Uzbekistan,63831,534,60910,2387,308,3,306,Europe
+2020-10-20,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-20,Venezuela,87644,747,80316,6581,1008,11,622,Americas
 2020-10-20,Vietnam,1141,35,1046,60,1,0,0,Western Pacific
 2020-10-20,West Bank and Gaza,48129,421,41455,6253,513,8,594,Eastern Mediterranean
@@ -56710,6 +56983,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-21,United Kingdom,790540,44239,1154,745147,26694,191,0,Europe
 2020-10-21,Uruguay,2663,53,2172,438,40,1,30,Americas
 2020-10-21,Uzbekistan,64010,534,61068,2408,179,0,158,Europe
+2020-10-21,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-21,Venezuela,88035,753,81626,5656,391,6,1310,Americas
 2020-10-21,Vietnam,1144,35,1046,63,3,0,0,Western Pacific
 2020-10-21,West Bank and Gaza,48628,427,41935,6266,499,6,480,Eastern Mediterranean
@@ -56917,6 +57191,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-22,United Kingdom,811787,44428,1155,766204,21247,189,1,Europe
 2020-10-22,Uruguay,2701,53,2204,444,38,0,32,Americas
 2020-10-22,Uzbekistan,64439,540,61658,2241,429,6,590,Europe
+2020-10-22,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-22,Venezuela,88416,759,82284,5373,381,6,658,Americas
 2020-10-22,Vietnam,1148,35,1049,64,4,0,3,Western Pacific
 2020-10-22,West Bank and Gaza,49134,435,42544,6155,506,8,609,Eastern Mediterranean
@@ -57124,6 +57399,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-23,United Kingdom,832331,44652,1155,786524,20544,224,0,Europe
 2020-10-23,Uruguay,2759,53,2241,465,58,0,37,Americas
 2020-10-23,Uzbekistan,64724,542,61957,2225,285,2,299,Europe
+2020-10-23,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-23,Venezuela,88718,764,82899,5055,302,5,615,Americas
 2020-10-23,Vietnam,1148,35,1049,64,0,0,0,Western Pacific
 2020-10-23,West Bank and Gaza,49579,439,42850,6290,445,4,306,Eastern Mediterranean
@@ -57331,6 +57607,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-24,United Kingdom,855343,44826,1167,809350,23012,174,12,Europe
 2020-10-24,Uruguay,2807,53,2301,453,48,0,60,Americas
 2020-10-24,Uzbekistan,64923,544,62033,2346,199,2,76,Europe
+2020-10-24,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-24,Venezuela,89142,770,83443,4929,424,6,544,Americas
 2020-10-24,Vietnam,1160,35,1051,74,12,0,2,Western Pacific
 2020-10-24,West Bank and Gaza,49989,443,43232,6314,410,4,382,Eastern Mediterranean
@@ -57538,6 +57815,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-25,United Kingdom,875133,44977,1167,828989,19790,151,0,Europe
 2020-10-25,Uruguay,2851,53,2351,447,44,0,50,Americas
 2020-10-25,Uzbekistan,65307,549,62509,2249,384,5,476,Europe
+2020-10-25,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-25,Venezuela,89565,773,83947,4845,423,3,504,Americas
 2020-10-25,Vietnam,1168,35,1057,76,8,0,6,Western Pacific
 2020-10-25,West Bank and Gaza,50442,448,43592,6402,453,5,360,Eastern Mediterranean
@@ -57745,6 +58023,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-26,United Kingdom,896030,45079,1167,849784,20897,102,0,Europe
 2020-10-26,Uruguay,2872,54,2411,407,21,1,60,Americas
 2020-10-26,Uzbekistan,65667,552,62876,2239,360,3,367,Europe
+2020-10-26,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-26,Venezuela,90047,777,84444,4826,482,4,497,Americas
 2020-10-26,Vietnam,1169,35,1061,73,1,0,4,Western Pacific
 2020-10-26,West Bank and Gaza,50952,454,44055,6443,510,6,463,Eastern Mediterranean
@@ -57952,6 +58231,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-27,United Kingdom,918943,45446,1167,872330,22913,367,0,Europe
 2020-10-27,Uruguay,2916,54,2455,407,44,0,44,Americas
 2020-10-27,Uzbekistan,65881,556,63044,2281,214,4,168,Europe
+2020-10-27,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-27,Venezuela,90400,780,84907,4713,353,3,463,Americas
 2020-10-27,Vietnam,1172,35,1062,75,3,0,1,Western Pacific
 2020-10-27,West Bank and Gaza,51528,458,44444,6626,576,4,389,Eastern Mediterranean
@@ -58159,6 +58439,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-28,United Kingdom,943654,45756,1206,896692,24711,310,39,Europe
 2020-10-28,Uruguay,2981,55,2481,445,65,1,26,Americas
 2020-10-28,Uzbekistan,66141,558,63323,2260,260,2,279,Europe
+2020-10-28,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-28,Venezuela,90876,784,85402,4690,476,4,495,Americas
 2020-10-28,Vietnam,1173,35,1062,76,1,0,0,Western Pacific
 2020-10-28,West Bank and Gaza,51948,465,44985,6498,420,7,541,Eastern Mediterranean
@@ -58366,6 +58647,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-29,United Kingdom,966726,46036,1210,919480,23072,280,4,Europe
 2020-10-29,Uruguay,3044,57,2504,483,63,2,23,Americas
 2020-10-29,Uzbekistan,66392,561,63581,2250,251,3,258,Europe
+2020-10-29,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-29,Venezuela,91280,789,85897,4594,404,5,495,Americas
 2020-10-29,Vietnam,1177,35,1062,80,4,0,0,Western Pacific
 2020-10-29,West Bank and Gaza,52571,473,45448,6650,623,8,463,Eastern Mediterranean
@@ -58573,6 +58855,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-30,United Kingdom,991138,46310,1213,943615,24412,274,3,Europe
 2020-10-30,Uruguay,3082,58,2532,492,38,1,28,Americas
 2020-10-30,Uzbekistan,66628,563,63864,2201,236,2,283,Europe
+2020-10-30,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-30,Venezuela,91589,793,86335,4461,309,4,438,Americas
 2020-10-30,Vietnam,1177,35,1062,80,0,0,0,Western Pacific
 2020-10-30,West Bank and Gaza,53075,481,45896,6698,504,8,448,Eastern Mediterranean
@@ -58780,6 +59063,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-31,United Kingdom,1013053,46636,1213,965204,21915,326,0,Europe
 2020-10-31,Uruguay,3124,58,2560,506,42,0,28,Americas
 2020-10-31,Uzbekistan,66932,566,64235,2131,304,3,371,Europe
+2020-10-31,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-10-31,Venezuela,92013,798,86773,4442,424,5,438,Americas
 2020-10-31,Vietnam,1180,35,1062,83,3,0,0,Western Pacific
 2020-10-31,West Bank and Gaza,53520,483,46309,6728,445,2,413,Eastern Mediterranean
@@ -58987,6 +59271,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-01,United Kingdom,1036307,46798,1213,988296,23254,162,0,Europe
 2020-11-01,Uruguay,3149,59,2601,489,25,1,41,Americas
 2020-11-01,Uzbekistan,67156,570,64466,2120,224,4,231,Europe
+2020-11-01,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-01,Venezuela,92325,801,87156,4368,312,3,383,Americas
 2020-11-01,Vietnam,1180,35,1063,82,0,0,1,Western Pacific
 2020-11-01,West Bank and Gaza,54060,489,46773,6798,540,6,464,Eastern Mediterranean
@@ -59194,6 +59479,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-02,United Kingdom,1055270,46934,1213,1007123,18963,136,0,Europe
 2020-11-02,Uruguay,3165,60,2658,447,16,1,57,Americas
 2020-11-02,Uzbekistan,67254,571,64466,2217,98,1,0,Europe
+2020-11-02,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-02,Venezuela,92705,806,87547,4352,380,5,391,Americas
 2020-11-02,Vietnam,1192,35,1065,92,12,0,2,Western Pacific
 2020-11-02,West Bank and Gaza,54775,493,47169,7113,715,4,396,Eastern Mediterranean
@@ -59401,6 +59687,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-03,United Kingdom,1075323,47331,1249,1026743,20053,397,36,Europe
 2020-11-03,Uruguay,3196,61,2727,408,31,1,69,Americas
 2020-11-03,Uzbekistan,67553,574,64815,2164,299,3,349,Europe
+2020-11-03,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-03,Venezuela,93100,810,87941,4349,395,4,394,Americas
 2020-11-03,Vietnam,1202,35,1069,98,10,0,4,Western Pacific
 2020-11-03,West Bank and Gaza,55408,501,47744,7163,633,8,575,Eastern Mediterranean
@@ -59608,6 +59895,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-04,United Kingdom,1100515,47823,1254,1051438,25192,492,5,Europe
 2020-11-04,Uruguay,3245,61,2770,414,49,0,43,Americas
 2020-11-04,Uzbekistan,67779,577,65001,2201,226,3,186,Europe
+2020-11-04,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-04,Venezuela,93480,814,88326,4340,380,4,385,Americas
 2020-11-04,Vietnam,1203,35,1069,99,1,0,0,Western Pacific
 2020-11-04,West Bank and Gaza,56090,504,48224,7362,682,3,480,Eastern Mediterranean
@@ -59815,6 +60103,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-05,United Kingdom,1124666,48201,1254,1075211,24151,378,0,Europe
 2020-11-05,Uruguay,3309,61,2814,434,64,0,44,Americas
 2020-11-05,Uzbekistan,68009,579,65254,2176,230,2,253,Europe
+2020-11-05,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-05,Venezuela,93921,819,88701,4401,441,5,375,Americas
 2020-11-05,Vietnam,1207,35,1069,103,4,0,0,Western Pacific
 2020-11-05,West Bank and Gaza,56672,508,48680,7484,582,4,456,Eastern Mediterranean
@@ -60022,6 +60311,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-06,United Kingdom,1147969,48556,1256,1098157,23303,355,2,Europe
 2020-11-06,Uruguay,3370,61,2853,456,61,0,39,Americas
 2020-11-06,Uzbekistan,68139,579,65333,2227,130,0,79,Europe
+2020-11-06,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-06,Venezuela,94305,821,89099,4385,384,2,398,Americas
 2020-11-06,Vietnam,1212,35,1070,107,5,0,1,Western Pacific
 2020-11-06,West Bank and Gaza,57226,511,49537,7178,554,3,857,Eastern Mediterranean
@@ -60229,6 +60519,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-07,United Kingdom,1172928,48969,1258,1122701,24959,413,2,Europe
 2020-11-07,Uruguay,3441,61,2903,477,71,0,50,Americas
 2020-11-07,Uzbekistan,68367,581,65550,2236,228,2,217,Europe
+2020-11-07,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-07,Venezuela,94698,824,89502,4372,393,3,403,Americas
 2020-11-07,Vietnam,1213,35,1070,108,1,0,0,Western Pacific
 2020-11-07,West Bank and Gaza,57657,512,49975,7170,431,1,438,Eastern Mediterranean
@@ -60436,6 +60727,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-08,United Kingdom,1193500,49125,1273,1143102,20572,156,15,Europe
 2020-11-08,Uruguay,3514,62,2943,509,73,1,40,Americas
 2020-11-08,Uzbekistan,68730,585,65971,2174,363,4,421,Europe
+2020-11-08,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-08,Venezuela,94883,826,89755,4302,185,2,253,Americas
 2020-11-08,Vietnam,1213,35,1070,108,0,0,0,Western Pacific
 2020-11-08,West Bank and Gaza,58158,515,50407,7236,501,3,432,Eastern Mediterranean
@@ -60643,6 +60935,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-09,United Kingdom,1214885,49320,1277,1164288,21385,195,4,Europe
 2020-11-09,Uruguay,3560,62,2993,505,46,0,50,Americas
 2020-11-09,Uzbekistan,69027,588,66194,2245,297,3,223,Europe
+2020-11-09,Vanuatu,0,0,0,0,0,0,0,Western Pacific
 2020-11-09,Venezuela,95149,830,90054,4265,266,4,299,Americas
 2020-11-09,Vietnam,1215,35,1087,93,2,0,17,Western Pacific
 2020-11-09,West Bank and Gaza,58838,521,50877,7440,680,6,470,Eastern Mediterranean
@@ -60650,3 +60943,211 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-09,Yemen,2071,605,1394,72,1,3,19,Eastern Mediterranean
 2020-11-09,Zambia,16971,349,16011,611,17,0,61,Africa
 2020-11-09,Zimbabwe,8561,254,8023,284,30,1,18,Africa
+2020-11-10,Afghanistan,42463,1577,34954,5932,166,3,233,Eastern Mediterranean
+2020-11-10,Albania,25294,579,12353,12362,563,8,150,Europe
+2020-11-10,Algeria,63446,2077,42626,18743,753,15,301,Africa
+2020-11-10,Andorra,5477,75,4405,997,40,0,73,Europe
+2020-11-10,Angola,12816,308,6036,6472,136,0,109,Africa
+2020-11-10,Anguilla (UK),3,0,3,0,0,0,0,Americas
+2020-11-10,Antigua and Barbuda,131,3,122,6,0,0,0,Americas
+2020-11-10,Argentina,1262476,34183,1081897,146396,11977,276,8320,Americas
+2020-11-10,Armenia,108687,1609,66835,40243,1221,29,1925,Europe
+2020-11-10,Aruba (NL),4622,42,4399,181,16,1,10,Americas
+2020-11-10,Australia,27671,907,25454,1310,2,0,0,Western Pacific
+2020-11-10,Austria,164866,1499,98663,64704,6120,45,4036,Europe
+2020-11-10,Azerbaijan,67392,867,50009,16516,1346,15,598,Europe
+2020-11-10,Bahamas,7012,154,5035,1823,48,0,92,Americas
+2020-11-10,Bahrain,83811,331,81415,2065,179,2,190,Eastern Mediterranean
+2020-11-10,Bangladesh,423620,6108,341416,76096,1699,16,1648,South-East Asia
+2020-11-10,Barbados,243,7,231,5,0,0,0,Americas
+2020-11-10,Belarus,108300,1016,91646,15638,1038,5,293,Europe
+2020-11-10,Belgium,507475,13561,30504,463410,4293,345,708,Europe
+2020-11-10,Belize,4414,73,2440,1901,184,2,54,Americas
+2020-11-10,Benin,2781,43,2515,223,0,0,0,Africa
+2020-11-10,Bhutan,364,0,343,21,0,0,1,South-East Asia
+2020-11-10,Bolivia,142664,8808,115199,18657,103,6,318,Americas
+2020-11-10,Bosnia and Herzegovina,65024,1629,32261,31134,1605,46,1039,Europe
+2020-11-10,Botswana,7835,27,5534,2274,0,0,0,Africa
+2020-11-10,Brazil,5699005,162802,5183970,352233,23973,174,20744,Americas
+2020-11-10,British Virgin Islands (UK),71,1,70,0,0,0,0,Americas
+2020-11-10,Brunei,148,3,145,0,0,0,1,Western Pacific
+2020-11-10,Bulgaria,83366,1851,25799,55716,4390,80,516,Europe
+2020-11-10,Burkina Faso,2582,67,2410,105,1,0,28,Africa
+2020-11-10,Burma,63241,1461,47411,14369,1266,24,750,South-East Asia
+2020-11-10,Burundi,615,1,549,65,1,0,0,Africa
+2020-11-10,Cabo Verde,9499,101,8738,660,80,1,21,Africa
+2020-11-10,Cambodia,300,0,288,12,0,0,0,Western Pacific
+2020-11-10,Cameroon,22421,433,21510,478,0,0,0,Africa
+2020-11-10,Canada,276466,10692,0,265774,4445,73,0,Americas
+2020-11-10,Cayman Islands (UK),253,1,236,16,3,0,0,Americas
+2020-11-10,Central African Republic,4884,62,1924,2898,4,0,0,Africa
+2020-11-10,Chad,1561,99,1413,49,10,0,19,Africa
+2020-11-10,Chile,523907,14611,500142,9154,1028,23,1238,Americas
+2020-11-10,China,91719,4742,84802,2175,26,1,28,Western Pacific
+2020-11-10,Colombia,1155356,33128,980866,141362,6292,154,-66151,Americas
+2020-11-10,Comoros,569,7,541,21,6,0,9,Africa
+2020-11-10,Congo (Brazzaville),5379,92,3887,1400,0,0,0,Africa
+2020-11-10,Congo (Kinshasa),11642,316,10928,398,34,0,35,Africa
+2020-11-10,Costa Rica,118566,1502,72941,44123,979,11,692,Americas
+2020-11-10,Cote d'Ivoire,20847,126,20546,175,12,0,30,Africa
+2020-11-10,Croatia,70243,865,54854,14524,1467,33,1852,Europe
+2020-11-10,Cuba,7392,130,6749,513,43,0,28,Americas
+2020-11-10,Curacao (NL),1131,2,837,292,29,0,15,Americas
+2020-11-10,Cyprus,6296,29,1882,4385,198,1,0,Europe
+2020-11-10,Czechia,429880,5323,277473,147084,12699,295,33468,Europe
+2020-11-10,Denmark,56958,750,42249,13959,1066,3,1017,Europe
+2020-11-10,Djibouti,5633,61,5497,75,6,0,5,Eastern Mediterranean
+2020-11-10,Dominica,63,0,35,28,0,0,0,Americas
+2020-11-10,Dominican Republic,131131,2269,108765,20097,528,2,382,Americas
+2020-11-10,Ecuador,175711,12849,154956,7906,442,10,0,Americas
+2020-11-10,Egypt,109654,6394,100540,2720,232,14,101,Eastern Mediterranean
+2020-11-10,El Salvador,35145,1020,31172,2953,0,6,0,Americas
+2020-11-10,Equatorial Guinea,5102,85,4971,46,10,0,3,Africa
+2020-11-10,Eritrea,491,0,438,53,0,0,0,Africa
+2020-11-10,Estonia,6376,76,4219,2081,126,0,14,Europe
+2020-11-10,Eswatini,6024,117,5737,170,11,0,5,Africa
+2020-11-10,Ethiopia,100327,1537,61516,37274,345,7,806,Africa
+2020-11-10,Falkland Islands (Malvinas) (UK),13,0,13,0,0,0,0,Africa
+2020-11-10,Faroe Islands (DK),497,0,493,4,0,0,0,Europe
+2020-11-10,Fiji,34,2,31,1,0,0,0,Western Pacific
+2020-11-10,Finland,18107,363,12700,5044,220,0,0,Europe
+2020-11-10,France,1811376,40690,109683,1661003,0,0,0,Europe
+2020-11-10,French Guiana,10729,70,9995,664,14,0,0,Americas
+2020-11-10,French Polynesia,10971,52,4842,6077,291,3,0,Western Pacific
+2020-11-10,Gabon,9029,57,8899,73,0,0,0,Africa
+2020-11-10,Gambia,3696,122,3543,31,0,0,0,Africa
+2020-11-10,Georgia,63650,521,47390,15739,2970,22,2348,Europe
+2020-11-10,Germany,715693,11781,446402,257510,26547,373,2781,Europe
+2020-11-10,Ghana,49302,320,47843,1139,100,0,117,Africa
+2020-11-10,Gibraltar (UK),814,0,702,112,9,0,10,Europe
+2020-11-10,Greece,60570,866,23074,36630,2383,41,0,Europe
+2020-11-10,Greenland (DK),17,0,17,0,0,0,0,Europe
+2020-11-10,Grenada,32,0,27,5,0,0,0,Americas
+2020-11-10,Guadeloupe (FR),8098,139,2242,5717,195,6,0,Americas
+2020-11-10,Guatemala,112129,3832,102140,6157,769,9,662,Americas
+2020-11-10,Guinea,12484,74,10857,1553,25,0,10,Africa
+2020-11-10,Guinea-Bissau,2419,43,2255,121,0,0,0,Africa
+2020-11-10,Guyana,4530,135,3575,820,6,0,26,Americas
+2020-11-10,Haiti,9137,232,7683,1222,0,0,65,Americas
+2020-11-10,Holy See,27,0,15,12,0,0,0,Europe
+2020-11-10,Honduras,100804,2780,43507,54517,231,15,330,Americas
+2020-11-10,Hungary,118918,2596,27585,88737,4140,103,1424,Europe
+2020-11-10,Iceland,5114,24,4521,569,13,1,65,Europe
+2020-11-10,India,8636011,127571,8013783,494657,44281,512,54377,South-East Asia
+2020-11-10,Indonesia,444348,14761,375741,53846,3779,72,3475,South-East Asia
+2020-11-10,Iran,703288,39202,530694,133392,10339,453,5053,Eastern Mediterranean
+2020-11-10,Iraq,505310,11432,434665,59213,3577,52,2432,Eastern Mediterranean
+2020-11-10,Ireland,65889,1963,23364,40562,230,15,0,Europe
+2020-11-10,Israel,320661,2684,309840,8137,477,6,416,Europe
+2020-11-10,Italy,995463,42330,363023,590110,35090,580,17734,Europe
+2020-11-10,Jamaica,9573,224,4987,4362,31,3,35,Americas
+2020-11-10,Japan,110487,1840,98487,10160,1296,6,1803,Western Pacific
+2020-11-10,Jordan,120982,1386,9249,110347,5996,91,216,Eastern Mediterranean
+2020-11-10,Kazakhstan,117904,1857,108387,7660,568,0,218,Europe
+2020-11-10,Kenya,64588,1154,43095,20339,1344,24,436,Africa
+2020-11-10,Kosovo,25388,773,16362,8253,596,5,136,Europe
+2020-11-10,Kuwait,133381,821,124156,8404,903,5,842,Eastern Mediterranean
+2020-11-10,Kyrgyzstan,64360,1188,55306,7866,970,6,948,Europe
+2020-11-10,Laos,24,0,23,1,0,0,0,Western Pacific
+2020-11-10,Latvia,8395,103,1471,6821,208,2,5,Europe
+2020-11-10,Lebanon,96907,749,53360,42798,1552,17,1632,Eastern Mediterranean
+2020-11-10,Lesotho,2026,44,1029,953,59,0,5,Africa
+2020-11-10,Liberia,1461,82,1310,69,9,0,0,Africa
+2020-11-10,Libya,70010,957,41512,27541,970,13,732,Eastern Mediterranean
+2020-11-10,Liechtenstein,846,4,590,252,45,0,25,Europe
+2020-11-10,Lithuania,26841,221,5962,20658,1086,11,149,Europe
+2020-11-10,Luxembourg,23710,198,14094,9418,483,5,181,Europe
+2020-11-10,Madagascar,17223,249,16516,458,0,0,0,Africa
+2020-11-10,Malawi,5953,185,5361,407,0,0,2,Africa
+2020-11-10,Malaysia,42050,300,30304,11446,869,6,725,Western Pacific
+2020-11-10,Maldives,12030,41,11182,807,21,1,50,South-East Asia
+2020-11-10,Mali,3745,137,2905,703,33,0,73,Africa
+2020-11-10,Malta,7396,81,5274,2041,153,3,89,Europe
+2020-11-10,Marshall Islands,1,0,0,1,0,0,0,Western Pacific
+2020-11-10,Martinique (FR),4732,37,98,4597,517,4,0,Americas
+2020-11-10,Mauritania,7848,165,7498,185,15,0,13,Africa
+2020-11-10,Mauritius,453,10,416,27,0,0,0,Africa
+2020-11-10,Mayotte (FR),4815,46,2964,1805,0,0,0,Africa
+2020-11-10,Mexico,978531,95842,824355,58334,10706,815,0,Americas
+2020-11-10,Moldova,83592,1930,64826,16836,915,18,1180,Europe
+2020-11-10,Monaco,512,2,378,132,22,0,9,Europe
+2020-11-10,Mongolia,382,0,317,65,14,0,0,Western Pacific
+2020-11-10,Montenegro,24154,349,16378,7427,546,7,289,Europe
+2020-11-10,Montserrat (UK),13,1,12,0,0,0,0,Americas
+2020-11-10,Morocco,265165,4425,216851,43889,5214,69,3946,Eastern Mediterranean
+2020-11-10,Mozambique,13892,99,0,13793,69,0,0,Africa
+2020-11-10,Namibia,13253,134,11701,1418,13,0,81,Africa
+2020-11-10,Nepal,199760,1148,160577,38035,2736,22,853,South-East Asia
+2020-11-10,Netherlands,419412,8141,0,411271,4667,98,0,Europe
+2020-11-10,New Zealand,1988,25,1911,52,1,0,1,Western Pacific
+2020-11-10,Nicaragua,5661,158,4225,1278,70,1,0,Americas
+2020-11-10,Niger,1256,69,1144,43,10,0,0,Africa
+2020-11-10,Nigeria,64336,1160,60333,2843,152,2,264,Africa
+2020-11-10,North Macedonia,41222,1186,24920,15116,947,30,691,Europe
+2020-11-10,Norway,25887,285,11863,13739,562,0,0,Europe
+2020-11-10,Oman,118884,1316,109330,8238,381,6,362,Eastern Mediterranean
+2020-11-10,Pakistan,348184,7021,320065,21098,1708,21,634,Eastern Mediterranean
+2020-11-10,Panama,141302,2817,119707,18778,971,9,996,Americas
+2020-11-10,Papua New Guinea,599,7,586,6,0,0,1,Western Pacific
+2020-11-10,Paraguay,68497,1516,49039,17942,549,14,602,Americas
+2020-11-10,Peru,923527,34943,850670,37914,1194,64,4455,Americas
+2020-11-10,Philippines,399749,7661,361919,30169,1300,14,135,Western Pacific
+2020-11-10,Poland,593592,8375,230661,354556,25454,330,11290,Europe
+2020-11-10,Portugal,187237,3021,106878,77338,3817,62,4795,Europe
+2020-11-10,Qatar,134663,233,131733,2697,230,1,243,Eastern Mediterranean
+2020-11-10,Reunion (FR),6572,28,5380,1164,0,0,0,Africa
+2020-11-10,Romania,314295,8186,211408,94701,7304,177,4615,Europe
+2020-11-10,Russia,1802762,30899,1341868,429995,20765,353,15300,Europe
+2020-11-10,Rwanda,5262,40,4967,255,20,2,0,Africa
+2020-11-10,Saint Kitts and Nevis,19,0,19,0,0,0,0,Americas
+2020-11-10,Saint Lucia,148,1,32,115,7,1,0,Americas
+2020-11-10,Saint Pierre and Miquelon (FR),16,0,12,4,0,0,0,Americas
+2020-11-10,Saint Vincent and the Grenadines,76,0,72,4,0,0,0,Americas
+2020-11-10,San Marino,1114,42,789,283,0,0,0,Europe
+2020-11-10,Sao Tome and Principe,962,16,914,32,0,0,2,Africa
+2020-11-10,Saudi Arabia,351455,5576,338281,7598,471,17,493,Eastern Mediterranean
+2020-11-10,Senegal,15720,326,15366,28,9,0,17,Africa
+2020-11-10,Serbia,66888,915,0,65973,2823,14,0,Europe
+2020-11-10,Seychelles,158,0,155,3,0,0,0,Africa
+2020-11-10,Sierra Leone,2386,74,1813,499,1,0,0,Africa
+2020-11-10,Singapore,58073,28,57985,60,9,0,4,Western Pacific
+2020-11-10,Sint Maarten (NL),908,23,804,81,12,0,3,Americas
+2020-11-10,Slovakia,77123,390,21718,55015,1051,24,1961,Europe
+2020-11-10,Slovenia,46717,605,25007,21105,1092,27,1474,Europe
+2020-11-10,Solomon Islands,16,0,5,11,0,0,0,Western Pacific
+2020-11-10,Somalia,4301,107,3247,947,0,0,0,Eastern Mediterranean
+2020-11-10,South Africa,740254,19951,683194,37109,1729,106,2468,Africa
+2020-11-10,South Korea,27799,487,25266,2046,146,2,106,Western Pacific
+2020-11-10,South Sudan,2960,59,1290,1611,0,0,0,Africa
+2020-11-10,Spain,1381218,39345,150376,1191497,0,0,0,Europe
+2020-11-10,Sri Lanka,14715,41,9537,5137,430,5,657,South-East Asia
+2020-11-10,Sudan,14155,1116,9492,3547,0,0,0,Eastern Mediterranean
+2020-11-10,Suriname,5245,113,5115,17,4,0,5,Americas
+2020-11-10,Sweden,162240,6057,0,156183,15779,35,0,Europe
+2020-11-10,Switzerland,235202,3013,122600,109589,5980,111,35300,Europe
+2020-11-10,Syria,6352,325,0,6027,68,4,0,Eastern Mediterranean
+2020-11-10,Taiwan*,580,7,528,45,2,0,2,Western Pacific
+2020-11-10,Tajikistan,11417,84,10763,570,41,1,52,Europe
+2020-11-10,Tanzania,509,21,183,305,0,0,0,Africa
+2020-11-10,Thailand,3847,60,3685,102,3,0,15,South-East Asia
+2020-11-10,Timor-Leste,30,0,0,30,0,0,0,South-East Asia
+2020-11-10,Togo,2558,57,1763,738,35,0,27,Africa
+2020-11-10,Trinidad and Tobago,5880,111,5238,531,31,0,35,Americas
+2020-11-10,Tunisia,72993,2006,48103,22884,1424,86,0,Eastern Mediterranean
+2020-11-10,Turkey,399360,11059,342501,45800,2529,87,2215,Europe
+2020-11-10,Turks and Caicos Islands (UK),711,6,695,10,4,0,0,Americas
+2020-11-10,US,10252129,239671,3961873,6050585,136325,1415,33028,Americas
+2020-11-10,Uganda,14704,133,7836,6735,130,0,65,Africa
+2020-11-10,Ukraine,493544,9018,223530,260996,10391,206,5814,Europe
+2020-11-10,United Arab Emirates,144385,518,139701,4166,1096,3,742,Eastern Mediterranean
+2020-11-10,United Kingdom,1235320,49852,1277,1184191,20435,532,0,Europe
+2020-11-10,Uruguay,3620,62,3034,524,60,0,41,Americas
+2020-11-10,Uzbekistan,69027,588,66194,2245,0,0,0,Europe
+2020-11-10,Vanuatu,1,0,0,1,1,0,0,Western Pacific
+2020-11-10,Venezuela,95445,834,90359,4252,296,4,305,Americas
+2020-11-10,Vietnam,1226,35,1087,104,11,0,0,Western Pacific
+2020-11-10,West Bank and Gaza,59422,533,51425,7464,584,12,548,Eastern Mediterranean
+2020-11-10,Western Sahara,10,1,8,1,0,0,0,Africa
+2020-11-10,Yemen,2071,605,1394,72,0,0,0,Eastern Mediterranean
+2020-11-10,Zambia,16997,350,16019,628,26,1,8,Africa
+2020-11-10,Zimbabwe,8610,255,8040,315,49,1,17,Africa
