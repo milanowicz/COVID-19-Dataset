@@ -60860,7 +60860,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-09,Mauritania,7833,165,7485,183,13,0,6,Africa
 2020-11-09,Mauritius,453,10,416,27,0,0,0,Africa
 2020-11-09,Mayotte (FR),4815,46,2964,1805,265,1,0,Africa
-2020-11-09,Mexico,967825,95027,824355,48443,0,0,0,Americas
+2020-11-09,Mexico,972785,95225,824355,53205,4960,198,0,Americas
 2020-11-09,Moldova,82677,1912,63646,17119,331,19,1138,Europe
 2020-11-09,Monaco,490,2,369,119,4,0,24,Europe
 2020-11-09,Mongolia,368,0,317,51,6,0,0,Western Pacific
@@ -61068,7 +61068,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-10,Mauritania,7848,165,7498,185,15,0,13,Africa
 2020-11-10,Mauritius,453,10,416,27,0,0,0,Africa
 2020-11-10,Mayotte (FR),4815,46,2964,1805,0,0,0,Africa
-2020-11-10,Mexico,978531,95842,824355,58334,10706,815,0,Americas
+2020-11-10,Mexico,978531,95842,824355,58334,5746,617,0,Americas
 2020-11-10,Moldova,83592,1930,64826,16836,915,18,1180,Europe
 2020-11-10,Monaco,512,2,378,132,22,0,9,Europe
 2020-11-10,Mongolia,382,0,317,65,14,0,0,Western Pacific
