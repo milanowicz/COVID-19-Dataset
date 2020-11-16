@@ -260,6 +260,7 @@ Baden-Württemberg,2020-11-12,2189.0,107649
 Baden-Württemberg,2020-11-13,2225.0,110633
 Baden-Württemberg,2020-11-14,2242,113539
 Baden-Württemberg,2020-11-15,2258.0,115670
+Baden-Württemberg,2020-11-16,2265.0,116996
 Bayern,2020-02-29,0.0,15
 Bayern,2020-03-01,0.0,23
 Bayern,2020-03-02,0.0,25
@@ -521,6 +522,7 @@ Bayern,2020-11-12,3050.0,144705
 Bayern,2020-11-13,3081.0,148882
 Bayern,2020-11-14,3108,153156
 Bayern,2020-11-15,3133.0,156421
+Bayern,2020-11-16,3144.0,158849
 Berlin,2020-03-02,0.0,1
 Berlin,2020-03-03,0.0,3
 Berlin,2020-03-04,0.0,7
@@ -780,6 +782,7 @@ Berlin,2020-11-12,321.0,43146
 Berlin,2020-11-13,334.0,45106
 Berlin,2020-11-14,348,46434
 Berlin,2020-11-15,358.0,47265
+Berlin,2020-11-16,363.0,47697
 Brandenburg,2020-03-03,0.0,1
 Brandenburg,2020-03-04,0.0,1
 Brandenburg,2020-03-05,0.0,1
@@ -1038,6 +1041,7 @@ Brandenburg,2020-11-12,229.0,11483
 Brandenburg,2020-11-13,230.0,11852
 Brandenburg,2020-11-14,232,12205
 Brandenburg,2020-11-15,238.0,12636
+Brandenburg,2020-11-16,241.0,12873
 Bremen,2020-03-01,0.0,1
 Bremen,2020-03-02,0.0,1
 Bremen,2020-03-03,0.0,2
@@ -1298,6 +1302,7 @@ Bremen,2020-11-12,89.0,7565
 Bremen,2020-11-13,93.0,7803
 Bremen,2020-11-14,94,7965
 Bremen,2020-11-15,94.0,8153
+Bremen,2020-11-16,97.0,8220
 Hamburg,2020-03-01,0.0,1
 Hamburg,2020-03-02,0.0,1
 Hamburg,2020-03-03,0.0,2
@@ -1558,6 +1563,7 @@ Hamburg,2020-11-12,308.0,18255
 Hamburg,2020-11-13,310.0,18914
 Hamburg,2020-11-14,311,19450
 Hamburg,2020-11-15,311.0,19977
+Hamburg,2020-11-16,313.0,20220
 Hessen,2020-02-29,0.0,3
 Hessen,2020-03-01,0.0,8
 Hessen,2020-03-02,0.0,10
@@ -1819,6 +1825,7 @@ Hessen,2020-11-12,821.0,59371
 Hessen,2020-11-13,836.0,61055
 Hessen,2020-11-14,854,62462
 Hessen,2020-11-15,864.0,64393
+Hessen,2020-11-16,873.0,65479
 Mecklenburg-Vorpommern,2020-03-04,0.0,4
 Mecklenburg-Vorpommern,2020-03-05,0.0,4
 Mecklenburg-Vorpommern,2020-03-06,0.0,5
@@ -2076,6 +2083,7 @@ Mecklenburg-Vorpommern,2020-11-12,34.0,3910
 Mecklenburg-Vorpommern,2020-11-13,36.0,4165
 Mecklenburg-Vorpommern,2020-11-14,37,4289
 Mecklenburg-Vorpommern,2020-11-15,38.0,4397
+Mecklenburg-Vorpommern,2020-11-16,38.0,4435
 Niedersachsen,2020-03-01,0.0,1
 Niedersachsen,2020-03-02,0.0,1
 Niedersachsen,2020-03-03,0.0,2
@@ -2336,6 +2344,7 @@ Niedersachsen,2020-11-12,868.0,50167
 Niedersachsen,2020-11-13,882.0,51770
 Niedersachsen,2020-11-14,897,53883
 Niedersachsen,2020-11-15,903.0,55325
+Niedersachsen,2020-11-16,904.0,55433
 Nordrhein-Westfalen,2020-02-29,0.0,30
 Nordrhein-Westfalen,2020-03-01,0.0,74
 Nordrhein-Westfalen,2020-03-02,0.0,86
@@ -2597,6 +2606,7 @@ Nordrhein-Westfalen,2020-11-12,2517.0,185138
 Nordrhein-Westfalen,2020-11-13,2581.0,191011
 Nordrhein-Westfalen,2020-11-14,2616,196363
 Nordrhein-Westfalen,2020-11-15,2623.0,200063
+Nordrhein-Westfalen,2020-11-16,2637.0,202817
 Rheinland-Pfalz,2020-02-29,0.0,1
 Rheinland-Pfalz,2020-03-01,0.0,2
 Rheinland-Pfalz,2020-03-02,0.0,2
@@ -2858,6 +2868,7 @@ Rheinland-Pfalz,2020-11-12,342.0,28958
 Rheinland-Pfalz,2020-11-13,352.0,30250
 Rheinland-Pfalz,2020-11-14,356,31397
 Rheinland-Pfalz,2020-11-15,362.0,32013
+Rheinland-Pfalz,2020-11-16,363.0,32563
 Saarland,2020-03-04,0.0,1
 Saarland,2020-03-05,0.0,1
 Saarland,2020-03-06,0.0,2
@@ -3115,6 +3126,7 @@ Saarland,2020-11-12,207.0,9276
 Saarland,2020-11-13,208.0,9452
 Saarland,2020-11-14,211,9713
 Saarland,2020-11-15,214.0,10110
+Saarland,2020-11-16,214.0,10110
 Sachsen,2020-03-03,0.0,1
 Sachsen,2020-03-04,0.0,1
 Sachsen,2020-03-05,0.0,1
@@ -3373,6 +3385,7 @@ Sachsen,2020-11-12,458.0,30100
 Sachsen,2020-11-13,474.0,31538
 Sachsen,2020-11-14,502,33007
 Sachsen,2020-11-15,511.0,33924
+Sachsen,2020-11-16,514.0,34970
 Sachsen-Anhalt,2020-03-10,0.0,7
 Sachsen-Anhalt,2020-03-11,0.0,15
 Sachsen-Anhalt,2020-03-12,0.0,27
@@ -3624,6 +3637,7 @@ Sachsen-Anhalt,2020-11-12,102.0,7367
 Sachsen-Anhalt,2020-11-13,105.0,7641
 Sachsen-Anhalt,2020-11-14,105,7941
 Sachsen-Anhalt,2020-11-15,105.0,8040
+Sachsen-Anhalt,2020-11-16,105.0,8161
 Schleswig-Holstein,2020-02-29,0.0,1
 Schleswig-Holstein,2020-03-01,0.0,2
 Schleswig-Holstein,2020-03-02,0.0,2
@@ -3885,6 +3899,7 @@ Schleswig-Holstein,2020-11-12,213.0,10715
 Schleswig-Holstein,2020-11-13,213.0,10924
 Schleswig-Holstein,2020-11-14,218,11203
 Schleswig-Holstein,2020-11-15,219.0,11361
+Schleswig-Holstein,2020-11-16,222.0,11522
 Thüringen,2020-03-03,0.0,1
 Thüringen,2020-03-04,0.0,1
 Thüringen,2020-03-05,0.0,1
@@ -4143,3 +4158,4 @@ Thüringen,2020-11-12,234.0,9748
 Thüringen,2020-11-13,240.0,10099
 Thüringen,2020-11-14,247,10549
 Thüringen,2020-11-15,254.0,10755
+Thüringen,2020-11-16,254.0,10982
