@@ -12163,7 +12163,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-20,Jamaica,16,1,2,13,1,0,0,Americas
 2020-03-20,Japan,1022,34,191,797,54,1,41,Western Pacific
 2020-03-20,Jordan,85,0,1,84,16,0,0,Eastern Mediterranean
-2020-03-20,Kazakhstan,49,3,0,46,5,3,0,Europe
+2020-03-20,Kazakhstan,49,0,0,49,5,0,0,Europe
 2020-03-20,Kenya,7,0,0,7,0,0,0,Africa
 2020-03-20,Kosovo,21,0,0,21,1,0,0,Europe
 2020-03-20,Kuwait,159,0,18,141,11,0,0,Eastern Mediterranean
@@ -12371,7 +12371,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-21,Jamaica,16,1,2,13,0,0,0,Americas
 2020-03-21,Japan,1059,36,232,791,37,2,41,Western Pacific
 2020-03-21,Jordan,85,0,1,84,0,0,0,Eastern Mediterranean
-2020-03-21,Kazakhstan,53,0,0,53,4,-3,0,Europe
+2020-03-21,Kazakhstan,53,0,0,53,4,0,0,Europe
 2020-03-21,Kenya,7,0,0,7,0,0,0,Africa
 2020-03-21,Kosovo,24,0,0,24,3,0,0,Europe
 2020-03-21,Kuwait,176,0,27,149,17,0,9,Eastern Mediterranean
@@ -12579,7 +12579,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-22,Jamaica,19,1,2,16,3,0,0,Americas
 2020-03-22,Japan,1104,40,235,829,45,4,3,Western Pacific
 2020-03-22,Jordan,112,0,1,111,27,0,0,Eastern Mediterranean
-2020-03-22,Kazakhstan,60,0,0,60,7,0,0,Europe
+2020-03-22,Kazakhstan,61,0,0,61,8,0,0,Europe
 2020-03-22,Kenya,15,0,0,15,8,0,0,Africa
 2020-03-22,Kosovo,31,0,0,31,7,0,0,Europe
 2020-03-22,Kuwait,188,0,27,161,12,0,0,Eastern Mediterranean
@@ -12787,7 +12787,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-03-23,Jamaica,19,1,2,16,0,0,0,Americas
 2020-03-23,Japan,1144,41,235,868,40,1,0,Western Pacific
 2020-03-23,Jordan,127,0,1,126,15,0,0,Eastern Mediterranean
-2020-03-23,Kazakhstan,62,0,0,62,2,0,0,Europe
+2020-03-23,Kazakhstan,62,0,0,62,1,0,0,Europe
 2020-03-23,Kenya,16,0,0,16,1,0,0,Africa
 2020-03-23,Kosovo,33,1,0,32,2,1,0,Europe
 2020-03-23,Kuwait,189,0,27,162,1,0,0,Eastern Mediterranean
@@ -40243,7 +40243,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-02,Jamaica,894,12,743,139,11,2,0,Americas
 2020-08-02,Japan,39116,1013,25748,12355,1312,1,401,Western Pacific
 2020-08-02,Jordan,1213,11,1099,103,5,0,5,Eastern Mediterranean
-2020-08-02,Kazakhstan,92662,793,62511,29358,2295,0,1686,Europe
+2020-08-02,Kazakhstan,96774,823,62511,33440,6407,30,1686,Europe
 2020-08-02,Kenya,22053,369,8477,13207,690,5,58,Africa
 2020-08-02,Kosovo,8799,249,4863,3687,245,13,133,Europe
 2020-08-02,Kuwait,67911,457,59213,8241,463,4,688,Eastern Mediterranean
@@ -40451,7 +40451,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-03,Jamaica,905,12,743,150,11,0,0,Americas
 2020-08-03,Japan,40099,1018,26476,12605,983,5,728,Western Pacific
 2020-08-03,Jordan,1218,11,1131,76,5,0,32,Eastern Mediterranean
-2020-08-03,Kazakhstan,93820,793,65132,27895,1158,0,2621,Europe
+2020-08-03,Kazakhstan,98641,1109,65132,32400,1867,286,2621,Europe
 2020-08-03,Kenya,22597,382,8740,13475,544,13,263,Africa
 2020-08-03,Kosovo,9049,256,4989,3804,250,7,126,Europe
 2020-08-03,Kuwait,68299,461,59739,8099,388,4,526,Eastern Mediterranean
@@ -40659,7 +40659,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-04,Jamaica,920,12,745,163,15,0,2,Americas
 2020-08-04,Japan,41347,1023,27187,13137,1248,5,711,Western Pacific
 2020-08-04,Jordan,1224,11,1155,58,6,0,24,Eastern Mediterranean
-2020-08-04,Kazakhstan,94882,1058,67031,26793,1062,265,1899,Europe
+2020-08-04,Kazakhstan,100075,1109,67031,31935,1434,0,1899,Europe
 2020-08-04,Kenya,23202,388,9327,13487,605,6,587,Africa
 2020-08-04,Kosovo,9274,269,5190,3815,225,13,201,Europe
 2020-08-04,Kuwait,68774,465,60326,7983,475,4,587,Eastern Mediterranean
@@ -40867,7 +40867,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-05,Jamaica,928,12,745,171,8,0,0,Americas
 2020-08-05,Japan,42686,1028,28020,13638,1339,5,833,Western Pacific
 2020-08-05,Jordan,1231,11,1160,60,7,0,5,Eastern Mediterranean
-2020-08-05,Kazakhstan,95942,1058,68871,26013,1060,0,1840,Europe
+2020-08-05,Kazakhstan,102936,1109,68871,32956,2861,0,1840,Europe
 2020-08-05,Kenya,23873,391,9930,13552,671,3,603,Africa
 2020-08-05,Kosovo,9492,284,5346,3862,218,15,156,Europe
 2020-08-05,Kuwait,69425,468,60906,8051,651,3,580,Eastern Mediterranean
@@ -41075,7 +41075,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-06,Jamaica,958,12,745,201,30,0,0,Americas
 2020-08-06,Japan,44167,1034,28858,14275,1481,6,838,Western Pacific
 2020-08-06,Jordan,1232,11,1171,50,1,0,11,Eastern Mediterranean
-2020-08-06,Kazakhstan,96922,1058,70680,25184,980,0,1809,Europe
+2020-08-06,Kazakhstan,105526,1109,70680,33737,2590,0,1809,Europe
 2020-08-06,Kenya,24411,399,10444,13568,538,8,514,Africa
 2020-08-06,Kosovo,9688,300,5480,3908,196,16,134,Europe
 2020-08-06,Kuwait,70045,469,61610,7966,620,1,704,Eastern Mediterranean
@@ -41283,7 +41283,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-07,Jamaica,987,13,745,229,29,1,0,Americas
 2020-08-07,Japan,45764,1042,30241,14481,1597,8,1383,Western Pacific
 2020-08-07,Jordan,1237,11,1178,48,5,0,7,Eastern Mediterranean
-2020-08-07,Kazakhstan,97829,1058,71609,25162,907,0,929,Europe
+2020-08-07,Kazakhstan,107930,1109,71609,35212,2404,0,929,Europe
 2020-08-07,Kenya,25138,413,11118,13607,727,14,674,Africa
 2020-08-07,Kosovo,9869,303,5605,3961,181,3,125,Europe
 2020-08-07,Kuwait,70727,471,62330,7926,682,2,720,Eastern Mediterranean
@@ -41491,7 +41491,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-08,Jamaica,1003,13,745,245,16,0,0,Americas
 2020-08-08,Japan,47342,1042,31248,15052,1578,0,1007,Western Pacific
 2020-08-08,Jordan,1246,11,1178,57,9,0,0,Eastern Mediterranean
-2020-08-08,Kazakhstan,98701,1058,72273,25370,872,0,664,Europe
+2020-08-08,Kazakhstan,109939,1109,72273,36557,2009,0,664,Europe
 2020-08-08,Kenya,25837,418,11899,13520,699,5,781,Africa
 2020-08-08,Kosovo,10059,316,5802,3941,190,13,197,Europe
 2020-08-08,Kuwait,71199,474,62806,7919,472,3,476,Eastern Mediterranean
@@ -41699,7 +41699,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-09,Jamaica,1023,14,745,264,20,1,0,Americas
 2020-08-09,Japan,48782,1047,32867,14868,1440,5,1619,Western Pacific
 2020-08-09,Jordan,1252,11,1187,54,6,0,9,Eastern Mediterranean
-2020-08-09,Kazakhstan,99442,1058,72523,25861,741,0,250,Europe
+2020-08-09,Kazakhstan,111822,1109,72523,38190,1883,0,250,Europe
 2020-08-09,Kenya,26436,420,12961,13055,599,2,1062,Africa
 2020-08-09,Kosovo,10247,328,5944,3975,188,12,142,Europe
 2020-08-09,Kuwait,71713,478,63519,7716,514,4,713,Eastern Mediterranean
@@ -41907,7 +41907,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-10,Jamaica,1031,14,745,272,8,0,0,Americas
 2020-08-10,Japan,49617,1052,33450,15115,835,5,583,Western Pacific
 2020-08-10,Jordan,1268,11,1187,70,16,0,0,Eastern Mediterranean
-2020-08-10,Kazakhstan,100164,1058,73702,25404,722,0,1179,Europe
+2020-08-10,Kazakhstan,112722,1433,73702,37587,900,324,1179,Europe
 2020-08-10,Kenya,26928,423,13495,13010,492,3,534,Africa
 2020-08-10,Kosovo,10419,341,6058,4020,172,13,114,Europe
 2020-08-10,Kuwait,72400,482,64028,7890,687,4,509,Eastern Mediterranean
@@ -42115,7 +42115,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-11,Jamaica,1047,14,753,280,16,0,8,Americas
 2020-08-11,Japan,50302,1058,34136,15108,685,6,686,Western Pacific
 2020-08-11,Jordan,1283,11,1189,83,15,0,2,Eastern Mediterranean
-2020-08-11,Kazakhstan,100855,1269,74677,24909,691,211,975,Europe
+2020-08-11,Kazakhstan,113501,1433,74677,37391,779,0,975,Europe
 2020-08-11,Kenya,27425,438,13867,13120,497,15,372,Africa
 2020-08-11,Kosovo,10590,354,6248,3988,171,13,190,Europe
 2020-08-11,Kuwait,73068,486,64759,7823,668,4,731,Eastern Mediterranean
@@ -42323,7 +42323,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-12,Jamaica,1065,14,753,298,18,0,0,Americas
 2020-08-12,Japan,51288,1066,34969,15253,986,8,833,Western Pacific
 2020-08-12,Jordan,1303,11,1215,77,20,0,26,Eastern Mediterranean
-2020-08-12,Kazakhstan,101372,1269,76756,23347,517,0,2079,Europe
+2020-08-12,Kazakhstan,115615,1433,76756,37426,2114,0,2079,Europe
 2020-08-12,Kenya,28104,456,14610,13038,679,18,743,Africa
 2020-08-12,Kosovo,10795,365,6411,4019,205,11,163,Europe
 2020-08-12,Kuwait,73785,489,65451,7845,717,3,692,Eastern Mediterranean
@@ -42531,7 +42531,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-13,Jamaica,1071,14,754,303,6,0,1,Americas
 2020-08-13,Japan,52471,1073,36191,15207,1183,7,1222,Western Pacific
 2020-08-13,Jordan,1320,11,1222,87,17,0,7,Eastern Mediterranean
-2020-08-13,Kazakhstan,101848,1269,76756,23823,476,0,0,Europe
+2020-08-13,Kazakhstan,117104,1433,76756,38915,1489,0,0,Europe
 2020-08-13,Kenya,28754,460,15100,13194,650,4,490,Africa
 2020-08-13,Kosovo,10988,373,6616,3999,193,8,205,Europe
 2020-08-13,Kuwait,74486,489,66099,7898,701,0,648,Eastern Mediterranean
@@ -42739,7 +42739,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-14,Jamaica,1082,14,761,307,11,0,7,Americas
 2020-08-14,Japan,53818,1080,35498,17240,1347,7,-693,Western Pacific
 2020-08-14,Jordan,1329,11,1229,89,9,0,7,Eastern Mediterranean
-2020-08-14,Kazakhstan,102287,1269,80716,20302,439,0,3960,Europe
+2020-08-14,Kazakhstan,118514,1433,80716,36365,1410,0,3960,Europe
 2020-08-14,Kenya,29334,465,15298,13571,580,5,198,Africa
 2020-08-14,Kosovo,11130,381,6817,3932,142,8,201,Europe
 2020-08-14,Kuwait,75185,494,66740,7951,699,5,641,Eastern Mediterranean
@@ -42947,7 +42947,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-15,Jamaica,1082,14,761,307,0,0,0,Americas
 2020-08-15,Japan,55051,1093,39439,14519,1233,13,3941,Western Pacific
 2020-08-15,Jordan,1339,11,1229,99,10,0,0,Eastern Mediterranean
-2020-08-15,Kazakhstan,102696,1269,81558,19869,409,0,842,Europe
+2020-08-15,Kazakhstan,119781,1480,81558,36743,1267,47,842,Europe
 2020-08-15,Kenya,29849,472,15970,13407,515,7,672,Africa
 2020-08-15,Kosovo,11275,390,6961,3924,145,9,144,Europe
 2020-08-15,Kuwait,75697,498,67519,7680,512,4,779,Eastern Mediterranean
@@ -43155,7 +43155,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-16,Jamaica,1113,14,764,335,31,0,3,Americas
 2020-08-16,Japan,56074,1103,40560,14411,1023,10,1121,Western Pacific
 2020-08-16,Jordan,1378,11,1236,131,39,0,7,Eastern Mediterranean
-2020-08-16,Kazakhstan,103033,1269,82777,18987,337,0,1219,Europe
+2020-08-16,Kazakhstan,121161,1485,82777,36899,1380,5,1219,Europe
 2020-08-16,Kenya,30120,474,16656,12990,271,2,686,Africa
 2020-08-16,Kosovo,11416,401,7191,3824,141,11,230,Europe
 2020-08-16,Kuwait,76205,501,68135,7569,508,3,616,Eastern Mediterranean
@@ -43363,7 +43363,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-17,Jamaica,1129,14,764,351,16,0,0,Americas
 2020-08-17,Japan,56717,1112,41591,14014,643,9,1031,Western Pacific
 2020-08-17,Jordan,1398,11,1241,146,20,0,5,Eastern Mediterranean
-2020-08-17,Kazakhstan,103300,1269,84445,17586,267,0,1668,Europe
+2020-08-17,Kazakhstan,121639,1487,84445,35707,478,2,1668,Europe
 2020-08-17,Kenya,30365,482,17160,12723,245,8,504,Africa
 2020-08-17,Kosovo,11545,410,7343,3792,129,9,152,Europe
 2020-08-17,Kuwait,76827,502,68633,7692,622,1,498,Eastern Mediterranean
@@ -43571,7 +43571,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-18,Jamaica,1146,14,770,362,17,0,6,Americas
 2020-08-18,Japan,57636,1135,42965,13536,919,23,1374,Western Pacific
 2020-08-18,Jordan,1438,11,1243,184,40,0,2,Eastern Mediterranean
-2020-08-18,Kazakhstan,103571,1415,86286,15870,271,146,1841,Europe
+2020-08-18,Kazakhstan,121973,1635,86286,34052,334,148,1841,Europe
 2020-08-18,Kenya,30636,487,17368,12781,271,5,208,Africa
 2020-08-18,Kosovo,11686,416,7562,3708,141,6,219,Europe
 2020-08-18,Kuwait,77470,505,69243,7722,643,3,610,Eastern Mediterranean
@@ -43779,7 +43779,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-19,Jamaica,1192,14,772,406,46,0,2,Americas
 2020-08-19,Japan,58728,1148,43786,13794,1092,13,821,Western Pacific
 2020-08-19,Jordan,1482,11,1259,212,44,0,16,Eastern Mediterranean
-2020-08-19,Kazakhstan,103815,1415,86450,15950,244,0,164,Europe
+2020-08-19,Kazakhstan,123325,1646,86450,35229,1352,11,164,Europe
 2020-08-19,Kenya,31015,506,17612,12897,379,19,244,Africa
 2020-08-19,Kosovo,11848,425,7684,3739,162,9,122,Europe
 2020-08-19,Kuwait,78145,507,69771,7867,675,2,528,Eastern Mediterranean
@@ -43987,7 +43987,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-20,Jamaica,1290,15,788,487,98,1,16,Americas
 2020-08-20,Japan,59900,1157,45110,13633,1172,9,1324,Western Pacific
 2020-08-20,Jordan,1498,11,1261,226,16,0,2,Eastern Mediterranean
-2020-08-20,Kazakhstan,104071,1415,87920,14736,256,0,1470,Europe
+2020-08-20,Kazakhstan,124356,1652,87920,34784,1031,6,1470,Europe
 2020-08-20,Kenya,31441,516,17869,13056,426,10,257,Africa
 2020-08-20,Kosovo,12006,438,7929,3639,158,13,245,Europe
 2020-08-20,Kuwait,78767,509,70642,7616,622,2,871,Eastern Mediterranean
@@ -44195,7 +44195,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-21,Jamaica,1346,16,788,542,56,1,0,Americas
 2020-08-21,Japan,60949,1175,46264,13510,1049,18,1154,Western Pacific
 2020-08-21,Jordan,1532,11,1262,259,34,0,1,Eastern Mediterranean
-2020-08-21,Kazakhstan,104313,1415,89712,13186,242,0,1792,Europe
+2020-08-21,Kazakhstan,125335,1658,89712,33965,979,6,1792,Europe
 2020-08-21,Kenya,31763,532,18157,13074,322,16,288,Africa
 2020-08-21,Kosovo,12168,448,8149,3571,162,10,220,Europe
 2020-08-21,Kuwait,79269,511,71264,7494,502,2,622,Eastern Mediterranean
@@ -44403,7 +44403,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-22,Jamaica,1346,16,788,542,0,0,0,Americas
 2020-08-22,Japan,61916,1179,47418,13319,967,4,1154,Western Pacific
 2020-08-22,Jordan,1576,11,1268,297,44,0,6,Eastern Mediterranean
-2020-08-22,Kazakhstan,104543,1415,91089,12039,230,0,1377,Europe
+2020-08-22,Kazakhstan,126243,1663,91089,33491,908,5,1377,Europe
 2020-08-22,Kenya,32118,542,18453,13123,355,10,296,Africa
 2020-08-22,Kosovo,12337,457,8346,3534,169,9,197,Europe
 2020-08-22,Kuwait,79957,513,71770,7674,688,2,506,Eastern Mediterranean
@@ -44611,7 +44611,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-23,Jamaica,1529,16,819,694,183,0,31,Americas
 2020-08-23,Japan,62658,1188,48319,13151,742,9,901,Western Pacific
 2020-08-23,Jordan,1609,12,1320,277,33,1,52,Eastern Mediterranean
-2020-08-23,Kazakhstan,104718,1415,92598,10705,175,0,1509,Europe
+2020-08-23,Kazakhstan,127203,1671,92598,32934,960,8,1509,Europe
 2020-08-23,Kenya,32364,548,18670,13146,246,6,217,Africa
 2020-08-23,Kosovo,12448,467,8505,3476,111,10,159,Europe
 2020-08-23,Kuwait,80528,515,72307,7706,571,2,537,Eastern Mediterranean
@@ -44819,7 +44819,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-24,Jamaica,1612,16,819,777,83,0,0,Americas
 2020-08-24,Japan,63158,1201,49089,12868,500,13,770,Western Pacific
 2020-08-24,Jordan,1639,14,1335,290,30,2,15,Eastern Mediterranean
-2020-08-24,Kazakhstan,104902,1415,93405,10082,184,0,807,Europe
+2020-08-24,Kazakhstan,127462,1781,93405,32276,259,110,807,Europe
 2020-08-24,Kenya,32557,554,18895,13108,193,6,225,Africa
 2020-08-24,Kosovo,12547,480,8657,3410,99,13,152,Europe
 2020-08-24,Kuwait,80960,518,72925,7517,432,3,618,Eastern Mediterranean
@@ -45027,7 +45027,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-25,Jamaica,1732,19,840,873,120,3,21,Americas
 2020-08-25,Japan,63888,1219,50092,12577,730,18,1003,Western Pacific
 2020-08-25,Jordan,1716,14,1344,358,77,0,9,Eastern Mediterranean
-2020-08-25,Kazakhstan,105075,1523,93990,9562,173,108,585,Europe
+2020-08-25,Kazakhstan,127462,1781,93990,31691,0,0,585,Europe
 2020-08-25,Kenya,32803,559,19055,13189,246,5,160,Africa
 2020-08-25,Kosovo,12683,488,8788,3407,136,8,131,Europe
 2020-08-25,Kuwait,81573,519,73402,7652,613,1,477,Eastern Mediterranean
@@ -45235,7 +45235,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-26,Jamaica,1804,19,846,939,72,0,6,Americas
 2020-08-26,Japan,64779,1230,51407,12142,891,11,1315,Western Pacific
 2020-08-26,Jordan,1756,15,1355,386,40,1,11,Eastern Mediterranean
-2020-08-26,Kazakhstan,105243,1523,94713,9007,168,0,723,Europe
+2020-08-26,Kazakhstan,127462,1781,94713,30968,0,0,723,Europe
 2020-08-26,Kenya,33016,564,19296,13156,213,5,241,Africa
 2020-08-26,Kosovo,12840,492,8942,3406,157,4,154,Europe
 2020-08-26,Kuwait,82271,521,73906,7844,698,2,504,Eastern Mediterranean
@@ -45443,7 +45443,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-27,Jamaica,1870,19,846,1005,66,0,0,Americas
 2020-08-27,Japan,65653,1241,52542,11870,874,11,1135,Western Pacific
 2020-08-27,Jordan,1801,15,1364,422,45,0,9,Eastern Mediterranean
-2020-08-27,Kazakhstan,105408,1523,95253,8632,165,0,540,Europe
+2020-08-27,Kazakhstan,127664,1781,100509,25374,202,0,5796,Europe
 2020-08-27,Kenya,33389,567,19368,13454,373,3,72,Africa
 2020-08-27,Kosovo,12981,498,9085,3398,141,6,143,Europe
 2020-08-27,Kuwait,82945,522,74522,7901,674,1,616,Eastern Mediterranean
@@ -45651,7 +45651,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-28,Jamaica,2011,19,888,1104,141,0,42,Americas
 2020-08-28,Japan,66499,1251,53691,11557,846,10,1149,Western Pacific
 2020-08-28,Jordan,1869,15,1367,487,68,0,3,Eastern Mediterranean
-2020-08-28,Kazakhstan,105558,1523,95888,8147,150,0,635,Europe
+2020-08-28,Kazakhstan,128618,1781,101144,25693,954,0,635,Europe
 2020-08-28,Kenya,33630,567,19434,13629,241,0,66,Africa
 2020-08-28,Kosovo,13100,499,9239,3362,119,1,154,Europe
 2020-08-28,Kuwait,83578,525,75320,7733,633,3,798,Eastern Mediterranean
@@ -45859,7 +45859,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-29,Jamaica,2113,20,890,1203,102,1,2,Americas
 2020-08-29,Japan,67353,1271,54883,11199,854,20,1192,Western Pacific
 2020-08-29,Jordan,1893,15,1447,431,24,0,80,Eastern Mediterranean
-2020-08-29,Kazakhstan,105684,1523,96135,8026,126,0,247,Europe
+2020-08-29,Kazakhstan,130040,1781,101391,26868,1422,0,247,Europe
 2020-08-29,Kenya,33794,572,19590,13632,164,5,156,Africa
 2020-08-29,Kosovo,13215,508,9355,3352,115,9,116,Europe
 2020-08-29,Kuwait,84224,528,75993,7703,646,3,673,Eastern Mediterranean
@@ -46067,7 +46067,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-30,Jamaica,2357,21,890,1446,244,1,0,Americas
 2020-08-30,Japan,67958,1285,55700,10973,605,14,817,Western Pacific
 2020-08-30,Jordan,1966,15,1468,483,73,0,21,Eastern Mediterranean
-2020-08-30,Kazakhstan,105795,1523,96297,7975,111,0,162,Europe
+2020-08-30,Kazakhstan,130673,1781,101553,27339,633,0,162,Europe
 2020-08-30,Kenya,34057,574,19688,13795,263,2,98,Africa
 2020-08-30,Kosovo,13334,516,9473,3345,119,8,118,Europe
 2020-08-30,Kuwait,84636,530,76650,7456,412,2,657,Eastern Mediterranean
@@ -46275,7 +46275,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-08-31,Jamaica,2459,21,890,1548,102,0,0,Americas
 2020-08-31,Japan,68396,1298,56338,10760,438,13,638,Western Pacific
 2020-08-31,Jordan,2034,15,1508,511,68,0,40,Eastern Mediterranean
-2020-08-31,Kazakhstan,105872,1523,96297,8052,77,0,0,Europe
+2020-08-31,Kazakhstan,130673,1781,101553,27339,0,0,0,Europe
 2020-08-31,Kenya,34201,577,19893,13731,144,3,205,Africa
 2020-08-31,Kosovo,13454,525,9595,3334,120,9,122,Europe
 2020-08-31,Kuwait,85109,531,77224,7354,473,1,574,Eastern Mediterranean
@@ -46483,7 +46483,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-01,Jamaica,2459,21,890,1548,0,0,0,Americas
 2020-09-01,Japan,69023,1313,57503,10207,627,15,1165,Western Pacific
 2020-09-01,Jordan,2097,15,1564,518,63,0,56,Eastern Mediterranean
-2020-09-01,Kazakhstan,105944,1588,97371,6985,72,65,1074,Europe
+2020-09-01,Kazakhstan,131596,1815,102962,26819,923,34,1409,Europe
 2020-09-01,Kenya,34315,577,20211,13527,114,0,318,Africa
 2020-09-01,Kosovo,13601,533,9792,3276,147,8,197,Europe
 2020-09-01,Kuwait,85811,534,77657,7620,702,3,433,Eastern Mediterranean
@@ -46691,7 +46691,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-02,Jamaica,2683,24,898,1761,224,3,8,Americas
 2020-09-02,Japan,69619,1327,58108,10184,596,14,605,Western Pacific
 2020-09-02,Jordan,2161,15,1610,536,64,0,46,Eastern Mediterranean
-2020-09-02,Kazakhstan,106032,1588,97371,7073,88,0,0,Europe
+2020-09-02,Kazakhstan,131695,1883,102962,26850,99,68,0,Europe
 2020-09-02,Kenya,34493,581,20211,13701,178,4,0,Africa
 2020-09-02,Kosovo,13713,539,9923,3251,112,6,131,Europe
 2020-09-02,Kuwait,86478,535,78209,7734,667,1,552,Eastern Mediterranean
@@ -46899,7 +46899,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-03,Jamaica,2896,29,921,1946,213,5,23,Americas
 2020-09-03,Japan,70278,1334,58200,10744,659,7,92,Western Pacific
 2020-09-03,Jordan,2233,15,1648,570,72,0,38,Eastern Mediterranean
-2020-09-03,Kazakhstan,106121,1588,98585,5948,89,0,1214,Europe
+2020-09-03,Kazakhstan,132354,1889,104176,26289,659,6,1214,Europe
 2020-09-03,Kenya,34705,585,20644,13476,212,4,433,Africa
 2020-09-03,Kosovo,13791,548,10113,3130,78,9,190,Europe
 2020-09-03,Kuwait,87378,536,78791,8051,900,1,582,Eastern Mediterranean
@@ -47107,7 +47107,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-04,Jamaica,2964,30,922,2012,68,1,1,Americas
 2020-09-04,Japan,70866,1352,60093,9421,588,18,1893,Western Pacific
 2020-09-04,Jordan,2301,16,1676,609,68,1,28,Eastern Mediterranean
-2020-09-04,Kazakhstan,106225,1588,98585,6052,104,0,0,Europe
+2020-09-04,Kazakhstan,132924,1893,104176,26855,570,4,0,Europe
 2020-09-04,Kenya,34884,589,21059,13236,179,4,415,Africa
 2020-09-04,Kosovo,13910,551,10300,3059,119,3,187,Europe
 2020-09-04,Kuwait,88243,537,79417,8289,865,1,626,Eastern Mediterranean
@@ -47315,7 +47315,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-05,Jamaica,3024,32,950,2042,60,2,28,Americas
 2020-09-05,Japan,71467,1361,61099,9007,601,9,1006,Western Pacific
 2020-09-05,Jordan,2353,16,1700,637,52,0,24,Eastern Mediterranean
-2020-09-05,Kazakhstan,106301,1588,99018,5695,76,0,433,Europe
+2020-09-05,Kazakhstan,133028,1893,104892,26243,104,0,716,Europe
 2020-09-05,Kenya,35020,594,21158,13268,136,5,99,Africa
 2020-09-05,Kosovo,14027,556,10431,3040,117,5,131,Europe
 2020-09-05,Kuwait,88963,540,79903,8520,720,3,486,Eastern Mediterranean
@@ -47523,7 +47523,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-06,Jamaica,3103,33,958,2112,79,1,8,Americas
 2020-09-06,Japan,71918,1366,61730,8822,451,5,631,Western Pacific
 2020-09-06,Jordan,2411,16,1756,639,58,0,56,Eastern Mediterranean
-2020-09-06,Kazakhstan,106361,1588,99654,5119,60,0,636,Europe
+2020-09-06,Kazakhstan,133924,1901,105611,26412,896,8,719,Europe
 2020-09-06,Kenya,35103,597,21230,13276,83,3,72,Africa
 2020-09-06,Kosovo,14119,563,10546,3010,92,7,115,Europe
 2020-09-06,Kuwait,89582,544,80521,8517,619,4,618,Eastern Mediterranean
@@ -47731,7 +47731,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-07,Jamaica,3183,34,974,2175,80,1,16,Americas
 2020-09-07,Japan,72213,1377,62190,8646,295,11,460,Western Pacific
 2020-09-07,Jordan,2478,17,1817,644,67,1,61,Eastern Mediterranean
-2020-09-07,Kazakhstan,106425,1588,99893,4944,64,0,239,Europe
+2020-09-07,Kazakhstan,134123,1902,105850,26371,199,1,239,Europe
 2020-09-07,Kenya,35205,599,21310,13296,102,2,80,Africa
 2020-09-07,Kosovo,14204,568,10643,2993,85,5,97,Europe
 2020-09-07,Kuwait,90387,546,81037,8804,805,2,516,Eastern Mediterranean
@@ -47939,7 +47939,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-08,Jamaica,3323,36,992,2295,140,2,18,Americas
 2020-09-08,Japan,72724,1398,62936,8390,511,21,746,Western Pacific
 2020-09-08,Jordan,2581,19,1885,677,103,2,68,Eastern Mediterranean
-2020-09-08,Kazakhstan,106498,1634,99893,4971,73,46,0,Europe
+2020-09-08,Kazakhstan,134203,1903,106069,26231,80,1,219,Europe
 2020-09-08,Kenya,35356,599,21483,13274,151,0,173,Africa
 2020-09-08,Kosovo,14301,568,10782,2951,97,0,139,Europe
 2020-09-08,Kuwait,91244,548,81654,9042,857,2,617,Eastern Mediterranean
@@ -48147,7 +48147,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-09,Jamaica,3437,38,1019,2380,114,2,27,Americas
 2020-09-09,Japan,73264,1412,63734,8118,540,14,798,Western Pacific
 2020-09-09,Jordan,2659,19,1919,721,78,0,34,Eastern Mediterranean
-2020-09-09,Kazakhstan,106584,1634,100248,4702,86,0,355,Europe
+2020-09-09,Kazakhstan,134726,1950,106424,26352,523,47,355,Europe
 2020-09-09,Kenya,35460,607,21557,13296,104,8,74,Africa
 2020-09-09,Kosovo,14377,574,10926,2877,76,6,144,Europe
 2020-09-09,Kuwait,92082,552,82222,9308,838,4,568,Eastern Mediterranean
@@ -48355,7 +48355,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-10,Jamaica,3511,40,1019,2452,74,2,0,Americas
 2020-09-10,Japan,73916,1416,64489,8011,652,4,755,Western Pacific
 2020-09-10,Jordan,2739,20,1981,738,80,1,62,Eastern Mediterranean
-2020-09-10,Kazakhstan,106661,1634,100409,4618,77,0,161,Europe
+2020-09-10,Kazakhstan,135159,1951,107014,26194,433,1,590,Europe
 2020-09-10,Kenya,35603,612,22047,12944,143,5,490,Africa
 2020-09-10,Kosovo,14446,581,11033,2832,69,7,107,Europe
 2020-09-10,Kuwait,92822,556,83040,9226,740,4,818,Eastern Mediterranean
@@ -48563,7 +48563,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-11,Jamaica,3511,40,1019,2452,0,0,0,Americas
 2020-09-11,Japan,74558,1428,65244,7886,642,12,755,Western Pacific
 2020-09-11,Jordan,2945,21,2084,840,206,1,103,Eastern Mediterranean
-2020-09-11,Kazakhstan,106729,1634,100409,4686,68,0,0,Europe
+2020-09-11,Kazakhstan,135589,1952,107051,26586,430,1,37,Europe
 2020-09-11,Kenya,35793,616,22442,12735,190,4,395,Africa
 2020-09-11,Kosovo,14496,586,11150,2760,50,5,117,Europe
 2020-09-11,Kuwait,93475,557,83660,9258,653,1,620,Eastern Mediterranean
@@ -48771,7 +48771,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-12,Jamaica,3623,40,1072,2511,112,0,53,Americas
 2020-09-12,Japan,75206,1441,65934,7831,648,13,690,Western Pacific
 2020-09-12,Jordan,3062,22,2156,884,117,1,72,Eastern Mediterranean
-2020-09-12,Kazakhstan,106803,1634,100615,4554,74,0,206,Europe
+2020-09-12,Kazakhstan,135964,1954,107257,26753,375,2,206,Europe
 2020-09-12,Kenya,35969,619,22771,12579,176,3,329,Africa
 2020-09-12,Kosovo,14566,589,11272,2705,70,3,122,Europe
 2020-09-12,Kuwait,94211,558,84404,9249,736,1,744,Eastern Mediterranean
@@ -48979,7 +48979,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-13,Jamaica,3771,42,1149,2580,148,2,77,Americas
 2020-09-13,Japan,75646,1448,66524,7674,440,7,590,Western Pacific
 2020-09-13,Jordan,3314,24,2206,1084,252,2,50,Eastern Mediterranean
-2020-09-13,Kazakhstan,106855,1634,100627,4594,52,0,12,Europe
+2020-09-13,Kazakhstan,136384,1955,107269,27160,420,1,12,Europe
 2020-09-13,Kenya,36157,622,23067,12468,188,3,296,Africa
 2020-09-13,Kosovo,14637,596,11435,2606,71,7,163,Europe
 2020-09-13,Kuwait,94764,560,84995,9209,553,2,591,Eastern Mediterranean
@@ -49187,7 +49187,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-14,Jamaica,3933,44,1161,2728,162,2,12,Americas
 2020-09-14,Japan,75914,1455,66901,7558,268,7,377,Western Pacific
 2020-09-14,Jordan,3528,26,2255,1247,214,2,49,Eastern Mediterranean
-2020-09-14,Kazakhstan,106920,1634,100627,4659,65,0,0,Europe
+2020-09-14,Kazakhstan,136513,1962,107269,27282,129,7,0,Europe
 2020-09-14,Kenya,36205,624,23243,12338,48,2,176,Africa
 2020-09-14,Kosovo,14692,600,11585,2507,55,4,150,Europe
 2020-09-14,Kuwait,95472,563,85501,9408,708,3,506,Eastern Mediterranean
@@ -49395,7 +49395,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-15,Jamaica,4042,46,1163,2833,109,2,2,Americas
 2020-09-15,Japan,76446,1463,66901,8082,532,8,0,Western Pacific
 2020-09-15,Jordan,3677,26,2311,1340,149,0,56,Eastern Mediterranean
-2020-09-15,Kazakhstan,106984,1671,101267,4046,64,37,640,Europe
+2020-09-15,Kazakhstan,136586,1965,107909,26712,73,3,640,Europe
 2020-09-15,Kenya,36301,634,23364,12303,96,10,121,Africa
 2020-09-15,Kosovo,14763,601,11784,2378,71,1,199,Europe
 2020-09-15,Kuwait,96301,568,86219,9514,829,5,718,Eastern Mediterranean
@@ -49603,7 +49603,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-16,Jamaica,4164,46,1180,2938,122,0,17,Americas
 2020-09-16,Japan,76997,1481,68110,7406,551,18,1209,Western Pacific
 2020-09-16,Jordan,3852,26,2349,1477,175,0,38,Eastern Mediterranean
-2020-09-16,Kazakhstan,107056,1671,101455,3930,72,0,188,Europe
+2020-09-16,Kazakhstan,137058,2003,108097,26958,472,38,188,Europe
 2020-09-16,Kenya,36301,634,23364,12303,0,0,0,Africa
 2020-09-16,Kosovo,14839,604,11949,2286,76,3,165,Europe
 2020-09-16,Kuwait,96999,571,87187,9241,698,3,968,Eastern Mediterranean
@@ -49811,7 +49811,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-17,Jamaica,4374,51,1225,3098,210,5,45,Americas
 2020-09-17,Japan,77488,1490,68827,7171,491,9,717,Western Pacific
 2020-09-17,Jordan,4131,26,2415,1690,279,0,66,Eastern Mediterranean
-2020-09-17,Kazakhstan,107134,1671,101610,3853,78,0,155,Europe
+2020-09-17,Kazakhstan,137393,2006,108252,27135,335,3,155,Europe
 2020-09-17,Kenya,36576,642,23611,12323,275,8,247,Africa
 2020-09-17,Kosovo,14882,607,12188,2087,43,3,239,Europe
 2020-09-17,Kuwait,97824,575,87911,9338,825,4,724,Eastern Mediterranean
@@ -50019,7 +50019,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-18,Jamaica,4571,55,1264,3252,197,4,39,Americas
 2020-09-18,Japan,78061,1500,69468,7093,573,10,641,Western Pacific
 2020-09-18,Jordan,4344,29,2511,1804,213,3,96,Eastern Mediterranean
-2020-09-18,Kazakhstan,107199,1671,101822,3706,65,0,212,Europe
+2020-09-18,Kazakhstan,137713,2008,108464,27241,320,2,212,Europe
 2020-09-18,Kenya,36724,646,23709,12369,148,4,98,Africa
 2020-09-18,Kosovo,14939,611,12325,2003,57,4,137,Europe
 2020-09-18,Kuwait,98528,580,88776,9172,704,5,865,Eastern Mediterranean
@@ -50227,7 +50227,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-19,Jamaica,4758,60,1327,3371,187,5,63,Americas
 2020-09-19,Japan,78662,1504,70051,7107,601,4,583,Western Pacific
 2020-09-19,Jordan,4540,30,2672,1838,196,1,161,Eastern Mediterranean
-2020-09-19,Kazakhstan,107262,1671,101877,3714,63,0,55,Europe
+2020-09-19,Kazakhstan,138013,2009,108519,27485,300,1,55,Europe
 2020-09-19,Kenya,36829,646,23777,12406,105,0,68,Africa
 2020-09-19,Kosovo,15002,614,12451,1937,63,3,126,Europe
 2020-09-19,Kuwait,99049,581,89498,8970,521,1,722,Eastern Mediterranean
@@ -50435,7 +50435,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-20,Jamaica,4988,67,1350,3571,230,7,23,Americas
 2020-09-20,Japan,79142,1508,70604,7030,480,4,553,Western Pacific
 2020-09-20,Jordan,4779,30,2844,1905,239,0,172,Eastern Mediterranean
-2020-09-20,Kazakhstan,107307,1671,101941,3695,45,0,64,Europe
+2020-09-20,Kazakhstan,138348,2014,108583,27751,335,5,64,Europe
 2020-09-20,Kenya,36981,648,23887,12446,152,2,110,Africa
 2020-09-20,Kosovo,15063,614,12570,1879,61,0,119,Europe
 2020-09-20,Kuwait,99434,584,90168,8682,385,3,670,Eastern Mediterranean
@@ -50643,7 +50643,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-21,Jamaica,5143,70,1407,3666,155,3,57,Americas
 2020-09-21,Japan,79462,1518,70970,6974,320,10,366,Western Pacific
 2020-09-21,Jordan,5045,32,3527,1486,266,2,683,Eastern Mediterranean
-2020-09-21,Kazakhstan,107374,1671,102064,3639,67,0,123,Europe
+2020-09-21,Kazakhstan,138455,2015,108706,27734,107,1,123,Europe
 2020-09-21,Kenya,37079,650,23949,12480,98,2,62,Africa
 2020-09-21,Kosovo,15142,615,12674,1853,79,1,104,Europe
 2020-09-21,Kuwait,99964,585,90930,8449,530,1,762,Eastern Mediterranean
@@ -50851,7 +50851,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-22,Jamaica,5270,75,1444,3751,127,5,37,Americas
 2020-09-22,Japan,79773,1519,71214,7040,311,1,244,Western Pacific
 2020-09-22,Jordan,5679,33,3707,1939,634,1,180,Eastern Mediterranean
-2020-09-22,Kazakhstan,107450,1699,102064,3687,76,28,0,Europe
+2020-09-22,Kazakhstan,138542,2016,108706,27820,87,1,0,Europe
 2020-09-22,Kenya,37218,659,24147,12412,139,9,198,Africa
 2020-09-22,Kosovo,15208,615,12815,1778,66,0,141,Europe
 2020-09-22,Kuwait,100683,588,91612,8483,719,3,682,Eastern Mediterranean
@@ -51059,7 +51059,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-23,Jamaica,5395,76,1444,3875,125,1,0,Americas
 2020-09-23,Japan,80009,1525,71547,6937,236,6,333,Western Pacific
 2020-09-23,Jordan,6042,35,3812,2195,363,2,105,Eastern Mediterranean
-2020-09-23,Kazakhstan,107529,1699,102323,3507,79,0,259,Europe
+2020-09-23,Kazakhstan,138982,2044,108965,27973,440,28,259,Europe
 2020-09-23,Kenya,37348,664,24253,12431,130,5,106,Africa
 2020-09-23,Kosovo,15270,616,12900,1754,62,1,85,Europe
 2020-09-23,Kuwait,101299,590,92341,8368,616,2,729,Eastern Mediterranean
@@ -51267,7 +51267,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-24,Jamaica,5588,77,1490,4021,193,1,46,Americas
 2020-09-24,Japan,80490,1540,72066,6884,481,15,519,Western Pacific
 2020-09-24,Jordan,6591,36,3937,2618,549,1,125,Eastern Mediterranean
-2020-09-24,Kazakhstan,107590,1699,102360,3531,61,0,37,Europe
+2020-09-24,Kazakhstan,139289,2045,109002,28242,307,1,37,Europe
 2020-09-24,Kenya,37489,669,24334,12486,141,5,81,Africa
 2020-09-24,Kosovo,15333,616,12987,1730,63,0,87,Europe
 2020-09-24,Kuwait,101851,592,92961,8298,552,2,620,Eastern Mediterranean
@@ -51475,7 +51475,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-25,Jamaica,5723,80,1496,4147,135,3,6,Americas
 2020-09-25,Japan,81054,1544,73016,6494,564,4,950,Western Pacific
 2020-09-25,Jordan,7211,39,4035,3137,620,3,98,Eastern Mediterranean
-2020-09-25,Kazakhstan,107659,1699,102530,3430,69,0,170,Europe
+2020-09-25,Kazakhstan,139581,2046,109172,28363,292,1,170,Europe
 2020-09-25,Kenya,37707,682,24504,12521,218,13,170,Africa
 2020-09-25,Kosovo,15379,617,13088,1674,46,1,101,Europe
 2020-09-25,Kuwait,102441,595,93562,8284,590,3,601,Eastern Mediterranean
@@ -51683,7 +51683,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-26,Jamaica,5854,88,1624,4142,131,8,128,Americas
 2020-09-26,Japan,81703,1547,73677,6479,649,3,661,Western Pacific
 2020-09-26,Jordan,8061,43,4131,3887,850,4,96,Eastern Mediterranean
-2020-09-26,Kazakhstan,107723,1699,102666,3358,64,0,136,Europe
+2020-09-26,Kazakhstan,139882,2046,129631,8205,301,0,20459,Europe
 2020-09-26,Kenya,37871,689,24581,12601,164,7,77,Africa
 2020-09-26,Kosovo,15425,619,13165,1641,46,2,77,Europe
 2020-09-26,Kuwait,103199,597,94211,8391,758,2,649,Eastern Mediterranean
@@ -51891,7 +51891,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-27,Jamaica,6017,89,1706,4222,163,1,82,Americas
 2020-09-27,Japan,82186,1549,73677,6960,483,2,0,Western Pacific
 2020-09-27,Jordan,8492,45,4222,4225,431,2,91,Eastern Mediterranean
-2020-09-27,Kazakhstan,107775,1699,102736,3340,52,0,70,Europe
+2020-09-27,Kazakhstan,140175,2048,129701,8426,293,2,70,Europe
 2020-09-27,Kenya,38115,691,24621,12803,244,2,40,Africa
 2020-09-27,Kosovo,15472,622,13278,1572,47,3,113,Europe
 2020-09-27,Kuwait,103544,601,94929,8014,345,4,718,Eastern Mediterranean
@@ -52099,7 +52099,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-28,Jamaica,6170,93,1741,4336,153,4,35,Americas
 2020-09-28,Japan,82484,1561,74495,6428,298,12,818,Western Pacific
 2020-09-28,Jordan,9226,51,4359,4816,734,6,137,Eastern Mediterranean
-2020-09-28,Kazakhstan,107833,1699,102805,3329,58,0,69,Europe
+2020-09-28,Kazakhstan,140265,2049,129770,8446,90,1,69,Europe
 2020-09-28,Kenya,38168,700,24681,12787,53,9,60,Africa
 2020-09-28,Kosovo,15520,625,13420,1475,48,3,142,Europe
 2020-09-28,Kuwait,103981,605,95511,7865,437,4,582,Eastern Mediterranean
@@ -52307,7 +52307,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-29,Jamaica,6408,101,1770,4537,238,8,29,Americas
 2020-09-29,Japan,83022,1568,74962,6492,538,7,467,Western Pacific
 2020-09-29,Jordan,10049,57,4496,5496,823,6,137,Eastern Mediterranean
-2020-09-29,Kazakhstan,107908,1725,102874,3309,75,26,69,Europe
+2020-09-29,Kazakhstan,140333,2050,129839,8444,68,1,69,Europe
 2020-09-29,Kenya,38378,707,24740,12931,210,7,59,Africa
 2020-09-29,Kosovo,15574,625,13492,1457,54,0,72,Europe
 2020-09-29,Kuwait,104568,607,96049,7912,587,2,538,Eastern Mediterranean
@@ -52515,7 +52515,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-09-30,Jamaica,6482,107,1867,4508,74,6,97,Americas
 2020-09-30,Japan,83591,1575,75522,6494,569,7,560,Western Pacific
 2020-09-30,Jordan,11825,61,4626,7138,1776,4,130,Eastern Mediterranean
-2020-09-30,Kazakhstan,107979,1725,102937,3317,71,0,63,Europe
+2020-09-30,Kazakhstan,140707,2078,129902,8727,374,28,63,Europe
 2020-09-30,Kenya,38529,711,24908,12910,151,4,168,Africa
 2020-09-30,Kosovo,15620,625,13554,1441,46,0,62,Europe
 2020-09-30,Kuwait,105182,610,96688,7884,614,3,639,Eastern Mediterranean
@@ -52723,7 +52723,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-01,Jamaica,6555,111,1991,4453,73,4,124,Americas
 2020-10-01,Japan,84244,1580,76081,6583,653,5,559,Western Pacific
 2020-10-01,Jordan,13101,69,4752,8280,1276,8,126,Eastern Mediterranean
-2020-10-01,Kazakhstan,108044,1725,103028,3291,65,0,91,Europe
+2020-10-01,Kazakhstan,140958,2080,129993,8885,251,2,91,Europe
 2020-10-01,Kenya,38713,711,24908,13094,184,0,0,Africa
 2020-10-01,Kosovo,15663,627,13677,1359,43,2,123,Europe
 2020-10-01,Kuwait,105676,612,97197,7867,494,2,509,Eastern Mediterranean
@@ -52931,7 +52931,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-02,Jamaica,6704,116,2112,4476,149,5,121,Americas
 2020-10-02,Japan,84768,1591,76700,6477,524,11,619,Western Pacific
 2020-10-02,Jordan,13650,79,4929,8642,549,10,177,Eastern Mediterranean
-2020-10-02,Kazakhstan,108106,1725,103110,3271,62,0,82,Europe
+2020-10-02,Kazakhstan,141256,2082,130447,8727,298,2,454,Europe
 2020-10-02,Kenya,38923,725,25114,13084,210,14,206,Africa
 2020-10-02,Kosovo,15705,627,13731,1347,42,0,54,Europe
 2020-10-02,Kuwait,106087,615,97898,7574,411,3,701,Eastern Mediterranean
@@ -53139,7 +53139,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-03,Jamaica,6795,119,2345,4331,91,3,233,Americas
 2020-10-03,Japan,85345,1594,76700,7051,577,3,0,Western Pacific
 2020-10-03,Jordan,14749,88,5101,9560,1099,9,172,Eastern Mediterranean
-2020-10-03,Kazakhstan,108177,1725,103205,3247,71,0,95,Europe
+2020-10-03,Kazakhstan,141484,2083,130542,8859,228,1,95,Europe
 2020-10-03,Kenya,39184,728,25426,13030,261,3,312,Africa
 2020-10-03,Kosovo,15758,630,13787,1341,53,3,56,Europe
 2020-10-03,Kuwait,106458,620,98435,7403,371,5,537,Eastern Mediterranean
@@ -53347,7 +53347,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-04,Jamaica,6895,120,2460,4315,100,1,115,Americas
 2020-10-04,Japan,85746,1598,77851,6297,401,4,1151,Western Pacific
 2020-10-04,Jordan,15640,101,5240,10299,891,13,139,Eastern Mediterranean
-2020-10-04,Kazakhstan,108236,1725,103277,3234,59,0,72,Europe
+2020-10-04,Kazakhstan,141748,2083,130614,9051,264,0,72,Europe
 2020-10-04,Kenya,39427,731,25659,13037,243,3,233,Africa
 2020-10-04,Kosovo,15814,630,13856,1328,56,0,69,Europe
 2020-10-04,Kuwait,107025,624,99040,7361,567,4,605,Eastern Mediterranean
@@ -53555,7 +53555,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-05,Jamaica,7012,120,2635,4257,117,0,175,Americas
 2020-10-05,Japan,86027,1602,78071,6354,281,4,220,Western Pacific
 2020-10-05,Jordan,17464,110,5292,12062,1824,9,52,Eastern Mediterranean
-2020-10-05,Kazakhstan,108296,1725,103367,3204,60,0,90,Europe
+2020-10-05,Kazakhstan,141844,2085,130874,8885,96,2,260,Europe
 2020-10-05,Kenya,39449,735,27035,11679,22,4,1376,Africa
 2020-10-05,Kosovo,15855,633,13929,1293,41,3,73,Europe
 2020-10-05,Kuwait,107592,628,99549,7415,567,4,509,Eastern Mediterranean
@@ -53763,7 +53763,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-06,Jamaica,7109,123,2674,4312,97,3,39,Americas
 2020-10-06,Japan,86540,1609,78521,6410,513,7,450,Western Pacific
 2020-10-06,Jordan,19001,122,5386,13493,1537,12,94,Eastern Mediterranean
-2020-10-06,Kazakhstan,108362,1746,103465,3151,66,21,98,Europe
+2020-10-06,Kazakhstan,141904,2085,130972,8847,60,0,98,Europe
 2020-10-06,Kenya,39586,743,27331,11512,137,8,296,Africa
 2020-10-06,Kosovo,15889,635,14051,1203,34,2,122,Europe
 2020-10-06,Kuwait,108268,632,100179,7457,676,4,630,Eastern Mediterranean
@@ -53971,7 +53971,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-07,Jamaica,7191,126,2700,4365,82,3,26,Americas
 2020-10-07,Japan,87039,1614,79123,6302,499,5,602,Western Pacific
 2020-10-07,Jordan,20200,131,5575,14494,1199,9,189,Eastern Mediterranean
-2020-10-07,Kazakhstan,108454,1746,103604,3104,92,0,139,Europe
+2020-10-07,Kazakhstan,142239,2107,131111,9021,335,22,139,Europe
 2020-10-07,Kenya,39907,748,31659,7500,321,5,4328,Africa
 2020-10-07,Kosovo,15938,638,14143,1157,49,3,92,Europe
 2020-10-07,Kuwait,108743,639,100776,7328,475,7,597,Eastern Mediterranean
@@ -54179,7 +54179,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-08,Jamaica,7273,128,2732,4413,82,2,32,Americas
 2020-10-08,Japan,87679,1617,79674,6388,640,3,551,Western Pacific
 2020-10-08,Jordan,21517,144,5777,15596,1317,13,202,Eastern Mediterranean
-2020-10-08,Kazakhstan,108561,1746,103758,3057,107,0,154,Europe
+2020-10-08,Kazakhstan,142597,2108,131330,9159,358,1,219,Europe
 2020-10-08,Kenya,40178,751,31710,7717,271,3,51,Africa
 2020-10-08,Kosovo,15971,638,14189,1144,33,0,46,Europe
 2020-10-08,Kuwait,109441,642,101314,7485,698,3,538,Eastern Mediterranean
@@ -54387,7 +54387,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-09,Jamaica,7363,132,3102,4129,90,4,370,Americas
 2020-10-09,Japan,88267,1623,80140,6504,588,6,466,Western Pacific
 2020-10-09,Jordan,22763,166,5906,16691,1246,22,129,Eastern Mediterranean
-2020-10-09,Kazakhstan,108663,1746,103910,3007,102,0,152,Europe
+2020-10-09,Kazakhstan,142945,2110,131482,9353,348,2,152,Europe
 2020-10-09,Kenya,40620,755,31876,7989,442,4,166,Africa
 2020-10-09,Kosovo,16050,641,14250,1159,79,3,61,Europe
 2020-10-09,Kuwait,110076,649,102024,7403,635,7,710,Eastern Mediterranean
@@ -54595,7 +54595,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-10,Jamaica,7559,138,3142,4279,196,6,40,Americas
 2020-10-10,Japan,88962,1626,80798,6538,695,3,658,Western Pacific
 2020-10-10,Jordan,23998,181,6045,17772,1235,15,139,Eastern Mediterranean
-2020-10-10,Kazakhstan,108757,1746,103980,3031,94,0,70,Europe
+2020-10-10,Kazakhstan,143280,2111,131552,9617,335,1,70,Europe
 2020-10-10,Kenya,41158,760,31876,8522,538,5,0,Africa
 2020-10-10,Kosovo,16130,645,14282,1203,80,4,32,Europe
 2020-10-10,Kuwait,110568,655,102722,7191,492,6,698,Eastern Mediterranean
@@ -54803,7 +54803,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-11,Jamaica,7718,139,3162,4417,159,1,20,Americas
 2020-10-11,Japan,89400,1628,81266,6506,438,2,468,Western Pacific
 2020-10-11,Jordan,24926,191,6101,18634,928,10,56,Eastern Mediterranean
-2020-10-11,Kazakhstan,108831,1746,104041,3044,74,0,61,Europe
+2020-10-11,Kazakhstan,143632,2113,131613,9906,352,2,61,Europe
 2020-10-11,Kenya,41546,766,32000,8780,388,6,124,Africa
 2020-10-11,Kosovo,16179,647,14335,1197,49,2,53,Europe
 2020-10-11,Kuwait,111116,658,103268,7190,548,3,546,Eastern Mediterranean
@@ -55011,7 +55011,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-12,Jamaica,7813,146,3237,4430,95,7,75,Americas
 2020-10-12,Japan,89652,1631,81552,6469,252,3,286,Western Pacific
 2020-10-12,Jordan,26073,207,6219,19647,1147,16,118,Eastern Mediterranean
-2020-10-12,Kazakhstan,108901,1746,104203,2952,70,0,162,Europe
+2020-10-12,Kazakhstan,143740,2114,131879,9747,108,1,266,Europe
 2020-10-12,Kenya,41619,777,32000,8842,73,11,0,Africa
 2020-10-12,Kosovo,16247,648,14368,1231,68,1,33,Europe
 2020-10-12,Kuwait,111893,664,103802,7427,777,6,534,Eastern Mediterranean
@@ -55219,7 +55219,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-13,Jamaica,7910,146,3303,4461,97,0,66,Americas
 2020-10-13,Japan,90153,1635,82063,6455,501,4,511,Western Pacific
 2020-10-13,Jordan,28127,225,6361,21541,2054,18,142,Eastern Mediterranean
-2020-10-13,Kazakhstan,108984,1768,104346,2870,83,22,143,Europe
+2020-10-13,Kazakhstan,143814,2116,132055,9643,74,2,176,Europe
 2020-10-13,Kenya,41937,787,31340,9810,318,10,-660,Africa
 2020-10-13,Kosovo,16345,649,14405,1291,98,1,37,Europe
 2020-10-13,Kuwait,112737,672,104508,7557,844,8,706,Eastern Mediterranean
@@ -55427,7 +55427,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-14,Jamaica,7989,151,3431,4407,79,5,128,Americas
 2020-10-14,Japan,90694,1646,82576,6472,541,11,513,Western Pacific
 2020-10-14,Jordan,30550,257,6466,23827,2423,32,105,Eastern Mediterranean
-2020-10-14,Kazakhstan,109094,1768,104525,2801,110,0,179,Europe
+2020-10-14,Kazakhstan,144218,2141,132503,9574,404,25,448,Europe
 2020-10-14,Kenya,42541,797,31428,10316,604,10,88,Africa
 2020-10-14,Kosovo,16425,650,14455,1320,80,1,50,Europe
 2020-10-14,Kuwait,113269,676,105236,7357,532,4,728,Eastern Mediterranean
@@ -55635,7 +55635,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-15,Jamaica,8067,160,3481,4426,78,9,50,Americas
 2020-10-15,Japan,91402,1650,83272,6480,708,4,696,Western Pacific
 2020-10-15,Jordan,33009,282,6565,26162,2459,25,99,Eastern Mediterranean
-2020-10-15,Kazakhstan,109202,1768,104801,2633,108,0,276,Europe
+2020-10-15,Kazakhstan,144328,2141,132861,9326,110,0,358,Europe
 2020-10-15,Kenya,43143,805,31508,10830,602,8,80,Africa
 2020-10-15,Kosovo,16502,650,14514,1338,77,0,59,Europe
 2020-10-15,Kuwait,114015,684,105846,7485,746,8,610,Eastern Mediterranean
@@ -55843,7 +55843,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-16,Jamaica,8132,162,3653,4317,65,2,172,Americas
 2020-10-16,Japan,92044,1664,83882,6498,642,14,610,Western Pacific
 2020-10-16,Jordan,34548,310,6692,27546,1539,28,127,Eastern Mediterranean
-2020-10-16,Kazakhstan,109302,1768,104921,2613,100,0,120,Europe
+2020-10-16,Kazakhstan,144761,2144,133039,9578,433,3,178,Europe
 2020-10-16,Kenya,43580,813,31648,11119,437,8,140,Africa
 2020-10-16,Kosovo,16606,652,14556,1398,104,2,42,Europe
 2020-10-16,Kuwait,114744,690,106495,7559,729,6,649,Eastern Mediterranean
@@ -56051,7 +56051,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-17,Jamaica,8195,168,3653,4374,63,6,0,Americas
 2020-10-17,Japan,92670,1670,84461,6539,626,6,579,Western Pacific
 2020-10-17,Jordan,36053,330,6773,28950,1505,20,81,Eastern Mediterranean
-2020-10-17,Kazakhstan,109406,1768,105001,2637,104,0,80,Europe
+2020-10-17,Kazakhstan,145019,2148,133166,9705,258,4,127,Europe
 2020-10-17,Kenya,44196,825,31752,11619,616,12,104,Africa
 2020-10-17,Kosovo,16754,652,14612,1490,148,0,56,Europe
 2020-10-17,Kuwait,115483,694,107108,7681,739,4,613,Eastern Mediterranean
@@ -56259,7 +56259,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-18,Jamaica,8274,171,3859,4244,79,3,206,Americas
 2020-10-18,Japan,93098,1672,84461,6965,428,2,0,Western Pacific
 2020-10-18,Jordan,37573,345,6912,30316,1520,15,139,Eastern Mediterranean
-2020-10-18,Kazakhstan,109508,1768,105001,2739,102,0,0,Europe
+2020-10-18,Kazakhstan,145320,2149,133208,9963,301,1,42,Europe
 2020-10-18,Kenya,44881,832,31857,12192,685,7,105,Africa
 2020-10-18,Kosovo,16891,653,14661,1577,137,1,49,Europe
 2020-10-18,Kuwait,116146,701,107860,7585,663,7,752,Eastern Mediterranean
@@ -56467,7 +56467,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-19,Jamaica,8321,173,3951,4197,47,2,92,Americas
 2020-10-19,Japan,93408,1676,85310,6422,310,4,849,Western Pacific
 2020-10-19,Jordan,38937,380,7006,31551,1364,35,94,Eastern Mediterranean
-2020-10-19,Kazakhstan,109623,1768,105145,2710,115,0,144,Europe
+2020-10-19,Kazakhstan,145473,2150,133368,9955,153,1,160,Europe
 2020-10-19,Kenya,45076,839,32084,12153,195,7,227,Africa
 2020-10-19,Kosovo,17009,656,14711,1642,118,3,50,Europe
 2020-10-19,Kuwait,116832,710,108606,7516,686,9,746,Eastern Mediterranean
@@ -56675,7 +56675,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-20,Jamaica,8374,174,4002,4198,53,1,51,Americas
 2020-10-20,Japan,93895,1679,85867,6349,487,3,557,Western Pacific
 2020-10-20,Jordan,40972,414,7123,33435,2035,34,117,Eastern Mediterranean
-2020-10-20,Kazakhstan,109766,1796,105301,2669,143,28,156,Europe
+2020-10-20,Kazakhstan,145603,2155,133540,9908,130,5,172,Europe
 2020-10-20,Kenya,45647,842,32522,12283,571,3,438,Africa
 2020-10-20,Kosovo,17139,657,14782,1700,130,1,71,Europe
 2020-10-20,Kuwait,117718,714,109198,7806,886,4,592,Eastern Mediterranean
@@ -56883,7 +56883,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-21,Jamaica,8445,174,4016,4255,71,0,14,Americas
 2020-10-21,Japan,94515,1686,86429,6400,620,7,562,Western Pacific
 2020-10-21,Jordan,43620,443,7223,35954,2648,29,100,Eastern Mediterranean
-2020-10-21,Kazakhstan,109907,1796,105385,2726,141,0,84,Europe
+2020-10-21,Kazakhstan,145966,2184,133703,10079,363,29,163,Europe
 2020-10-21,Kenya,46144,858,32760,12526,497,16,238,Africa
 2020-10-21,Kosovo,17263,657,14831,1775,124,0,49,Europe
 2020-10-21,Kuwait,118531,721,109916,7894,813,7,718,Eastern Mediterranean
@@ -57091,7 +57091,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-22,Jamaica,8600,179,4095,4326,155,5,79,Americas
 2020-10-22,Japan,95134,1697,87022,6415,619,11,593,Western Pacific
 2020-10-22,Jordan,46441,481,7340,38620,2821,38,117,Eastern Mediterranean
-2020-10-22,Kazakhstan,110086,1796,105493,2797,179,0,108,Europe
+2020-10-22,Kazakhstan,146288,2186,133856,10246,322,2,153,Europe
 2020-10-22,Kenya,47212,870,33050,13292,1068,12,290,Africa
 2020-10-22,Kosovo,17422,657,14889,1876,159,0,58,Europe
 2020-10-22,Kuwait,119420,730,110714,7976,889,9,798,Eastern Mediterranean
@@ -57299,7 +57299,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-23,Jamaica,8638,182,4156,4300,38,3,61,Americas
 2020-10-23,Japan,95868,1706,87600,6562,734,9,578,Western Pacific
 2020-10-23,Jordan,48930,508,7449,40973,2489,27,109,Eastern Mediterranean
-2020-10-23,Kazakhstan,110250,1796,105566,2888,164,0,73,Europe
+2020-10-23,Kazakhstan,146653,2187,133956,10510,365,1,100,Europe
 2020-10-23,Kenya,47843,884,33421,13538,631,14,371,Africa
 2020-10-23,Kosovo,17591,659,14974,1958,169,2,85,Europe
 2020-10-23,Kuwait,120232,740,111440,8052,812,10,726,Eastern Mediterranean
@@ -57507,7 +57507,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-24,Jamaica,8670,186,4209,4275,32,4,53,Americas
 2020-10-24,Japan,96599,1710,88138,6751,731,4,538,Western Pacific
 2020-10-24,Jordan,50750,540,7508,42702,1820,32,59,Eastern Mediterranean
-2020-10-24,Kazakhstan,110402,1796,105618,2988,152,0,52,Europe
+2020-10-24,Kazakhstan,146982,2189,134060,10733,329,2,104,Europe
 2020-10-24,Kenya,48790,896,33876,14018,947,12,455,Africa
 2020-10-24,Kosovo,17757,661,15029,2067,166,2,55,Europe
 2020-10-24,Kuwait,120927,744,112110,8073,695,4,670,Eastern Mediterranean
@@ -57715,7 +57715,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-25,Jamaica,8714,188,4282,4244,44,2,73,Americas
 2020-10-25,Japan,97095,1716,88610,6769,496,6,472,Western Pacific
 2020-10-25,Jordan,53087,579,7508,45000,2337,39,0,Eastern Mediterranean
-2020-10-25,Kazakhstan,110542,1796,105675,3071,140,0,57,Europe
+2020-10-25,Kazakhstan,147297,2189,134117,10991,315,0,57,Europe
 2020-10-25,Kenya,49721,902,34209,14610,931,6,333,Africa
 2020-10-25,Kosovo,17943,663,15083,2197,186,2,54,Europe
 2020-10-25,Kuwait,121635,746,112771,8118,708,2,661,Eastern Mediterranean
@@ -57923,7 +57923,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-26,Jamaica,8749,192,4303,4254,35,4,21,Americas
 2020-10-26,Japan,97503,1721,89031,6751,408,5,421,Western Pacific
 2020-10-26,Jordan,55055,624,7508,46923,1968,45,0,Eastern Mediterranean
-2020-10-26,Kazakhstan,110684,1796,105766,3122,142,0,91,Europe
+2020-10-26,Kazakhstan,147463,2190,134297,10976,166,1,180,Europe
 2020-10-26,Kenya,49997,920,34429,14648,276,18,220,Africa
 2020-10-26,Kosovo,17943,663,15083,2197,0,0,0,Europe
 2020-10-26,Kuwait,122317,749,113391,8177,682,3,620,Eastern Mediterranean
@@ -58131,7 +58131,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-27,Jamaica,8787,196,4347,4244,38,4,44,Americas
 2020-10-27,Japan,98146,1726,89465,6955,643,5,434,Western Pacific
 2020-10-27,Jordan,58855,668,7508,50679,3800,44,0,Eastern Mediterranean
-2020-10-27,Kazakhstan,110832,1825,105883,3124,148,29,117,Europe
+2020-10-27,Kazakhstan,147615,2191,134431,10993,152,1,134,Europe
 2020-10-27,Kenya,50833,934,34832,15067,836,14,403,Africa
 2020-10-27,Kosovo,17943,663,15083,2197,0,0,0,Europe
 2020-10-27,Kuwait,123092,756,114116,8220,775,7,725,Eastern Mediterranean
@@ -58339,7 +58339,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-28,Jamaica,8851,198,4379,4274,64,2,32,Americas
 2020-10-28,Japan,98877,1731,90118,7028,731,5,653,Western Pacific
 2020-10-28,Jordan,61942,700,7508,53734,3087,32,0,Eastern Mediterranean
-2020-10-28,Kazakhstan,111100,1825,106059,3216,268,0,176,Europe
+2020-10-28,Kazakhstan,148037,2221,134675,11141,422,30,244,Europe
 2020-10-28,Kenya,51851,934,35258,15659,1018,0,426,Africa
 2020-10-28,Kosovo,18626,673,15290,2663,683,10,207,Europe
 2020-10-28,Kuwait,123906,763,114923,8220,814,7,807,Eastern Mediterranean
@@ -58547,7 +58547,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-29,Jamaica,8927,202,4429,4296,76,4,50,Americas
 2020-10-29,Japan,99674,1748,90624,7302,797,17,506,Western Pacific
 2020-10-29,Jordan,65385,740,7508,57137,3443,40,0,Eastern Mediterranean
-2020-10-29,Kazakhstan,111492,1825,106187,3480,392,0,128,Europe
+2020-10-29,Kazakhstan,148479,2222,134846,11411,442,1,171,Europe
 2020-10-29,Kenya,52612,964,35604,16044,761,30,346,Africa
 2020-10-29,Kosovo,18626,673,15290,2663,0,0,0,Europe
 2020-10-29,Kuwait,124666,767,115475,8424,760,4,552,Eastern Mediterranean
@@ -58755,7 +58755,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-30,Jamaica,9005,205,4442,4358,78,3,13,Americas
 2020-10-30,Japan,100450,1756,91184,7510,776,8,560,Western Pacific
 2020-10-30,Jordan,69306,772,7600,60934,3921,32,92,Eastern Mediterranean
-2020-10-30,Kazakhstan,111953,1825,106310,3818,461,0,123,Europe
+2020-10-30,Kazakhstan,149066,2224,134997,11845,587,2,151,Europe
 2020-10-30,Kenya,53797,981,35876,16940,1185,17,272,Africa
 2020-10-30,Kosovo,19328,678,15429,3221,702,5,139,Europe
 2020-10-30,Kuwait,125337,773,116202,8362,671,6,727,Eastern Mediterranean
@@ -58963,7 +58963,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-10-31,Jamaica,9094,206,4510,4378,89,1,68,Americas
 2020-10-31,Japan,101327,1769,89765,9793,877,13,-1419,Western Pacific
 2020-10-31,Jordan,72607,829,7600,64178,3301,57,0,Eastern Mediterranean
-2020-10-31,Kazakhstan,112418,1825,106400,4193,465,0,90,Europe
+2020-10-31,Kazakhstan,149699,2226,135110,12363,633,2,113,Europe
 2020-10-31,Kenya,55192,981,35876,18335,1395,0,0,Africa
 2020-10-31,Kosovo,19328,678,15429,3221,0,0,0,Europe
 2020-10-31,Kuwait,125926,779,116862,8285,589,6,660,Eastern Mediterranean
@@ -59171,7 +59171,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-01,Jamaica,9131,208,4617,4306,37,2,107,Americas
 2020-11-01,Japan,101943,1776,92250,7917,616,7,2485,Western Pacific
 2020-11-01,Jordan,75866,866,7740,67260,3259,37,140,Eastern Mediterranean
-2020-11-01,Kazakhstan,112860,1825,106514,4521,442,0,114,Europe
+2020-11-01,Kazakhstan,150380,2227,135301,12852,681,1,191,Europe
 2020-11-01,Kenya,55877,1013,37194,17670,685,32,1318,Africa
 2020-11-01,Kosovo,19328,678,15429,3221,0,0,0,Europe
 2020-11-01,Kuwait,126534,782,117558,8194,608,3,696,Eastern Mediterranean
@@ -59379,7 +59379,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-02,Jamaica,9257,210,4637,4410,126,2,20,Americas
 2020-11-02,Japan,102431,1787,92673,7971,488,11,423,Western Pacific
 2020-11-02,Jordan,81743,913,7858,72972,5877,47,118,Eastern Mediterranean
-2020-11-02,Kazakhstan,113309,1857,106716,4736,449,32,202,Europe
+2020-11-02,Kazakhstan,150863,2227,135535,13101,483,0,234,Europe
 2020-11-02,Kenya,56601,1027,37442,18132,724,14,248,Africa
 2020-11-02,Kosovo,20179,688,15611,3880,851,10,182,Europe
 2020-11-02,Kuwait,127293,786,118386,8121,759,4,828,Eastern Mediterranean
@@ -59587,7 +59587,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-03,Jamaica,9296,214,4666,4416,39,4,29,Americas
 2020-11-03,Japan,103309,1794,93133,8382,878,7,460,Western Pacific
 2020-11-03,Jordan,86576,967,7993,77616,4833,54,135,Eastern Mediterranean
-2020-11-03,Kazakhstan,113741,1857,106893,4991,432,0,177,Europe
+2020-11-03,Kazakhstan,151321,2261,135729,13331,458,34,194,Europe
 2020-11-03,Kenya,57093,1039,37846,18208,492,12,404,Africa
 2020-11-03,Kosovo,20999,705,15722,4572,820,17,111,Europe
 2020-11-03,Kuwait,128080,789,119080,8211,787,3,694,Eastern Mediterranean
@@ -59795,7 +59795,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-04,Jamaica,9326,215,4704,4407,30,1,38,Americas
 2020-11-04,Japan,103928,1799,93564,8565,619,5,431,Western Pacific
 2020-11-04,Jordan,91234,1029,8188,82017,4658,62,195,Eastern Mediterranean
-2020-11-04,Kazakhstan,114235,1857,107139,5239,494,0,246,Europe
+2020-11-04,Kazakhstan,152022,2262,136038,13722,701,1,309,Europe
 2020-11-04,Kenya,58587,1051,38381,19155,1494,12,535,Africa
 2020-11-04,Kosovo,21545,714,15829,5002,546,9,107,Europe
 2020-11-04,Kuwait,128843,794,119742,8307,763,5,662,Eastern Mediterranean
@@ -60003,7 +60003,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-05,Jamaica,9373,217,4745,4411,47,2,41,Americas
 2020-11-05,Japan,104964,1806,94376,8782,1036,7,812,Western Pacific
 2020-11-05,Jordan,95864,1069,8336,86459,4630,40,148,Eastern Mediterranean
-2020-11-05,Kazakhstan,114826,1857,107339,5630,591,0,200,Europe
+2020-11-05,Kazakhstan,152725,2263,136275,14187,703,1,237,Europe
 2020-11-05,Kenya,59595,1072,39193,19330,1008,21,812,Africa
 2020-11-05,Kosovo,22206,720,15921,5565,661,6,92,Europe
 2020-11-05,Kuwait,129638,799,120564,8275,795,5,822,Eastern Mediterranean
@@ -60211,7 +60211,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-06,Jamaica,9426,218,4801,4407,53,1,56,Americas
 2020-11-06,Japan,106136,1810,95010,9316,1172,4,634,Western Pacific
 2020-11-06,Jordan,101248,1136,8506,91606,5384,67,170,Eastern Mediterranean
-2020-11-06,Kazakhstan,115439,1857,107530,6052,613,0,191,Europe
+2020-11-06,Kazakhstan,153547,2263,136544,14740,822,0,269,Europe
 2020-11-06,Kenya,60704,1093,40131,19480,1109,21,938,Africa
 2020-11-06,Kosovo,22934,732,15981,6221,728,12,60,Europe
 2020-11-06,Kuwait,130463,804,121263,8396,825,5,699,Eastern Mediterranean
@@ -60419,7 +60419,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-07,Jamaica,9472,218,4878,4376,46,0,77,Americas
 2020-11-07,Japan,107439,1815,95703,9921,1303,5,693,Western Pacific
 2020-11-07,Jordan,104802,1181,8629,94992,3554,45,123,Eastern Mediterranean
-2020-11-07,Kazakhstan,116162,1857,107668,6637,723,0,138,Europe
+2020-11-07,Kazakhstan,154321,2265,136747,15309,774,2,203,Europe
 2020-11-07,Kenya,61769,1103,41019,19647,1065,10,888,Africa
 2020-11-07,Kosovo,22934,732,15981,6221,0,0,0,Europe
 2020-11-07,Kuwait,131205,808,121889,8508,742,4,626,Eastern Mediterranean
@@ -60627,7 +60627,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-08,Jamaica,9506,221,4934,4351,34,3,56,Americas
 2020-11-08,Japan,108394,1821,96430,10143,955,6,727,Western Pacific
 2020-11-08,Jordan,109321,1233,8808,99280,4519,52,179,Eastern Mediterranean
-2020-11-08,Kazakhstan,116772,1857,107843,7072,610,0,175,Europe
+2020-11-08,Kazakhstan,155220,2266,136981,15973,899,1,234,Europe
 2020-11-08,Kenya,62488,1111,41931,19446,719,8,912,Africa
 2020-11-08,Kosovo,22934,732,15981,6221,0,0,0,Europe
 2020-11-08,Kuwait,131743,811,122576,8356,538,3,687,Eastern Mediterranean
@@ -60835,7 +60835,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-09,Jamaica,9542,221,4952,4369,36,0,18,Americas
 2020-11-09,Japan,109191,1834,96684,10673,797,13,254,Western Pacific
 2020-11-09,Jordan,114986,1295,9033,104658,5665,62,225,Eastern Mediterranean
-2020-11-09,Kazakhstan,117336,1857,108169,7310,564,0,326,Europe
+2020-11-09,Kazakhstan,155876,2266,137307,16303,656,0,326,Europe
 2020-11-09,Kenya,63244,1130,42659,19455,756,19,728,Africa
 2020-11-09,Kosovo,24792,768,16226,7798,1858,36,245,Europe
 2020-11-09,Kuwait,132478,816,123314,8348,735,5,738,Eastern Mediterranean
@@ -61043,7 +61043,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-10,Jamaica,9573,224,4987,4362,31,3,35,Americas
 2020-11-10,Japan,110487,1840,98487,10160,1296,6,1803,Western Pacific
 2020-11-10,Jordan,120982,1386,9249,110347,5996,91,216,Eastern Mediterranean
-2020-11-10,Kazakhstan,117904,1857,108387,7660,568,0,218,Europe
+2020-11-10,Kazakhstan,156451,2267,137590,16594,575,1,283,Europe
 2020-11-10,Kenya,64588,1154,43095,20339,1344,24,436,Africa
 2020-11-10,Kosovo,25388,773,16362,8253,596,5,136,Europe
 2020-11-10,Kuwait,133381,821,124156,8404,903,5,842,Eastern Mediterranean
@@ -61251,7 +61251,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-11,Jamaica,9581,225,4995,4361,8,1,8,Americas
 2020-11-11,Japan,112011,1847,98305,11859,1524,7,-182,Western Pacific
 2020-11-11,Jordan,126401,1467,9416,115518,5419,81,167,Eastern Mediterranean
-2020-11-11,Kazakhstan,118491,1899,108632,7960,587,42,245,Europe
+2020-11-11,Kazakhstan,157261,2267,137918,17076,810,0,328,Europe
 2020-11-11,Kenya,65804,1180,43626,20998,1216,26,531,Africa
 2020-11-11,Kosovo,26121,777,16499,8845,733,4,137,Europe
 2020-11-11,Kuwait,134159,826,124905,8428,778,5,749,Eastern Mediterranean
@@ -61459,7 +61459,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-12,Jamaica,9634,225,5043,4366,53,0,48,Americas
 2020-11-12,Japan,113655,1854,99282,12519,1644,7,977,Western Pacific
 2020-11-12,Jordan,132086,1547,9564,120975,5685,80,148,Eastern Mediterranean
-2020-11-12,Kazakhstan,119129,1899,108958,8272,638,0,326,Europe
+2020-11-12,Kazakhstan,158036,2311,138309,17416,775,44,391,Europe
 2020-11-12,Kenya,66723,1203,44040,21480,919,23,414,Africa
 2020-11-12,Kosovo,26888,785,16685,9418,767,8,186,Europe
 2020-11-12,Kuwait,134932,830,125593,8509,773,4,688,Eastern Mediterranean
@@ -61667,7 +61667,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-13,Jamaica,9723,227,5168,4328,89,2,125,Americas
 2020-11-13,Japan,115360,1864,100197,13299,1705,10,915,Western Pacific
 2020-11-13,Jordan,136555,1618,9729,125208,4469,71,165,Eastern Mediterranean
-2020-11-13,Kazakhstan,119833,1899,109275,8659,704,0,317,Europe
+2020-11-13,Kazakhstan,158853,2314,138691,17848,817,3,382,Europe
 2020-11-13,Kenya,68193,1228,44872,22093,1470,25,832,Africa
 2020-11-13,Kosovo,27851,798,16862,10191,963,13,177,Europe
 2020-11-13,Kuwait,135650,833,126344,8473,718,3,751,Eastern Mediterranean
@@ -61875,7 +61875,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-14,Jamaica,9780,229,5228,4323,57,2,60,Americas
 2020-11-14,Japan,117113,1865,101162,14086,1753,1,965,Western Pacific
 2020-11-14,Jordan,141305,1704,9879,129722,4750,86,150,Eastern Mediterranean
-2020-11-14,Kazakhstan,120463,1899,109643,8921,630,0,368,Europe
+2020-11-14,Kazakhstan,159756,2315,139128,18313,903,1,437,Europe
 2020-11-14,Kenya,69273,1228,44872,23173,1080,0,0,Africa
 2020-11-14,Kosovo,27851,798,16862,10191,0,0,0,Europe
 2020-11-14,Kuwait,136341,835,126902,8604,691,2,558,Eastern Mediterranean
@@ -62083,7 +62083,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-15,Jamaica,9884,231,5248,4405,104,2,20,Americas
 2020-11-15,Japan,118611,1874,91954,24783,1498,9,-9208,Western Pacific
 2020-11-15,Jordan,143678,1772,10067,131839,2373,68,188,Eastern Mediterranean
-2020-11-15,Kazakhstan,121051,1899,109944,9208,588,0,301,Europe
+2020-11-15,Kazakhstan,160612,2317,139500,18795,856,2,372,Europe
 2020-11-15,Kenya,70245,1269,45766,23210,972,41,894,Africa
 2020-11-15,Kosovo,29117,822,17305,10990,1266,24,443,Europe
 2020-11-15,Kuwait,136840,838,127585,8417,499,3,683,Eastern Mediterranean
@@ -62291,7 +62291,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-16,Jamaica,9929,231,5330,4368,45,0,82,Americas
 2020-11-16,Japan,119557,1883,102810,14864,946,9,10856,Western Pacific
 2020-11-16,Jordan,149539,1843,10311,137385,5861,71,244,Eastern Mediterranean
-2020-11-16,Kazakhstan,121653,1899,110382,9372,602,0,438,Europe
+2020-11-16,Kazakhstan,161850,2319,139962,19569,1238,2,462,Europe
 2020-11-16,Kenya,70804,1287,46244,23273,559,18,478,Africa
 2020-11-16,Kosovo,29805,833,17541,11431,688,11,236,Europe
 2020-11-16,Kuwait,137329,842,128414,8073,489,4,829,Eastern Mediterranean
@@ -62499,7 +62499,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-17,Jamaica,9959,231,5338,4390,30,0,8,Americas
 2020-11-17,Japan,121247,1895,103778,15574,1690,12,968,Western Pacific
 2020-11-17,Jordan,155993,1909,90267,63817,6454,66,79956,Eastern Mediterranean
-2020-11-17,Kazakhstan,122335,1899,110835,9601,682,0,453,Europe
+2020-11-17,Kazakhstan,162555,2320,140469,19766,705,1,507,Europe
 2020-11-17,Kenya,71729,1302,47262,23165,925,15,1018,Africa
 2020-11-17,Kosovo,29805,833,17541,11431,0,0,0,Europe
 2020-11-17,Kuwait,137885,848,129041,7996,556,6,627,Eastern Mediterranean
@@ -62707,7 +62707,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-18,Jamaica,10019,233,5369,4417,60,2,31,Americas
 2020-11-18,Japan,123477,1908,104837,16732,2230,13,1059,Western Pacific
 2020-11-18,Jordan,163926,1969,94896,67061,7933,60,4629,Eastern Mediterranean
-2020-11-18,Kazakhstan,123097,1945,111172,9980,762,46,337,Europe
+2020-11-18,Kazakhstan,163585,2366,140891,20328,1030,46,422,Europe
 2020-11-18,Kenya,72686,1313,49878,21495,957,11,2616,Africa
 2020-11-18,Kosovo,31215,860,18347,12008,1410,27,806,Europe
 2020-11-18,Kuwait,138337,857,129839,7641,452,9,798,Eastern Mediterranean
@@ -62915,7 +62915,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-19,Jamaica,10088,235,5407,4446,69,2,38,Americas
 2020-11-19,Japan,125859,1920,106074,17865,2382,12,1237,Western Pacific
 2020-11-19,Jordan,169395,2053,100280,67062,5469,84,5384,Eastern Mediterranean
-2020-11-19,Kazakhstan,123888,1945,111483,10460,791,0,311,Europe
+2020-11-19,Kazakhstan,164578,2368,141297,20913,993,2,406,Europe
 2020-11-19,Kenya,74145,1330,50658,22157,1459,17,780,Africa
 2020-11-19,Kosovo,32022,874,19024,12124,807,14,677,Europe
 2020-11-19,Kuwait,138822,859,130426,7537,485,2,587,Eastern Mediterranean
@@ -63123,7 +63123,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-20,Jamaica,10151,235,5432,4484,63,0,25,Americas
 2020-11-20,Japan,128285,1930,107521,18834,2426,10,1447,Western Pacific
 2020-11-20,Jordan,174335,2116,103834,68385,4940,63,3554,Eastern Mediterranean
-2020-11-20,Kazakhstan,124710,1945,111895,10870,822,0,412,Europe
+2020-11-20,Kazakhstan,165558,2369,141764,21425,980,1,467,Europe
 2020-11-20,Kenya,75193,1349,50984,22860,1048,19,326,Africa
 2020-11-20,Kosovo,32877,885,19772,12220,855,11,748,Europe
 2020-11-20,Kuwait,139308,861,131049,7398,486,2,623,Eastern Mediterranean
@@ -63331,7 +63331,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-21,Jamaica,10240,237,5481,4522,89,2,49,Americas
 2020-11-21,Japan,130871,1932,108981,19958,2586,2,1460,Western Pacific
 2020-11-21,Jordan,178161,2172,108353,67636,3826,56,4519,Eastern Mediterranean
-2020-11-21,Kazakhstan,125466,1945,112292,11229,756,0,397,Europe
+2020-11-21,Kazakhstan,166468,2370,142252,21846,910,1,488,Europe
 2020-11-21,Kenya,76404,1366,51352,23686,1211,17,368,Africa
 2020-11-21,Kosovo,33588,904,20493,12191,711,19,721,Europe
 2020-11-21,Kuwait,139734,863,131560,7311,426,2,511,Eastern Mediterranean
@@ -63539,7 +63539,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-22,Jamaica,10284,238,5505,4541,44,1,24,Americas
 2020-11-22,Japan,133034,1943,110273,20818,2163,11,1292,Western Pacific
 2020-11-22,Jordan,183429,2236,114018,67175,5268,64,5665,Eastern Mediterranean
-2020-11-22,Kazakhstan,126182,1945,112806,11431,716,0,514,Europe
+2020-11-22,Kazakhstan,167341,2372,142865,22104,873,2,613,Europe
 2020-11-22,Kenya,77372,1380,51507,24485,968,14,155,Africa
 2020-11-22,Kosovo,34295,914,21043,12338,707,10,550,Europe
 2020-11-22,Kuwait,140056,866,132178,7012,322,3,618,Eastern Mediterranean
@@ -63747,7 +63747,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-23,Jamaica,10343,239,5518,4586,59,1,13,Americas
 2020-11-23,Japan,134554,1949,111343,21262,1520,6,1070,Western Pacific
 2020-11-23,Jordan,188410,2302,120014,66094,4981,66,5996,Eastern Mediterranean
-2020-11-23,Kazakhstan,126182,1945,112806,11431,0,0,0,Europe
+2020-11-23,Kazakhstan,167385,2372,142892,22121,44,0,27,Europe
 2020-11-23,Kenya,77785,1392,51903,24490,413,12,396,Africa
 2020-11-23,Kosovo,34940,926,21396,12618,645,12,353,Europe
 2020-11-23,Kuwait,140393,868,132848,6677,337,2,670,Eastern Mediterranean
@@ -63955,7 +63955,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-24,Jamaica,10422,243,5572,4607,79,4,54,Americas
 2020-11-24,Japan,135786,1963,112385,21438,1232,14,1042,Western Pacific
 2020-11-24,Jordan,192996,2380,125433,65183,4586,78,5419,Eastern Mediterranean
-2020-11-24,Kazakhstan,127580,1945,114347,11288,1398,0,1541,Europe
+2020-11-24,Kazakhstan,168803,2373,144463,21967,1418,1,1571,Europe
 2020-11-24,Kenya,78512,1409,52709,24394,727,17,806,Africa
 2020-11-24,Kosovo,35549,939,21746,12864,609,13,350,Europe
 2020-11-24,Kuwait,140795,870,133407,6518,402,2,559,Eastern Mediterranean
@@ -64163,7 +64163,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-25,Jamaica,10488,247,5623,4618,66,4,51,Americas
 2020-11-25,Japan,137735,1983,114569,21183,1949,20,2184,Western Pacific
 2020-11-25,Jordan,198021,2442,131181,64398,5025,62,5748,Eastern Mediterranean
-2020-11-25,Kazakhstan,128400,1990,114821,11589,820,45,474,Europe
+2020-11-25,Kazakhstan,169827,2422,145028,22377,1024,49,565,Europe
 2020-11-25,Kenya,79322,1417,52974,24931,810,8,265,Africa
 2020-11-25,Kosovo,36253,948,22137,13168,704,9,391,Europe
 2020-11-25,Kuwait,141217,871,134033,6313,422,1,626,Eastern Mediterranean
@@ -64371,7 +64371,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-26,Jamaica,10541,248,5721,4572,53,1,98,Americas
 2020-11-26,Japan,140225,1996,116222,22007,2490,13,1653,Western Pacific
 2020-11-26,Jordan,203021,2509,135650,64862,5000,67,4469,Eastern Mediterranean
-2020-11-26,Kazakhstan,129213,1990,115384,11839,813,0,563,Europe
+2020-11-26,Kazakhstan,170808,2424,145673,22711,981,2,645,Europe
 2020-11-26,Kenya,80102,1427,53526,25149,780,10,552,Africa
 2020-11-26,Kosovo,37028,963,22690,13375,775,15,553,Europe
 2020-11-26,Kuwait,141547,872,134750,5925,330,1,717,Eastern Mediterranean
@@ -64579,7 +64579,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-27,Jamaica,10600,250,5829,4521,59,2,108,Americas
 2020-11-27,Japan,142778,2028,117709,23041,2553,32,1487,Western Pacific
 2020-11-27,Jordan,207601,2570,140400,64631,4580,61,4750,Eastern Mediterranean
-2020-11-27,Kazakhstan,130039,1990,116044,12005,826,0,660,Europe
+2020-11-27,Kazakhstan,171795,2429,146406,22960,987,5,733,Europe
 2020-11-27,Kenya,81656,1441,54125,26090,1554,14,599,Africa
 2020-11-27,Kosovo,37792,975,23274,13543,764,12,584,Europe
 2020-11-27,Kuwait,141876,874,135303,5699,329,2,553,Eastern Mediterranean
@@ -64787,7 +64787,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-28,Jamaica,10669,251,5953,4465,69,1,124,Americas
 2020-11-28,Japan,145457,2042,120103,23312,2679,14,2394,Western Pacific
 2020-11-28,Jordan,210709,2626,142710,65373,3108,56,2310,Eastern Mediterranean
-2020-11-28,Kazakhstan,130865,1990,116187,12688,826,0,143,Europe
+2020-11-28,Kazakhstan,172805,2430,146549,23826,1010,1,143,Europe
 2020-11-28,Kenya,82605,1445,54399,26761,949,4,274,Africa
 2020-11-28,Kosovo,38431,989,23754,13688,639,14,480,Europe
 2020-11-28,Kuwait,142195,875,135889,5431,319,1,586,Eastern Mediterranean
@@ -64995,7 +64995,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-29,Jamaica,10709,256,6066,4387,40,5,113,Americas
 2020-11-29,Japan,147515,2057,121735,23723,2058,15,1632,Western Pacific
 2020-11-29,Jordan,214307,2694,148572,63041,3598,68,5862,Eastern Mediterranean
-2020-11-29,Kazakhstan,131659,1990,116461,13208,794,0,274,Europe
+2020-11-29,Kazakhstan,173763,2433,146955,24375,958,3,406,Europe
 2020-11-29,Kenya,83316,1452,54975,26889,711,7,576,Africa
 2020-11-29,Kosovo,39057,1005,24427,13625,626,16,673,Europe
 2020-11-29,Kuwait,142426,878,136413,5135,231,3,524,Eastern Mediterranean
@@ -65203,7 +65203,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-30,Jamaica,10763,257,6219,4287,54,1,153,Americas
 2020-11-30,Japan,148962,2076,127289,19597,1447,19,5554,Western Pacific
 2020-11-30,Jordan,219430,2751,155026,61653,5123,57,6454,Eastern Mediterranean
-2020-11-30,Kazakhstan,132348,1990,116863,13495,689,0,402,Europe
+2020-11-30,Kazakhstan,174563,2433,147425,24705,800,0,470,Europe
 2020-11-30,Kenya,83618,1469,55344,26805,302,17,369,Africa
 2020-11-30,Kosovo,39596,1016,25001,13579,539,11,574,Europe
 2020-11-30,Kuwait,142635,880,137071,4684,209,2,658,Eastern Mediterranean
@@ -65411,7 +65411,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-12-01,Jamaica,10810,258,6364,4188,47,1,145,Americas
 2020-12-01,Japan,150976,2109,125304,23563,2014,33,-1985,Western Pacific
 2020-12-01,Jordan,223617,2802,162959,57856,4187,51,7933,Eastern Mediterranean
-2020-12-01,Kazakhstan,175565,2434,148043,25088,43217,444,31180,Europe
+2020-12-01,Kazakhstan,175565,2434,148043,25088,1002,1,618,Europe
 2020-12-01,Kenya,84169,1474,55610,27085,551,5,266,Africa
 2020-12-01,Kosovo,40117,1026,25586,13505,521,10,585,Europe
 2020-12-01,Kuwait,142992,881,137625,4486,357,1,554,Eastern Mediterranean
