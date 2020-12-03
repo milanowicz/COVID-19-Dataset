@@ -1,5 +1,5 @@
 Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovered,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,Confirmed last week,1 week change,1 week % increase,WHO Region
-Afghanistan,46717,1797,36907,8013,219,23,119,3.85,79.0,4.87,45280,1437,3.17,Eastern Mediterranean
+Afghanistan,46717,1797,36907,8013,443,2,119,3.85,79.0,4.87,45174,1543,3.42,Eastern Mediterranean
 Albania,39014,822,19384,18808,832,12,535,2.11,49.68,4.24,34300,4714,13.74,Europe
 Algeria,84152,2447,54405,27300,953,16,596,2.91,64.65,4.5,77000,7152,9.29,Africa
 Andorra,6790,76,5940,774,45,0,67,1.12,87.48,1.28,6351,439,6.91,Europe
