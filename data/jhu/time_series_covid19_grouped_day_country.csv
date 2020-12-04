@@ -64895,7 +64895,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-28,Yemen,2160,615,1498,47,12,1,7,Eastern Mediterranean
 2020-11-28,Zambia,17589,357,16925,307,20,0,80,Africa
 2020-11-28,Zimbabwe,9822,275,8472,1075,108,0,2,Africa
-2020-11-29,Afghanistan,46116,1774,36731,7611,272,22,22,Eastern Mediterranean
+2020-11-29,Afghanistan,46116,1774,36716,7626,272,22,7,Eastern Mediterranean
 2020-11-29,Albania,37625,798,18481,18346,835,11,329,Europe
 2020-11-29,Algeria,82221,2410,53204,26607,1009,17,636,Africa
 2020-11-29,Andorra,6712,76,5794,842,102,0,84,Europe
@@ -65103,7 +65103,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-29,Yemen,2177,617,1504,56,17,2,6,Eastern Mediterranean
 2020-11-29,Zambia,17608,357,16983,268,19,0,58,Africa
 2020-11-29,Zimbabwe,9822,275,8472,1075,0,0,0,Africa
-2020-11-30,Afghanistan,46274,1795,36788,7691,158,21,57,Eastern Mediterranean
+2020-11-30,Afghanistan,46274,1795,36831,7648,158,21,115,Eastern Mediterranean
 2020-11-30,Albania,38182,810,18849,18523,557,12,368,Europe
 2020-11-30,Algeria,83199,2431,53809,26959,978,21,605,Africa
 2020-11-30,Andorra,6745,76,5873,796,33,0,79,Europe
@@ -65311,7 +65311,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-11-30,Yemen,2191,619,1510,62,14,2,6,Eastern Mediterranean
 2020-11-30,Zambia,17647,357,16998,292,39,0,15,Africa
 2020-11-30,Zimbabwe,9950,276,8482,1192,128,1,10,Africa
-2020-12-01,Afghanistan,46717,1797,36907,8013,443,2,119,Eastern Mediterranean
+2020-12-01,Afghanistan,46516,1822,36946,7748,242,27,115,Eastern Mediterranean
 2020-12-01,Albania,39014,822,19384,18808,832,12,535,Europe
 2020-12-01,Algeria,84152,2447,54405,27300,953,16,596,Africa
 2020-12-01,Andorra,6790,76,5940,774,45,0,67,Europe
@@ -65519,7 +65519,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-12-01,Yemen,2197,619,1514,64,6,0,4,Eastern Mediterranean
 2020-12-01,Zambia,17665,357,17059,249,18,0,61,Africa
 2020-12-01,Zimbabwe,10129,277,8643,1209,179,1,161,Africa
-2020-12-02,Afghanistan,46980,1822,37026,8132,263,25,119,Eastern Mediterranean
+2020-12-02,Afghanistan,46718,1841,37218,7659,202,19,272,Eastern Mediterranean
 2020-12-02,Albania,39719,839,19912,18968,705,17,528,Europe
 2020-12-02,Algeria,85084,2464,54990,27630,932,17,585,Africa
 2020-12-02,Andorra,6842,76,5988,778,52,0,48,Europe
@@ -65727,7 +65727,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-12-02,Yemen,2217,621,1518,78,20,2,4,Eastern Mediterranean
 2020-12-02,Zambia,17700,357,17086,257,35,0,27,Africa
 2020-12-02,Zimbabwe,10129,277,8643,1209,0,0,0,Africa
-2020-12-03,Afghanistan,46718,1841,37218,7659,0,19,192,Eastern Mediterranean
+2020-12-03,Afghanistan,46837,1846,37260,7731,119,5,42,Eastern Mediterranean
 2020-12-03,Albania,40501,852,20484,19165,782,13,572,Europe
 2020-12-03,Algeria,85927,2480,55538,27909,843,16,548,Africa
 2020-12-03,Andorra,6904,77,6066,761,62,1,78,Europe
