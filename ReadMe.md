@@ -1,5 +1,8 @@
 # COVID-19 Dataset
 
+![](https://img.shields.io/github/repo-size/milanowicz/COVID-19-Dataset)
+![](https://img.shields.io/github/languages/code-size/milanowicz/COVID-19-Dataset)
+
 This COVID-19 Dataset should be used for Data Sciene.
 Therefore the columns are the same for JHU and RKI data to load them with pandas.
 
