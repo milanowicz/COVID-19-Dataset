@@ -71611,7 +71611,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-12-31,Egypt,138062,7631,112105,18326,1418,55,654,Eastern Mediterranean
 2020-12-31,El Salvador,45960,1327,45960,-1327,0,0,0,Americas
 2020-12-31,Equatorial Guinea,5277,86,5136,55,13,0,13,Africa
-2020-12-31,Eritrea,1252,1,643,608,0,0,0,Africa
+2020-12-31,Eritrea,1320,3,643,674,68,2,0,Africa
 2020-12-31,Estonia,27990,229,18326,9435,734,3,662,Europe
 2020-12-31,Eswatini,9358,205,7073,2080,212,21,11,Africa
 2020-12-31,Ethiopia,124264,1923,112096,10245,408,5,226,Africa
@@ -71717,7 +71717,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2020-12-31,Saudi Arabia,362741,6223,353853,2665,140,9,171,Eastern Mediterranean
 2020-12-31,Senegal,19140,410,17254,1476,195,8,53,Africa
 2020-12-31,Serbia,337923,3211,0,334712,2932,48,0,Europe
-2020-12-31,Seychelles,275,0,214,61,19,0,2,Africa
+2020-12-31,Seychelles,256,0,214,42,0,0,2,Africa
 2020-12-31,Sierra Leone,2611,76,1892,643,28,0,1,Africa
 2020-12-31,Singapore,58599,29,58449,121,30,0,38,Western Pacific
 2020-12-31,Sint Maarten (NL),1456,27,1331,98,22,0,11,Americas
@@ -71819,7 +71819,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-01,Egypt,139471,7687,112826,18958,1409,56,721,Eastern Mediterranean
 2021-01-01,El Salvador,45960,1327,45960,-1327,0,0,0,Americas
 2021-01-01,Equatorial Guinea,5277,86,5136,55,0,0,0,Africa
-2021-01-01,Eritrea,1252,1,643,608,0,0,0,Africa
+2021-01-01,Eritrea,1320,3,643,674,0,0,0,Africa
 2021-01-01,Estonia,28406,234,19027,9145,416,5,701,Europe
 2021-01-01,Eswatini,9482,216,7073,2193,124,11,0,Africa
 2021-01-01,Ethiopia,124652,1937,112251,10464,388,14,155,Africa
@@ -71925,7 +71925,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-01,Saudi Arabia,362878,6230,354081,2567,137,7,228,Eastern Mediterranean
 2021-01-01,Senegal,19364,410,17375,1579,224,0,121,Africa
 2021-01-01,Serbia,339997,3250,0,336747,2074,39,0,Europe
-2021-01-01,Seychelles,275,0,214,61,0,0,0,Africa
+2021-01-01,Seychelles,256,0,214,42,0,0,0,Africa
 2021-01-01,Sierra Leone,2635,76,1906,653,24,0,14,Africa
 2021-01-01,Singapore,58629,29,58449,151,30,0,0,Western Pacific
 2021-01-01,Sint Maarten (NL),1458,27,1342,89,2,0,11,Americas
@@ -72027,7 +72027,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-02,Egypt,140878,7741,113480,19657,1407,54,654,Eastern Mediterranean
 2021-01-02,El Salvador,45960,1327,45960,-1327,0,0,0,Americas
 2021-01-02,Equatorial Guinea,5277,86,5136,55,0,0,0,Africa
-2021-01-02,Eritrea,1252,1,643,608,0,0,0,Africa
+2021-01-02,Eritrea,1320,3,643,674,0,0,0,Africa
 2021-01-02,Estonia,28789,241,19205,9343,383,7,178,Europe
 2021-01-02,Eswatini,9711,227,7096,2388,229,11,23,Africa
 2021-01-02,Ethiopia,125049,1944,112325,10780,397,7,74,Africa
@@ -72133,7 +72133,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-02,Saudi Arabia,362979,6239,354263,2477,101,9,182,Eastern Mediterranean
 2021-01-02,Senegal,19511,416,17433,1662,147,6,58,Africa
 2021-01-02,Serbia,341904,3288,0,338616,1907,38,0,Europe
-2021-01-02,Seychelles,285,0,214,71,10,0,0,Africa
+2021-01-02,Seychelles,285,0,214,71,29,0,0,Africa
 2021-01-02,Sierra Leone,2646,76,1910,660,11,0,4,Africa
 2021-01-02,Singapore,58662,29,58476,157,33,0,27,Western Pacific
 2021-01-02,Sint Maarten (NL),1462,27,1355,80,4,0,13,Americas
@@ -72235,7 +72235,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-03,Egypt,142187,7805,113898,20484,1309,64,418,Eastern Mediterranean
 2021-01-03,El Salvador,46803,1358,41787,3658,843,31,-4173,Americas
 2021-01-03,Equatorial Guinea,5277,86,5136,55,0,0,0,Africa
-2021-01-03,Eritrea,1252,1,643,608,0,0,0,Africa
+2021-01-03,Eritrea,1320,3,643,674,0,0,0,Africa
 2021-01-03,Estonia,29131,244,19323,9564,342,3,118,Europe
 2021-01-03,Eswatini,9943,231,7113,2599,232,4,17,Africa
 2021-01-03,Ethiopia,125622,1948,112367,11307,573,4,42,Africa
@@ -72254,7 +72254,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-03,Gibraltar (UK),2406,8,1447,951,102,1,173,Europe
 2021-01-03,Greece,140099,4957,93764,41378,390,36,0,Europe
 2021-01-03,Greenland (DK),27,0,21,6,0,0,0,Europe
-2021-01-03,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-03,Grenada,127,1,107,19,0,1,0,Americas
 2021-01-03,Guadeloupe (FR),8620,155,2242,6223,0,0,0,Americas
 2021-01-03,Guatemala,138475,4833,127450,6192,159,6,387,Americas
 2021-01-03,Guinea,13784,81,13153,550,0,0,0,Africa
@@ -72443,7 +72443,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-04,Egypt,143464,7863,114601,21000,1277,58,703,Eastern Mediterranean
 2021-01-04,El Salvador,47087,1364,42004,3719,284,6,217,Americas
 2021-01-04,Equatorial Guinea,5279,86,5143,50,2,0,7,Africa
-2021-01-04,Eritrea,1252,1,643,608,0,0,0,Africa
+2021-01-04,Eritrea,1363,3,643,717,43,0,0,Africa
 2021-01-04,Estonia,29521,251,19453,9817,390,7,130,Europe
 2021-01-04,Eswatini,10138,244,7123,2771,195,13,10,Africa
 2021-01-04,Ethiopia,125919,1950,112610,11359,297,2,243,Africa
@@ -72462,7 +72462,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-04,Gibraltar (UK),2513,8,1504,1001,107,0,57,Europe
 2021-01-04,Greece,140526,5011,93764,41751,427,54,0,Europe
 2021-01-04,Greenland (DK),27,0,21,6,0,0,0,Europe
-2021-01-04,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-04,Grenada,127,1,107,19,0,0,0,Americas
 2021-01-04,Guadeloupe (FR),8620,155,2242,6223,0,0,0,Americas
 2021-01-04,Guatemala,138656,4835,127797,6024,181,2,347,Americas
 2021-01-04,Guinea,13799,81,13186,532,15,0,33,Africa
@@ -72549,7 +72549,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-04,Saudi Arabia,363155,6256,354609,2290,94,10,166,Eastern Mediterranean
 2021-01-04,Senegal,19803,424,17615,1764,106,3,100,Africa
 2021-01-04,Serbia,346585,3364,0,343221,2715,39,0,Europe
-2021-01-04,Seychelles,313,0,214,99,16,0,0,Africa
+2021-01-04,Seychelles,322,1,214,107,25,1,0,Africa
 2021-01-04,Sierra Leone,2673,76,1910,687,0,0,0,Africa
 2021-01-04,Singapore,58721,29,58497,195,24,0,10,Western Pacific
 2021-01-04,Sint Maarten (NL),1465,27,1370,68,3,0,10,Americas
@@ -72651,7 +72651,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-05,Egypt,144583,7918,115414,21251,1119,55,813,Eastern Mediterranean
 2021-01-05,El Salvador,47355,1373,42225,3757,268,9,221,Americas
 2021-01-05,Equatorial Guinea,5279,86,5143,50,0,0,0,Africa
-2021-01-05,Eritrea,1252,1,643,608,0,0,0,Africa
+2021-01-05,Eritrea,1363,3,643,717,0,0,0,Africa
 2021-01-05,Estonia,29950,258,20507,9185,429,7,1054,Europe
 2021-01-05,Eswatini,10338,252,7134,2952,200,8,11,Africa
 2021-01-05,Ethiopia,126241,1963,112813,11465,322,13,203,Africa
@@ -72670,7 +72670,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-05,Gibraltar (UK),2626,10,1530,1086,113,2,26,Europe
 2021-01-05,Greece,141453,5051,93764,42638,927,40,0,Europe
 2021-01-05,Greenland (DK),28,0,25,3,1,0,4,Europe
-2021-01-05,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-05,Grenada,127,1,107,19,0,0,0,Americas
 2021-01-05,Guadeloupe (FR),8702,155,2242,6305,82,0,0,Americas
 2021-01-05,Guatemala,139419,4859,128355,6205,763,24,558,Americas
 2021-01-05,Guinea,13845,81,13199,565,46,0,13,Africa
@@ -72757,7 +72757,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-05,Saudi Arabia,363259,6265,354755,2239,104,9,146,Eastern Mediterranean
 2021-01-05,Senegal,19964,428,17690,1846,161,4,75,Africa
 2021-01-05,Serbia,349238,3405,0,345833,2653,41,0,Europe
-2021-01-05,Seychelles,313,0,214,99,0,0,0,Africa
+2021-01-05,Seychelles,354,1,214,139,32,0,0,Africa
 2021-01-05,Sierra Leone,2724,76,1924,724,51,0,14,Africa
 2021-01-05,Singapore,58749,29,58517,203,28,0,20,Western Pacific
 2021-01-05,Sint Maarten (NL),1504,27,1385,92,39,0,15,Americas
@@ -72859,7 +72859,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-06,Egypt,145590,7975,115975,21640,1007,57,561,Eastern Mediterranean
 2021-01-06,El Salvador,47355,1382,42225,3748,0,9,0,Americas
 2021-01-06,Equatorial Guinea,5286,86,5154,46,7,0,11,Africa
-2021-01-06,Eritrea,1252,1,643,608,0,0,0,Africa
+2021-01-06,Eritrea,1445,3,643,799,82,0,0,Africa
 2021-01-06,Estonia,30667,261,21071,9335,717,3,564,Europe
 2021-01-06,Eswatini,10539,261,7254,3024,201,9,120,Africa
 2021-01-06,Ethiopia,126786,1965,112974,11847,545,2,161,Africa
@@ -72878,7 +72878,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-06,Gibraltar (UK),2798,11,1579,1208,172,1,49,Europe
 2021-01-06,Greece,142267,5099,93764,43404,814,48,0,Europe
 2021-01-06,Greenland (DK),28,0,25,3,0,0,0,Europe
-2021-01-06,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-06,Grenada,127,1,107,19,0,0,0,Americas
 2021-01-06,Guadeloupe (FR),8702,155,2242,6305,0,0,0,Americas
 2021-01-06,Guatemala,140202,4899,128952,6351,783,40,597,Americas
 2021-01-06,Guinea,13845,81,13199,565,0,0,0,Africa
@@ -72965,7 +72965,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-06,Saudi Arabia,363377,6272,354899,2206,118,7,144,Eastern Mediterranean
 2021-01-06,Senegal,20156,433,17782,1941,192,5,92,Africa
 2021-01-06,Serbia,352120,3444,0,348676,2882,39,0,Europe
-2021-01-06,Seychelles,313,0,214,99,0,0,0,Africa
+2021-01-06,Seychelles,373,1,214,158,19,0,0,Africa
 2021-01-06,Sierra Leone,2739,76,1929,734,15,0,5,Africa
 2021-01-06,Singapore,58780,29,58541,210,31,0,24,Western Pacific
 2021-01-06,Sint Maarten (NL),1512,27,1387,98,8,0,2,Americas
@@ -73067,7 +73067,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-07,Egypt,146809,8029,116775,22005,1219,54,800,Eastern Mediterranean
 2021-01-07,El Salvador,47948,1390,42668,3890,593,8,443,Americas
 2021-01-07,Equatorial Guinea,5286,86,5154,46,0,0,0,Africa
-2021-01-07,Eritrea,1445,3,740,702,193,2,97,Africa
+2021-01-07,Eritrea,1445,3,740,702,0,0,97,Africa
 2021-01-07,Estonia,31751,265,21567,9919,1084,4,496,Europe
 2021-01-07,Eswatini,10773,268,7377,3128,234,7,123,Africa
 2021-01-07,Ethiopia,127227,1966,113021,12240,441,1,47,Africa
@@ -73086,7 +73086,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-07,Gibraltar (UK),2928,11,1639,1278,130,0,60,Europe
 2021-01-07,Greece,142777,5146,93764,43867,510,47,0,Europe
 2021-01-07,Greenland (DK),27,0,25,2,0,0,0,Europe
-2021-01-07,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-07,Grenada,127,1,107,19,0,0,0,Americas
 2021-01-07,Guadeloupe (FR),8702,155,2242,6305,0,0,0,Americas
 2021-01-07,Guatemala,141074,4928,129542,6604,872,29,590,Americas
 2021-01-07,Guinea,13904,81,13222,601,59,0,23,Africa
@@ -73173,7 +73173,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-07,Saudi Arabia,363485,6278,355037,2170,108,6,138,Eastern Mediterranean
 2021-01-07,Senegal,20376,438,17885,2053,220,5,103,Africa
 2021-01-07,Serbia,353907,3479,0,350428,1787,35,0,Europe
-2021-01-07,Seychelles,313,0,214,99,0,0,0,Africa
+2021-01-07,Seychelles,373,1,214,158,0,0,0,Africa
 2021-01-07,Sierra Leone,2757,77,1973,707,18,1,44,Africa
 2021-01-07,Singapore,58813,29,58562,222,33,0,21,Western Pacific
 2021-01-07,Sint Maarten (NL),1531,27,1394,110,19,0,7,Americas
@@ -73236,7 +73236,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-08,Belgium,660703,19992,0,640711,2048,56,0,Europe
 2021-01-08,Belize,11202,271,10362,569,50,4,18,Americas
 2021-01-08,Benin,3304,44,3185,75,0,0,0,Africa
-2021-01-08,Bhutan,767,0,459,308,0,0,0,South-East Asia
+2021-01-08,Bhutan,771,1,459,311,4,1,0,South-East Asia
 2021-01-08,Bolivia,171154,9328,136882,24944,2263,24,616,Americas
 2021-01-08,Bosnia and Herzegovina,114920,4285,80868,29767,1528,74,1403,Europe
 2021-01-08,Botswana,16050,48,12927,3075,0,0,0,Africa
@@ -73275,7 +73275,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-08,Egypt,147810,8085,117529,22196,1001,56,754,Eastern Mediterranean
 2021-01-08,El Salvador,48255,1398,42902,3955,307,8,234,Americas
 2021-01-08,Equatorial Guinea,5289,86,5154,49,3,0,0,Africa
-2021-01-08,Eritrea,1445,3,740,702,0,0,0,Africa
+2021-01-08,Eritrea,1556,6,740,810,111,3,0,Africa
 2021-01-08,Estonia,32537,270,22124,10143,786,5,557,Europe
 2021-01-08,Eswatini,10975,279,7494,3202,202,11,117,Africa
 2021-01-08,Ethiopia,127572,1974,113182,12416,345,8,161,Africa
@@ -73294,7 +73294,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-08,Gibraltar (UK),3021,12,1692,1317,93,1,53,Europe
 2021-01-08,Greece,143494,5195,93764,44535,717,49,0,Europe
 2021-01-08,Greenland (DK),29,0,28,1,2,0,3,Europe
-2021-01-08,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-08,Grenada,127,1,107,19,0,0,0,Americas
 2021-01-08,Guadeloupe (FR),8702,155,2242,6305,0,0,0,Americas
 2021-01-08,Guatemala,142064,4972,129990,7102,990,44,448,Americas
 2021-01-08,Guinea,13904,81,13222,601,0,0,0,Africa
@@ -73381,7 +73381,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-08,Saudi Arabia,363582,6282,355208,2092,97,4,171,Eastern Mediterranean
 2021-01-08,Senegal,20672,446,18016,2210,296,8,131,Africa
 2021-01-08,Serbia,356125,3513,0,352612,2218,34,0,Europe
-2021-01-08,Seychelles,313,0,214,99,0,0,0,Africa
+2021-01-08,Seychelles,451,1,214,236,78,0,0,Africa
 2021-01-08,Sierra Leone,2782,77,1976,729,25,0,3,Africa
 2021-01-08,Singapore,58836,29,58580,227,23,0,18,Western Pacific
 2021-01-08,Sint Maarten (NL),1554,27,1425,102,23,0,31,Americas
@@ -73444,7 +73444,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-09,Belgium,662694,20038,0,642656,1991,46,0,Europe
 2021-01-09,Belize,11266,271,10386,609,64,0,24,Americas
 2021-01-09,Benin,3304,44,3185,75,0,0,0,Africa
-2021-01-09,Bhutan,767,0,459,308,0,0,0,South-East Asia
+2021-01-09,Bhutan,810,1,459,350,39,0,0,South-East Asia
 2021-01-09,Bolivia,172798,9351,137704,25743,1644,23,822,Americas
 2021-01-09,Bosnia and Herzegovina,115379,4305,81325,29749,459,20,457,Europe
 2021-01-09,Botswana,16050,48,12927,3075,0,0,0,Africa
@@ -73483,7 +73483,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-09,Egypt,148799,8142,118294,22363,989,57,765,Eastern Mediterranean
 2021-01-09,El Salvador,48574,1408,43134,4032,319,10,232,Americas
 2021-01-09,Equatorial Guinea,5289,86,5154,49,0,0,0,Africa
-2021-01-09,Eritrea,1445,3,740,702,0,0,0,Africa
+2021-01-09,Eritrea,1556,6,740,810,0,0,0,Africa
 2021-01-09,Estonia,33089,278,22752,10059,552,8,628,Europe
 2021-01-09,Eswatini,11180,291,7592,3297,205,12,98,Africa
 2021-01-09,Ethiopia,127792,1985,113295,12512,220,11,113,Africa
@@ -73502,7 +73502,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-09,Gibraltar (UK),3109,12,1842,1255,88,0,150,Europe
 2021-01-09,Greece,144293,5227,93764,45302,799,32,0,Europe
 2021-01-09,Greenland (DK),29,0,28,1,0,0,0,Europe
-2021-01-09,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-09,Grenada,127,1,107,19,0,0,0,Americas
 2021-01-09,Guadeloupe (FR),8702,155,2242,6305,0,0,0,Americas
 2021-01-09,Guatemala,143127,4999,130549,7579,1063,27,559,Americas
 2021-01-09,Guinea,13942,81,13223,638,38,0,1,Africa
@@ -73582,14 +73582,14 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-09,Saint Kitts and Nevis,34,0,31,3,0,0,0,Americas
 2021-01-09,Saint Lucia,438,5,309,124,43,0,0,Americas
 2021-01-09,Saint Pierre and Miquelon (FR),16,0,15,1,0,0,0,Americas
-2021-01-09,Saint Vincent and the Grenadines,149,0,100,49,0,0,0,Americas
+2021-01-09,Saint Vincent and the Grenadines,225,0,100,125,76,0,0,Americas
 2021-01-09,Samoa,2,0,2,0,0,0,0,Western Pacific
 2021-01-09,San Marino,2628,64,2220,344,0,0,0,Europe
 2021-01-09,Sao Tome and Principe,1066,17,988,61,12,0,0,Africa
 2021-01-09,Saudi Arabia,363692,6286,355382,2024,110,4,174,Eastern Mediterranean
 2021-01-09,Senegal,21000,459,18128,2413,328,13,112,Africa
 2021-01-09,Serbia,356125,3513,0,352612,0,0,0,Europe
-2021-01-09,Seychelles,313,0,214,99,0,0,0,Africa
+2021-01-09,Seychelles,508,1,214,293,57,0,0,Africa
 2021-01-09,Sierra Leone,2803,77,1979,747,21,0,3,Africa
 2021-01-09,Singapore,58865,29,58611,225,29,0,31,Western Pacific
 2021-01-09,Sint Maarten (NL),1554,27,1432,95,0,0,7,Americas
@@ -73652,7 +73652,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-10,Belgium,664263,20078,0,644185,1569,40,0,Europe
 2021-01-10,Belize,11303,274,10397,632,37,3,11,Americas
 2021-01-10,Benin,3304,44,3185,75,0,0,0,Africa
-2021-01-10,Bhutan,767,0,459,308,0,0,0,South-East Asia
+2021-01-10,Bhutan,813,1,459,353,3,0,0,South-East Asia
 2021-01-10,Bolivia,173896,9376,138087,26433,1098,25,383,Americas
 2021-01-10,Bosnia and Herzegovina,115633,4330,81625,29678,254,25,300,Europe
 2021-01-10,Botswana,16050,48,12927,3075,0,0,0,Africa
@@ -73691,7 +73691,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-10,Egypt,149792,8197,118900,22695,993,55,606,Eastern Mediterranean
 2021-01-10,El Salvador,48905,1419,43356,4130,331,11,222,Americas
 2021-01-10,Equatorial Guinea,5289,86,5154,49,0,0,0,Africa
-2021-01-10,Eritrea,1445,3,740,702,0,0,0,Africa
+2021-01-10,Eritrea,1556,6,740,810,0,0,0,Africa
 2021-01-10,Estonia,33516,283,22876,10357,427,5,124,Europe
 2021-01-10,Eswatini,11435,295,7676,3464,255,4,84,Africa
 2021-01-10,Ethiopia,128316,1994,113374,12948,524,9,79,Africa
@@ -73710,7 +73710,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-10,Gibraltar (UK),3170,16,1989,1165,61,4,147,Europe
 2021-01-10,Greece,144738,5263,93764,45711,445,36,0,Europe
 2021-01-10,Greenland (DK),29,0,28,1,0,0,0,Europe
-2021-01-10,Grenada,127,0,107,20,0,0,0,Americas
+2021-01-10,Grenada,127,1,107,19,0,0,0,Americas
 2021-01-10,Guadeloupe (FR),8702,155,2242,6305,0,0,0,Americas
 2021-01-10,Guatemala,143243,5025,131017,7201,116,26,468,Americas
 2021-01-10,Guinea,13942,81,13223,638,0,0,0,Africa
@@ -73790,14 +73790,14 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovere
 2021-01-10,Saint Kitts and Nevis,34,0,31,3,0,0,0,Americas
 2021-01-10,Saint Lucia,438,5,309,124,0,0,0,Americas
 2021-01-10,Saint Pierre and Miquelon (FR),16,0,15,1,0,0,0,Americas
-2021-01-10,Saint Vincent and the Grenadines,149,0,100,49,0,0,0,Americas
+2021-01-10,Saint Vincent and the Grenadines,249,0,100,149,24,0,0,Americas
 2021-01-10,Samoa,2,0,2,0,0,0,0,Western Pacific
 2021-01-10,San Marino,2628,64,2220,344,0,0,0,Europe
 2021-01-10,Sao Tome and Principe,1066,17,988,61,0,0,0,Africa
 2021-01-10,Saudi Arabia,363809,6291,355548,1970,117,5,166,Eastern Mediterranean
 2021-01-10,Senegal,21245,465,18218,2562,245,6,90,Africa
 2021-01-10,Serbia,359689,3582,0,356107,3564,69,0,Europe
-2021-01-10,Seychelles,313,0,214,99,0,0,0,Africa
+2021-01-10,Seychelles,531,1,214,316,23,0,0,Africa
 2021-01-10,Sierra Leone,2834,77,1983,774,31,0,4,Africa
 2021-01-10,Singapore,58907,29,58636,242,42,0,25,Western Pacific
 2021-01-10,Sint Maarten (NL),1555,27,1434,94,1,0,2,Americas
